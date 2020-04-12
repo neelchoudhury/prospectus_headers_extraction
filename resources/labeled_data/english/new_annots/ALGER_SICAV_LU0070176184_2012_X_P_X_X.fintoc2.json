@@ -1,0 +1,692 @@
+[
+    {
+        "text": "ALGER SICAV",
+        "page": 1,
+        "id": 1,
+        "depth": 1
+    },
+    {
+        "text": "PROSPECTUS",
+        "page": 1,
+        "id": 2,
+        "depth": 2
+    },
+    {
+        "text": "NOTICE",
+        "page": 2,
+        "id": 3,
+        "depth": 3
+    },
+    {
+        "text": "TABLE OF CONTENTS",
+        "page": 4,
+        "id": 4,
+        "depth": 3
+    },
+    {
+        "text": "ALGER SICAV",
+        "page": 5,
+        "id": 5,
+        "depth": 3
+    },
+    {
+        "text": "Management Company:",
+        "page": 5,
+        "id": 6,
+        "depth": 4
+    },
+    {
+        "text": "Portfolio Manager:",
+        "page": 5,
+        "id": 7,
+        "depth": 4
+    },
+    {
+        "text": "Administrative Agent:",
+        "page": 5,
+        "id": 8,
+        "depth": 4
+    },
+    {
+        "text": "Custodian in Luxembourg:",
+        "page": 5,
+        "id": 9,
+        "depth": 4
+    },
+    {
+        "text": "Domiciliary and Paying Agent:",
+        "page": 5,
+        "id": 10,
+        "depth": 4
+    },
+    {
+        "text": "Registrar and Transfer Agent:",
+        "page": 5,
+        "id": 11,
+        "depth": 4
+    },
+    {
+        "text": "Distributor:",
+        "page": 5,
+        "id": 12,
+        "depth": 4
+    },
+    {
+        "text": "Legal Advisors:",
+        "page": 5,
+        "id": 13,
+        "depth": 4
+    },
+    {
+        "text": "Auditors:",
+        "page": 5,
+        "id": 14,
+        "depth": 4
+    },
+    {
+        "text": "GLOSSARY OF TERMS",
+        "page": 6,
+        "id": 15,
+        "depth": 3
+    },
+    {
+        "text": "SUMMARY",
+        "page": 9,
+        "id": 16,
+        "depth": 3
+    },
+    {
+        "text": "The Fund",
+        "page": 9,
+        "id": 17,
+        "depth": 4
+    },
+    {
+        "text": "Management Company",
+        "page": 9,
+        "id": 18,
+        "depth": 4
+    },
+    {
+        "text": "Portfolio Manager",
+        "page": 9,
+        "id": 19,
+        "depth": 4
+    },
+    {
+        "text": "Distributor",
+        "page": 9,
+        "id": 20,
+        "depth": 4
+    },
+    {
+        "text": "Net Asset Value per Share",
+        "page": 10,
+        "id": 21,
+        "depth": 4
+    },
+    {
+        "text": "The Shares",
+        "page": 10,
+        "id": 22,
+        "depth": 4
+    },
+    {
+        "text": "Issue of Shares",
+        "page": 10,
+        "id": 23,
+        "depth": 4
+    },
+    {
+        "text": "Redemptions",
+        "page": 10,
+        "id": 24,
+        "depth": 4
+    },
+    {
+        "text": "INTRODUCTION",
+        "page": 10,
+        "id": 25,
+        "depth": 3
+    },
+    {
+        "text": "INVESTMENT OBJECTIVES AND POLICIES",
+        "page": 11,
+        "id": 26,
+        "depth": 3
+    },
+    {
+        "text": "In General",
+        "page": 11,
+        "id": 27,
+        "depth": 4
+    },
+    {
+        "text": "For each Sub-Fund:",
+        "page": 12,
+        "id": 28,
+        "depth": 4
+    },
+    {
+        "text": "Alger SICAV - The Alger American Asset Growth Fund",
+        "page": 12,
+        "id": 29,
+        "depth": 5
+    },
+    {
+        "text": "Fund investing in securities listed or traded on a United States Stock Exchange:",
+        "page": 12,
+        "id": 30,
+        "depth": 6
+    },
+    {
+        "text": "Alger SICAV - Alger US SmallCap Fund",
+        "page": 12,
+        "id": 31,
+        "depth": 5
+    },
+    {
+        "text": "Fund investing in securities listed or traded on a United States Stock Exchange",
+        "page": 12,
+        "id": 32,
+        "depth": 6
+    },
+    {
+        "text": "Alger SICAV - Alger US MidCap Fund",
+        "page": 12,
+        "id": 33,
+        "depth": 5
+    },
+    {
+        "text": "Fund investing in securities listed or traded on a United States Stock Exchange",
+        "page": 12,
+        "id": 34,
+        "depth": 6
+    },
+    {
+        "text": "Alger SICAV - Alger US LargeCap Fund",
+        "page": 12,
+        "id": 35,
+        "depth": 5
+    },
+    {
+        "text": "Fund investing in securities listed or traded on a United States Stock Exchange",
+        "page": 12,
+        "id": 36,
+        "depth": 6
+    },
+    {
+        "text": "Alger SICAV - China-US Growth Fund",
+        "page": 12,
+        "id": 37,
+        "depth": 5
+    },
+    {
+        "text": "Fund investing in securities economically tied to the China Region",
+        "page": 12,
+        "id": 38,
+        "depth": 6
+    },
+    {
+        "text": "Lending of Portfolio Securities",
+        "page": 13,
+        "id": 39,
+        "depth": 4
+    },
+    {
+        "text": "Sub-Funds’ risk and typical investor profiles",
+        "page": 13,
+        "id": 40,
+        "depth": 4
+    },
+    {
+        "text": "Investment Limitations",
+        "page": 14,
+        "id": 41,
+        "depth": 4
+    },
+    {
+        "text": "1. INVESTMENT IN TRANSFERABLE SECURITIES AND LIQUID FINANCIAL ASSETS",
+        "page": 14,
+        "id": 42,
+        "depth": 5
+    },
+    {
+        "text": "2. INVESTMENT IN OTHER ASSETS",
+        "page": 19,
+        "id": 43,
+        "depth": 5
+    },
+    {
+        "text": "3. DERIVATIVES, TECHNIQUES AND OTHER INSTRUMENTS",
+        "page": 19,
+        "id": 44,
+        "depth": 5
+    },
+    {
+        "text": "3.1 Options on Securities",
+        "page": 20,
+        "id": 45,
+        "depth": 6
+    },
+    {
+        "text": "3.2 Stock Index Options",
+        "page": 20,
+        "id": 46,
+        "depth": 6
+    },
+    {
+        "text": "3.3 Currency Hedging",
+        "page": 20,
+        "id": 47,
+        "depth": 6
+    },
+    {
+        "text": "3.4 Interest Rate Transactions",
+        "page": 21,
+        "id": 48,
+        "depth": 6
+    },
+    {
+        "text": "3.5 Dealing in Financial and Index Futures",
+        "page": 21,
+        "id": 49,
+        "depth": 6
+    },
+    {
+        "text": "3.6 Transactions made for a Purpose other than Hedging",
+        "page": 22,
+        "id": 50,
+        "depth": 6
+    },
+    {
+        "text": "3.7 Transactions in OTC Options",
+        "page": 22,
+        "id": 51,
+        "depth": 6
+    },
+    {
+        "text": "3.8 Repurchase Agreements",
+        "page": 22,
+        "id": 52,
+        "depth": 6
+    },
+    {
+        "text": "3.9 Credit Default Swaps",
+        "page": 22,
+        "id": 53,
+        "depth": 6
+    },
+    {
+        "text": "4. RISK-MANAGEMENT PROCESS",
+        "page": 23,
+        "id": 54,
+        "depth": 5
+    },
+    {
+        "text": "Use of the Value at Risk (VaR) approach",
+        "page": 23,
+        "id": 55,
+        "depth": 6
+    },
+    {
+        "text": "Use of the Commitment approach",
+        "page": 24,
+        "id": 56,
+        "depth": 6
+    },
+    {
+        "text": "The Sub-Funds",
+        "page": 24,
+        "id": 57,
+        "depth": 6
+    },
+    {
+        "text": "5. MISCELLANEOUS",
+        "page": 24,
+        "id": 58,
+        "depth": 5
+    },
+    {
+        "text": "MANAGEMENT AND ADMINISTRATION",
+        "page": 25,
+        "id": 59,
+        "depth": 3
+    },
+    {
+        "text": "Board of Directors",
+        "page": 25,
+        "id": 60,
+        "depth": 4
+    },
+    {
+        "text": "Management Company",
+        "page": 25,
+        "id": 61,
+        "depth": 4
+    },
+    {
+        "text": "Portfolio Manager",
+        "page": 26,
+        "id": 62,
+        "depth": 4
+    },
+    {
+        "text": "Administration",
+        "page": 28,
+        "id": 63,
+        "depth": 4
+    },
+    {
+        "text": "Registrar and Transfer Agent",
+        "page": 28,
+        "id": 64,
+        "depth": 4
+    },
+    {
+        "text": "Custodian",
+        "page": 28,
+        "id": 65,
+        "depth": 4
+    },
+    {
+        "text": "CHARGES AND EXPENSES OF THE FUND",
+        "page": 28,
+        "id": 66,
+        "depth": 3
+    },
+    {
+        "text": "General",
+        "page": 28,
+        "id": 67,
+        "depth": 4
+    },
+    {
+        "text": "Management Company Fee",
+        "page": 29,
+        "id": 68,
+        "depth": 4
+    },
+    {
+        "text": "Management Fee",
+        "page": 29,
+        "id": 69,
+        "depth": 4
+    },
+    {
+        "text": "Distribution Fee",
+        "page": 29,
+        "id": 70,
+        "depth": 4
+    },
+    {
+        "text": "Administration Fee",
+        "page": 29,
+        "id": 71,
+        "depth": 4
+    },
+    {
+        "text": "Registrar and Transfer Agent Fee",
+        "page": 29,
+        "id": 72,
+        "depth": 4
+    },
+    {
+        "text": "Custodian Fee",
+        "page": 30,
+        "id": 73,
+        "depth": 4
+    },
+    {
+        "text": "Directors’ Fees and Expenses",
+        "page": 30,
+        "id": 74,
+        "depth": 4
+    },
+    {
+        "text": "Expense Cap for Class I Shares",
+        "page": 30,
+        "id": 75,
+        "depth": 4
+    },
+    {
+        "text": "NET ASSET VALUE",
+        "page": 30,
+        "id": 76,
+        "depth": 3
+    },
+    {
+        "text": "Valuation of Assets",
+        "page": 30,
+        "id": 77,
+        "depth": 4
+    },
+    {
+        "text": "Suspension of the determination of the Net Asset Value",
+        "page": 31,
+        "id": 78,
+        "depth": 4
+    },
+    {
+        "text": "Allocation of Assets and Liabilities",
+        "page": 32,
+        "id": 79,
+        "depth": 4
+    },
+    {
+        "text": "HOW TO PURCHASE SHARES",
+        "page": 33,
+        "id": 80,
+        "depth": 3
+    },
+    {
+        "text": "Class A Shares",
+        "page": 33,
+        "id": 81,
+        "depth": 4
+    },
+    {
+        "text": "Class B Shares",
+        "page": 33,
+        "id": 82,
+        "depth": 4
+    },
+    {
+        "text": "Class I Shares",
+        "page": 34,
+        "id": 83,
+        "depth": 4
+    },
+    {
+        "text": "Application and Payment Procedures",
+        "page": 34,
+        "id": 84,
+        "depth": 4
+    },
+    {
+        "text": "Share Confirmation",
+        "page": 36,
+        "id": 85,
+        "depth": 4
+    },
+    {
+        "text": "REDEMPTION OF SHARES",
+        "page": 36,
+        "id": 86,
+        "depth": 3
+    },
+    {
+        "text": "Reinvestment Application",
+        "page": 37,
+        "id": 87,
+        "depth": 4
+    },
+    {
+        "text": "EXCHANGE OF SHARES",
+        "page": 37,
+        "id": 88,
+        "depth": 3
+    },
+    {
+        "text": "MARKET TIMING",
+        "page": 38,
+        "id": 89,
+        "depth": 3
+    },
+    {
+        "text": "DIVIDENDS AND DISTRIBUTIONS",
+        "page": 38,
+        "id": 90,
+        "depth": 3
+    },
+    {
+        "text": "TAX CONSIDERATIONS",
+        "page": 38,
+        "id": 91,
+        "depth": 3
+    },
+    {
+        "text": "Taxation of Shareholders",
+        "page": 39,
+        "id": 92,
+        "depth": 4
+    },
+    {
+        "text": "Luxembourg Taxation",
+        "page": 39,
+        "id": 93,
+        "depth": 5
+    },
+    {
+        "text": "EU Tax Considerations",
+        "page": 39,
+        "id": 94,
+        "depth": 5
+    },
+    {
+        "text": "Taxation of the Fund",
+        "page": 39,
+        "id": 95,
+        "depth": 4
+    },
+    {
+        "text": "Luxembourg Taxation",
+        "page": 39,
+        "id": 96,
+        "depth": 5
+    },
+    {
+        "text": "U.S. Federal Income Taxation",
+        "page": 40,
+        "id": 97,
+        "depth": 4
+    },
+    {
+        "text": "Investors’ Reliance on U.S. Federal Tax Advice in this Prospectus",
+        "page": 40,
+        "id": 98,
+        "depth": 5
+    },
+    {
+        "text": "Taxation of the Fund",
+        "page": 40,
+        "id": 99,
+        "depth": 5
+    },
+    {
+        "text": "Taxation of Shareholders",
+        "page": 41,
+        "id": 100,
+        "depth": 5
+    },
+    {
+        "text": "ORGANIZATION OF THE FUND",
+        "page": 42,
+        "id": 101,
+        "depth": 3
+    },
+    {
+        "text": "Organization",
+        "page": 42,
+        "id": 102,
+        "depth": 4
+    },
+    {
+        "text": "Capital",
+        "page": 42,
+        "id": 103,
+        "depth": 4
+    },
+    {
+        "text": "General Meetings of Shareholders",
+        "page": 42,
+        "id": 104,
+        "depth": 4
+    },
+    {
+        "text": "Liquidation of the Fund",
+        "page": 42,
+        "id": 105,
+        "depth": 4
+    },
+    {
+        "text": "Liquidation of a Sub-Fund or Class",
+        "page": 43,
+        "id": 106,
+        "depth": 4
+    },
+    {
+        "text": "Mergers",
+        "page": 43,
+        "id": 107,
+        "depth": 4
+    },
+    {
+        "text": "DESCRIPTION OF SHARES",
+        "page": 44,
+        "id": 108,
+        "depth": 3
+    },
+    {
+        "text": "RESTRICTIONS ON OWNERSHIP OF SHARES",
+        "page": 44,
+        "id": 109,
+        "depth": 3
+    },
+    {
+        "text": "DISTRIBUTION OF SHARES",
+        "page": 45,
+        "id": 110,
+        "depth": 3
+    },
+    {
+        "text": "SHAREHOLDER REPORTS",
+        "page": 46,
+        "id": 111,
+        "depth": 3
+    },
+    {
+        "text": "SHAREHOLDERS’ RIGHTS",
+        "page": 46,
+        "id": 112,
+        "depth": 3
+    },
+    {
+        "text": "INDEPENDENT AUDITOR",
+        "page": 46,
+        "id": 113,
+        "depth": 3
+    },
+    {
+        "text": "LEGAL ADVISORS",
+        "page": 46,
+        "id": 114,
+        "depth": 3
+    },
+    {
+        "text": "DOCUMENTS AVAILABLE FOR INSPECTION",
+        "page": 46,
+        "id": 115,
+        "depth": 3
+    }
+]

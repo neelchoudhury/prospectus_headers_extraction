@@ -1,0 +1,5018 @@
+[
+    {
+        "text": "Allianz Global Investors Fund",
+        "page": 1,
+        "id": 1,
+        "depth": 1
+    },
+    {
+        "text": "Important Notices",
+        "page": 2,
+        "id": 2,
+        "depth": 2
+    },
+    {
+        "text": "Summary of Contents",
+        "page": 4,
+        "id": 3,
+        "depth": 2
+    },
+    {
+        "text": "Definitions",
+        "page": 5,
+        "id": 4,
+        "depth": 2
+    },
+    {
+        "text": "Part 1: Company Details",
+        "page": 11,
+        "id": 5,
+        "depth": 1
+    },
+    {
+        "text": "The Company",
+        "page": 11,
+        "id": 6,
+        "depth": 2
+    },
+    {
+        "text": "1. General Information of the Company",
+        "page": 11,
+        "id": 7,
+        "depth": 3
+    },
+    {
+        "text": "2. Specific Information of the Company",
+        "page": 11,
+        "id": 8,
+        "depth": 3
+    },
+    {
+        "text": "3. Shareholders’ Meetings and Reports to Shareholders",
+        "page": 14,
+        "id": 9,
+        "depth": 3
+    },
+    {
+        "text": "4. Dissolution and Liquidation of the Company",
+        "page": 14,
+        "id": 10,
+        "depth": 3
+    },
+    {
+        "text": "5. Liquidation and Merger of Sub-Funds/Share Classes",
+        "page": 15,
+        "id": 11,
+        "depth": 3
+    },
+    {
+        "text": "Liquidation",
+        "page": 15,
+        "id": 12,
+        "depth": 4
+    },
+    {
+        "text": "Merger (until 31 January 2012)",
+        "page": 15,
+        "id": 13,
+        "depth": 4
+    },
+    {
+        "text": "Merger (as at 31 January 2012)",
+        "page": 16,
+        "id": 14,
+        "depth": 4
+    },
+    {
+        "text": "Management of the Company",
+        "page": 17,
+        "id": 15,
+        "depth": 2
+    },
+    {
+        "text": "1. Board of Directors of the Company",
+        "page": 17,
+        "id": 16,
+        "depth": 3
+    },
+    {
+        "text": "Chairman",
+        "page": 17,
+        "id": 17,
+        "depth": 4
+    },
+    {
+        "text": "Additional Directors",
+        "page": 17,
+        "id": 18,
+        "depth": 4
+    },
+    {
+        "text": "2. Management Company",
+        "page": 17,
+        "id": 19,
+        "depth": 3
+    },
+    {
+        "text": "Chairman",
+        "page": 17,
+        "id": 20,
+        "depth": 4
+    },
+    {
+        "text": "Additional Directors",
+        "page": 18,
+        "id": 21,
+        "depth": 4
+    },
+    {
+        "text": "3. Management Company and Central Administration",
+        "page": 18,
+        "id": 22,
+        "depth": 3
+    },
+    {
+        "text": "4. Supervisory Authority",
+        "page": 19,
+        "id": 23,
+        "depth": 3
+    },
+    {
+        "text": "5. Custodian",
+        "page": 19,
+        "id": 24,
+        "depth": 3
+    },
+    {
+        "text": "6. Outsourcing",
+        "page": 19,
+        "id": 25,
+        "depth": 3
+    },
+    {
+        "text": "7. Distributors",
+        "page": 20,
+        "id": 26,
+        "depth": 3
+    },
+    {
+        "text": "8. Investment Managers and Investment Advisors",
+        "page": 20,
+        "id": 27,
+        "depth": 3
+    },
+    {
+        "text": "9. Paying and Information Agents",
+        "page": 21,
+        "id": 28,
+        "depth": 3
+    },
+    {
+        "text": "The Shares",
+        "page": 22,
+        "id": 29,
+        "depth": 2
+    },
+    {
+        "text": "1. Subscriptions",
+        "page": 22,
+        "id": 30,
+        "depth": 3
+    },
+    {
+        "text": "2. Authority to Cancel an Application for Subscription in the Event of Failed Settlement",
+        "page": 23,
+        "id": 31,
+        "depth": 3
+    },
+    {
+        "text": "3. Redemptions",
+        "page": 24,
+        "id": 32,
+        "depth": 3
+    },
+    {
+        "text": "4. Compulsory Redemption of Shares",
+        "page": 25,
+        "id": 33,
+        "depth": 3
+    },
+    {
+        "text": "5. Conversions",
+        "page": 26,
+        "id": 34,
+        "depth": 3
+    },
+    {
+        "text": "6. Income Equalisation",
+        "page": 28,
+        "id": 35,
+        "depth": 3
+    },
+    {
+        "text": "7. Calculation of Net Asset Value per Share",
+        "page": 28,
+        "id": 36,
+        "depth": 3
+    },
+    {
+        "text": "8. Temporary Suspension of the Calculation of Net Asset Value and Resulting Suspension of Dealing",
+        "page": 29,
+        "id": 37,
+        "depth": 3
+    },
+    {
+        "text": "9. Determination of the Subscription, Redemption and Conversion Prices",
+        "page": 30,
+        "id": 38,
+        "depth": 3
+    },
+    {
+        "text": "10. Money Laundering and Terrorist Financing Prevention",
+        "page": 31,
+        "id": 39,
+        "depth": 3
+    },
+    {
+        "text": "11. Exchange Listing",
+        "page": 31,
+        "id": 40,
+        "depth": 3
+    },
+    {
+        "text": "Fees and Costs Borne by the Company, the Sub-Funds and the Share Classes (Charges and Expenses)",
+        "page": 32,
+        "id": 41,
+        "depth": 2
+    },
+    {
+        "text": "1. Management and Central Administration Agent Fees",
+        "page": 32,
+        "id": 42,
+        "depth": 3
+    },
+    {
+        "text": "2. Performance-Related Fees",
+        "page": 32,
+        "id": 43,
+        "depth": 3
+    },
+    {
+        "text": "3. Securities Transaction Fee",
+        "page": 34,
+        "id": 44,
+        "depth": 3
+    },
+    {
+        "text": "4. Administration Fee",
+        "page": 34,
+        "id": 45,
+        "depth": 3
+    },
+    {
+        "text": "5. Additional Costs",
+        "page": 35,
+        "id": 46,
+        "depth": 3
+    },
+    {
+        "text": "6. Distribution Fees",
+        "page": 36,
+        "id": 47,
+        "depth": 3
+    },
+    {
+        "text": "7. Brokerage Commissions",
+        "page": 36,
+        "id": 48,
+        "depth": 3
+    },
+    {
+        "text": "8. Commission Sharing Arrangements",
+        "page": 36,
+        "id": 49,
+        "depth": 3
+    },
+    {
+        "text": "9. Commissions",
+        "page": 37,
+        "id": 50,
+        "depth": 3
+    },
+    {
+        "text": "10. Indemnity of Directors and Officers",
+        "page": 37,
+        "id": 51,
+        "depth": 3
+    },
+    {
+        "text": "11. Ongoing Charges",
+        "page": 37,
+        "id": 52,
+        "depth": 3
+    },
+    {
+        "text": "12. Restructuring Fee",
+        "page": 37,
+        "id": 53,
+        "depth": 3
+    },
+    {
+        "text": "Use of Techniques and Instruments and Special Risks associated with such Use",
+        "page": 38,
+        "id": 54,
+        "depth": 2
+    },
+    {
+        "text": "Derivatives",
+        "page": 38,
+        "id": 55,
+        "depth": 3
+    },
+    {
+        "text": "Options",
+        "page": 38,
+        "id": 56,
+        "depth": 4
+    },
+    {
+        "text": "Forward Transactions",
+        "page": 38,
+        "id": 57,
+        "depth": 4
+    },
+    {
+        "text": "Swaps",
+        "page": 38,
+        "id": 58,
+        "depth": 4
+    },
+    {
+        "text": "OTC Derivative Transactions",
+        "page": 39,
+        "id": 59,
+        "depth": 4
+    },
+    {
+        "text": "Securities Repurchase Agreements, Securities Lending",
+        "page": 40,
+        "id": 60,
+        "depth": 3
+    },
+    {
+        "text": "Taxation",
+        "page": 41,
+        "id": 61,
+        "depth": 2
+    },
+    {
+        "text": "Appendix 1: Investment Powers and Restrictions",
+        "page": 42,
+        "id": 62,
+        "depth": 2
+    },
+    {
+        "text": "1. Each Sub-Fund may invest in the following assets unless there is a restriction in the Sub- Fund information sheet:",
+        "page": 42,
+        "id": 63,
+        "depth": 3
+    },
+    {
+        "text": "2. A Sub-Fund may also conduct the following transactions, unless explicitly excluded in the relevant information sheet:",
+        "page": 43,
+        "id": 64,
+        "depth": 3
+    },
+    {
+        "text": "3. In investing the assets of the Company, the following restrictions must be observed; the information sheet of a Sub-Fund may provide for additional restrictions or more extensive powers:",
+        "page": 44,
+        "id": 65,
+        "depth": 3
+    },
+    {
+        "text": "4. The Company is not permitted to enter into the following transactions:",
+        "page": 46,
+        "id": 66,
+        "depth": 3
+    },
+    {
+        "text": "5. Transactions with Affiliated Companies",
+        "page": 46,
+        "id": 67,
+        "depth": 3
+    },
+    {
+        "text": "6. Securities pursuant to Rule 144A of the United States Securities Act of 1933",
+        "page": 47,
+        "id": 68,
+        "depth": 3
+    },
+    {
+        "text": "7. Direct Investments in Russian Securities",
+        "page": 47,
+        "id": 69,
+        "depth": 3
+    },
+    {
+        "text": "8. Ottawa and Oslo convention",
+        "page": 47,
+        "id": 70,
+        "depth": 3
+    },
+    {
+        "text": "Appendix 2: Use of Techniques and Instruments/Risk Management Process",
+        "page": 48,
+        "id": 71,
+        "depth": 2
+    },
+    {
+        "text": "1. Use of Techniques and Instruments",
+        "page": 48,
+        "id": 72,
+        "depth": 3
+    },
+    {
+        "text": "2. Securities Repurchase Agreements, Securities Lending",
+        "page": 48,
+        "id": 73,
+        "depth": 3
+    },
+    {
+        "text": "3. Risk Management Process",
+        "page": 50,
+        "id": 74,
+        "depth": 3
+    },
+    {
+        "text": "Appendix 3: Share Classes",
+        "page": 53,
+        "id": 75,
+        "depth": 2
+    },
+    {
+        "text": "1. Calculation and Use of Income",
+        "page": 53,
+        "id": 76,
+        "depth": 3
+    },
+    {
+        "text": "Distribution Shares",
+        "page": 53,
+        "id": 77,
+        "depth": 4
+    },
+    {
+        "text": "Accumulation Shares",
+        "page": 53,
+        "id": 78,
+        "depth": 4
+    },
+    {
+        "text": "2. Structure",
+        "page": 53,
+        "id": 79,
+        "depth": 3
+    },
+    {
+        "text": "Appendix 4: Extract of Current Fees and Costs",
+        "page": 56,
+        "id": 80,
+        "depth": 2
+    },
+    {
+        "text": "Appendix 5: Other Investment Funds Managed by the Management Company",
+        "page": 65,
+        "id": 81,
+        "depth": 2
+    },
+    {
+        "text": "Appendix 6: Exchanges on which Shares of Sub-Funds may be Traded without the Approval of the Company",
+        "page": 68,
+        "id": 82,
+        "depth": 2
+    },
+    {
+        "text": "Part 2: General Risk Factors",
+        "page": 69,
+        "id": 83,
+        "depth": 1
+    },
+    {
+        "text": "Chinese Renminbi Currency Risk",
+        "page": 69,
+        "id": 84,
+        "depth": 2
+    },
+    {
+        "text": "Company-Specific Risk",
+        "page": 69,
+        "id": 85,
+        "depth": 2
+    },
+    {
+        "text": "Concentration Risk",
+        "page": 69,
+        "id": 86,
+        "depth": 2
+    },
+    {
+        "text": "Counterparty Risk",
+        "page": 69,
+        "id": 87,
+        "depth": 2
+    },
+    {
+        "text": "Country and Region Risk",
+        "page": 69,
+        "id": 88,
+        "depth": 2
+    },
+    {
+        "text": "Country and Transfer Risks",
+        "page": 69,
+        "id": 89,
+        "depth": 2
+    },
+    {
+        "text": "Creditworthiness Risk",
+        "page": 70,
+        "id": 90,
+        "depth": 2
+    },
+    {
+        "text": "Currency Risk",
+        "page": 70,
+        "id": 91,
+        "depth": 2
+    },
+    {
+        "text": "Custodial Risk",
+        "page": 70,
+        "id": 92,
+        "depth": 2
+    },
+    {
+        "text": "Emerging Markets Risks",
+        "page": 70,
+        "id": 93,
+        "depth": 2
+    },
+    {
+        "text": "General Market Risk",
+        "page": 70,
+        "id": 94,
+        "depth": 2
+    },
+    {
+        "text": "Industry Risk",
+        "page": 70,
+        "id": 95,
+        "depth": 2
+    },
+    {
+        "text": "Inflation Risk",
+        "page": 70,
+        "id": 96,
+        "depth": 2
+    },
+    {
+        "text": "Key Personnel Risk",
+        "page": 70,
+        "id": 97,
+        "depth": 2
+    },
+    {
+        "text": "Liquidity Risk",
+        "page": 70,
+        "id": 98,
+        "depth": 2
+    },
+    {
+        "text": "Performance Risk",
+        "page": 71,
+        "id": 99,
+        "depth": 2
+    },
+    {
+        "text": "Risk of Changes in Underlying Conditions",
+        "page": 71,
+        "id": 100,
+        "depth": 2
+    },
+    {
+        "text": "Risk of Changes to the Articles of Incorporation, to the Investment Policy and to the other Basic Aspects of a (Sub-)Fund",
+        "page": 71,
+        "id": 101,
+        "depth": 2
+    },
+    {
+        "text": "Risk of Interest Rate Changes",
+        "page": 71,
+        "id": 102,
+        "depth": 2
+    },
+    {
+        "text": "Risk of Restricted Flexibility",
+        "page": 71,
+        "id": 103,
+        "depth": 2
+    },
+    {
+        "text": "Risk of Settlement Default",
+        "page": 71,
+        "id": 104,
+        "depth": 2
+    },
+    {
+        "text": "Risk of the Liabilities of Individual Share Classes affecting other Share Classes",
+        "page": 71,
+        "id": 105,
+        "depth": 2
+    },
+    {
+        "text": "Risk of Transaction Costs at the (Sub-)Fund Level arising from Share Movements",
+        "page": 72,
+        "id": 106,
+        "depth": 2
+    },
+    {
+        "text": "Settlement Risk",
+        "page": 72,
+        "id": 107,
+        "depth": 2
+    },
+    {
+        "text": "Specific Risks of Asset-Backed Securities (ABS) and Mortgage-Backed Securities (MBS)",
+        "page": 72,
+        "id": 108,
+        "depth": 2
+    },
+    {
+        "text": "Specific Risks of (Indirect) Investment in Commodity Futures, Precious Metal and Commodity Markets",
+        "page": 72,
+        "id": 109,
+        "depth": 2
+    },
+    {
+        "text": "Specific Risks of (Indirect) Investment in Hedge Fund Indices and other Investments Related to Hedge Funds",
+        "page": 73,
+        "id": 110,
+        "depth": 2
+    },
+    {
+        "text": "Specific Risks of (Indirect) Investment in Private Equity",
+        "page": 74,
+        "id": 111,
+        "depth": 2
+    },
+    {
+        "text": "Specific Risks of (Indirect) Investment in Property-Related Assets",
+        "page": 75,
+        "id": 112,
+        "depth": 2
+    },
+    {
+        "text": "Specific Risk of Investing in Closed-End-Funds",
+        "page": 76,
+        "id": 113,
+        "depth": 2
+    },
+    {
+        "text": "Specific Risks of Investing in the Federative Republic of Brazil with regards to Local Taxation",
+        "page": 77,
+        "id": 114,
+        "depth": 2
+    },
+    {
+        "text": "Specific Risks of Investing in High-Yield Investments",
+        "page": 78,
+        "id": 115,
+        "depth": 2
+    },
+    {
+        "text": "Specific Risks of Investing in Target Funds",
+        "page": 78,
+        "id": 116,
+        "depth": 2
+    },
+    {
+        "text": "Specific Risks of Market Neutral Long/Short Equity Strategy",
+        "page": 79,
+        "id": 117,
+        "depth": 2
+    },
+    {
+        "text": "Specific Risks of the Chinese Renminbi Fixed Income Securities Issued Outside Mainland China",
+        "page": 79,
+        "id": 118,
+        "depth": 2
+    },
+    {
+        "text": "(Sub-)Fund Capital Risk",
+        "page": 80,
+        "id": 119,
+        "depth": 2
+    },
+    {
+        "text": "Part 3: Sub-Funds",
+        "page": 81,
+        "id": 120,
+        "depth": 1
+    },
+    {
+        "text": "Investment Manager of the Sub-Funds",
+        "page": 82,
+        "id": 121,
+        "depth": 2
+    },
+    {
+        "text": "Introduction",
+        "page": 83,
+        "id": 122,
+        "depth": 2
+    },
+    {
+        "text": "1) Sub-Fund Investments in other Funds",
+        "page": 84,
+        "id": 123,
+        "depth": 3
+    },
+    {
+        "text": "2) Denomination in Foreign Currencies/Currency-Hedged Share Classes/Duration-Hedged Share Classes",
+        "page": 84,
+        "id": 124,
+        "depth": 3
+    },
+    {
+        "text": "3) General Selection Criteria of Investment Managers",
+        "page": 85,
+        "id": 125,
+        "depth": 3
+    },
+    {
+        "text": "4) Passive Violation of Limits",
+        "page": 85,
+        "id": 126,
+        "depth": 3
+    },
+    {
+        "text": "5) Use of Techniques and Instruments",
+        "page": 85,
+        "id": 127,
+        "depth": 3
+    },
+    {
+        "text": "6) Short-Term Loans",
+        "page": 85,
+        "id": 128,
+        "depth": 3
+    },
+    {
+        "text": "7) Possible Effects of the Use of Derivatives on the Risk Profile of the Sub-Fund",
+        "page": 85,
+        "id": 129,
+        "depth": 3
+    },
+    {
+        "text": "8) Base Currency",
+        "page": 86,
+        "id": 130,
+        "depth": 3
+    },
+    {
+        "text": "9) Sub-Fund Maturity",
+        "page": 86,
+        "id": 131,
+        "depth": 3
+    },
+    {
+        "text": "10) Sub-Fund Share Certificates",
+        "page": 86,
+        "id": 132,
+        "depth": 3
+    },
+    {
+        "text": "11) Planned Distribution Date for Distribution Share Classes",
+        "page": 86,
+        "id": 133,
+        "depth": 3
+    },
+    {
+        "text": "12) Initial Subscription Price",
+        "page": 87,
+        "id": 134,
+        "depth": 3
+    },
+    {
+        "text": "13) Calculation of Duration",
+        "page": 87,
+        "id": 135,
+        "depth": 3
+    },
+    {
+        "text": "14) Exposure Approach",
+        "page": 87,
+        "id": 136,
+        "depth": 3
+    },
+    {
+        "text": "15) Liquidity",
+        "page": 87,
+        "id": 137,
+        "depth": 3
+    },
+    {
+        "text": "16) Additional Investment Restrictions “Taiwan”",
+        "page": 87,
+        "id": 138,
+        "depth": 3
+    },
+    {
+        "text": "17) Additional Investment Restriction “Hong Kong – use of derivatives”",
+        "page": 88,
+        "id": 139,
+        "depth": 3
+    },
+    {
+        "text": "Allianz Asian Multi Income Plus",
+        "page": 89,
+        "id": 140,
+        "depth": 2
+    },
+    {
+        "text": "Information Sheet",
+        "page": 89,
+        "id": 141,
+        "depth": 3
+    },
+    {
+        "text": "Investment Objective",
+        "page": 89,
+        "id": 142,
+        "depth": 4
+    },
+    {
+        "text": "Investment Principles",
+        "page": 89,
+        "id": 143,
+        "depth": 4
+    },
+    {
+        "text": "Risk Profile of the Sub-Fund",
+        "page": 90,
+        "id": 144,
+        "depth": 4
+    },
+    {
+        "text": "Possible Effects of the Use of Derivatives on the Risk Profile of the Sub-Fund",
+        "page": 90,
+        "id": 145,
+        "depth": 4
+    },
+    {
+        "text": "Investor Profile",
+        "page": 90,
+        "id": 146,
+        "depth": 4
+    },
+    {
+        "text": "Base Currency",
+        "page": 91,
+        "id": 147,
+        "depth": 4
+    },
+    {
+        "text": "Fair Value Pricing Model",
+        "page": 91,
+        "id": 148,
+        "depth": 4
+    },
+    {
+        "text": "Launch date for those Share Classes already launched",
+        "page": 91,
+        "id": 149,
+        "depth": 4
+    },
+    {
+        "text": "Investor Restrictions",
+        "page": 91,
+        "id": 150,
+        "depth": 4
+    },
+    {
+        "text": "Allianz Convertible Bond",
+        "page": 92,
+        "id": 151,
+        "depth": 2
+    },
+    {
+        "text": "Information Sheet",
+        "page": 92,
+        "id": 152,
+        "depth": 3
+    },
+    {
+        "text": "Investment Objective",
+        "page": 92,
+        "id": 153,
+        "depth": 4
+    },
+    {
+        "text": "Investment Principles",
+        "page": 92,
+        "id": 154,
+        "depth": 4
+    },
+    {
+        "text": "Limited Risk Diversification",
+        "page": 92,
+        "id": 155,
+        "depth": 4
+    },
+    {
+        "text": "Risk Profile of the Sub-Fund",
+        "page": 94,
+        "id": 156,
+        "depth": 4
+    },
+    {
+        "text": "Possible Effects of the Use of Derivatives on the Risk Profile of the Subfund",
+        "page": 93,
+        "id": 157,
+        "depth": 4
+    },
+    {
+        "text": "Investor Profile",
+        "page": 93,
+        "id": 158,
+        "depth": 4
+    },
+    {
+        "text": "Launch date for those Share Classes already launched",
+        "page": 93,
+        "id": 159,
+        "depth": 4
+    },
+    {
+        "text": "Valuation",
+        "page": 93,
+        "id": 160,
+        "depth": 4
+    },
+    {
+        "text": "Allianz Enhanced Fixed Income Euro",
+        "page": 94,
+        "id": 161,
+        "depth": 2
+    },
+    {
+        "text": "Information Sheet",
+        "page": 94,
+        "id": 162,
+        "depth": 3
+    },
+    {
+        "text": "Investment Objective",
+        "page": 94,
+        "id": 163,
+        "depth": 4
+    },
+    {
+        "text": "Investment Principles",
+        "page": 94,
+        "id": 164,
+        "depth": 4
+    },
+    {
+        "text": "Limited Risk Diversification",
+        "page": 95,
+        "id": 165,
+        "depth": 4
+    },
+    {
+        "text": "Risk Profile of the Sub-Fund",
+        "page": 95,
+        "id": 166,
+        "depth": 4
+    },
+    {
+        "text": "Possible Effects of the Use of Derivatives on the Risk Profile of the Sub-Fund",
+        "page": 95,
+        "id": 167,
+        "depth": 4
+    },
+    {
+        "text": "Investor Profile",
+        "page": 95,
+        "id": 168,
+        "depth": 4
+    },
+    {
+        "text": "Launch date for those Share Classes already launched",
+        "page": 96,
+        "id": 169,
+        "depth": 4
+    },
+    {
+        "text": "Valuation",
+        "page": 96,
+        "id": 170,
+        "depth": 4
+    },
+    {
+        "text": "Allianz Euro Bond Strategy",
+        "page": 97,
+        "id": 171,
+        "depth": 2
+    },
+    {
+        "text": "Information Sheet",
+        "page": 97,
+        "id": 172,
+        "depth": 3
+    },
+    {
+        "text": "Investment Objective",
+        "page": 97,
+        "id": 173,
+        "depth": 4
+    },
+    {
+        "text": "Investment Principles",
+        "page": 97,
+        "id": 174,
+        "depth": 4
+    },
+    {
+        "text": "Limited Risk Diversification",
+        "page": 97,
+        "id": 175,
+        "depth": 4
+    },
+    {
+        "text": "Risk Profile of the Sub-Fund",
+        "page": 98,
+        "id": 176,
+        "depth": 4
+    },
+    {
+        "text": "Possible Effects of the Use of Derivatives on the Risk Profile of the Sub-Fund",
+        "page": 98,
+        "id": 177,
+        "depth": 4
+    },
+    {
+        "text": "Investor Profile",
+        "page": 98,
+        "id": 178,
+        "depth": 4
+    },
+    {
+        "text": "Launch date for those share classes already launched",
+        "page": 98,
+        "id": 179,
+        "depth": 4
+    },
+    {
+        "text": "Allianz Euro High Yield Bond",
+        "page": 99,
+        "id": 180,
+        "depth": 2
+    },
+    {
+        "text": "Information Sheet",
+        "page": 99,
+        "id": 181,
+        "depth": 3
+    },
+    {
+        "text": "Investment Objective",
+        "page": 99,
+        "id": 182,
+        "depth": 4
+    },
+    {
+        "text": "Investment Principles",
+        "page": 99,
+        "id": 183,
+        "depth": 4
+    },
+    {
+        "text": "Limited Risk Diversification",
+        "page": 99,
+        "id": 184,
+        "depth": 4
+    },
+    {
+        "text": "Risk Profile of the Sub-Fund",
+        "page": 100,
+        "id": 185,
+        "depth": 4
+    },
+    {
+        "text": "Possible Effects of the Use of Derivatives on the Risk Profile of the Sub-Fund",
+        "page": 100,
+        "id": 186,
+        "depth": 4
+    },
+    {
+        "text": "Investor Profile",
+        "page": 100,
+        "id": 187,
+        "depth": 4
+    },
+    {
+        "text": "Launch date for those share classes already launched",
+        "page": 100,
+        "id": 188,
+        "depth": 4
+    },
+    {
+        "text": "Allianz Euro Investment Grade Bond Strategy",
+        "page": 101,
+        "id": 189,
+        "depth": 2
+    },
+    {
+        "text": "Information Sheet",
+        "page": 101,
+        "id": 190,
+        "depth": 3
+    },
+    {
+        "text": "Investment Objective",
+        "page": 101,
+        "id": 191,
+        "depth": 4
+    },
+    {
+        "text": "Investment Principles",
+        "page": 101,
+        "id": 192,
+        "depth": 4
+    },
+    {
+        "text": "Limited Risk Diversification",
+        "page": 102,
+        "id": 193,
+        "depth": 4
+    },
+    {
+        "text": "Risk Profile of the Sub-Fund",
+        "page": 102,
+        "id": 194,
+        "depth": 4
+    },
+    {
+        "text": "Possible Effects of the Use of Derivatives on the Risk Profile of the Subfund",
+        "page": 102,
+        "id": 195,
+        "depth": 4
+    },
+    {
+        "text": "Investor Profile",
+        "page": 103,
+        "id": 196,
+        "depth": 4
+    },
+    {
+        "text": "Launch date for those Share Classes already launched",
+        "page": 103,
+        "id": 197,
+        "depth": 4
+    },
+    {
+        "text": "Valuation",
+        "page": 103,
+        "id": 198,
+        "depth": 4
+    },
+    {
+        "text": "Allianz Euroland Equity SRI",
+        "page": 104,
+        "id": 199,
+        "depth": 2
+    },
+    {
+        "text": "Information Sheet",
+        "page": 104,
+        "id": 200,
+        "depth": 3
+    },
+    {
+        "text": "Investment Objective",
+        "page": 104,
+        "id": 201,
+        "depth": 4
+    },
+    {
+        "text": "Investment Principles",
+        "page": 104,
+        "id": 202,
+        "depth": 4
+    },
+    {
+        "text": "Risk Profile of the Sub-Fund",
+        "page": 105,
+        "id": 203,
+        "depth": 4
+    },
+    {
+        "text": "Investor Profile",
+        "page": 106,
+        "id": 204,
+        "depth": 4
+    },
+    {
+        "text": "Launch date for those Share Classes already launched",
+        "page": 106,
+        "id": 205,
+        "depth": 4
+    },
+    {
+        "text": "Valuation",
+        "page": 106,
+        "id": 206,
+        "depth": 4
+    },
+    {
+        "text": "Allianz Flexi Asia Bond",
+        "page": 107,
+        "id": 207,
+        "depth": 2
+    },
+    {
+        "text": "Information Sheet",
+        "page": 107,
+        "id": 208,
+        "depth": 3
+    },
+    {
+        "text": "Investment Objective",
+        "page": 107,
+        "id": 209,
+        "depth": 4
+    },
+    {
+        "text": "Investment Principles",
+        "page": 107,
+        "id": 210,
+        "depth": 4
+    },
+    {
+        "text": "Limited Risk Diversification",
+        "page": 108,
+        "id": 211,
+        "depth": 4
+    },
+    {
+        "text": "Risk Profile of the Sub-Fund",
+        "page": 108,
+        "id": 212,
+        "depth": 4
+    },
+    {
+        "text": "Possible Effects of the Use of Derivatives on the Risk Profile of the Sub-Fund",
+        "page": 108,
+        "id": 213,
+        "depth": 4
+    },
+    {
+        "text": "Investor Profile",
+        "page": 109,
+        "id": 214,
+        "depth": 4
+    },
+    {
+        "text": "Base Currency",
+        "page": 109,
+        "id": 215,
+        "depth": 4
+    },
+    {
+        "text": "Launch date for those share classes already launched",
+        "page": 109,
+        "id": 216,
+        "depth": 4
+    },
+    {
+        "text": "Valuation",
+        "page": 109,
+        "id": 217,
+        "depth": 4
+    },
+    {
+        "text": "Allianz Flexible Bond Strategy",
+        "page": 110,
+        "id": 218,
+        "depth": 2
+    },
+    {
+        "text": "Information Sheet",
+        "page": 110,
+        "id": 219,
+        "depth": 3
+    },
+    {
+        "text": "Investment Objective",
+        "page": 110,
+        "id": 220,
+        "depth": 4
+    },
+    {
+        "text": "Investment Principles",
+        "page": 110,
+        "id": 221,
+        "depth": 4
+    },
+    {
+        "text": "Limited Risk Diversification",
+        "page": 110,
+        "id": 222,
+        "depth": 4
+    },
+    {
+        "text": "Risk Profile of the Sub-Fund",
+        "page": 111,
+        "id": 223,
+        "depth": 4
+    },
+    {
+        "text": "Possible Effects of the Use of Derivatives on the Risk Profile of the Sub-Fund",
+        "page": 111,
+        "id": 224,
+        "depth": 4
+    },
+    {
+        "text": "Investor Profile",
+        "page": 111,
+        "id": 225,
+        "depth": 4
+    },
+    {
+        "text": "Launch date for those share classes already launched",
+        "page": 111,
+        "id": 226,
+        "depth": 4
+    },
+    {
+        "text": "Allianz Income and Growth",
+        "page": 112,
+        "id": 227,
+        "depth": 2
+    },
+    {
+        "text": "Information Sheet",
+        "page": 112,
+        "id": 228,
+        "depth": 3
+    },
+    {
+        "text": "Investment Objective",
+        "page": 112,
+        "id": 229,
+        "depth": 4
+    },
+    {
+        "text": "Investment Principles",
+        "page": 112,
+        "id": 230,
+        "depth": 4
+    },
+    {
+        "text": "Risk Profile of the Sub-Fund",
+        "page": 113,
+        "id": 231,
+        "depth": 4
+    },
+    {
+        "text": "Possible Effects of the Use of Derivatives on the Risk Profile of the Sub-Fund",
+        "page": 114,
+        "id": 232,
+        "depth": 4
+    },
+    {
+        "text": "Investor Profile",
+        "page": 114,
+        "id": 233,
+        "depth": 4
+    },
+    {
+        "text": "Base Currency",
+        "page": 114,
+        "id": 234,
+        "depth": 4
+    },
+    {
+        "text": "Launch date for those Share Classes already launched",
+        "page": 114,
+        "id": 235,
+        "depth": 4
+    },
+    {
+        "text": "Valuation",
+        "page": 114,
+        "id": 236,
+        "depth": 4
+    },
+    {
+        "text": "Trading Deadline",
+        "page": 114,
+        "id": 237,
+        "depth": 4
+    },
+    {
+        "text": "Allianz PIMCO Euro Bond",
+        "page": 115,
+        "id": 238,
+        "depth": 2
+    },
+    {
+        "text": "Information Sheet",
+        "page": 115,
+        "id": 239,
+        "depth": 3
+    },
+    {
+        "text": "Investment Objective",
+        "page": 115,
+        "id": 240,
+        "depth": 4
+    },
+    {
+        "text": "Investment Principles",
+        "page": 115,
+        "id": 241,
+        "depth": 4
+    },
+    {
+        "text": "Limited Risk Diversification",
+        "page": 115,
+        "id": 242,
+        "depth": 4
+    },
+    {
+        "text": "Risk Profile of the Sub-Fund",
+        "page": 116,
+        "id": 243,
+        "depth": 4
+    },
+    {
+        "text": "Possible Effects of the Use of Derivatives on the Risk Profile of the Sub-Fund",
+        "page": 116,
+        "id": 244,
+        "depth": 4
+    },
+    {
+        "text": "Investor Profile",
+        "page": 116,
+        "id": 245,
+        "depth": 4
+    },
+    {
+        "text": "Launch date for those Share Classes already launched",
+        "page": 116,
+        "id": 246,
+        "depth": 4
+    },
+    {
+        "text": "Planned distribution date for distribution Share Classes",
+        "page": 117,
+        "id": 247,
+        "depth": 4
+    },
+    {
+        "text": "Allianz PIMCO Euro Bond Fund I",
+        "page": 118,
+        "id": 248,
+        "depth": 2
+    },
+    {
+        "text": "Information Sheet",
+        "page": 118,
+        "id": 249,
+        "depth": 3
+    },
+    {
+        "text": "Investment Objective",
+        "page": 118,
+        "id": 250,
+        "depth": 4
+    },
+    {
+        "text": "Investment Principles",
+        "page": 118,
+        "id": 251,
+        "depth": 4
+    },
+    {
+        "text": "Risk Profile of the Sub-Fund",
+        "page": 118,
+        "id": 252,
+        "depth": 4
+    },
+    {
+        "text": "Possible Effects of the Use of Derivatives on the Risk Profile of the Sub-Fund",
+        "page": 119,
+        "id": 253,
+        "depth": 4
+    },
+    {
+        "text": "Investor Profile",
+        "page": 119,
+        "id": 254,
+        "depth": 4
+    },
+    {
+        "text": "Launch date for those Share Classes already launched",
+        "page": 119,
+        "id": 255,
+        "depth": 4
+    },
+    {
+        "text": "Planned distribution date for distribution Share Classes",
+        "page": 119,
+        "id": 256,
+        "depth": 4
+    },
+    {
+        "text": "Allianz PIMCO Treasury Euro Bond Plus 2013",
+        "page": 120,
+        "id": 257,
+        "depth": 2
+    },
+    {
+        "text": "Information Sheet",
+        "page": 120,
+        "id": 258,
+        "depth": 3
+    },
+    {
+        "text": "Investment Objective",
+        "page": 120,
+        "id": 259,
+        "depth": 4
+    },
+    {
+        "text": "Investment Principles",
+        "page": 120,
+        "id": 260,
+        "depth": 4
+    },
+    {
+        "text": "Limited Risk Diversification",
+        "page": 121,
+        "id": 261,
+        "depth": 4
+    },
+    {
+        "text": "Risk Profile of the Sub-Fund",
+        "page": 121,
+        "id": 262,
+        "depth": 4
+    },
+    {
+        "text": "Possible Effects of Derivatives on the Risk Profile of the Sub-Fund",
+        "page": 121,
+        "id": 263,
+        "depth": 4
+    },
+    {
+        "text": "Investor Profile",
+        "page": 122,
+        "id": 264,
+        "depth": 4
+    },
+    {
+        "text": "Launch date for those Share Classes already launched",
+        "page": 122,
+        "id": 265,
+        "depth": 4
+    },
+    {
+        "text": "Allianz PIMCO Treasury Short Term Plus Euro",
+        "page": 123,
+        "id": 266,
+        "depth": 2
+    },
+    {
+        "text": "Information Sheet",
+        "page": 123,
+        "id": 267,
+        "depth": 3
+    },
+    {
+        "text": "Investment Objective",
+        "page": 123,
+        "id": 268,
+        "depth": 4
+    },
+    {
+        "text": "Investment Principles",
+        "page": 123,
+        "id": 269,
+        "depth": 4
+    },
+    {
+        "text": "Limited Risk Diversification",
+        "page": 123,
+        "id": 270,
+        "depth": 4
+    },
+    {
+        "text": "Money Market Fund Classification",
+        "page": 124,
+        "id": 271,
+        "depth": 4
+    },
+    {
+        "text": "Risk Profile of the Sub-Fund",
+        "page": 124,
+        "id": 272,
+        "depth": 4
+    },
+    {
+        "text": "Possible Effects of the Use of Derivatives on the Risk Profile of the Sub-Fund",
+        "page": 124,
+        "id": 273,
+        "depth": 4
+    },
+    {
+        "text": "Investor Profile",
+        "page": 124,
+        "id": 274,
+        "depth": 4
+    },
+    {
+        "text": "Launch date for those Share Classes already launched",
+        "page": 125,
+        "id": 275,
+        "depth": 4
+    },
+    {
+        "text": "Allianz RCM Advanced Investment Strategies",
+        "page": 126,
+        "id": 276,
+        "depth": 2
+    },
+    {
+        "text": "Information Sheet",
+        "page": 126,
+        "id": 277,
+        "depth": 3
+    },
+    {
+        "text": "Investment Objective",
+        "page": 126,
+        "id": 278,
+        "depth": 4
+    },
+    {
+        "text": "Investment Principles",
+        "page": 126,
+        "id": 279,
+        "depth": 4
+    },
+    {
+        "text": "Risk Profile of the Sub-Fund",
+        "page": 126,
+        "id": 280,
+        "depth": 4
+    },
+    {
+        "text": "Possible Effects of the Use of Derivatives on the Risk Profile of the Sub-Fund",
+        "page": 127,
+        "id": 281,
+        "depth": 4
+    },
+    {
+        "text": "Investor Profile",
+        "page": 127,
+        "id": 282,
+        "depth": 4
+    },
+    {
+        "text": "Launch date for those Share Classes already launched",
+        "page": 127,
+        "id": 283,
+        "depth": 4
+    },
+    {
+        "text": "Performance-Related Fee",
+        "page": 127,
+        "id": 284,
+        "depth": 4
+    },
+    {
+        "text": "Allianz RCM Asia Pacific",
+        "page": 128,
+        "id": 285,
+        "depth": 2
+    },
+    {
+        "text": "Information Sheet",
+        "page": 128,
+        "id": 286,
+        "depth": 3
+    },
+    {
+        "text": "Investment Objective",
+        "page": 128,
+        "id": 287,
+        "depth": 4
+    },
+    {
+        "text": "Investment Principles",
+        "page": 128,
+        "id": 288,
+        "depth": 4
+    },
+    {
+        "text": "Risk Profile of the Sub-Fund",
+        "page": 128,
+        "id": 289,
+        "depth": 4
+    },
+    {
+        "text": "Investor Profile",
+        "page": 129,
+        "id": 290,
+        "depth": 4
+    },
+    {
+        "text": "Fair Value Pricing Model",
+        "page": 129,
+        "id": 291,
+        "depth": 4
+    },
+    {
+        "text": "Launch date for those Share Classes already launched",
+        "page": 129,
+        "id": 292,
+        "depth": 4
+    },
+    {
+        "text": "Allianz RCM Best Styles Euroland",
+        "page": 130,
+        "id": 293,
+        "depth": 2
+    },
+    {
+        "text": "Information Sheet",
+        "page": 130,
+        "id": 294,
+        "depth": 3
+    },
+    {
+        "text": "Investment Objective",
+        "page": 130,
+        "id": 295,
+        "depth": 4
+    },
+    {
+        "text": "Investment Principles",
+        "page": 130,
+        "id": 296,
+        "depth": 4
+    },
+    {
+        "text": "Risk Profile of the Sub-Fund",
+        "page": 130,
+        "id": 297,
+        "depth": 4
+    },
+    {
+        "text": "Investor Profile",
+        "page": 131,
+        "id": 298,
+        "depth": 4
+    },
+    {
+        "text": "Launch date for those Share Classes already launched",
+        "page": 131,
+        "id": 299,
+        "depth": 4
+    },
+    {
+        "text": "Allianz RCM Brazil",
+        "page": 132,
+        "id": 300,
+        "depth": 2
+    },
+    {
+        "text": "Information Sheet",
+        "page": 132,
+        "id": 301,
+        "depth": 3
+    },
+    {
+        "text": "Investment Objective",
+        "page": 132,
+        "id": 302,
+        "depth": 4
+    },
+    {
+        "text": "Investment Principles",
+        "page": 132,
+        "id": 303,
+        "depth": 4
+    },
+    {
+        "text": "Risk Profile of the Sub-Fund",
+        "page": 133,
+        "id": 304,
+        "depth": 4
+    },
+    {
+        "text": "Possible Effects of the Use of Derivatives on the Risk Profile of the Sub-Fund",
+        "page": 133,
+        "id": 305,
+        "depth": 4
+    },
+    {
+        "text": "Investor Profile",
+        "page": 133,
+        "id": 306,
+        "depth": 4
+    },
+    {
+        "text": "Base Currency",
+        "page": 134,
+        "id": 307,
+        "depth": 4
+    },
+    {
+        "text": "Fair Value Pricing Model",
+        "page": 134,
+        "id": 308,
+        "depth": 4
+    },
+    {
+        "text": "Launch date for those Share Classes already launched",
+        "page": 134,
+        "id": 309,
+        "depth": 4
+    },
+    {
+        "text": "Valuation",
+        "page": 134,
+        "id": 310,
+        "depth": 4
+    },
+    {
+        "text": "Allianz RCM BRIC Equity",
+        "page": 135,
+        "id": 311,
+        "depth": 2
+    },
+    {
+        "text": "Information Sheet",
+        "page": 135,
+        "id": 312,
+        "depth": 3
+    },
+    {
+        "text": "Investment Objective",
+        "page": 135,
+        "id": 313,
+        "depth": 4
+    },
+    {
+        "text": "Investment Principles",
+        "page": 135,
+        "id": 314,
+        "depth": 4
+    },
+    {
+        "text": "Risk Profile of the Sub-Fund",
+        "page": 136,
+        "id": 315,
+        "depth": 4
+    },
+    {
+        "text": "Investor Profile",
+        "page": 136,
+        "id": 316,
+        "depth": 4
+    },
+    {
+        "text": "Fair Value Pricing Model",
+        "page": 136,
+        "id": 317,
+        "depth": 4
+    },
+    {
+        "text": "Launch date for those Share Classes already launched",
+        "page": 137,
+        "id": 318,
+        "depth": 4
+    },
+    {
+        "text": "Investor Restrictions",
+        "page": 137,
+        "id": 319,
+        "depth": 4
+    },
+    {
+        "text": "Allianz RCM China",
+        "page": 138,
+        "id": 320,
+        "depth": 2
+    },
+    {
+        "text": "Information Sheet",
+        "page": 138,
+        "id": 321,
+        "depth": 3
+    },
+    {
+        "text": "Investment Objective",
+        "page": 138,
+        "id": 322,
+        "depth": 4
+    },
+    {
+        "text": "Investment Principles",
+        "page": 138,
+        "id": 323,
+        "depth": 4
+    },
+    {
+        "text": "Risk Profile of the Sub-Fund",
+        "page": 138,
+        "id": 324,
+        "depth": 4
+    },
+    {
+        "text": "Possible Effects of the Use of Derivatives on the Risk Profile of the Sub-Fund",
+        "page": 139,
+        "id": 325,
+        "depth": 4
+    },
+    {
+        "text": "Investor Profile",
+        "page": 139,
+        "id": 326,
+        "depth": 4
+    },
+    {
+        "text": "Base Currency",
+        "page": 139,
+        "id": 327,
+        "depth": 4
+    },
+    {
+        "text": "Fair Value Pricing Model",
+        "page": 139,
+        "id": 328,
+        "depth": 4
+    },
+    {
+        "text": "Launch date for those Share Classes already launched",
+        "page": 139,
+        "id": 329,
+        "depth": 4
+    },
+    {
+        "text": "Valuation",
+        "page": 140,
+        "id": 330,
+        "depth": 4
+    },
+    {
+        "text": "Allianz RCM Commodities",
+        "page": 141,
+        "id": 331,
+        "depth": 2
+    },
+    {
+        "text": "Information Sheet",
+        "page": 141,
+        "id": 332,
+        "depth": 3
+    },
+    {
+        "text": "I) Investment Objective",
+        "page": 141,
+        "id": 333,
+        "depth": 4
+    },
+    {
+        "text": "1) General",
+        "page": 141,
+        "id": 334,
+        "depth": 5
+    },
+    {
+        "text": "2) Replication of participation in the performance of the RCM Active Commodity Index",
+        "page": 141,
+        "id": 335,
+        "depth": 5
+    },
+    {
+        "text": "3) The RCM Active Commodity Index",
+        "page": 141,
+        "id": 336,
+        "depth": 5
+    },
+    {
+        "text": "4) Miscellaneous",
+        "page": 143,
+        "id": 337,
+        "depth": 5
+    },
+    {
+        "text": "II) Investment Principles",
+        "page": 143,
+        "id": 338,
+        "depth": 4
+    },
+    {
+        "text": "Limited Risk Diversification",
+        "page": 144,
+        "id": 339,
+        "depth": 4
+    },
+    {
+        "text": "Risk Profile of the Sub-Fund",
+        "page": 144,
+        "id": 340,
+        "depth": 4
+    },
+    {
+        "text": "Possible Effects of the Use of Derivatives on the Risk Profile of the Sub-Fund",
+        "page": 145,
+        "id": 341,
+        "depth": 4
+    },
+    {
+        "text": "Investor Profile",
+        "page": 145,
+        "id": 342,
+        "depth": 4
+    },
+    {
+        "text": "Launch date for those Share Classes already launched",
+        "page": 145,
+        "id": 343,
+        "depth": 4
+    },
+    {
+        "text": "Valuation",
+        "page": 145,
+        "id": 344,
+        "depth": 4
+    },
+    {
+        "text": "Trading Deadline",
+        "page": 145,
+        "id": 345,
+        "depth": 4
+    },
+    {
+        "text": "Allianz RCM Currencies Strategy",
+        "page": 146,
+        "id": 346,
+        "depth": 2
+    },
+    {
+        "text": "Information Sheet",
+        "page": 146,
+        "id": 347,
+        "depth": 3
+    },
+    {
+        "text": "Investment Objective",
+        "page": 146,
+        "id": 348,
+        "depth": 4
+    },
+    {
+        "text": "Investment Principles",
+        "page": 146,
+        "id": 349,
+        "depth": 4
+    },
+    {
+        "text": "Limited Risk Diversification",
+        "page": 146,
+        "id": 350,
+        "depth": 4
+    },
+    {
+        "text": "Risk Profile of the Sub-Fund",
+        "page": 146,
+        "id": 351,
+        "depth": 4
+    },
+    {
+        "text": "Possible Effects of the Use of Derivatives on the Risk Profile of the Sub-Fund",
+        "page": 147,
+        "id": 352,
+        "depth": 4
+    },
+    {
+        "text": "Investor Profile",
+        "page": 147,
+        "id": 353,
+        "depth": 4
+    },
+    {
+        "text": "Launch date for those Share Classes already launched",
+        "page": 147,
+        "id": 354,
+        "depth": 4
+    },
+    {
+        "text": "Initial Subscription Price",
+        "page": 147,
+        "id": 355,
+        "depth": 4
+    },
+    {
+        "text": "Performance-Related Fee",
+        "page": 147,
+        "id": 356,
+        "depth": 4
+    },
+    {
+        "text": "Allianz RCM Demographic Trends",
+        "page": 148,
+        "id": 357,
+        "depth": 2
+    },
+    {
+        "text": "Information Sheet",
+        "page": 148,
+        "id": 358,
+        "depth": 3
+    },
+    {
+        "text": "Investment Objective",
+        "page": 148,
+        "id": 359,
+        "depth": 4
+    },
+    {
+        "text": "Investment Principles",
+        "page": 148,
+        "id": 360,
+        "depth": 4
+    },
+    {
+        "text": "Risk Profile of the Sub-Fund",
+        "page": 148,
+        "id": 361,
+        "depth": 4
+    },
+    {
+        "text": "Investor Profile",
+        "page": 149,
+        "id": 362,
+        "depth": 4
+    },
+    {
+        "text": "Fair Value Pricing Model",
+        "page": 149,
+        "id": 363,
+        "depth": 4
+    },
+    {
+        "text": "Launch date for those Share Classes already launched",
+        "page": 149,
+        "id": 364,
+        "depth": 4
+    },
+    {
+        "text": "Allianz RCM Discovery Europe Strategy",
+        "page": 150,
+        "id": 365,
+        "depth": 2
+    },
+    {
+        "text": "Information Sheet",
+        "page": 150,
+        "id": 366,
+        "depth": 3
+    },
+    {
+        "text": "Investment Objective and Investment Principles",
+        "page": 150,
+        "id": 367,
+        "depth": 4
+    },
+    {
+        "text": "1) Investment Objective",
+        "page": 150,
+        "id": 368,
+        "depth": 5
+    },
+    {
+        "text": "2) Investment Principles",
+        "page": 151,
+        "id": 369,
+        "depth": 5
+    },
+    {
+        "text": "Limited Risk Diversification",
+        "page": 152,
+        "id": 370,
+        "depth": 4
+    },
+    {
+        "text": "Risk Profile of the Sub-Fund",
+        "page": 152,
+        "id": 371,
+        "depth": 4
+    },
+    {
+        "text": "Investor Profile",
+        "page": 153,
+        "id": 372,
+        "depth": 4
+    },
+    {
+        "text": "Additional costs on level of the Discovery Europe Strategy and its Implementation",
+        "page": 153,
+        "id": 373,
+        "depth": 4
+    },
+    {
+        "text": "Launch date for those Share Classes already launched",
+        "page": 153,
+        "id": 374,
+        "depth": 4
+    },
+    {
+        "text": "Valuation",
+        "page": 153,
+        "id": 375,
+        "depth": 4
+    },
+    {
+        "text": "Trading Deadline",
+        "page": 153,
+        "id": 376,
+        "depth": 4
+    },
+    {
+        "text": "Performance-Related Fee",
+        "page": 153,
+        "id": 377,
+        "depth": 4
+    },
+    {
+        "text": "Allianz RCM Discovery Germany Strategy",
+        "page": 154,
+        "id": 378,
+        "depth": 2
+    },
+    {
+        "text": "Information Sheet",
+        "page": 154,
+        "id": 379,
+        "depth": 3
+    },
+    {
+        "text": "Investment Objective and Investment Principles",
+        "page": 154,
+        "id": 380,
+        "depth": 4
+    },
+    {
+        "text": "1) Investment Objective",
+        "page": 154,
+        "id": 381,
+        "depth": 5
+    },
+    {
+        "text": "2) Investment Principles",
+        "page": 156,
+        "id": 382,
+        "depth": 5
+    },
+    {
+        "text": "Limited Risk Diversification",
+        "page": 156,
+        "id": 383,
+        "depth": 4
+    },
+    {
+        "text": "Risk Profile of the Sub-Fund",
+        "page": 156,
+        "id": 384,
+        "depth": 4
+    },
+    {
+        "text": "Investor Profile",
+        "page": 157,
+        "id": 385,
+        "depth": 4
+    },
+    {
+        "text": "Additional costs on level of the Discovery Germany Strategy and its Implementation",
+        "page": 157,
+        "id": 386,
+        "depth": 4
+    },
+    {
+        "text": "Launch date for those Share Classes already launched",
+        "page": 157,
+        "id": 387,
+        "depth": 4
+    },
+    {
+        "text": "Valuation",
+        "page": 158,
+        "id": 388,
+        "depth": 4
+    },
+    {
+        "text": "Trading Deadline",
+        "page": 158,
+        "id": 389,
+        "depth": 4
+    },
+    {
+        "text": "Performance-Related Fee",
+        "page": 158,
+        "id": 390,
+        "depth": 4
+    },
+    {
+        "text": "Allianz RCM Dynamic Emerging Multi Asset",
+        "page": 159,
+        "id": 391,
+        "depth": 2
+    },
+    {
+        "text": "Information Sheet",
+        "page": 159,
+        "id": 392,
+        "depth": 3
+    },
+    {
+        "text": "Investment Objective",
+        "page": 159,
+        "id": 393,
+        "depth": 4
+    },
+    {
+        "text": "Investment Principles",
+        "page": 159,
+        "id": 394,
+        "depth": 4
+    },
+    {
+        "text": "Limited Risk Diversification",
+        "page": 161,
+        "id": 395,
+        "depth": 4
+    },
+    {
+        "text": "Risk Profile of the Sub-Fund",
+        "page": 161,
+        "id": 396,
+        "depth": 4
+    },
+    {
+        "text": "Possible Effects of the Use of Derivatives on the Risk Profile of the Sub-Fund",
+        "page": 162,
+        "id": 397,
+        "depth": 4
+    },
+    {
+        "text": "Investor Profile",
+        "page": 162,
+        "id": 398,
+        "depth": 4
+    },
+    {
+        "text": "Base Currency",
+        "page": 162,
+        "id": 399,
+        "depth": 4
+    },
+    {
+        "text": "Launch date for those Share Classes already launched",
+        "page": 162,
+        "id": 400,
+        "depth": 4
+    },
+    {
+        "text": "Valuation",
+        "page": 163,
+        "id": 401,
+        "depth": 4
+    },
+    {
+        "text": "Trading Deadline",
+        "page": 163,
+        "id": 402,
+        "depth": 4
+    },
+    {
+        "text": "Allianz RCM Dynamic Multi Asset Plus",
+        "page": 164,
+        "id": 403,
+        "depth": 2
+    },
+    {
+        "text": "Information Sheet",
+        "page": 164,
+        "id": 404,
+        "depth": 3
+    },
+    {
+        "text": "Investment Objective",
+        "page": 164,
+        "id": 405,
+        "depth": 4
+    },
+    {
+        "text": "Investment Principles",
+        "page": 164,
+        "id": 406,
+        "depth": 4
+    },
+    {
+        "text": "Limited Risk Diversification",
+        "page": 166,
+        "id": 407,
+        "depth": 4
+    },
+    {
+        "text": "Risk Profile of the Sub-Fund",
+        "page": 167,
+        "id": 408,
+        "depth": 4
+    },
+    {
+        "text": "Possible Effects of the Use of Derivatives on the Risk Profile of the Sub-Fund",
+        "page": 168,
+        "id": 409,
+        "depth": 4
+    },
+    {
+        "text": "Investor Profile",
+        "page": 168,
+        "id": 410,
+        "depth": 4
+    },
+    {
+        "text": "Base Currency",
+        "page": 168,
+        "id": 411,
+        "depth": 4
+    },
+    {
+        "text": "Launch date for those Share Classes already launched",
+        "page": 168,
+        "id": 412,
+        "depth": 4
+    },
+    {
+        "text": "Valuation",
+        "page": 168,
+        "id": 413,
+        "depth": 4
+    },
+    {
+        "text": "Trading Deadline",
+        "page": 168,
+        "id": 414,
+        "depth": 4
+    },
+    {
+        "text": "Investor Restrictions",
+        "page": 168,
+        "id": 415,
+        "depth": 4
+    },
+    {
+        "text": "Allianz RCM Emerging Asia",
+        "page": 169,
+        "id": 416,
+        "depth": 2
+    },
+    {
+        "text": "Information Sheet",
+        "page": 169,
+        "id": 417,
+        "depth": 3
+    },
+    {
+        "text": "Investment Objective",
+        "page": 169,
+        "id": 418,
+        "depth": 4
+    },
+    {
+        "text": "Investment Principles",
+        "page": 169,
+        "id": 419,
+        "depth": 4
+    },
+    {
+        "text": "Risk Profile of the Sub-Fund",
+        "page": 169,
+        "id": 420,
+        "depth": 4
+    },
+    {
+        "text": "Possible Effects of the Use of Derivatives on the Risk Profile of the Sub-Fund",
+        "page": 170,
+        "id": 421,
+        "depth": 4
+    },
+    {
+        "text": "Investor Profile",
+        "page": 170,
+        "id": 422,
+        "depth": 4
+    },
+    {
+        "text": "Base Currency",
+        "page": 170,
+        "id": 423,
+        "depth": 4
+    },
+    {
+        "text": "Fair Value Pricing Model",
+        "page": 170,
+        "id": 424,
+        "depth": 4
+    },
+    {
+        "text": "Launch date for those Share Classes already launched",
+        "page": 170,
+        "id": 425,
+        "depth": 4
+    },
+    {
+        "text": "Valuation",
+        "page": 170,
+        "id": 426,
+        "depth": 4
+    },
+    {
+        "text": "Trading Deadline",
+        "page": 171,
+        "id": 427,
+        "depth": 4
+    },
+    {
+        "text": "Allianz RCM Enhanced Short Term Euro",
+        "page": 172,
+        "id": 428,
+        "depth": 2
+    },
+    {
+        "text": "Information Sheet",
+        "page": 172,
+        "id": 429,
+        "depth": 3
+    },
+    {
+        "text": "Investment Objective",
+        "page": 172,
+        "id": 430,
+        "depth": 4
+    },
+    {
+        "text": "Investment Principles",
+        "page": 172,
+        "id": 431,
+        "depth": 4
+    },
+    {
+        "text": "Limited Risk Diversification",
+        "page": 172,
+        "id": 432,
+        "depth": 4
+    },
+    {
+        "text": "Risk Profile of the Sub-Fund",
+        "page": 173,
+        "id": 433,
+        "depth": 4
+    },
+    {
+        "text": "Possible Effects of the Use of Derivatives on the Risk Profile of the Sub-Fund",
+        "page": 173,
+        "id": 434,
+        "depth": 4
+    },
+    {
+        "text": "Investor Profile",
+        "page": 173,
+        "id": 435,
+        "depth": 4
+    },
+    {
+        "text": "Launch date for those Share Classes already launched",
+        "page": 173,
+        "id": 436,
+        "depth": 4
+    },
+    {
+        "text": "Initial Subscription Price",
+        "page": 174,
+        "id": 437,
+        "depth": 4
+    },
+    {
+        "text": "Performance-Related Fee",
+        "page": 174,
+        "id": 438,
+        "depth": 4
+    },
+    {
+        "text": "Allianz RCM Euroland Equity Growth",
+        "page": 175,
+        "id": 439,
+        "depth": 2
+    },
+    {
+        "text": "Information Sheet",
+        "page": 175,
+        "id": 440,
+        "depth": 3
+    },
+    {
+        "text": "Investment Objective",
+        "page": 175,
+        "id": 441,
+        "depth": 4
+    },
+    {
+        "text": "Investment Principles",
+        "page": 175,
+        "id": 442,
+        "depth": 4
+    },
+    {
+        "text": "Risk Profile of the Sub-Fund",
+        "page": 175,
+        "id": 443,
+        "depth": 4
+    },
+    {
+        "text": "Investor Profile",
+        "page": 176,
+        "id": 444,
+        "depth": 4
+    },
+    {
+        "text": "Launch date for those Share Classes already launched",
+        "page": 176,
+        "id": 445,
+        "depth": 4
+    },
+    {
+        "text": "Investor Restrictions",
+        "page": 176,
+        "id": 446,
+        "depth": 4
+    },
+    {
+        "text": "Allianz RCM Europe Equity Growth",
+        "page": 177,
+        "id": 447,
+        "depth": 2
+    },
+    {
+        "text": "Information Sheet",
+        "page": 177,
+        "id": 448,
+        "depth": 3
+    },
+    {
+        "text": "Investment Objective",
+        "page": 177,
+        "id": 449,
+        "depth": 4
+    },
+    {
+        "text": "Investment Principles",
+        "page": 177,
+        "id": 450,
+        "depth": 4
+    },
+    {
+        "text": "Risk Profile of the Sub-Fund",
+        "page": 177,
+        "id": 451,
+        "depth": 4
+    },
+    {
+        "text": "Investor Profile",
+        "page": 178,
+        "id": 452,
+        "depth": 4
+    },
+    {
+        "text": "Launch date for those Share Classes already launched",
+        "page": 178,
+        "id": 453,
+        "depth": 4
+    },
+    {
+        "text": "Investor Restrictions",
+        "page": 178,
+        "id": 454,
+        "depth": 4
+    },
+    {
+        "text": "Allianz RCM Europe Small Cap Equity",
+        "page": 179,
+        "id": 455,
+        "depth": 2
+    },
+    {
+        "text": "Information Sheet",
+        "page": 179,
+        "id": 456,
+        "depth": 3
+    },
+    {
+        "text": "Investment Objective",
+        "page": 179,
+        "id": 457,
+        "depth": 4
+    },
+    {
+        "text": "Investment Principles",
+        "page": 179,
+        "id": 458,
+        "depth": 4
+    },
+    {
+        "text": "Risk Profile of the Sub-Fund",
+        "page": 180,
+        "id": 459,
+        "depth": 4
+    },
+    {
+        "text": "Investor Profile",
+        "page": 180,
+        "id": 460,
+        "depth": 4
+    },
+    {
+        "text": "Launch date for those Share Classes already launched",
+        "page": 180,
+        "id": 461,
+        "depth": 4
+    },
+    {
+        "text": "Investor Restrictions",
+        "page": 180,
+        "id": 462,
+        "depth": 4
+    },
+    {
+        "text": "Allianz RCM European Equity",
+        "page": 182,
+        "id": 463,
+        "depth": 2
+    },
+    {
+        "text": "Information Sheet",
+        "page": 182,
+        "id": 464,
+        "depth": 3
+    },
+    {
+        "text": "Investment Objective",
+        "page": 182,
+        "id": 465,
+        "depth": 4
+    },
+    {
+        "text": "Investment Principles",
+        "page": 182,
+        "id": 466,
+        "depth": 4
+    },
+    {
+        "text": "Risk Profile of the Sub-Fund",
+        "page": 183,
+        "id": 467,
+        "depth": 4
+    },
+    {
+        "text": "Investor Profile",
+        "page": 183,
+        "id": 468,
+        "depth": 4
+    },
+    {
+        "text": "Launch date for those Share Classes already launched",
+        "page": 183,
+        "id": 469,
+        "depth": 4
+    },
+    {
+        "text": "Allianz RCM European Equity Dividend",
+        "page": 184,
+        "id": 470,
+        "depth": 2
+    },
+    {
+        "text": "Information Sheet",
+        "page": 184,
+        "id": 471,
+        "depth": 3
+    },
+    {
+        "text": "Investment Objective",
+        "page": 184,
+        "id": 472,
+        "depth": 4
+    },
+    {
+        "text": "Investment Principles",
+        "page": 184,
+        "id": 473,
+        "depth": 4
+    },
+    {
+        "text": "Risk Profile of the Sub-Fund",
+        "page": 184,
+        "id": 474,
+        "depth": 4
+    },
+    {
+        "text": "Investor Profile",
+        "page": 185,
+        "id": 475,
+        "depth": 4
+    },
+    {
+        "text": "Launch date for those Share Classes already launched",
+        "page": 185,
+        "id": 476,
+        "depth": 4
+    },
+    {
+        "text": "Allianz RCM Global Agricultural Trends",
+        "page": 186,
+        "id": 477,
+        "depth": 2
+    },
+    {
+        "text": "Information Sheet",
+        "page": 186,
+        "id": 478,
+        "depth": 3
+    },
+    {
+        "text": "Investment Objective",
+        "page": 186,
+        "id": 479,
+        "depth": 4
+    },
+    {
+        "text": "Investment Principles",
+        "page": 186,
+        "id": 480,
+        "depth": 4
+    },
+    {
+        "text": "Risk Profile of the Sub-Fund",
+        "page": 187,
+        "id": 481,
+        "depth": 4
+    },
+    {
+        "text": "Investor Profile",
+        "page": 187,
+        "id": 482,
+        "depth": 4
+    },
+    {
+        "text": "Base Currency",
+        "page": 188,
+        "id": 483,
+        "depth": 4
+    },
+    {
+        "text": "Fair Value Pricing Model",
+        "page": 188,
+        "id": 484,
+        "depth": 4
+    },
+    {
+        "text": "Launch date for those Share Classes already launched",
+        "page": 188,
+        "id": 485,
+        "depth": 4
+    },
+    {
+        "text": "Allianz RCM Global EcoTrends",
+        "page": 189,
+        "id": 486,
+        "depth": 2
+    },
+    {
+        "text": "Information Sheet",
+        "page": 189,
+        "id": 487,
+        "depth": 3
+    },
+    {
+        "text": "Investment Objective",
+        "page": 189,
+        "id": 488,
+        "depth": 4
+    },
+    {
+        "text": "Investment Principles",
+        "page": 189,
+        "id": 489,
+        "depth": 4
+    },
+    {
+        "text": "Risk Profile of the Sub-Fund",
+        "page": 190,
+        "id": 490,
+        "depth": 4
+    },
+    {
+        "text": "Investor Profile",
+        "page": 191,
+        "id": 491,
+        "depth": 4
+    },
+    {
+        "text": "Fair Value Pricing Model",
+        "page": 191,
+        "id": 492,
+        "depth": 4
+    },
+    {
+        "text": "Launch date for those Share Classes already launched",
+        "page": 191,
+        "id": 493,
+        "depth": 4
+    },
+    {
+        "text": "Allianz RCM Global Equity",
+        "page": 192,
+        "id": 494,
+        "depth": 2
+    },
+    {
+        "text": "Information Sheet",
+        "page": 192,
+        "id": 495,
+        "depth": 3
+    },
+    {
+        "text": "Investment Objective",
+        "page": 192,
+        "id": 496,
+        "depth": 4
+    },
+    {
+        "text": "Investment Principles",
+        "page": 192,
+        "id": 497,
+        "depth": 4
+    },
+    {
+        "text": "Risk Profile of the Sub-Fund",
+        "page": 192,
+        "id": 498,
+        "depth": 4
+    },
+    {
+        "text": "Investor Profile",
+        "page": 193,
+        "id": 499,
+        "depth": 4
+    },
+    {
+        "text": "Base Currency",
+        "page": 193,
+        "id": 500,
+        "depth": 4
+    },
+    {
+        "text": "Fair Value Pricing Model",
+        "page": 193,
+        "id": 501,
+        "depth": 4
+    },
+    {
+        "text": "Launch date for those Share Classes already launched",
+        "page": 193,
+        "id": 502,
+        "depth": 4
+    },
+    {
+        "text": "Allianz RCM Global Hi-Tech Growth",
+        "page": 194,
+        "id": 503,
+        "depth": 2
+    },
+    {
+        "text": "Information Sheet",
+        "page": 194,
+        "id": 504,
+        "depth": 3
+    },
+    {
+        "text": "Investment Objective",
+        "page": 194,
+        "id": 505,
+        "depth": 4
+    },
+    {
+        "text": "Investment Principles",
+        "page": 194,
+        "id": 506,
+        "depth": 4
+    },
+    {
+        "text": "Risk Profile of the Sub-Fund",
+        "page": 194,
+        "id": 507,
+        "depth": 4
+    },
+    {
+        "text": "Possible Effects of the Use of Derivatives on the Risk Profile of the Sub-Fund",
+        "page": 195,
+        "id": 508,
+        "depth": 4
+    },
+    {
+        "text": "Investor Profile",
+        "page": 195,
+        "id": 509,
+        "depth": 4
+    },
+    {
+        "text": "Base Currency",
+        "page": 195,
+        "id": 510,
+        "depth": 4
+    },
+    {
+        "text": "Fair Value Pricing Model",
+        "page": 195,
+        "id": 511,
+        "depth": 4
+    },
+    {
+        "text": "Launch date for those Share Classes already launched",
+        "page": 195,
+        "id": 512,
+        "depth": 4
+    },
+    {
+        "text": "Allianz RCM Global Metals and Mining",
+        "page": 196,
+        "id": 513,
+        "depth": 2
+    },
+    {
+        "text": "Information Sheet",
+        "page": 196,
+        "id": 514,
+        "depth": 3
+    },
+    {
+        "text": "Investment Objective",
+        "page": 196,
+        "id": 515,
+        "depth": 4
+    },
+    {
+        "text": "Investment Principles",
+        "page": 196,
+        "id": 516,
+        "depth": 4
+    },
+    {
+        "text": "Risk Profile of the Sub-Fund",
+        "page": 196,
+        "id": 517,
+        "depth": 4
+    },
+    {
+        "text": "Investor Profile",
+        "page": 197,
+        "id": 518,
+        "depth": 4
+    },
+    {
+        "text": "Launch date for those Share Classes already launched",
+        "page": 197,
+        "id": 519,
+        "depth": 4
+    },
+    {
+        "text": "Fair Value Pricing Model",
+        "page": 197,
+        "id": 520,
+        "depth": 4
+    },
+    {
+        "text": "Valuation",
+        "page": 197,
+        "id": 521,
+        "depth": 4
+    },
+    {
+        "text": "Allianz RCM Global Sustainability",
+        "page": 198,
+        "id": 522,
+        "depth": 2
+    },
+    {
+        "text": "Information Sheet",
+        "page": 198,
+        "id": 523,
+        "depth": 3
+    },
+    {
+        "text": "Investment Objective",
+        "page": 198,
+        "id": 524,
+        "depth": 4
+    },
+    {
+        "text": "Investment Principles",
+        "page": 198,
+        "id": 525,
+        "depth": 4
+    },
+    {
+        "text": "Risk Profile of the Sub-Fund",
+        "page": 198,
+        "id": 526,
+        "depth": 4
+    },
+    {
+        "text": "Investor Profile",
+        "page": 199,
+        "id": 527,
+        "depth": 4
+    },
+    {
+        "text": "Fair Value Pricing Model",
+        "page": 199,
+        "id": 528,
+        "depth": 4
+    },
+    {
+        "text": "Launch date for those Share Classes already launched",
+        "page": 199,
+        "id": 529,
+        "depth": 4
+    },
+    {
+        "text": "Allianz RCM Global Unconstrained",
+        "page": 200,
+        "id": 530,
+        "depth": 2
+    },
+    {
+        "text": "Information Sheet",
+        "page": 200,
+        "id": 531,
+        "depth": 3
+    },
+    {
+        "text": "Investment Objective",
+        "page": 200,
+        "id": 532,
+        "depth": 4
+    },
+    {
+        "text": "Investment Principles",
+        "page": 200,
+        "id": 533,
+        "depth": 4
+    },
+    {
+        "text": "Risk Profile of the Sub-Fund",
+        "page": 200,
+        "id": 534,
+        "depth": 4
+    },
+    {
+        "text": "Possible Effects of the Use of Derivatives on the Risk Profile of the Sub-Fund",
+        "page": 201,
+        "id": 535,
+        "depth": 4
+    },
+    {
+        "text": "Investor Profile",
+        "page": 201,
+        "id": 536,
+        "depth": 4
+    },
+    {
+        "text": "Base Currency",
+        "page": 201,
+        "id": 537,
+        "depth": 4
+    },
+    {
+        "text": "Fair Value Pricing Model",
+        "page": 201,
+        "id": 538,
+        "depth": 4
+    },
+    {
+        "text": "Launch date for those Share Classes already launched",
+        "page": 201,
+        "id": 539,
+        "depth": 4
+    },
+    {
+        "text": "Allianz RCM Greater China Dynamic",
+        "page": 202,
+        "id": 540,
+        "depth": 2
+    },
+    {
+        "text": "Information Sheet",
+        "page": 202,
+        "id": 541,
+        "depth": 3
+    },
+    {
+        "text": "Investment Objective",
+        "page": 202,
+        "id": 542,
+        "depth": 4
+    },
+    {
+        "text": "Investment Principles",
+        "page": 202,
+        "id": 543,
+        "depth": 4
+    },
+    {
+        "text": "Risk Profile of the Sub-Fund",
+        "page": 202,
+        "id": 544,
+        "depth": 4
+    },
+    {
+        "text": "Investor Profile",
+        "page": 203,
+        "id": 545,
+        "depth": 4
+    },
+    {
+        "text": "Base Currency",
+        "page": 203,
+        "id": 546,
+        "depth": 4
+    },
+    {
+        "text": "Fair Value Pricing Model",
+        "page": 203,
+        "id": 547,
+        "depth": 4
+    },
+    {
+        "text": "Launch date for those Share Classes already launched",
+        "page": 203,
+        "id": 548,
+        "depth": 4
+    },
+    {
+        "text": "Valuation",
+        "page": 203,
+        "id": 549,
+        "depth": 4
+    },
+    {
+        "text": "Allianz RCM Growing Markets Protect",
+        "page": 204,
+        "id": 550,
+        "depth": 2
+    },
+    {
+        "text": "Information Sheet",
+        "page": 204,
+        "id": 551,
+        "depth": 3
+    },
+    {
+        "text": "I. Investment Objective and Investment Principles",
+        "page": 204,
+        "id": 552,
+        "depth": 4
+    },
+    {
+        "text": "1) General",
+        "page": 204,
+        "id": 553,
+        "depth": 5
+    },
+    {
+        "text": "2) Overall Derivative Structure [Total Return Swap]",
+        "page": 204,
+        "id": 554,
+        "depth": 5
+    },
+    {
+        "text": "3) Replacement of Investment Fund Units in the Investment Fund Unit Basket",
+        "page": 205,
+        "id": 555,
+        "depth": 5
+    },
+    {
+        "text": "4) Investment Principles",
+        "page": 206,
+        "id": 556,
+        "depth": 5
+    },
+    {
+        "text": "II. Guarantee(s)",
+        "page": 207,
+        "id": 557,
+        "depth": 4
+    },
+    {
+        "text": "Risk Profile of the Sub-Fund",
+        "page": 209,
+        "id": 558,
+        "depth": 4
+    },
+    {
+        "text": "Possible Effects of the Use of Derivatives on the Risk Profile of the Sub-Fund",
+        "page": 209,
+        "id": 559,
+        "depth": 4
+    },
+    {
+        "text": "Investor Profile",
+        "page": 209,
+        "id": 560,
+        "depth": 4
+    },
+    {
+        "text": "Launch date for those Share Classes already launched",
+        "page": 210,
+        "id": 561,
+        "depth": 4
+    },
+    {
+        "text": "Trading Deadline",
+        "page": 210,
+        "id": 562,
+        "depth": 4
+    },
+    {
+        "text": "Allianz RCM Hong Kong",
+        "page": 211,
+        "id": 563,
+        "depth": 2
+    },
+    {
+        "text": "Information Sheet",
+        "page": 211,
+        "id": 564,
+        "depth": 3
+    },
+    {
+        "text": "Investment Objective",
+        "page": 211,
+        "id": 565,
+        "depth": 4
+    },
+    {
+        "text": "Investment Principles",
+        "page": 211,
+        "id": 566,
+        "depth": 4
+    },
+    {
+        "text": "Risk Profile of the Sub-Fund",
+        "page": 211,
+        "id": 567,
+        "depth": 4
+    },
+    {
+        "text": "Possible Effects of the Use of Derivatives on the Risk Profile of the Sub-Fund",
+        "page": 212,
+        "id": 568,
+        "depth": 4
+    },
+    {
+        "text": "Investor Profile",
+        "page": 212,
+        "id": 569,
+        "depth": 4
+    },
+    {
+        "text": "Base Currency",
+        "page": 212,
+        "id": 570,
+        "depth": 4
+    },
+    {
+        "text": "Fair Value Pricing Model",
+        "page": 112,
+        "id": 571,
+        "depth": 4
+    },
+    {
+        "text": "Launch date for those Share Classes already launched:",
+        "page": 112,
+        "id": 572,
+        "depth": 4
+    },
+    {
+        "text": "Valuation",
+        "page": 112,
+        "id": 573,
+        "depth": 4
+    },
+    {
+        "text": "Allianz RCM India",
+        "page": 213,
+        "id": 574,
+        "depth": 2
+    },
+    {
+        "text": "Information Sheet",
+        "page": 213,
+        "id": 575,
+        "depth": 3
+    },
+    {
+        "text": "Investment Objective",
+        "page": 213,
+        "id": 576,
+        "depth": 4
+    },
+    {
+        "text": "Investment Principles",
+        "page": 213,
+        "id": 577,
+        "depth": 4
+    },
+    {
+        "text": "Risk Profile of the Sub-Fund",
+        "page": 213,
+        "id": 578,
+        "depth": 4
+    },
+    {
+        "text": "Possible Effects of the Use of Derivatives on the Risk Profile of the Sub-Fund",
+        "page": 214,
+        "id": 579,
+        "depth": 4
+    },
+    {
+        "text": "Investor Profile",
+        "page": 214,
+        "id": 580,
+        "depth": 4
+    },
+    {
+        "text": "Base Currency",
+        "page": 214,
+        "id": 581,
+        "depth": 4
+    },
+    {
+        "text": "Fair Value Pricing Model",
+        "page": 214,
+        "id": 582,
+        "depth": 4
+    },
+    {
+        "text": "Launch date for those Share Classes already launched",
+        "page": 214,
+        "id": 583,
+        "depth": 4
+    },
+    {
+        "text": "Valuation",
+        "page": 215,
+        "id": 584,
+        "depth": 4
+    },
+    {
+        "text": "Allianz RCM Indonesia",
+        "page": 216,
+        "id": 585,
+        "depth": 2
+    },
+    {
+        "text": "Information Sheet",
+        "page": 216,
+        "id": 586,
+        "depth": 3
+    },
+    {
+        "text": "Investment Objective",
+        "page": 216,
+        "id": 587,
+        "depth": 4
+    },
+    {
+        "text": "Investment Principles",
+        "page": 216,
+        "id": 588,
+        "depth": 4
+    },
+    {
+        "text": "Risk Profile of the Sub-Fund",
+        "page": 216,
+        "id": 589,
+        "depth": 4
+    },
+    {
+        "text": "Possible Effects of the Use of Derivatives on the Risk Profile of the Sub-Fund",
+        "page": 217,
+        "id": 590,
+        "depth": 4
+    },
+    {
+        "text": "Investor Profile",
+        "page": 217,
+        "id": 591,
+        "depth": 4
+    },
+    {
+        "text": "Base Currency",
+        "page": 217,
+        "id": 592,
+        "depth": 4
+    },
+    {
+        "text": "Launch date for those Share Classes already launched",
+        "page": 217,
+        "id": 593,
+        "depth": 4
+    },
+    {
+        "text": "Valuation",
+        "page": 217,
+        "id": 594,
+        "depth": 4
+    },
+    {
+        "text": "Trading Deadline",
+        "page": 217,
+        "id": 595,
+        "depth": 4
+    },
+    {
+        "text": "Allianz RCM Japan",
+        "page": 218,
+        "id": 596,
+        "depth": 2
+    },
+    {
+        "text": "Information Sheet",
+        "page": 218,
+        "id": 597,
+        "depth": 3
+    },
+    {
+        "text": "Investment Objective",
+        "page": 218,
+        "id": 598,
+        "depth": 4
+    },
+    {
+        "text": "Investment Principles",
+        "page": 218,
+        "id": 599,
+        "depth": 4
+    },
+    {
+        "text": "Risk Profile of the Sub-Fund",
+        "page": 218,
+        "id": 600,
+        "depth": 4
+    },
+    {
+        "text": "Possible Effects of the Use of Derivatives on the Risk Profile of the Sub-Fund",
+        "page": 219,
+        "id": 601,
+        "depth": 4
+    },
+    {
+        "text": "Investor Profile",
+        "page": 219,
+        "id": 602,
+        "depth": 4
+    },
+    {
+        "text": "Base Currency",
+        "page": 219,
+        "id": 603,
+        "depth": 4
+    },
+    {
+        "text": "Fair Value Pricing Model",
+        "page": 219,
+        "id": 604,
+        "depth": 4
+    },
+    {
+        "text": "Launch date for those Share Classes already launched:",
+        "page": 19,
+        "id": 605,
+        "depth": 4
+    },
+    {
+        "text": "Valuation",
+        "page": 219,
+        "id": 606,
+        "depth": 4
+    },
+    {
+        "text": "Sub-Investment Manager",
+        "page": 219,
+        "id": 607,
+        "depth": 4
+    },
+    {
+        "text": "Allianz RCM Korea",
+        "page": 221,
+        "id": 608,
+        "depth": 2
+    },
+    {
+        "text": "Information Sheet",
+        "page": 221,
+        "id": 609,
+        "depth": 3
+    },
+    {
+        "text": "Investment Objective",
+        "page": 221,
+        "id": 610,
+        "depth": 4
+    },
+    {
+        "text": "Investment Principles",
+        "page": 221,
+        "id": 611,
+        "depth": 4
+    },
+    {
+        "text": "Risk Profile of the Sub-Fund",
+        "page": 221,
+        "id": 612,
+        "depth": 4
+    },
+    {
+        "text": "Possible Effects of the Use of Derivatives on the Risk Profile of the Sub-Fund",
+        "page": 222,
+        "id": 613,
+        "depth": 4
+    },
+    {
+        "text": "Investor Profile",
+        "page": 222,
+        "id": 614,
+        "depth": 4
+    },
+    {
+        "text": "Base Currency",
+        "page": 222,
+        "id": 615,
+        "depth": 4
+    },
+    {
+        "text": "Fair Value Pricing Model",
+        "page": 222,
+        "id": 616,
+        "depth": 4
+    },
+    {
+        "text": "Launch date for those Share Classes already launched",
+        "page": 222,
+        "id": 617,
+        "depth": 4
+    },
+    {
+        "text": "Valuation",
+        "page": 222,
+        "id": 618,
+        "depth": 4
+    },
+    {
+        "text": "Allianz RCM Little Dragons",
+        "page": 223,
+        "id": 619,
+        "depth": 2
+    },
+    {
+        "text": "Information Sheet",
+        "page": 223,
+        "id": 620,
+        "depth": 3
+    },
+    {
+        "text": "Investment Objective",
+        "page": 223,
+        "id": 621,
+        "depth": 4
+    },
+    {
+        "text": "Investment Principles",
+        "page": 223,
+        "id": 622,
+        "depth": 4
+    },
+    {
+        "text": "Risk Profile of the Sub-Fund",
+        "page": 224,
+        "id": 623,
+        "depth": 4
+    },
+    {
+        "text": "Possible Effects of the Use of Derivatives on the Risk Profile of the Sub-Fund",
+        "page": 224,
+        "id": 624,
+        "depth": 4
+    },
+    {
+        "text": "Investor Profile",
+        "page": 224,
+        "id": 625,
+        "depth": 4
+    },
+    {
+        "text": "Base Currency",
+        "page": 224,
+        "id": 626,
+        "depth": 4
+    },
+    {
+        "text": "Fair Value Pricing Model",
+        "page": 224,
+        "id": 627,
+        "depth": 4
+    },
+    {
+        "text": "Launch date for those Share Classes already launched:",
+        "page": 225,
+        "id": 628,
+        "depth": 4
+    },
+    {
+        "text": "Available Share Classes/Investor Restrictions",
+        "page": 225,
+        "id": 629,
+        "depth": 4
+    },
+    {
+        "text": "Allianz RCM Oriental Income",
+        "page": 226,
+        "id": 630,
+        "depth": 2
+    },
+    {
+        "text": "Information Sheet",
+        "page": 226,
+        "id": 631,
+        "depth": 3
+    },
+    {
+        "text": "Investment Objective",
+        "page": 226,
+        "id": 632,
+        "depth": 4
+    },
+    {
+        "text": "Investment Principles",
+        "page": 226,
+        "id": 633,
+        "depth": 4
+    },
+    {
+        "text": "Risk Profile of the Sub-Fund",
+        "page": 226,
+        "id": 634,
+        "depth": 4
+    },
+    {
+        "text": "Possible Effects of the Use of Derivatives on the Risk Profile of the Sub-Fund",
+        "page": 227,
+        "id": 635,
+        "depth": 4
+    },
+    {
+        "text": "Investor Profile",
+        "page": 227,
+        "id": 636,
+        "depth": 4
+    },
+    {
+        "text": "Base Currency",
+        "page": 227,
+        "id": 637,
+        "depth": 4
+    },
+    {
+        "text": "Fair Value Pricing Model",
+        "page": 227,
+        "id": 638,
+        "depth": 4
+    },
+    {
+        "text": "Launch date for those Share Classes already launched",
+        "page": 227,
+        "id": 639,
+        "depth": 4
+    },
+    {
+        "text": "Allianz RCM Renminbi Currency",
+        "page": 228,
+        "id": 640,
+        "depth": 2
+    },
+    {
+        "text": "Information Sheet",
+        "page": 228,
+        "id": 641,
+        "depth": 3
+    },
+    {
+        "text": "Investment Objective",
+        "page": 228,
+        "id": 642,
+        "depth": 4
+    },
+    {
+        "text": "Investment Principles",
+        "page": 228,
+        "id": 643,
+        "depth": 4
+    },
+    {
+        "text": "Risk Profile of the Sub-Fund",
+        "page": 228,
+        "id": 644,
+        "depth": 4
+    },
+    {
+        "text": "Possible Effects of the Use of Derivatives on the Risk Profile of the Sub-Fund",
+        "page": 229,
+        "id": 645,
+        "depth": 4
+    },
+    {
+        "text": "Investor Profile",
+        "page": 229,
+        "id": 646,
+        "depth": 4
+    },
+    {
+        "text": "Base Currency",
+        "page": 229,
+        "id": 647,
+        "depth": 4
+    },
+    {
+        "text": "Launch date for those Share Classes already launched",
+        "page": 229,
+        "id": 648,
+        "depth": 4
+    },
+    {
+        "text": "Valuation",
+        "page": 229,
+        "id": 649,
+        "depth": 4
+    },
+    {
+        "text": "Specific Deadlines for Receipt of Subscription Proceeds and Payment of Redemption Proceeds",
+        "page": 229,
+        "id": 650,
+        "depth": 4
+    },
+    {
+        "text": "Allianz RCM Renminbi Fixed Income",
+        "page": 230,
+        "id": 651,
+        "depth": 2
+    },
+    {
+        "text": "Information Sheet",
+        "page": 230,
+        "id": 652,
+        "depth": 3
+    },
+    {
+        "text": "Investment Objective",
+        "page": 230,
+        "id": 653,
+        "depth": 4
+    },
+    {
+        "text": "Investment Principles",
+        "page": 230,
+        "id": 654,
+        "depth": 4
+    },
+    {
+        "text": "Risk Profile of the Sub-Fund",
+        "page": 230,
+        "id": 655,
+        "depth": 4
+    },
+    {
+        "text": "Possible Effects of the Use of Derivatives on the Risk Profile of the Sub-Fund",
+        "page": 231,
+        "id": 656,
+        "depth": 4
+    },
+    {
+        "text": "Investor Profile",
+        "page": 231,
+        "id": 657,
+        "depth": 4
+    },
+    {
+        "text": "Base Currency",
+        "page": 231,
+        "id": 658,
+        "depth": 4
+    },
+    {
+        "text": "Launch date for those Share Classes already launched",
+        "page": 231,
+        "id": 659,
+        "depth": 4
+    },
+    {
+        "text": "Valuation",
+        "page": 231,
+        "id": 660,
+        "depth": 4
+    },
+    {
+        "text": "Specific Deadlines for Receipt of Subscription Proceeds and Payment of Redemption Proceeds",
+        "page": 232,
+        "id": 661,
+        "depth": 4
+    },
+    {
+        "text": "Allianz RCM Tech Alpha Plus Strategy",
+        "page": 233,
+        "id": 662,
+        "depth": 2
+    },
+    {
+        "text": "Information Sheet",
+        "page": 233,
+        "id": 663,
+        "depth": 3
+    },
+    {
+        "text": "Investment Objective and Investment Principles",
+        "page": 233,
+        "id": 664,
+        "depth": 4
+    },
+    {
+        "text": "1) Investment Objective",
+        "page": 233,
+        "id": 665,
+        "depth": 5
+    },
+    {
+        "text": "2) Investment Principles",
+        "page": 235,
+        "id": 666,
+        "depth": 5
+    },
+    {
+        "text": "Limited Risk Diversification",
+        "page": 236,
+        "id": 667,
+        "depth": 4
+    },
+    {
+        "text": "Risk Profile of the Sub-Fund",
+        "page": 236,
+        "id": 668,
+        "depth": 4
+    },
+    {
+        "text": "Investor Profile",
+        "page": 237,
+        "id": 669,
+        "depth": 4
+    },
+    {
+        "text": "Base Currency",
+        "page": 237,
+        "id": 670,
+        "depth": 4
+    },
+    {
+        "text": "Additional costs on level of the Tech Alpha Plus Strategy and its Implementation",
+        "page": 237,
+        "id": 671,
+        "depth": 4
+    },
+    {
+        "text": "Launch date for those Share Classes already launched",
+        "page": 237,
+        "id": 672,
+        "depth": 4
+    },
+    {
+        "text": "Valuation",
+        "page": 237,
+        "id": 673,
+        "depth": 4
+    },
+    {
+        "text": "Trading Deadline",
+        "page": 237,
+        "id": 674,
+        "depth": 4
+    },
+    {
+        "text": "Performance-Related Fee",
+        "page": 237,
+        "id": 675,
+        "depth": 4
+    },
+    {
+        "text": "Allianz RCM Thailand",
+        "page": 238,
+        "id": 676,
+        "depth": 2
+    },
+    {
+        "text": "Information Sheet",
+        "page": 238,
+        "id": 677,
+        "depth": 3
+    },
+    {
+        "text": "Investment Objective",
+        "page": 238,
+        "id": 678,
+        "depth": 4
+    },
+    {
+        "text": "Investment Principles",
+        "page": 238,
+        "id": 679,
+        "depth": 4
+    },
+    {
+        "text": "Risk Profile of the Sub-Fund",
+        "page": 238,
+        "id": 680,
+        "depth": 4
+    },
+    {
+        "text": "Possible Effects of the Use of Derivatives on the Risk Profile of the Sub-Fund",
+        "page": 239,
+        "id": 681,
+        "depth": 4
+    },
+    {
+        "text": "Investor Profile",
+        "page": 239,
+        "id": 682,
+        "depth": 4
+    },
+    {
+        "text": "Base Currency",
+        "page": 239,
+        "id": 683,
+        "depth": 4
+    },
+    {
+        "text": "Fair Value Pricing Model",
+        "page": 239,
+        "id": 684,
+        "depth": 4
+    },
+    {
+        "text": "Launch date for those Share Classes already launched",
+        "page": 239,
+        "id": 685,
+        "depth": 4
+    },
+    {
+        "text": "Valuation",
+        "page": 239,
+        "id": 686,
+        "depth": 4
+    },
+    {
+        "text": "Allianz RCM Tiger",
+        "page": 240,
+        "id": 687,
+        "depth": 2
+    },
+    {
+        "text": "Information Sheet",
+        "page": 240,
+        "id": 688,
+        "depth": 3
+    },
+    {
+        "text": "Investment Objective",
+        "page": 240,
+        "id": 689,
+        "depth": 4
+    },
+    {
+        "text": "Investment Principles",
+        "page": 240,
+        "id": 690,
+        "depth": 4
+    },
+    {
+        "text": "Risk Profile of the Sub-Fund",
+        "page": 240,
+        "id": 691,
+        "depth": 4
+    },
+    {
+        "text": "Possible Effects of the Use of Derivatives on the Risk Profile of the Sub-Fund",
+        "page": 241,
+        "id": 692,
+        "depth": 4
+    },
+    {
+        "text": "Investor Profile",
+        "page": 241,
+        "id": 693,
+        "depth": 4
+    },
+    {
+        "text": "Base Currency",
+        "page": 241,
+        "id": 694,
+        "depth": 4
+    },
+    {
+        "text": "Fair Value Pricing Model",
+        "page": 241,
+        "id": 695,
+        "depth": 4
+    },
+    {
+        "text": "Launch date for those Share Classes already launched",
+        "page": 242,
+        "id": 696,
+        "depth": 4
+    },
+    {
+        "text": "Allianz RCM Total Return Asian Equity",
+        "page": 243,
+        "id": 697,
+        "depth": 2
+    },
+    {
+        "text": "Information Sheet",
+        "page": 243,
+        "id": 698,
+        "depth": 3
+    },
+    {
+        "text": "Investment Objective",
+        "page": 243,
+        "id": 699,
+        "depth": 4
+    },
+    {
+        "text": "Investment Principles",
+        "page": 243,
+        "id": 700,
+        "depth": 4
+    },
+    {
+        "text": "Risk Profile of the Sub-Fund",
+        "page": 234,
+        "id": 701,
+        "depth": 4
+    },
+    {
+        "text": "Possible Effects of the Use of Derivatives on the Risk Profile of the Sub-Fund",
+        "page": 244,
+        "id": 702,
+        "depth": 4
+    },
+    {
+        "text": "Investor Profile",
+        "page": 244,
+        "id": 703,
+        "depth": 4
+    },
+    {
+        "text": "Base Currency",
+        "page": 244,
+        "id": 704,
+        "depth": 4
+    },
+    {
+        "text": "Fair Value Pricing Model",
+        "page": 244,
+        "id": 705,
+        "depth": 4
+    },
+    {
+        "text": "Launch date for those Share Classes already launched",
+        "page": 244,
+        "id": 706,
+        "depth": 4
+    },
+    {
+        "text": "Allianz RCM US Equity Fund",
+        "page": 245,
+        "id": 707,
+        "depth": 2
+    },
+    {
+        "text": "Information Sheet",
+        "page": 245,
+        "id": 708,
+        "depth": 3
+    },
+    {
+        "text": "Investment objective",
+        "page": 245,
+        "id": 709,
+        "depth": 4
+    },
+    {
+        "text": "Investment Principles",
+        "page": 245,
+        "id": 710,
+        "depth": 4
+    },
+    {
+        "text": "Risk Profile of the Sub-Fund",
+        "page": 245,
+        "id": 711,
+        "depth": 4
+    },
+    {
+        "text": "Investor Profile",
+        "page": 246,
+        "id": 712,
+        "depth": 4
+    },
+    {
+        "text": "Base Currency",
+        "page": 246,
+        "id": 713,
+        "depth": 4
+    },
+    {
+        "text": "Fair Value Pricing Model",
+        "page": 246,
+        "id": 714,
+        "depth": 4
+    },
+    {
+        "text": "Launch date for those Share Classes already launched",
+        "page": 246,
+        "id": 715,
+        "depth": 4
+    },
+    {
+        "text": "Exchange Listing",
+        "page": 246,
+        "id": 716,
+        "depth": 4
+    },
+    {
+        "text": "Valuation",
+        "page": 246,
+        "id": 717,
+        "depth": 4
+    },
+    {
+        "text": "Available Share Classes/Investor Restrictions",
+        "page": 246,
+        "id": 718,
+        "depth": 4
+    },
+    {
+        "text": "Allianz RCM USD Liquidity",
+        "page": 247,
+        "id": 719,
+        "depth": 2
+    },
+    {
+        "text": "Information Sheet",
+        "page": 247,
+        "id": 720,
+        "depth": 3
+    },
+    {
+        "text": "Investment Objective",
+        "page": 247,
+        "id": 721,
+        "depth": 4
+    },
+    {
+        "text": "Investment Principles",
+        "page": 247,
+        "id": 722,
+        "depth": 4
+    },
+    {
+        "text": "For clarification purposes",
+        "page": 248,
+        "id": 723,
+        "depth": 4
+    },
+    {
+        "text": "Money Market Fund Classification",
+        "page": 248,
+        "id": 724,
+        "depth": 4
+    },
+    {
+        "text": "Risk Profile of the Sub-Fund",
+        "page": 248,
+        "id": 725,
+        "depth": 4
+    },
+    {
+        "text": "Possible Effects of the Use of Derivatives on the Risk Profile of the Sub-Fund",
+        "page": 248,
+        "id": 726,
+        "depth": 4
+    },
+    {
+        "text": "Investor Profile",
+        "page": 249,
+        "id": 727,
+        "depth": 4
+    },
+    {
+        "text": "Base Currency",
+        "page": 249,
+        "id": 728,
+        "depth": 4
+    },
+    {
+        "text": "Launch date for those Share Classes already launched",
+        "page": 249,
+        "id": 729,
+        "depth": 4
+    },
+    {
+        "text": "Allianz Real Estate Securities Europe",
+        "page": 250,
+        "id": 730,
+        "depth": 2
+    },
+    {
+        "text": "Information Sheet",
+        "page": 250,
+        "id": 731,
+        "depth": 3
+    },
+    {
+        "text": "Investment Objective",
+        "page": 250,
+        "id": 732,
+        "depth": 4
+    },
+    {
+        "text": "Investment Principles",
+        "page": 250,
+        "id": 733,
+        "depth": 4
+    },
+    {
+        "text": "Risk Profile of the Sub-Fund",
+        "page": 251,
+        "id": 734,
+        "depth": 4
+    },
+    {
+        "text": "Investor Profile",
+        "page": 252,
+        "id": 735,
+        "depth": 4
+    },
+    {
+        "text": "Launch date for those Share Classes already launched",
+        "page": 252,
+        "id": 736,
+        "depth": 4
+    },
+    {
+        "text": "Allianz Structured Alpha Strategy",
+        "page": 253,
+        "id": 737,
+        "depth": 2
+    },
+    {
+        "text": "Information Sheet",
+        "page": 235,
+        "id": 738,
+        "depth": 3
+    },
+    {
+        "text": "Investment Objective",
+        "page": 253,
+        "id": 739,
+        "depth": 4
+    },
+    {
+        "text": "Investment Principles",
+        "page": 254,
+        "id": 740,
+        "depth": 4
+    },
+    {
+        "text": "Limited Risk Diversification",
+        "page": 255,
+        "id": 741,
+        "depth": 4
+    },
+    {
+        "text": "Risk Profile of the Sub-Fund",
+        "page": 255,
+        "id": 742,
+        "depth": 4
+    },
+    {
+        "text": "Possible Effects of the Use of Derivatives on the Risk Profile of the Sub-Fund",
+        "page": 256,
+        "id": 743,
+        "depth": 4
+    },
+    {
+        "text": "Investor Profile",
+        "page": 256,
+        "id": 744,
+        "depth": 4
+    },
+    {
+        "text": "Launch date for those Share Classes already launched",
+        "page": 256,
+        "id": 745,
+        "depth": 4
+    },
+    {
+        "text": "Valuation",
+        "page": 256,
+        "id": 746,
+        "depth": 4
+    },
+    {
+        "text": "Trading Deadline",
+        "page": 256,
+        "id": 747,
+        "depth": 4
+    },
+    {
+        "text": "Performance-Related Fee",
+        "page": 256,
+        "id": 748,
+        "depth": 4
+    },
+    {
+        "text": "Available Share Classes/Investor Restrictions",
+        "page": 257,
+        "id": 749,
+        "depth": 4
+    },
+    {
+        "text": "Allianz Target Return Bond",
+        "page": 258,
+        "id": 750,
+        "depth": 2
+    },
+    {
+        "text": "Information Sheet",
+        "page": 258,
+        "id": 751,
+        "depth": 3
+    },
+    {
+        "text": "Investment Objective",
+        "page": 258,
+        "id": 752,
+        "depth": 4
+    },
+    {
+        "text": "Investment Principles",
+        "page": 258,
+        "id": 753,
+        "depth": 4
+    },
+    {
+        "text": "Limited Risk Diversification",
+        "page": 259,
+        "id": 754,
+        "depth": 4
+    },
+    {
+        "text": "Risk Profile of the Sub-Fund",
+        "page": 259,
+        "id": 755,
+        "depth": 4
+    },
+    {
+        "text": "Possible Effects of the Use of Derivatives on the Risk Profile of the Sub-Fund",
+        "page": 260,
+        "id": 756,
+        "depth": 4
+    },
+    {
+        "text": "Investor Profile",
+        "page": 260,
+        "id": 757,
+        "depth": 4
+    },
+    {
+        "text": "Launch date for those Share Classes already launched",
+        "page": 260,
+        "id": 758,
+        "depth": 4
+    },
+    {
+        "text": "Valuation",
+        "page": 260,
+        "id": 759,
+        "depth": 4
+    },
+    {
+        "text": "Trading Deadline",
+        "page": 260,
+        "id": 760,
+        "depth": 4
+    },
+    {
+        "text": "Restructuring Fee",
+        "page": 260,
+        "id": 761,
+        "depth": 4
+    },
+    {
+        "text": "Subscriptions",
+        "page": 261,
+        "id": 762,
+        "depth": 4
+    },
+    {
+        "text": "Disinvestment Fee",
+        "page": 261,
+        "id": 763,
+        "depth": 4
+    },
+    {
+        "text": "Allianz US High Yield",
+        "page": 262,
+        "id": 764,
+        "depth": 2
+    },
+    {
+        "text": "Information Sheet",
+        "page": 262,
+        "id": 765,
+        "depth": 3
+    },
+    {
+        "text": "Investment Objective",
+        "page": 262,
+        "id": 766,
+        "depth": 4
+    },
+    {
+        "text": "Investment Principles",
+        "page": 262,
+        "id": 767,
+        "depth": 4
+    },
+    {
+        "text": "Risk Profile of the Sub-Fund",
+        "page": 262,
+        "id": 768,
+        "depth": 4
+    },
+    {
+        "text": "Possible Effects of the Use of Derivatives on the Risk Profile of the Sub-Fund",
+        "page": 263,
+        "id": 769,
+        "depth": 4
+    },
+    {
+        "text": "Investor Profile",
+        "page": 263,
+        "id": 770,
+        "depth": 4
+    },
+    {
+        "text": "Base Currency",
+        "page": 263,
+        "id": 771,
+        "depth": 4
+    },
+    {
+        "text": "Launch date for those Share Classes already launched",
+        "page": 263,
+        "id": 772,
+        "depth": 4
+    },
+    {
+        "text": "Valuation",
+        "page": 263,
+        "id": 773,
+        "depth": 4
+    },
+    {
+        "text": "Allianz US Large Cap Value",
+        "page": 264,
+        "id": 774,
+        "depth": 2
+    },
+    {
+        "text": "Information Sheet",
+        "page": 264,
+        "id": 775,
+        "depth": 3
+    },
+    {
+        "text": "Investment Objective",
+        "page": 264,
+        "id": 776,
+        "depth": 4
+    },
+    {
+        "text": "Investment Principles",
+        "page": 264,
+        "id": 777,
+        "depth": 4
+    },
+    {
+        "text": "Risk Profile of the Sub-Fund",
+        "page": 264,
+        "id": 778,
+        "depth": 4
+    },
+    {
+        "text": "Investor Profile",
+        "page": 265,
+        "id": 779,
+        "depth": 4
+    },
+    {
+        "text": "Base Currency",
+        "page": 265,
+        "id": 780,
+        "depth": 4
+    },
+    {
+        "text": "Fair Value Pricing Model",
+        "page": 265,
+        "id": 781,
+        "depth": 4
+    },
+    {
+        "text": "Launch date for those Share Classes already launched",
+        "page": 265,
+        "id": 782,
+        "depth": 4
+    },
+    {
+        "text": "Valuation",
+        "page": 265,
+        "id": 783,
+        "depth": 4
+    },
+    {
+        "text": "Protect Global Winner 2014",
+        "page": 266,
+        "id": 784,
+        "depth": 2
+    },
+    {
+        "text": "Information Sheet",
+        "page": 166,
+        "id": 785,
+        "depth": 3
+    },
+    {
+        "text": "I. Investment Objective Phase 1 (until 25 April 2014 inclusive)",
+        "page": 166,
+        "id": 786,
+        "depth": 4
+    },
+    {
+        "text": "1) Overall Structure of Derivatives (Total Return Swap)",
+        "page": 166,
+        "id": 787,
+        "depth": 5
+    },
+    {
+        "text": "“Assurance of a minimum Redemption Price” component",
+        "page": 166,
+        "id": 788,
+        "depth": 6
+    },
+    {
+        "text": "“Participation in the potential performance of the Equity baskets” component",
+        "page": 266,
+        "id": 789,
+        "depth": 6
+    },
+    {
+        "text": "Calculation examples for the “Participation in the potential performance of the Equity baskets” component",
+        "page": 268,
+        "id": 790,
+        "depth": 6
+    },
+    {
+        "text": "2) Substitution of Equity Securities or Price Performance Adjustments in the Case of Events related to Equity Securities",
+        "page": 269,
+        "id": 791,
+        "depth": 5
+    },
+    {
+        "text": "II. Guarantee as at 25 April 2014",
+        "page": 169,
+        "id": 792,
+        "depth": 4
+    },
+    {
+        "text": "III. Investment Objective of following phases (from 26 April 2014 onwards)",
+        "page": 270,
+        "id": 793,
+        "depth": 4
+    },
+    {
+        "text": "IV. Investment Principles",
+        "page": 270,
+        "id": 794,
+        "depth": 4
+    },
+    {
+        "text": "Risk Profile of the Sub-Fund",
+        "page": 271,
+        "id": 795,
+        "depth": 4
+    },
+    {
+        "text": "Possible Effects of the Use of Derivatives on the Risk Profile of the Sub-Fund",
+        "page": 272,
+        "id": 796,
+        "depth": 4
+    },
+    {
+        "text": "Investor Profile",
+        "page": 272,
+        "id": 797,
+        "depth": 4
+    },
+    {
+        "text": "Launch date for those Share Classes already launched",
+        "page": 272,
+        "id": 798,
+        "depth": 4
+    },
+    {
+        "text": "Trading Deadline",
+        "page": 272,
+        "id": 799,
+        "depth": 4
+    },
+    {
+        "text": "Part 4: Important Information for Investors",
+        "page": 273,
+        "id": 800,
+        "depth": 1
+    },
+    {
+        "text": "Austria",
+        "page": 273,
+        "id": 801,
+        "depth": 2
+    },
+    {
+        "text": "Note for Investors in the Republic of Austria",
+        "page": 273,
+        "id": 802,
+        "depth": 3
+    },
+    {
+        "text": "Denmark",
+        "page": 273,
+        "id": 803,
+        "depth": 2
+    },
+    {
+        "text": "Taxation of Danish Investors in Denmark",
+        "page": 273,
+        "id": 804,
+        "depth": 3
+    },
+    {
+        "text": "Individuals",
+        "page": 273,
+        "id": 805,
+        "depth": 3
+    },
+    {
+        "text": "Companies",
+        "page": 274,
+        "id": 806,
+        "depth": 3
+    },
+    {
+        "text": "Life Assurance Company, Pension Funds and Deposits in Pension Accounts",
+        "page": 274,
+        "id": 807,
+        "depth": 3
+    },
+    {
+        "text": "France",
+        "page": 274,
+        "id": 808,
+        "depth": 2
+    },
+    {
+        "text": "Note for Investors Subject to Taxes in France",
+        "page": 274,
+        "id": 809,
+        "depth": 3
+    },
+    {
+        "text": "Germany",
+        "page": 275,
+        "id": 810,
+        "depth": 2
+    },
+    {
+        "text": "Note for Investors in the Federal Republic of Germany",
+        "page": 275,
+        "id": 811,
+        "depth": 3
+    },
+    {
+        "text": "Risk of Change to Announced Bases of Taxation for Investors Subject to Taxes in the Federal Republic of Germany",
+        "page": 275,
+        "id": 812,
+        "depth": 3
+    },
+    {
+        "text": "Ireland",
+        "page": 275,
+        "id": 813,
+        "depth": 2
+    },
+    {
+        "text": "Taxation in Ireland",
+        "page": 275,
+        "id": 814,
+        "depth": 3
+    },
+    {
+        "text": "Scope of Irish Tax",
+        "page": 276,
+        "id": 815,
+        "depth": 4
+    },
+    {
+        "text": "Filing Obligations",
+        "page": 276,
+        "id": 816,
+        "depth": 4
+    },
+    {
+        "text": "Tax on Distributions",
+        "page": 276,
+        "id": 817,
+        "depth": 4
+    },
+    {
+        "text": "Tax on Disposals",
+        "page": 276,
+        "id": 818,
+        "depth": 4
+    },
+    {
+        "text": "Encashment Tax",
+        "page": 277,
+        "id": 819,
+        "depth": 4
+    },
+    {
+        "text": "Stamp Duty",
+        "page": 277,
+        "id": 820,
+        "depth": 4
+    },
+    {
+        "text": "Disposal of Shares and Capital Acquisitions Tax",
+        "page": 277,
+        "id": 821,
+        "depth": 4
+    },
+    {
+        "text": "Dealing Arrangements and Information for Investors in Ireland",
+        "page": 278,
+        "id": 822,
+        "depth": 3
+    },
+    {
+        "text": "Miscellaneous",
+        "page": 278,
+        "id": 823,
+        "depth": 3
+    },
+    {
+        "text": "Italy",
+        "page": 279,
+        "id": 824,
+        "depth": 2
+    },
+    {
+        "text": "Switzerland",
+        "page": 279,
+        "id": 825,
+        "depth": 2
+    },
+    {
+        "text": "Note for Investors in Switzerland",
+        "page": 279,
+        "id": 826,
+        "depth": 3
+    },
+    {
+        "text": "1. Representative and Paying Agent in Switzerland",
+        "page": 279,
+        "id": 827,
+        "depth": 4
+    },
+    {
+        "text": "2. Place where the relevant documents may be obtained",
+        "page": 279,
+        "id": 828,
+        "depth": 4
+    },
+    {
+        "text": "3. Publications",
+        "page": 279,
+        "id": 829,
+        "depth": 4
+    },
+    {
+        "text": "4. Payment of remunerations and distribution remuneration",
+        "page": 279,
+        "id": 830,
+        "depth": 4
+    },
+    {
+        "text": "5. Place of performance and jurisdiction",
+        "page": 280,
+        "id": 831,
+        "depth": 4
+    },
+    {
+        "text": "United Kingdom",
+        "page": 280,
+        "id": 832,
+        "depth": 2
+    },
+    {
+        "text": "Note for Investors in the United Kingdom",
+        "page": 280,
+        "id": 833,
+        "depth": 3
+    },
+    {
+        "text": "UK Distributor Status Shares and UK Reporting Status Shares",
+        "page": 280,
+        "id": 834,
+        "depth": 3
+    },
+    {
+        "text": "Available Documentation",
+        "page": 281,
+        "id": 835,
+        "depth": 2
+    },
+    {
+        "text": "Directory",
+        "page": 282,
+        "id": 836,
+        "depth": 1
+    }
+]

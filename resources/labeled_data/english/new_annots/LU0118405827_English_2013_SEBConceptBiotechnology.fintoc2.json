@@ -1,0 +1,620 @@
+[
+    {
+        "text": "Prospectus SEB Concept Biotechnology",
+        "page": 1,
+        "id": 1,
+        "depth": 1
+    },
+    {
+        "text": "Important information",
+        "page": 2,
+        "id": 2,
+        "depth": 2
+    },
+    {
+        "text": "Glossary of terms",
+        "page": 3,
+        "id": 3,
+        "depth": 2
+    },
+    {
+        "text": "TABLE OF CONTENTS",
+        "page": 5,
+        "id": 4,
+        "depth": 2
+    },
+    {
+        "text": "The Fund",
+        "page": 6,
+        "id": 5,
+        "depth": 1
+    },
+    {
+        "text": "1. General Information",
+        "page": 6,
+        "id": 6,
+        "depth": 2
+    },
+    {
+        "text": "2. Involved Parties",
+        "page": 7,
+        "id": 7,
+        "depth": 2
+    },
+    {
+        "text": "2.1. Presentation of involved parties",
+        "page": 7,
+        "id": 8,
+        "depth": 3
+    },
+    {
+        "text": "Promoter",
+        "page": 7,
+        "id": 9,
+        "depth": 4
+    },
+    {
+        "text": "Management Company 1",
+        "page": 7,
+        "id": 10,
+        "depth": 4
+    },
+    {
+        "text": "Board of Directors of the Management Company",
+        "page": 7,
+        "id": 11,
+        "depth": 4
+    },
+    {
+        "text": "Chairperson",
+        "page": 7,
+        "id": 12,
+        "depth": 5
+    },
+    {
+        "text": "Members",
+        "page": 7,
+        "id": 13,
+        "depth": 5
+    },
+    {
+        "text": "Conducting officers",
+        "page": 7,
+        "id": 14,
+        "depth": 5
+    },
+    {
+        "text": "Investment Manager",
+        "page": 8,
+        "id": 15,
+        "depth": 4
+    },
+    {
+        "text": "Global Distributor",
+        "page": 8,
+        "id": 16,
+        "depth": 4
+    },
+    {
+        "text": "Representatives and outside Luxembourg",
+        "page": 8,
+        "id": 17,
+        "depth": 4
+    },
+    {
+        "text": "Custodian Bank",
+        "page": 8,
+        "id": 18,
+        "depth": 4
+    },
+    {
+        "text": "2.2. Description of involved parties",
+        "page": 9,
+        "id": 19,
+        "depth": 3
+    },
+    {
+        "text": "2.2.1. The Management Company",
+        "page": 9,
+        "id": 20,
+        "depth": 4
+    },
+    {
+        "text": "2.2.2. The Central Administration",
+        "page": 9,
+        "id": 21,
+        "depth": 4
+    },
+    {
+        "text": "2.2.3. The Investment Manager",
+        "page": 9,
+        "id": 22,
+        "depth": 4
+    },
+    {
+        "text": "2.2.4. The Global Distributor",
+        "page": 9,
+        "id": 23,
+        "depth": 4
+    },
+    {
+        "text": "2.2.5. The Custodian Bank",
+        "page": 10,
+        "id": 24,
+        "depth": 4
+    },
+    {
+        "text": "3. Investment Objective and Policy",
+        "page": 10,
+        "id": 25,
+        "depth": 2
+    },
+    {
+        "text": "3.1. Eligible Assets",
+        "page": 10,
+        "id": 26,
+        "depth": 3
+    },
+    {
+        "text": "Transferable securities and money market instruments, as defined in the Law",
+        "page": 10,
+        "id": 27,
+        "depth": 4
+    },
+    {
+        "text": "Units of undertakings for collective investment",
+        "page": 11,
+        "id": 28,
+        "depth": 4
+    },
+    {
+        "text": "Deposits with a credit institution",
+        "page": 11,
+        "id": 29,
+        "depth": 4
+    },
+    {
+        "text": "Financial derivative instruments",
+        "page": 11,
+        "id": 30,
+        "depth": 4
+    },
+    {
+        "text": "Total Return swaps",
+        "page": 12,
+        "id": 31,
+        "depth": 4
+    },
+    {
+        "text": "Money market instruments other than those dealt in on a regulated market",
+        "page": 12,
+        "id": 32,
+        "depth": 4
+    },
+    {
+        "text": "3.2. Investment restrictions applicable to Eligible Assets",
+        "page": 12,
+        "id": 33,
+        "depth": 3
+    },
+    {
+        "text": "Transferable securities and money market instruments as defined in the Law",
+        "page": 12,
+        "id": 34,
+        "depth": 4
+    },
+    {
+        "text": "Units of undertakings for collective investment",
+        "page": 13,
+        "id": 35,
+        "depth": 4
+    },
+    {
+        "text": "Deposits with credit institutions",
+        "page": 14,
+        "id": 36,
+        "depth": 4
+    },
+    {
+        "text": "Financial derivative instruments",
+        "page": 14,
+        "id": 37,
+        "depth": 4
+    },
+    {
+        "text": "Maximum exposure to a single body",
+        "page": 14,
+        "id": 38,
+        "depth": 4
+    },
+    {
+        "text": "Eligible Assets issued by the same group",
+        "page": 14,
+        "id": 39,
+        "depth": 4
+    },
+    {
+        "text": "Acquisition limits by issuer of Eligible Assets",
+        "page": 15,
+        "id": 40,
+        "depth": 4
+    },
+    {
+        "text": "3.3. Unauthorized investments",
+        "page": 15,
+        "id": 41,
+        "depth": 3
+    },
+    {
+        "text": "3.4. Efficient portfolio management techniques",
+        "page": 16,
+        "id": 42,
+        "depth": 3
+    },
+    {
+        "text": "3.5. Collateral management",
+        "page": 16,
+        "id": 43,
+        "depth": 3
+    },
+    {
+        "text": "4. Information on risk",
+        "page": 16,
+        "id": 44,
+        "depth": 2
+    },
+    {
+        "text": "4.1. General information",
+        "page": 16,
+        "id": 45,
+        "depth": 3
+    },
+    {
+        "text": "4.2. Risk factors",
+        "page": 17,
+        "id": 46,
+        "depth": 3
+    },
+    {
+        "text": "Specific Risk Profile of the Fund",
+        "page": 17,
+        "id": 47,
+        "depth": 4
+    },
+    {
+        "text": "Company-specific risk",
+        "page": 17,
+        "id": 48,
+        "depth": 4
+    },
+    {
+        "text": "Counterparty and settlement risk",
+        "page": 17,
+        "id": 49,
+        "depth": 4
+    },
+    {
+        "text": "Currency risk",
+        "page": 17,
+        "id": 50,
+        "depth": 4
+    },
+    {
+        "text": "Derivatives",
+        "page": 17,
+        "id": 51,
+        "depth": 4
+    },
+    {
+        "text": "Efficient portfolio management techniques",
+        "page": 18,
+        "id": 52,
+        "depth": 4
+    },
+    {
+        "text": "Liquidity risk",
+        "page": 18,
+        "id": 53,
+        "depth": 4
+    },
+    {
+        "text": "Market risk",
+        "page": 18,
+        "id": 54,
+        "depth": 4
+    },
+    {
+        "text": "Operational risk",
+        "page": 18,
+        "id": 55,
+        "depth": 4
+    },
+    {
+        "text": "Risk of default",
+        "page": 18,
+        "id": 56,
+        "depth": 4
+    },
+    {
+        "text": "Sector Risk",
+        "page": 19,
+        "id": 57,
+        "depth": 4
+    },
+    {
+        "text": "4.3. Risk management process",
+        "page": 19,
+        "id": 58,
+        "depth": 3
+    },
+    {
+        "text": "a) Global exposure",
+        "page": 19,
+        "id": 59,
+        "depth": 4
+    },
+    {
+        "text": "b) Leverage",
+        "page": 19,
+        "id": 60,
+        "depth": 4
+    },
+    {
+        "text": "5. Units",
+        "page": 19,
+        "id": 61,
+        "depth": 2
+    },
+    {
+        "text": "5.1. Unit Classes",
+        "page": 19,
+        "id": 62,
+        "depth": 3
+    },
+    {
+        "text": "5.1.1. Dividend policy",
+        "page": 19,
+        "id": 63,
+        "depth": 4
+    },
+    {
+        "text": "5.1.2 Hedging Policy",
+        "page": 20,
+        "id": 64,
+        "depth": 4
+    },
+    {
+        "text": "5.1.3. Target investors",
+        "page": 20,
+        "id": 65,
+        "depth": 4
+    },
+    {
+        "text": "5.1.4. Registered / bearer Units",
+        "page": 20,
+        "id": 66,
+        "depth": 4
+    },
+    {
+        "text": "5.2. Issue of Units",
+        "page": 20,
+        "id": 67,
+        "depth": 3
+    },
+    {
+        "text": "5.2.1. Restriction on issue",
+        "page": 21,
+        "id": 68,
+        "depth": 4
+    },
+    {
+        "text": "5.2.2. Anti-money laundering procedures",
+        "page": 21,
+        "id": 69,
+        "depth": 4
+    },
+    {
+        "text": "5.3. Redemption of Units",
+        "page": 22,
+        "id": 70,
+        "depth": 3
+    },
+    {
+        "text": "5.3.1. Compulsory Redemption of Units",
+        "page": 22,
+        "id": 71,
+        "depth": 4
+    },
+    {
+        "text": "5.4. Conversion of Units",
+        "page": 22,
+        "id": 72,
+        "depth": 3
+    },
+    {
+        "text": "5.5. Classes of Units available",
+        "page": 23,
+        "id": 73,
+        "depth": 3
+    },
+    {
+        "text": "5.6. Cut-off Time",
+        "page": 23,
+        "id": 74,
+        "depth": 3
+    },
+    {
+        "text": "6. Charges",
+        "page": 23,
+        "id": 75,
+        "depth": 2
+    },
+    {
+        "text": "7. NAV calculation",
+        "page": 23,
+        "id": 76,
+        "depth": 2
+    },
+    {
+        "text": "8. Mergers",
+        "page": 24,
+        "id": 77,
+        "depth": 2
+    },
+    {
+        "text": "9. Duration and liquidation of the Fund",
+        "page": 24,
+        "id": 78,
+        "depth": 2
+    },
+    {
+        "text": "10. Taxation of the Fund and the Unitholders",
+        "page": 24,
+        "id": 79,
+        "depth": 2
+    },
+    {
+        "text": "10.1. Taxation of the Fund",
+        "page": 24,
+        "id": 80,
+        "depth": 3
+    },
+    {
+        "text": "1) Subscription tax",
+        "page": 25,
+        "id": 81,
+        "depth": 4
+    },
+    {
+        "text": "2) Withholding tax",
+        "page": 25,
+        "id": 82,
+        "depth": 4
+    },
+    {
+        "text": "3) Income tax",
+        "page": 25,
+        "id": 83,
+        "depth": 4
+    },
+    {
+        "text": "4) Value added tax",
+        "page": 25,
+        "id": 84,
+        "depth": 4
+    },
+    {
+        "text": "5) Other taxes",
+        "page": 25,
+        "id": 85,
+        "depth": 4
+    },
+    {
+        "text": "10.2. Taxation of the Unitholders",
+        "page": 26,
+        "id": 86,
+        "depth": 3
+    },
+    {
+        "text": "11. Information to Unitholders",
+        "page": 26,
+        "id": 87,
+        "depth": 2
+    },
+    {
+        "text": "11.1. Prospectus, Management Regulations and KIID",
+        "page": 26,
+        "id": 88,
+        "depth": 3
+    },
+    {
+        "text": "11.2. Reports and financial statements",
+        "page": 26,
+        "id": 89,
+        "depth": 3
+    },
+    {
+        "text": "11.3. Issue and redemption prices and other information to Unitholders",
+        "page": 26,
+        "id": 90,
+        "depth": 3
+    },
+    {
+        "text": "11.4. Stock Exchange Listing",
+        "page": 26,
+        "id": 91,
+        "depth": 3
+    },
+    {
+        "text": "11.5. Best execution",
+        "page": 26,
+        "id": 92,
+        "depth": 3
+    },
+    {
+        "text": "11.6. Voting rights",
+        "page": 26,
+        "id": 93,
+        "depth": 3
+    },
+    {
+        "text": "11.7. Complaints’ handling",
+        "page": 27,
+        "id": 94,
+        "depth": 3
+    },
+    {
+        "text": "11.8. Conflict of interest",
+        "page": 27,
+        "id": 95,
+        "depth": 3
+    },
+    {
+        "text": "11.9. Unitholders' rights against the Fund",
+        "page": 27,
+        "id": 96,
+        "depth": 3
+    },
+    {
+        "text": "ADDITIONAL INFORMATION FOR INVESTORS IN GERMANY",
+        "page": 28,
+        "id": 97,
+        "depth": 1
+    },
+    {
+        "text": "Distributor in Germany",
+        "page": 28,
+        "id": 98,
+        "depth": 2
+    },
+    {
+        "text": "Paying and Information Agent in Germany",
+        "page": 28,
+        "id": 99,
+        "depth": 2
+    },
+    {
+        "text": "Right of Revocation pursuant to § 305 KAGB",
+        "page": 28,
+        "id": 100,
+        "depth": 2
+    },
+    {
+        "text": "Publications",
+        "page": 28,
+        "id": 101,
+        "depth": 2
+    },
+    {
+        "text": "Information Relating to the German Paying Agent",
+        "page": 29,
+        "id": 102,
+        "depth": 2
+    },
+    {
+        "text": "Specific risks arising from new obligations on the publication of tax data in Germany",
+        "page": 29,
+        "id": 103,
+        "depth": 2
+    }
+]

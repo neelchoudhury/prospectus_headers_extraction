@@ -1,0 +1,632 @@
+[
+    {
+        "text": "ROBECO INTEREST PLUS FUNDS",
+        "page": 1,
+        "id": 1,
+        "depth": 1
+    },
+    {
+        "text": "TABLE OF CONTENTS",
+        "page": 3,
+        "id": 2,
+        "depth": 2
+    },
+    {
+        "text": "GLOSSARY OF DEFINED TERMS",
+        "page": 5,
+        "id": 3,
+        "depth": 2
+    },
+    {
+        "text": "DIRECTORS AND ADMINISTRATION",
+        "page": 9,
+        "id": 4,
+        "depth": 1
+    },
+    {
+        "text": "Directors",
+        "page": 9,
+        "id": 5,
+        "depth": 2
+    },
+    {
+        "text": "Registered Office",
+        "page": 9,
+        "id": 6,
+        "depth": 2
+    },
+    {
+        "text": "Management Company:",
+        "page": 9,
+        "id": 7,
+        "depth": 2
+    },
+    {
+        "text": "Auditor",
+        "page": 9,
+        "id": 8,
+        "depth": 2
+    },
+    {
+        "text": "Custodian, Paying Agent, Domiciliary Agent and Listing Agent",
+        "page": 9,
+        "id": 9,
+        "depth": 2
+    },
+    {
+        "text": "Administration Agent and Registrar",
+        "page": 9,
+        "id": 10,
+        "depth": 2
+    },
+    {
+        "text": "Investment Adviser",
+        "page": 9,
+        "id": 11,
+        "depth": 2
+    },
+    {
+        "text": "Representative in Switzerland",
+        "page": 9,
+        "id": 12,
+        "depth": 2
+    },
+    {
+        "text": "SECTION 1 – THE FUND",
+        "page": 10,
+        "id": 13,
+        "depth": 1
+    },
+    {
+        "text": "1.1. Summary",
+        "page": 10,
+        "id": 14,
+        "depth": 2
+    },
+    {
+        "text": "1.2. Legal Entity",
+        "page": 11,
+        "id": 15,
+        "depth": 2
+    },
+    {
+        "text": "SECTION 2 – THE SHARES",
+        "page": 12,
+        "id": 16,
+        "depth": 1
+    },
+    {
+        "text": "2.1. Classes of Shares",
+        "page": 12,
+        "id": 17,
+        "depth": 2
+    },
+    {
+        "text": "Regular Share Classes",
+        "page": 12,
+        "id": 18,
+        "depth": 3
+    },
+    {
+        "text": "Privileged Share Classes",
+        "page": 12,
+        "id": 19,
+        "depth": 3
+    },
+    {
+        "text": "Institutional Share Classes",
+        "page": 12,
+        "id": 20,
+        "depth": 3
+    },
+    {
+        "text": "Hedging Transactions for certain Classes",
+        "page": 13,
+        "id": 21,
+        "depth": 3
+    },
+    {
+        "text": "Currency Hedged Classes",
+        "page": 13,
+        "id": 22,
+        "depth": 4
+    },
+    {
+        "text": "Hedged Inflation Classes",
+        "page": 13,
+        "id": 23,
+        "depth": 4
+    },
+    {
+        "text": "2.2. Issue of Shares",
+        "page": 14,
+        "id": 24,
+        "depth": 2
+    },
+    {
+        "text": "2.3. Switch of Shares",
+        "page": 15,
+        "id": 25,
+        "depth": 2
+    },
+    {
+        "text": "2.4. Redemption of Shares",
+        "page": 16,
+        "id": 26,
+        "depth": 2
+    },
+    {
+        "text": "2.5. Calculation of the Net Asset Value",
+        "page": 17,
+        "id": 27,
+        "depth": 2
+    },
+    {
+        "text": "The assets of each Sub-fund of the Company will be valued as follows",
+        "page": 17,
+        "id": 28,
+        "depth": 3
+    },
+    {
+        "text": "Swing pricing",
+        "page": 18,
+        "id": 29,
+        "depth": 3
+    },
+    {
+        "text": "2.6. Temporary Suspension of the determination of the Net Asset Value",
+        "page": 19,
+        "id": 30,
+        "depth": 2
+    },
+    {
+        "text": "2.7. Dividend policy",
+        "page": 19,
+        "id": 31,
+        "depth": 2
+    },
+    {
+        "text": "1. For the accumulation Classes of Shares (collectively or individually \"Capital Growth Classes\").",
+        "page": 19,
+        "id": 32,
+        "depth": 3
+    },
+    {
+        "text": "2. For the distribution Classes of Shares (collectively or individually \"Distributing Classes\")",
+        "page": 20,
+        "id": 33,
+        "depth": 3
+    },
+    {
+        "text": "3. General remarks",
+        "page": 20,
+        "id": 34,
+        "depth": 3
+    },
+    {
+        "text": "2.8. Taxation",
+        "page": 20,
+        "id": 35,
+        "depth": 2
+    },
+    {
+        "text": "A. Taxation of the Company",
+        "page": 20,
+        "id": 36,
+        "depth": 3
+    },
+    {
+        "text": "B. Taxation of the Shareholders",
+        "page": 20,
+        "id": 37,
+        "depth": 3
+    },
+    {
+        "text": "C. Foreign Account Tax Compliance Act (“FATCA”)",
+        "page": 21,
+        "id": 38,
+        "depth": 3
+    },
+    {
+        "text": "SECTION 3 – GENERAL INFORMATION",
+        "page": 23,
+        "id": 39,
+        "depth": 1
+    },
+    {
+        "text": "3.1. Fees and Expenses",
+        "page": 23,
+        "id": 40,
+        "depth": 2
+    },
+    {
+        "text": "1. Expenses",
+        "page": 23,
+        "id": 41,
+        "depth": 3
+    },
+    {
+        "text": "2. Management fee",
+        "page": 23,
+        "id": 42,
+        "depth": 3
+    },
+    {
+        "text": "3. Service fee",
+        "page": 23,
+        "id": 43,
+        "depth": 3
+    },
+    {
+        "text": "4. Custody fee",
+        "page": 23,
+        "id": 44,
+        "depth": 3
+    },
+    {
+        "text": "5. Other information",
+        "page": 23,
+        "id": 45,
+        "depth": 3
+    },
+    {
+        "text": "3.2. Late trading or market timing",
+        "page": 24,
+        "id": 46,
+        "depth": 2
+    },
+    {
+        "text": "3.3. Pooling and co-management",
+        "page": 24,
+        "id": 47,
+        "depth": 2
+    },
+    {
+        "text": "3.4. Management Company",
+        "page": 25,
+        "id": 48,
+        "depth": 2
+    },
+    {
+        "text": "3.5. Investment Adviser",
+        "page": 25,
+        "id": 49,
+        "depth": 2
+    },
+    {
+        "text": "3.6. Structure and purpose",
+        "page": 26,
+        "id": 50,
+        "depth": 2
+    },
+    {
+        "text": "3.7. Custodian, paying agent, listing agent and domiciliary agent",
+        "page": 26,
+        "id": 51,
+        "depth": 2
+    },
+    {
+        "text": "3.8. Administration Agent and Registrar",
+        "page": 27,
+        "id": 52,
+        "depth": 2
+    },
+    {
+        "text": "3.9. Meetings and Reports",
+        "page": 27,
+        "id": 53,
+        "depth": 2
+    },
+    {
+        "text": "3.10. Liquidation and merger",
+        "page": 27,
+        "id": 54,
+        "depth": 2
+    },
+    {
+        "text": "Liquidation of the Company",
+        "page": 27,
+        "id": 55,
+        "depth": 3
+    },
+    {
+        "text": "Liquidation and merger of Sub-funds",
+        "page": 28,
+        "id": 56,
+        "depth": 3
+    },
+    {
+        "text": "3.11. Liquidation and Merger of Classes of Shares",
+        "page": 28,
+        "id": 57,
+        "depth": 2
+    },
+    {
+        "text": "3.12. Transactions with connected persons",
+        "page": 29,
+        "id": 58,
+        "depth": 2
+    },
+    {
+        "text": "3.13. Data protection and voice recording",
+        "page": 29,
+        "id": 59,
+        "depth": 2
+    },
+    {
+        "text": "3.14. Documents available for inspection",
+        "page": 30,
+        "id": 60,
+        "depth": 2
+    },
+    {
+        "text": "SECTION 4 – RISK CONSIDERATIONS",
+        "page": 31,
+        "id": 61,
+        "depth": 1
+    },
+    {
+        "text": "a) General investment risk",
+        "page": 31,
+        "id": 62,
+        "depth": 2
+    },
+    {
+        "text": "Market risk",
+        "page": 31,
+        "id": 63,
+        "depth": 3
+    },
+    {
+        "text": "Concentration risk",
+        "page": 31,
+        "id": 64,
+        "depth": 3
+    },
+    {
+        "text": "Currency risk",
+        "page": 31,
+        "id": 65,
+        "depth": 3
+    },
+    {
+        "text": "Inflation risk",
+        "page": 31,
+        "id": 66,
+        "depth": 3
+    },
+    {
+        "text": "Risk related to fixed income securities",
+        "page": 32,
+        "id": 67,
+        "depth": 3
+    },
+    {
+        "text": "Early termination risk",
+        "page": 32,
+        "id": 68,
+        "depth": 3
+    },
+    {
+        "text": "b) Counterparty risk",
+        "page": 32,
+        "id": 69,
+        "depth": 2
+    },
+    {
+        "text": "c) Liquidity risk",
+        "page": 33,
+        "id": 70,
+        "depth": 2
+    },
+    {
+        "text": "d) Risk of use of financial derivative instruments",
+        "page": 33,
+        "id": 71,
+        "depth": 2
+    },
+    {
+        "text": "e) Risk of lending financial instruments",
+        "page": 34,
+        "id": 72,
+        "depth": 2
+    },
+    {
+        "text": "f) Risk of (reverse) repurchase agreements",
+        "page": 34,
+        "id": 73,
+        "depth": 2
+    },
+    {
+        "text": "g) Sovereign risk",
+        "page": 34,
+        "id": 74,
+        "depth": 2
+    },
+    {
+        "text": "h) Valuation risk",
+        "page": 34,
+        "id": 75,
+        "depth": 2
+    },
+    {
+        "text": "i) Fiscal risk",
+        "page": 35,
+        "id": 76,
+        "depth": 2
+    },
+    {
+        "text": "j) Operational risk",
+        "page": 35,
+        "id": 77,
+        "depth": 2
+    },
+    {
+        "text": "k) Outsourcing risk",
+        "page": 35,
+        "id": 78,
+        "depth": 2
+    },
+    {
+        "text": "l) Model risk",
+        "page": 35,
+        "id": 79,
+        "depth": 2
+    },
+    {
+        "text": "m) FATCA related risks",
+        "page": 35,
+        "id": 80,
+        "depth": 2
+    },
+    {
+        "text": "APPENDIX I – INFORMATION PER SUB-FUND",
+        "page": 36,
+        "id": 81,
+        "depth": 1
+    },
+    {
+        "text": "a) Robeco Flex-o-Rente",
+        "page": 36,
+        "id": 82,
+        "depth": 2
+    },
+    {
+        "text": "Investment policy",
+        "page": 36,
+        "id": 83,
+        "depth": 3
+    },
+    {
+        "text": "Profile of the typical Investor",
+        "page": 36,
+        "id": 84,
+        "depth": 3
+    },
+    {
+        "text": "Risk profile of the Sub- fund",
+        "page": 36,
+        "id": 85,
+        "depth": 3
+    },
+    {
+        "text": "Risk considerations for the Sub-fund",
+        "page": 37,
+        "id": 86,
+        "depth": 3
+    },
+    {
+        "text": "Investment Adviser",
+        "page": 37,
+        "id": 87,
+        "depth": 3
+    },
+    {
+        "text": "Base currency",
+        "page": 37,
+        "id": 88,
+        "depth": 3
+    },
+    {
+        "text": "Issue date",
+        "page": 37,
+        "id": 89,
+        "depth": 3
+    },
+    {
+        "text": "APPENDIX II – INVESTMENT RESTRICTIONS",
+        "page": 38,
+        "id": 90,
+        "depth": 1
+    },
+    {
+        "text": "APPENDIX III – FINANCIAL RISK MANAGEMENT",
+        "page": 43,
+        "id": 91,
+        "depth": 1
+    },
+    {
+        "text": "Market risk",
+        "page": 43,
+        "id": 92,
+        "depth": 2
+    },
+    {
+        "text": "Counterparty risk",
+        "page": 43,
+        "id": 93,
+        "depth": 2
+    },
+    {
+        "text": "Liquidity risk",
+        "page": 44,
+        "id": 94,
+        "depth": 2
+    },
+    {
+        "text": "Global exposure calculation",
+        "page": 44,
+        "id": 95,
+        "depth": 2
+    },
+    {
+        "text": "APPENDIX IV – FINANCIAL DERIVATIVE INSTRUMENTS AND EFFICIENT PORTFOLIO MANAGEMENT TECHNIQUES AND INSTRUMENTS",
+        "page": 45,
+        "id": 96,
+        "depth": 1
+    },
+    {
+        "text": "SECURITIES LENDING AND REPURCHASE AGREEMENTS",
+        "page": 45,
+        "id": 97,
+        "depth": 2
+    },
+    {
+        "text": "Specific risks linked to securities lending and repurchase agreements",
+        "page": 46,
+        "id": 98,
+        "depth": 3
+    },
+    {
+        "text": "FINANCIAL DERIVATIVE INSTRUMENTS",
+        "page": 46,
+        "id": 99,
+        "depth": 2
+    },
+    {
+        "text": "Conflict of interest",
+        "page": 47,
+        "id": 100,
+        "depth": 3
+    },
+    {
+        "text": "Credit Default Swaps",
+        "page": 47,
+        "id": 101,
+        "depth": 3
+    },
+    {
+        "text": "Interest rate Swaps",
+        "page": 48,
+        "id": 102,
+        "depth": 3
+    },
+    {
+        "text": "Details on the use of certain derivatives",
+        "page": 48,
+        "id": 103,
+        "depth": 3
+    },
+    {
+        "text": "Specific risks linked to financial derivatives instruments",
+        "page": 48,
+        "id": 104,
+        "depth": 3
+    },
+    {
+        "text": "COLLATERAL MANAGEMENT FOR SECURITIES LENDING, REPURCHASE AGREEMENTS AND FINANCIAL DERIVATIVE TRANSACTIONS",
+        "page": 48,
+        "id": 105,
+        "depth": 2
+    }
+]

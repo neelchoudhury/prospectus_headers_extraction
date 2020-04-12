@@ -1,0 +1,896 @@
+[
+    {
+        "text": "LONG TERM INVESTMENT FUND (SIA)",
+        "page": 1,
+        "id": 1,
+        "depth": 1
+    },
+    {
+        "text": "1. IMPORTANT INFORMATION",
+        "page": 2,
+        "id": 2,
+        "depth": 1
+    },
+    {
+        "text": "2. RESTRICTIONS APPLYING TO US INVESTORS",
+        "page": 3,
+        "id": 3,
+        "depth": 1
+    },
+    {
+        "text": "3. CONTENTS",
+        "page": 4,
+        "id": 4,
+        "depth": 1
+    },
+    {
+        "text": "4. MANAGEMENT AND ADMINISTRATION",
+        "page": 7,
+        "id": 5,
+        "depth": 1
+    },
+    {
+        "text": "Registered Office",
+        "page": 7,
+        "id": 6,
+        "depth": 2
+    },
+    {
+        "text": "Board of Directors of the Company",
+        "page": 7,
+        "id": 7,
+        "depth": 2
+    },
+    {
+        "text": "Chairman:",
+        "page": 7,
+        "id": 8,
+        "depth": 3
+    },
+    {
+        "text": "Directors",
+        "page": 7,
+        "id": 9,
+        "depth": 3
+    },
+    {
+        "text": "Day-to-day managers appointed by the Board of Directors",
+        "page": 7,
+        "id": 10,
+        "depth": 2
+    },
+    {
+        "text": "Custodian",
+        "page": 7,
+        "id": 11,
+        "depth": 2
+    },
+    {
+        "text": "Central administration Agent",
+        "page": 7,
+        "id": 12,
+        "depth": 2
+    },
+    {
+        "text": "Investment Manager appointed by the Board of Directors",
+        "page": 8,
+        "id": 13,
+        "depth": 2
+    },
+    {
+        "text": "Global distributor",
+        "page": 8,
+        "id": 14,
+        "depth": 2
+    },
+    {
+        "text": "Auditors",
+        "page": 8,
+        "id": 15,
+        "depth": 2
+    },
+    {
+        "text": "Promoter",
+        "page": 8,
+        "id": 16,
+        "depth": 2
+    },
+    {
+        "text": "5. DEFINITIONS",
+        "page": 9,
+        "id": 17,
+        "depth": 1
+    },
+    {
+        "text": "6. LEGAL STATUS",
+        "page": 12,
+        "id": 18,
+        "depth": 1
+    },
+    {
+        "text": "7. OBJECTIVES AND STRUCTURE",
+        "page": 12,
+        "id": 19,
+        "depth": 1
+    },
+    {
+        "text": "8. ORGANISATION OF MANAGEMENT AND ADMINISTRATION",
+        "page": 12,
+        "id": 20,
+        "depth": 1
+    },
+    {
+        "text": "Day-to-day managers appointed by the Board of Directors",
+        "page": 13,
+        "id": 21,
+        "depth": 2
+    },
+    {
+        "text": "8.2 Custodian and Central Administration",
+        "page": 13,
+        "id": 22,
+        "depth": 2
+    },
+    {
+        "text": "8.3 Statutory Auditors",
+        "page": 14,
+        "id": 23,
+        "depth": 2
+    },
+    {
+        "text": "9. RIGHTS OF THE SHAREHOLDERS",
+        "page": 14,
+        "id": 24,
+        "depth": 1
+    },
+    {
+        "text": "9.1 Shares",
+        "page": 14,
+        "id": 25,
+        "depth": 2
+    },
+    {
+        "text": "9.2 Sub-Funds and Share Classes",
+        "page": 14,
+        "id": 26,
+        "depth": 2
+    },
+    {
+        "text": "9.3 Principle of Solidarity and Severability",
+        "page": 15,
+        "id": 27,
+        "depth": 2
+    },
+    {
+        "text": "9.4 General Meetings of Shareholders",
+        "page": 15,
+        "id": 28,
+        "depth": 2
+    },
+    {
+        "text": "10. SUBSCRIPTION",
+        "page": 15,
+        "id": 29,
+        "depth": 1
+    },
+    {
+        "text": "10.1 How to subscribe",
+        "page": 15,
+        "id": 30,
+        "depth": 2
+    },
+    {
+        "text": "10.2 How to pay",
+        "page": 16,
+        "id": 31,
+        "depth": 2
+    },
+    {
+        "text": "10.3 General",
+        "page": 17,
+        "id": 32,
+        "depth": 2
+    },
+    {
+        "text": "10.4 Contribution in Kind",
+        "page": 17,
+        "id": 33,
+        "depth": 2
+    },
+    {
+        "text": "10.5 Anti money laundering procedures",
+        "page": 17,
+        "id": 34,
+        "depth": 2
+    },
+    {
+        "text": "11. ISSUE PRICE",
+        "page": 18,
+        "id": 35,
+        "depth": 1
+    },
+    {
+        "text": "12. REDEMPTION OF SHARES",
+        "page": 18,
+        "id": 36,
+        "depth": 1
+    },
+    {
+        "text": "12.1 Procedure",
+        "page": 18,
+        "id": 37,
+        "depth": 2
+    },
+    {
+        "text": "12.2 Redemption Proceeds",
+        "page": 19,
+        "id": 38,
+        "depth": 2
+    },
+    {
+        "text": "12.3 General",
+        "page": 19,
+        "id": 39,
+        "depth": 2
+    },
+    {
+        "text": "13. REDEMPTION PRICE",
+        "page": 19,
+        "id": 40,
+        "depth": 1
+    },
+    {
+        "text": "14. CONVERSION OF SHARES",
+        "page": 20,
+        "id": 41,
+        "depth": 1
+    },
+    {
+        "text": "14.1 Procedure",
+        "page": 20,
+        "id": 42,
+        "depth": 2
+    },
+    {
+        "text": "14.2 Conversion Price",
+        "page": 21,
+        "id": 43,
+        "depth": 2
+    },
+    {
+        "text": "15. CALCULATION OF NET ASSET VALUE",
+        "page": 21,
+        "id": 44,
+        "depth": 1
+    },
+    {
+        "text": "16. SUSPENSION/DEFERRAL OF CALCULATION OF NET ASSET VALUE, SUBSCRIPTIONS AND REDEMPTIONS",
+        "page": 22,
+        "id": 45,
+        "depth": 1
+    },
+    {
+        "text": "17. MARKET TIMING",
+        "page": 24,
+        "id": 46,
+        "depth": 1
+    },
+    {
+        "text": "18. DIVIDENDS",
+        "page": 24,
+        "id": 47,
+        "depth": 1
+    },
+    {
+        "text": "19. COMPANY EXPENSES",
+        "page": 24,
+        "id": 48,
+        "depth": 1
+    },
+    {
+        "text": "19.1 Management Fees",
+        "page": 24,
+        "id": 49,
+        "depth": 2
+    },
+    {
+        "text": "19.2 Performance Fees",
+        "page": 24,
+        "id": 50,
+        "depth": 2
+    },
+    {
+        "text": "20. TAX ASPECTS",
+        "page": 25,
+        "id": 51,
+        "depth": 1
+    },
+    {
+        "text": "20.1 The Company",
+        "page": 25,
+        "id": 52,
+        "depth": 2
+    },
+    {
+        "text": "20.2 Shareholders",
+        "page": 26,
+        "id": 53,
+        "depth": 2
+    },
+    {
+        "text": "21. EUROPEAN UNION TAX CONSIDERATIONS",
+        "page": 26,
+        "id": 54,
+        "depth": 1
+    },
+    {
+        "text": "22. UNITED KINGDOM TAXATION",
+        "page": 27,
+        "id": 55,
+        "depth": 1
+    },
+    {
+        "text": "22.1 Taxation of the Fund",
+        "page": 27,
+        "id": 56,
+        "depth": 2
+    },
+    {
+        "text": "22.2 Taxation of Shareholders",
+        "page": 27,
+        "id": 57,
+        "depth": 2
+    },
+    {
+        "text": "Taxation of distribution",
+        "page": 27,
+        "id": 58,
+        "depth": 3
+    },
+    {
+        "text": "Taxation of gains",
+        "page": 27,
+        "id": 59,
+        "depth": 3
+    },
+    {
+        "text": "22.3 New offshore funds rules effective from 1 December 2009",
+        "page": 28,
+        "id": 60,
+        "depth": 2
+    },
+    {
+        "text": "22.4 The non-qualifying investments",
+        "page": 28,
+        "id": 61,
+        "depth": 2
+    },
+    {
+        "text": "22.5 Controlled foreign companies legislation",
+        "page": 29,
+        "id": 62,
+        "depth": 2
+    },
+    {
+        "text": "22.6 Other anti-avoidance provisions",
+        "page": 29,
+        "id": 63,
+        "depth": 2
+    },
+    {
+        "text": "22.7 Stamp duty",
+        "page": 30,
+        "id": 64,
+        "depth": 2
+    },
+    {
+        "text": "22.8 Withholding Tax",
+        "page": 30,
+        "id": 65,
+        "depth": 2
+    },
+    {
+        "text": "23. FINANCIAL YEAR",
+        "page": 30,
+        "id": 66,
+        "depth": 1
+    },
+    {
+        "text": "24. PERIODICAL REPORTS AND PUBLICATIONS",
+        "page": 30,
+        "id": 67,
+        "depth": 1
+    },
+    {
+        "text": "25. RIGHTS ON A WINDING-UP, DURATION - MERGER - DISSOLUTION OF THE COMPANY AND THE SUB-FUNDS",
+        "page": 30,
+        "id": 68,
+        "depth": 1
+    },
+    {
+        "text": "26. DOCUMENTS AVAILABLE FOR INSPECTION",
+        "page": 31,
+        "id": 69,
+        "depth": 1
+    },
+    {
+        "text": "27. INVESTMENT RESTRICTIONS",
+        "page": 31,
+        "id": 70,
+        "depth": 1
+    },
+    {
+        "text": "27.1 (A) Investments in eligible assets",
+        "page": 32,
+        "id": 71,
+        "depth": 2
+    },
+    {
+        "text": "27.2 Prohibited Investments",
+        "page": 36,
+        "id": 72,
+        "depth": 2
+    },
+    {
+        "text": "27.3 Special Techniques and Instruments",
+        "page": 37,
+        "id": 73,
+        "depth": 2
+    },
+    {
+        "text": "28. RISK MANAGEMENT PROCESS",
+        "page": 38,
+        "id": 74,
+        "depth": 1
+    },
+    {
+        "text": "29. RISK CONSIDERATIONS",
+        "page": 39,
+        "id": 75,
+        "depth": 1
+    },
+    {
+        "text": "29.1 General",
+        "page": 39,
+        "id": 76,
+        "depth": 2
+    },
+    {
+        "text": "29.2 Equity Securities",
+        "page": 39,
+        "id": 77,
+        "depth": 2
+    },
+    {
+        "text": "29.3 Investment in Collective Investment Schemes",
+        "page": 39,
+        "id": 78,
+        "depth": 2
+    },
+    {
+        "text": "29.4 Investment in Warrants",
+        "page": 39,
+        "id": 79,
+        "depth": 2
+    },
+    {
+        "text": "29.5 Stock Market Volatility",
+        "page": 39,
+        "id": 80,
+        "depth": 2
+    },
+    {
+        "text": "29.6 Issuer-Specific Risk",
+        "page": 40,
+        "id": 81,
+        "depth": 2
+    },
+    {
+        "text": "29.7 Interest Rate Risks",
+        "page": 40,
+        "id": 82,
+        "depth": 2
+    },
+    {
+        "text": "29.8 Investment in derivative instruments",
+        "page": 40,
+        "id": 83,
+        "depth": 2
+    },
+    {
+        "text": "29.9 Political and/or Regulatory Risks",
+        "page": 40,
+        "id": 84,
+        "depth": 2
+    },
+    {
+        "text": "29.10 Funds Investing in Lower Rated, Higher Yielding Debt Securities",
+        "page": 41,
+        "id": 85,
+        "depth": 2
+    },
+    {
+        "text": "29.11 Market and Settlement Risks",
+        "page": 41,
+        "id": 86,
+        "depth": 2
+    },
+    {
+        "text": "29.12 Foreign Exchange/Currency Risk",
+        "page": 41,
+        "id": 87,
+        "depth": 2
+    },
+    {
+        "text": "29.13 Execution and Counterparty Risk",
+        "page": 41,
+        "id": 88,
+        "depth": 2
+    },
+    {
+        "text": "29.14 Illiquidity/Suspension of Share dealings",
+        "page": 42,
+        "id": 89,
+        "depth": 2
+    },
+    {
+        "text": "29.15 Custody Risk",
+        "page": 42,
+        "id": 90,
+        "depth": 2
+    },
+    {
+        "text": "29.16 Taxation",
+        "page": 42,
+        "id": 91,
+        "depth": 2
+    },
+    {
+        "text": "Appendix I SUB-FUNDS IN OPERATION",
+        "page": 43,
+        "id": 92,
+        "depth": 1
+    },
+    {
+        "text": "30. LONG TERM INVESTMENT FUND (SIA) - CLASSIC",
+        "page": 44,
+        "id": 93,
+        "depth": 2
+    },
+    {
+        "text": "30.1 Objectives and investment policy",
+        "page": 44,
+        "id": 94,
+        "depth": 3
+    },
+    {
+        "text": "Profile of the typical investor",
+        "page": 44,
+        "id": 95,
+        "depth": 4
+    },
+    {
+        "text": "Investment Objective",
+        "page": 44,
+        "id": 96,
+        "depth": 4
+    },
+    {
+        "text": "Investment Policy",
+        "page": 44,
+        "id": 97,
+        "depth": 4
+    },
+    {
+        "text": "30.2 Risk Factors",
+        "page": 44,
+        "id": 98,
+        "depth": 3
+    },
+    {
+        "text": "30.3 Performance History",
+        "page": 45,
+        "id": 99,
+        "depth": 3
+    },
+    {
+        "text": "30.4 Dividend Policy",
+        "page": 45,
+        "id": 100,
+        "depth": 3
+    },
+    {
+        "text": "30.5 Share Classes",
+        "page": 45,
+        "id": 101,
+        "depth": 3
+    },
+    {
+        "text": "30.6 General information on the Sub-Fund’s Share Classes",
+        "page": 45,
+        "id": 102,
+        "depth": 3
+    },
+    {
+        "text": "Management of the Sub-Fund",
+        "page": 45,
+        "id": 103,
+        "depth": 4
+    },
+    {
+        "text": "Frequency of calculation of NAV",
+        "page": 45,
+        "id": 104,
+        "depth": 4
+    },
+    {
+        "text": "Management and Distribution fees specific to this Sub-Fund",
+        "page": 45,
+        "id": 105,
+        "depth": 4
+    },
+    {
+        "text": "Other fees",
+        "page": 45,
+        "id": 106,
+        "depth": 4
+    },
+    {
+        "text": "31. LONG TERM INVESTMENT FUND (SIA) - ALPHA",
+        "page": 47,
+        "id": 107,
+        "depth": 2
+    },
+    {
+        "text": "31.1 Objectives and investment policy",
+        "page": 47,
+        "id": 108,
+        "depth": 3
+    },
+    {
+        "text": "Profile of the typical investor",
+        "page": 47,
+        "id": 109,
+        "depth": 4
+    },
+    {
+        "text": "Investment Objective",
+        "page": 47,
+        "id": 110,
+        "depth": 4
+    },
+    {
+        "text": "Investment Policy",
+        "page": 47,
+        "id": 111,
+        "depth": 4
+    },
+    {
+        "text": "31.2 Risk Factors",
+        "page": 48,
+        "id": 112,
+        "depth": 3
+    },
+    {
+        "text": "31.3 Performance History",
+        "page": 48,
+        "id": 113,
+        "depth": 3
+    },
+    {
+        "text": "31.4 Dividend Policy",
+        "page": 48,
+        "id": 114,
+        "depth": 3
+    },
+    {
+        "text": "31.5 Share Classes",
+        "page": 48,
+        "id": 115,
+        "depth": 3
+    },
+    {
+        "text": "31.6 General information on the Sub-Fund’s Share Classes",
+        "page": 48,
+        "id": 116,
+        "depth": 3
+    },
+    {
+        "text": "Management of the Sub-Fund",
+        "page": 48,
+        "id": 117,
+        "depth": 4
+    },
+    {
+        "text": "Frequency of calculation of NAV",
+        "page": 48,
+        "id": 118,
+        "depth": 4
+    },
+    {
+        "text": "Management and Distribution fees specific to this Sub-Fund",
+        "page": 48,
+        "id": 119,
+        "depth": 4
+    },
+    {
+        "text": "Other fees",
+        "page": 48,
+        "id": 120,
+        "depth": 4
+    },
+    {
+        "text": "32. LONG TERM INVESTMENT FUND (SIA)- GLOBAL ENERGY VALUE",
+        "page": 50,
+        "id": 121,
+        "depth": 2
+    },
+    {
+        "text": "32.1 Objectives and investment policy",
+        "page": 50,
+        "id": 122,
+        "depth": 3
+    },
+    {
+        "text": "Profile of the typical investor",
+        "page": 50,
+        "id": 123,
+        "depth": 4
+    },
+    {
+        "text": "Investment Objective",
+        "page": 50,
+        "id": 124,
+        "depth": 4
+    },
+    {
+        "text": "Investment Policy",
+        "page": 50,
+        "id": 125,
+        "depth": 4
+    },
+    {
+        "text": "32.2 Risk Factors",
+        "page": 50,
+        "id": 126,
+        "depth": 3
+    },
+    {
+        "text": "32.3 Performance History",
+        "page": 50,
+        "id": 127,
+        "depth": 3
+    },
+    {
+        "text": "32.4 Dividend Policy",
+        "page": 51,
+        "id": 128,
+        "depth": 3
+    },
+    {
+        "text": "32.5 Share Classes",
+        "page": 51,
+        "id": 129,
+        "depth": 3
+    },
+    {
+        "text": "Reference currency",
+        "page": 51,
+        "id": 130,
+        "depth": 4
+    },
+    {
+        "text": "Management of the Sub-Fund",
+        "page": 51,
+        "id": 131,
+        "depth": 4
+    },
+    {
+        "text": "Frequency of calculation of NAV",
+        "page": 51,
+        "id": 132,
+        "depth": 4
+    },
+    {
+        "text": "Management and Distribution fees specific to this Sub-Fund",
+        "page": 51,
+        "id": 133,
+        "depth": 4
+    },
+    {
+        "text": "Other fees",
+        "page": 51,
+        "id": 134,
+        "depth": 4
+    },
+    {
+        "text": "APPENDIX II SUB-FUNDS NOT ACTIVATED YET",
+        "page": 53,
+        "id": 135,
+        "depth": 1
+    },
+    {
+        "text": "33. LONG TERM INVESTMENT FUND (SIA) - STABILITY",
+        "page": 53,
+        "id": 136,
+        "depth": 2
+    },
+    {
+        "text": "33.1 Objectives and investment policy",
+        "page": 53,
+        "id": 137,
+        "depth": 3
+    },
+    {
+        "text": "Profile of the typical investor",
+        "page": 53,
+        "id": 138,
+        "depth": 4
+    },
+    {
+        "text": "Investment Objective",
+        "page": 53,
+        "id": 139,
+        "depth": 4
+    },
+    {
+        "text": "Investment Policy",
+        "page": 53,
+        "id": 140,
+        "depth": 4
+    },
+    {
+        "text": "33.2 Risk Factors",
+        "page": 54,
+        "id": 141,
+        "depth": 3
+    },
+    {
+        "text": "33.3 Performance History",
+        "page": 54,
+        "id": 142,
+        "depth": 3
+    },
+    {
+        "text": "33.4 Dividend Policy",
+        "page": 54,
+        "id": 143,
+        "depth": 3
+    },
+    {
+        "text": "33.5 Share Classes",
+        "page": 54,
+        "id": 144,
+        "depth": 3
+    },
+    {
+        "text": "Reference currency",
+        "page": 54,
+        "id": 145,
+        "depth": 4
+    },
+    {
+        "text": "Management of the Sub-Fund",
+        "page": 54,
+        "id": 146,
+        "depth": 4
+    },
+    {
+        "text": "Frequency of calculation of NAV",
+        "page": 54,
+        "id": 147,
+        "depth": 4
+    },
+    {
+        "text": "Management and Distribution fees specific to this Sub-Fund",
+        "page": 54,
+        "id": 148,
+        "depth": 4
+    },
+    {
+        "text": "Other fees",
+        "page": 54,
+        "id": 149,
+        "depth": 4
+    }
+]

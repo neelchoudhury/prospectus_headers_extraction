@@ -1,0 +1,1220 @@
+[
+    {
+        "text": "DNCA INVEST",
+        "page": 1,
+        "id": 1,
+        "depth": 1
+    },
+    {
+        "text": "DNCA INVEST",
+        "page": 4,
+        "id": 2,
+        "depth": 2
+    },
+    {
+        "text": "Board of Directors of the Fund",
+        "page": 4,
+        "id": 3,
+        "depth": 3
+    },
+    {
+        "text": "Chairman",
+        "page": 4,
+        "id": 4,
+        "depth": 4
+    },
+    {
+        "text": "Directors",
+        "page": 4,
+        "id": 5,
+        "depth": 4
+    },
+    {
+        "text": "Management Company",
+        "page": 4,
+        "id": 6,
+        "depth": 3
+    },
+    {
+        "text": "Board of Directors of the Management Company",
+        "page": 4,
+        "id": 7,
+        "depth": 3
+    },
+    {
+        "text": "Chairman",
+        "page": 4,
+        "id": 8,
+        "depth": 4
+    },
+    {
+        "text": "Directors",
+        "page": 4,
+        "id": 9,
+        "depth": 4
+    },
+    {
+        "text": "Managers of the Management Company",
+        "page": 4,
+        "id": 10,
+        "depth": 4
+    },
+    {
+        "text": "Investment Manager",
+        "page": 4,
+        "id": 11,
+        "depth": 3
+    },
+    {
+        "text": "Administrative Agent, Custodian, Domiciliary Agent, Principal Paying Agent, Registrar and Transfer Agent",
+        "page": 5,
+        "id": 12,
+        "depth": 3
+    },
+    {
+        "text": "Authorised Auditors",
+        "page": 5,
+        "id": 13,
+        "depth": 3
+    },
+    {
+        "text": "Legal Advisors",
+        "page": 5,
+        "id": 14,
+        "depth": 3
+    },
+    {
+        "text": "For Luxembourg",
+        "page": 5,
+        "id": 15,
+        "depth": 4
+    },
+    {
+        "text": "For Germany",
+        "page": 5,
+        "id": 16,
+        "depth": 4
+    },
+    {
+        "text": "For Italy",
+        "page": 5,
+        "id": 17,
+        "depth": 4
+    },
+    {
+        "text": "For Belgium",
+        "page": 5,
+        "id": 18,
+        "depth": 4
+    },
+    {
+        "text": "Distributors:",
+        "page": 5,
+        "id": 19,
+        "depth": 3
+    },
+    {
+        "text": "C O N T E N T S",
+        "page": 6,
+        "id": 20,
+        "depth": 2
+    },
+    {
+        "text": "PART 1: GENERAL PART",
+        "page": 8,
+        "id": 21,
+        "depth": 1
+    },
+    {
+        "text": "GLOSSARY",
+        "page": 8,
+        "id": 22,
+        "depth": 2
+    },
+    {
+        "text": "THE FUND",
+        "page": 11,
+        "id": 23,
+        "depth": 2
+    },
+    {
+        "text": "INVESTMENT POLICIES AND RESTRICTIONS",
+        "page": 12,
+        "id": 24,
+        "depth": 2
+    },
+    {
+        "text": "1. General Investment Policies for all Sub-Funds (unless incompatible with the specific investment policy disclosed in the Appendix to this Prospectus)",
+        "page": 12,
+        "id": 25,
+        "depth": 3
+    },
+    {
+        "text": "RISK WARNINGS",
+        "page": 12,
+        "id": 26,
+        "depth": 4
+    },
+    {
+        "text": "Fluctuations in Value – Risk of Loss of Capital",
+        "page": 13,
+        "id": 27,
+        "depth": 5
+    },
+    {
+        "text": "Investing in Securities",
+        "page": 13,
+        "id": 28,
+        "depth": 5
+    },
+    {
+        "text": "Investing in Warrants",
+        "page": 13,
+        "id": 29,
+        "depth": 5
+    },
+    {
+        "text": "Investing in Fixed Income Securities",
+        "page": 13,
+        "id": 30,
+        "depth": 5
+    },
+    {
+        "text": "Liquidity Risk",
+        "page": 14,
+        "id": 31,
+        "depth": 5
+    },
+    {
+        "text": "Interest Rate Risk",
+        "page": 14,
+        "id": 32,
+        "depth": 5
+    },
+    {
+        "text": "Exchange Rate Risk",
+        "page": 14,
+        "id": 33,
+        "depth": 5
+    },
+    {
+        "text": "Risk associated with hedging foreign-currency units",
+        "page": 14,
+        "id": 34,
+        "depth": 5
+    },
+    {
+        "text": "Credit Risk",
+        "page": 15,
+        "id": 35,
+        "depth": 5
+    },
+    {
+        "text": "Convertible Securities Risk",
+        "page": 15,
+        "id": 36,
+        "depth": 5
+    },
+    {
+        "text": "Discretionary Management Risk",
+        "page": 15,
+        "id": 37,
+        "depth": 5
+    },
+    {
+        "text": "Investing in Financial Derivative Instruments",
+        "page": 15,
+        "id": 38,
+        "depth": 5
+    },
+    {
+        "text": "Contracts for Difference (\"CFD\") and Dynamic Portfolio Swap (\"DPS\")",
+        "page": 15,
+        "id": 39,
+        "depth": 5
+    },
+    {
+        "text": "Futures and Options",
+        "page": 16,
+        "id": 40,
+        "depth": 5
+    },
+    {
+        "text": "Specific Risks linked to Contingent Convertibles Bonds",
+        "page": 16,
+        "id": 41,
+        "depth": 5
+    },
+    {
+        "text": "Specific Risks linked to Perpetual Bonds",
+        "page": 17,
+        "id": 42,
+        "depth": 5
+    },
+    {
+        "text": "Specific Risks linked to asset-backed securities (ABS) and mortgage-backed securities (MBS)",
+        "page": 18,
+        "id": 43,
+        "depth": 5
+    },
+    {
+        "text": "Distressed Securities Risk",
+        "page": 18,
+        "id": 44,
+        "depth": 5
+    },
+    {
+        "text": "Particular Risks of OTC Derivative Transactions",
+        "page": 18,
+        "id": 45,
+        "depth": 5
+    },
+    {
+        "text": "Investing in emerging markets",
+        "page": 19,
+        "id": 46,
+        "depth": 5
+    },
+    {
+        "text": "Specific Risks linked to Securities Lending and Repurchase Transactions",
+        "page": 20,
+        "id": 47,
+        "depth": 5
+    },
+    {
+        "text": "2. Specific Investment Policies for each Sub-Fund",
+        "page": 20,
+        "id": 48,
+        "depth": 3
+    },
+    {
+        "text": "3. Investment and Borrowing Restrictions",
+        "page": 20,
+        "id": 49,
+        "depth": 3
+    },
+    {
+        "text": "Financial derivative instruments and techniques and instruments",
+        "page": 29,
+        "id": 50,
+        "depth": 3
+    },
+    {
+        "text": "A. General Provisions",
+        "page": 29,
+        "id": 51,
+        "depth": 4
+    },
+    {
+        "text": "B. Financial derivative instruments",
+        "page": 29,
+        "id": 52,
+        "depth": 4
+    },
+    {
+        "text": "C. Use of techniques and instruments relating to transferable securities and money market instruments",
+        "page": 30,
+        "id": 53,
+        "depth": 4
+    },
+    {
+        "text": "5. Collateral management for securities lending and repurchase agreements and for financial derivative transactions",
+        "page": 31,
+        "id": 54,
+        "depth": 3
+    },
+    {
+        "text": "RISK-MANAGEMENT PROCESS",
+        "page": 33,
+        "id": 55,
+        "depth": 2
+    },
+    {
+        "text": "ISSUE, REDEMPTION AND CONVERSION OF SHARES",
+        "page": 34,
+        "id": 56,
+        "depth": 2
+    },
+    {
+        "text": "1. Issue of shares",
+        "page": 34,
+        "id": 57,
+        "depth": 3
+    },
+    {
+        "text": "2. Conversion of shares",
+        "page": 37,
+        "id": 58,
+        "depth": 3
+    },
+    {
+        "text": "3. Redemption of shares",
+        "page": 38,
+        "id": 59,
+        "depth": 3
+    },
+    {
+        "text": "4. Subscription, conversion and share redemption modalities",
+        "page": 39,
+        "id": 60,
+        "depth": 3
+    },
+    {
+        "text": "DISTRIBUTION POLICY",
+        "page": 41,
+        "id": 61,
+        "depth": 2
+    },
+    {
+        "text": "MANAGEMENT AND ADMINISTRATION",
+        "page": 42,
+        "id": 62,
+        "depth": 2
+    },
+    {
+        "text": "1. Management Company",
+        "page": 42,
+        "id": 63,
+        "depth": 3
+    },
+    {
+        "text": "2. Investment Manager",
+        "page": 43,
+        "id": 64,
+        "depth": 3
+    },
+    {
+        "text": "3. Custodian, Principal Paying Agent, Domiciliary Agent and Registrar and Transfer Agent",
+        "page": 43,
+        "id": 65,
+        "depth": 3
+    },
+    {
+        "text": "4. Administrative Agent",
+        "page": 45,
+        "id": 66,
+        "depth": 3
+    },
+    {
+        "text": "MANAGEMENT AND FUND CHARGES",
+        "page": 46,
+        "id": 67,
+        "depth": 2
+    },
+    {
+        "text": "TAXATION",
+        "page": 48,
+        "id": 68,
+        "depth": 2
+    },
+    {
+        "text": "1. The Fund",
+        "page": 48,
+        "id": 69,
+        "depth": 3
+    },
+    {
+        "text": "2. Shareholders",
+        "page": 48,
+        "id": 70,
+        "depth": 3
+    },
+    {
+        "text": "Luxembourg resident individuals",
+        "page": 49,
+        "id": 71,
+        "depth": 4
+    },
+    {
+        "text": "Luxembourg resident corporate",
+        "page": 49,
+        "id": 72,
+        "depth": 4
+    },
+    {
+        "text": "Non Luxembourg residents",
+        "page": 49,
+        "id": 73,
+        "depth": 4
+    },
+    {
+        "text": "European Savings Directive",
+        "page": 49,
+        "id": 74,
+        "depth": 4
+    },
+    {
+        "text": "FATCA",
+        "page": 51,
+        "id": 75,
+        "depth": 4
+    },
+    {
+        "text": "GENERAL INFORMATION",
+        "page": 52,
+        "id": 76,
+        "depth": 2
+    },
+    {
+        "text": "1. Organisation",
+        "page": 52,
+        "id": 77,
+        "depth": 3
+    },
+    {
+        "text": "2. The shares",
+        "page": 52,
+        "id": 78,
+        "depth": 3
+    },
+    {
+        "text": "3. Meetings",
+        "page": 53,
+        "id": 79,
+        "depth": 3
+    },
+    {
+        "text": "4. Reports and Accounts",
+        "page": 54,
+        "id": 80,
+        "depth": 3
+    },
+    {
+        "text": "5. Allocation of assets and liabilities among the Sub-Funds",
+        "page": 54,
+        "id": 81,
+        "depth": 3
+    },
+    {
+        "text": "6. Determination of the net asset value of shares",
+        "page": 55,
+        "id": 82,
+        "depth": 3
+    },
+    {
+        "text": "7. Temporary Suspension of Issues, Redemptions and Conversions",
+        "page": 57,
+        "id": 83,
+        "depth": 3
+    },
+    {
+        "text": "8. Merger or Liquidation of Sub-Funds",
+        "page": 58,
+        "id": 84,
+        "depth": 3
+    },
+    {
+        "text": "9. Merger or Liquidation of the Fund",
+        "page": 59,
+        "id": 85,
+        "depth": 3
+    },
+    {
+        "text": "10. Material Contracts",
+        "page": 59,
+        "id": 86,
+        "depth": 3
+    },
+    {
+        "text": "11. Documents",
+        "page": 60,
+        "id": 87,
+        "depth": 3
+    },
+    {
+        "text": "PART 2: APPENDICES RELATING TO SUB-FUNDS",
+        "page": 61,
+        "id": 88,
+        "depth": 1
+    },
+    {
+        "text": "ADDITIONAL INFORMATION FOR FOREIGN INVESTORS",
+        "page": 61,
+        "id": 89,
+        "depth": 2
+    },
+    {
+        "text": "FRANCE",
+        "page": 61,
+        "id": 90,
+        "depth": 3
+    },
+    {
+        "text": "ITALY",
+        "page": 61,
+        "id": 91,
+        "depth": 3
+    },
+    {
+        "text": "SWITZERLAND",
+        "page": 61,
+        "id": 92,
+        "depth": 3
+    },
+    {
+        "text": "BELGIUM",
+        "page": 62,
+        "id": 93,
+        "depth": 3
+    },
+    {
+        "text": "GERMANY",
+        "page": 62,
+        "id": 94,
+        "depth": 3
+    },
+    {
+        "text": "AUSTRIA",
+        "page": 62,
+        "id": 95,
+        "depth": 3
+    },
+    {
+        "text": "SPAIN",
+        "page": 62,
+        "id": 96,
+        "depth": 3
+    },
+    {
+        "text": "GERMANY",
+        "page": 63,
+        "id": 97,
+        "depth": 3
+    },
+    {
+        "text": "LIST OF THE SUB-FUNDS",
+        "page": 64,
+        "id": 98,
+        "depth": 2
+    },
+    {
+        "text": "1. EUROPEAN BOND OPPORTUNITIES",
+        "page": 65,
+        "id": 99,
+        "depth": 3
+    },
+    {
+        "text": "1. Reference Currency",
+        "page": 65,
+        "id": 100,
+        "depth": 4
+    },
+    {
+        "text": "2. Classes of shares, Management Fee and Minimum Initial Subscription Amount",
+        "page": 65,
+        "id": 101,
+        "depth": 4
+    },
+    {
+        "text": "3. Investment Policy",
+        "page": 67,
+        "id": 102,
+        "depth": 4
+    },
+    {
+        "text": "4. Investment Manager",
+        "page": 69,
+        "id": 103,
+        "depth": 4
+    },
+    {
+        "text": "5. Initial Offering",
+        "page": 69,
+        "id": 104,
+        "depth": 4
+    },
+    {
+        "text": "6. Profile of Typical Investor",
+        "page": 69,
+        "id": 105,
+        "depth": 4
+    },
+    {
+        "text": "7. Risk Profile",
+        "page": 69,
+        "id": 106,
+        "depth": 4
+    },
+    {
+        "text": "2. EUROSE",
+        "page": 70,
+        "id": 107,
+        "depth": 3
+    },
+    {
+        "text": "1. Reference Currency",
+        "page": 70,
+        "id": 108,
+        "depth": 4
+    },
+    {
+        "text": "2. Classes of Shares, Management Fees and Minimum Initial Subscription Amount",
+        "page": 70,
+        "id": 109,
+        "depth": 4
+    },
+    {
+        "text": "3. Investment Policy",
+        "page": 71,
+        "id": 110,
+        "depth": 4
+    },
+    {
+        "text": "4. Investment Manager",
+        "page": 73,
+        "id": 111,
+        "depth": 4
+    },
+    {
+        "text": "5. Initial Offering",
+        "page": 73,
+        "id": 112,
+        "depth": 4
+    },
+    {
+        "text": "6. Profile of Typical Investor",
+        "page": 73,
+        "id": 113,
+        "depth": 4
+    },
+    {
+        "text": "7. Risk Profile",
+        "page": 74,
+        "id": 114,
+        "depth": 4
+    },
+    {
+        "text": "3. EVOLUTIF",
+        "page": 75,
+        "id": 115,
+        "depth": 3
+    },
+    {
+        "text": "1. Reference Currency",
+        "page": 75,
+        "id": 116,
+        "depth": 4
+    },
+    {
+        "text": "2. Classes of Shares, Management Fees and Minimum Initial Subscription Amount",
+        "page": 75,
+        "id": 117,
+        "depth": 4
+    },
+    {
+        "text": "3. Investment Policy",
+        "page": 78,
+        "id": 118,
+        "depth": 4
+    },
+    {
+        "text": "4. Investment Manager",
+        "page": 80,
+        "id": 119,
+        "depth": 4
+    },
+    {
+        "text": "5. Initial Offering",
+        "page": 80,
+        "id": 120,
+        "depth": 4
+    },
+    {
+        "text": "6. Profile of Typical Investor",
+        "page": 80,
+        "id": 121,
+        "depth": 4
+    },
+    {
+        "text": "7. Risk Profile",
+        "page": 80,
+        "id": 122,
+        "depth": 4
+    },
+    {
+        "text": "4. SOUTH EUROPE OPPORTUNITIES",
+        "page": 82,
+        "id": 123,
+        "depth": 3
+    },
+    {
+        "text": "1. Reference Currency",
+        "page": 82,
+        "id": 124,
+        "depth": 4
+    },
+    {
+        "text": "2. Classes of shares, Management Fee and Minimum Initial Subscription Amount",
+        "page": 82,
+        "id": 125,
+        "depth": 4
+    },
+    {
+        "text": "3. Investment Policy",
+        "page": 84,
+        "id": 126,
+        "depth": 4
+    },
+    {
+        "text": "4. Investment Manager",
+        "page": 86,
+        "id": 127,
+        "depth": 4
+    },
+    {
+        "text": "5. Initial Offering",
+        "page": 86,
+        "id": 128,
+        "depth": 4
+    },
+    {
+        "text": "6. Profile of Typical Investor",
+        "page": 86,
+        "id": 129,
+        "depth": 4
+    },
+    {
+        "text": "7. Risk Profile",
+        "page": 86,
+        "id": 130,
+        "depth": 4
+    },
+    {
+        "text": "5. VALUE EUROPE",
+        "page": 87,
+        "id": 131,
+        "depth": 3
+    },
+    {
+        "text": "1. Reference Currency",
+        "page": 87,
+        "id": 132,
+        "depth": 4
+    },
+    {
+        "text": "2. Classes of shares, Management Fees and Minimum Initial Subscription Amount",
+        "page": 87,
+        "id": 133,
+        "depth": 4
+    },
+    {
+        "text": "3. Investment Policy",
+        "page": 91,
+        "id": 134,
+        "depth": 4
+    },
+    {
+        "text": "4. Investment Manager",
+        "page": 92,
+        "id": 135,
+        "depth": 4
+    },
+    {
+        "text": "5. Initial Offering",
+        "page": 92,
+        "id": 136,
+        "depth": 4
+    },
+    {
+        "text": "6. Profile of Typical Investor",
+        "page": 92,
+        "id": 137,
+        "depth": 4
+    },
+    {
+        "text": "7. Risk Profile",
+        "page": 93,
+        "id": 138,
+        "depth": 4
+    },
+    {
+        "text": "6. INFRASTRUCTURES (LIFE)",
+        "page": 94,
+        "id": 139,
+        "depth": 3
+    },
+    {
+        "text": "1. Reference Currency",
+        "page": 94,
+        "id": 140,
+        "depth": 4
+    },
+    {
+        "text": "2. Classes of Shares, Management Fees and Minimum Initial Subscription Amount",
+        "page": 94,
+        "id": 141,
+        "depth": 4
+    },
+    {
+        "text": "3. Investment Policy",
+        "page": 97,
+        "id": 142,
+        "depth": 4
+    },
+    {
+        "text": "4. Investment Manager",
+        "page": 98,
+        "id": 143,
+        "depth": 4
+    },
+    {
+        "text": "5. Initial Offering",
+        "page": 98,
+        "id": 144,
+        "depth": 4
+    },
+    {
+        "text": "6. Investor profile",
+        "page": 99,
+        "id": 145,
+        "depth": 4
+    },
+    {
+        "text": "7. Risk profile",
+        "page": 99,
+        "id": 146,
+        "depth": 4
+    },
+    {
+        "text": "7. GLOBAL LEADERS",
+        "page": 100,
+        "id": 147,
+        "depth": 3
+    },
+    {
+        "text": "1. Reference Currency",
+        "page": 100,
+        "id": 148,
+        "depth": 4
+    },
+    {
+        "text": "2. Classes of Shares, Management Fees and Minimum Initial Subscription Amount",
+        "page": 100,
+        "id": 149,
+        "depth": 4
+    },
+    {
+        "text": "3. Investment Policy",
+        "page": 102,
+        "id": 150,
+        "depth": 4
+    },
+    {
+        "text": "4. Investment Manager",
+        "page": 103,
+        "id": 151,
+        "depth": 4
+    },
+    {
+        "text": "5. Initial Offering",
+        "page": 104,
+        "id": 152,
+        "depth": 4
+    },
+    {
+        "text": "6. Profile of Typical Investor",
+        "page": 104,
+        "id": 153,
+        "depth": 4
+    },
+    {
+        "text": "7. Risk Profile",
+        "page": 104,
+        "id": 154,
+        "depth": 4
+    },
+    {
+        "text": "8. CONVERTIBLES",
+        "page": 105,
+        "id": 155,
+        "depth": 3
+    },
+    {
+        "text": "1. Reference Currency",
+        "page": 105,
+        "id": 156,
+        "depth": 4
+    },
+    {
+        "text": "2. Classes of shares, Management Fees and Minimum Initial Subscription Amount",
+        "page": 105,
+        "id": 157,
+        "depth": 4
+    },
+    {
+        "text": "3. Investment Policy",
+        "page": 106,
+        "id": 158,
+        "depth": 4
+    },
+    {
+        "text": "4. Investment Manager",
+        "page": 107,
+        "id": 159,
+        "depth": 4
+    },
+    {
+        "text": "5. Initial and subsequent Offering",
+        "page": 107,
+        "id": 160,
+        "depth": 4
+    },
+    {
+        "text": "6. Profile of Typical Investor",
+        "page": 108,
+        "id": 161,
+        "depth": 4
+    },
+    {
+        "text": "7. Risk Profile",
+        "page": 108,
+        "id": 162,
+        "depth": 4
+    },
+    {
+        "text": "9. MIURA",
+        "page": 109,
+        "id": 163,
+        "depth": 3
+    },
+    {
+        "text": "1. Reference Currency",
+        "page": 109,
+        "id": 164,
+        "depth": 4
+    },
+    {
+        "text": "2. Classes of shares, Management Fees and Minimum Initial Subscription Amount",
+        "page": 109,
+        "id": 165,
+        "depth": 4
+    },
+    {
+        "text": "3. Investment Policy",
+        "page": 110,
+        "id": 166,
+        "depth": 4
+    },
+    {
+        "text": "4. Investment Manager",
+        "page": 112,
+        "id": 167,
+        "depth": 4
+    },
+    {
+        "text": "5. Initial Offering",
+        "page": 112,
+        "id": 168,
+        "depth": 4
+    },
+    {
+        "text": "6. Profile of Typical Investor",
+        "page": 112,
+        "id": 169,
+        "depth": 4
+    },
+    {
+        "text": "7. Risk Profile",
+        "page": 112,
+        "id": 170,
+        "depth": 4
+    },
+    {
+        "text": "Limitation of subscriptions",
+        "page": 113,
+        "id": 171,
+        "depth": 4
+    },
+    {
+        "text": "10. MIURI",
+        "page": 114,
+        "id": 172,
+        "depth": 3
+    },
+    {
+        "text": "1. Reference Currency",
+        "page": 114,
+        "id": 173,
+        "depth": 4
+    },
+    {
+        "text": "2. Classes of shares, Management Fees and Minimum Initial Subscription Amount",
+        "page": 114,
+        "id": 174,
+        "depth": 4
+    },
+    {
+        "text": "3. Investment Policy",
+        "page": 116,
+        "id": 175,
+        "depth": 4
+    },
+    {
+        "text": "4. Investment Manager",
+        "page": 117,
+        "id": 176,
+        "depth": 4
+    },
+    {
+        "text": "5. Initial Offering",
+        "page": 117,
+        "id": 177,
+        "depth": 4
+    },
+    {
+        "text": "6. Profile of Typical Investor",
+        "page": 118,
+        "id": 178,
+        "depth": 4
+    },
+    {
+        "text": "7. Risk Profile",
+        "page": 118,
+        "id": 179,
+        "depth": 4
+    },
+    {
+        "text": "11. EUROPE GROWTH",
+        "page": 119,
+        "id": 180,
+        "depth": 3
+    },
+    {
+        "text": "1. Reference Currency",
+        "page": 119,
+        "id": 181,
+        "depth": 4
+    },
+    {
+        "text": "2. Classes of shares, Management Fees and Minimum Initial Subscription Amount",
+        "page": 119,
+        "id": 182,
+        "depth": 4
+    },
+    {
+        "text": "3. Investment Policy",
+        "page": 121,
+        "id": 183,
+        "depth": 4
+    },
+    {
+        "text": "4. Investment Manager",
+        "page": 123,
+        "id": 184,
+        "depth": 4
+    },
+    {
+        "text": "5. Initial Offering",
+        "page": 123,
+        "id": 185,
+        "depth": 4
+    },
+    {
+        "text": "6. Profile of Typical Investor",
+        "page": 123,
+        "id": 186,
+        "depth": 4
+    },
+    {
+        "text": "7. Risk Profile",
+        "page": 123,
+        "id": 187,
+        "depth": 4
+    },
+    {
+        "text": "12. VELADOR",
+        "page": 125,
+        "id": 188,
+        "depth": 3
+    },
+    {
+        "text": "1. Reference Currency",
+        "page": 125,
+        "id": 189,
+        "depth": 4
+    },
+    {
+        "text": "2. Classes of shares, Management Fees and Minimum Initial Subscription Amount",
+        "page": 125,
+        "id": 190,
+        "depth": 4
+    },
+    {
+        "text": "3. Investment Policy",
+        "page": 126,
+        "id": 191,
+        "depth": 4
+    },
+    {
+        "text": "4. Investment Manager",
+        "page": 129,
+        "id": 192,
+        "depth": 4
+    },
+    {
+        "text": "5. Initial Offering",
+        "page": 129,
+        "id": 193,
+        "depth": 4
+    },
+    {
+        "text": "6. Profile of Typical Investor",
+        "page": 129,
+        "id": 194,
+        "depth": 4
+    },
+    {
+        "text": "7. Risk Profile",
+        "page": 129,
+        "id": 195,
+        "depth": 4
+    },
+    {
+        "text": "13. OPPORTUNITIES",
+        "page": 130,
+        "id": 196,
+        "depth": 3
+    },
+    {
+        "text": "1. Reference Currency",
+        "page": 130,
+        "id": 197,
+        "depth": 4
+    },
+    {
+        "text": "2. Classes of shares, Management Fees and Minimum Initial Subscription Amount",
+        "page": 130,
+        "id": 198,
+        "depth": 4
+    },
+    {
+        "text": "3. Investment Policy",
+        "page": 131,
+        "id": 199,
+        "depth": 4
+    },
+    {
+        "text": "4. Investment Manager",
+        "page": 133,
+        "id": 200,
+        "depth": 4
+    },
+    {
+        "text": "5. Initial Offering",
+        "page": 133,
+        "id": 201,
+        "depth": 4
+    },
+    {
+        "text": "6. Profile of Typical Investor",
+        "page": 133,
+        "id": 202,
+        "depth": 4
+    },
+    {
+        "text": "7. Risk Profile",
+        "page": 133,
+        "id": 203,
+        "depth": 4
+    }
+]

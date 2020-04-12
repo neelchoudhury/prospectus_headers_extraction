@@ -1,0 +1,1286 @@
+[
+    {
+        "text": "Fidelity Active STrategy",
+        "page": 1,
+        "id": 1,
+        "depth": 1
+    },
+    {
+        "text": "Prospec tus",
+        "page": 1,
+        "id": 2,
+        "depth": 2
+    },
+    {
+        "text": "IMPORTANT NOTE",
+        "page": 2,
+        "id": 3,
+        "depth": 3
+    },
+    {
+        "text": "Market timing and excessive trading",
+        "page": 3,
+        "id": 4,
+        "depth": 4
+    },
+    {
+        "text": "TABLE OF CONTENTS:",
+        "page": 4,
+        "id": 5,
+        "depth": 3
+    },
+    {
+        "text": "DEFINITIONS",
+        "page": 5,
+        "id": 6,
+        "depth": 3
+    },
+    {
+        "text": "OVERVIEW – MAIN ADMINISTRATION FUNCTIONS",
+        "page": 8,
+        "id": 7,
+        "depth": 3
+    },
+    {
+        "text": "OVERVIEW – MANAGEMENT OF THE FUND",
+        "page": 9,
+        "id": 8,
+        "depth": 3
+    },
+    {
+        "text": "OVERVIEW – FIL GROUP DISTRIBUTORS & DEALING FACILITIES",
+        "page": 10,
+        "id": 9,
+        "depth": 3
+    },
+    {
+        "text": "PART I",
+        "page": 11,
+        "id": 10,
+        "depth": 3
+    },
+    {
+        "text": "1.   FUND INFORMATION",
+        "page": 11,
+        "id": 11,
+        "depth": 4
+    },
+    {
+        "text": "1.1.  The Fund",
+        "page": 11,
+        "id": 12,
+        "depth": 5
+    },
+    {
+        "text": "1.2.  Risk Factors",
+        "page": 12,
+        "id": 13,
+        "depth": 5
+    },
+    {
+        "text": ".  FIDELITY ACTIVE STRATEGY FUND RISK PROFILES",
+        "page": 12,
+        "id": 14,
+        "depth": 6
+    },
+    {
+        "text": "II.  GENERAL RISKS THAT APPLY TO ALL FUNDS",
+        "page": 12,
+        "id": 15,
+        "depth": 6
+    },
+    {
+        "text": "Historical Performance",
+        "page": 12,
+        "id": 16,
+        "depth": 7
+    },
+    {
+        "text": "Fluctuations in Value",
+        "page": 12,
+        "id": 17,
+        "depth": 7
+    },
+    {
+        "text": "Termination of Funds and Classes of Shares",
+        "page": 12,
+        "id": 18,
+        "depth": 7
+    },
+    {
+        "text": "Legal and Tax Risks",
+        "page": 12,
+        "id": 19,
+        "depth": 7
+    },
+    {
+        "text": "Foreign Currency Risk",
+        "page": 12,
+        "id": 20,
+        "depth": 7
+    },
+    {
+        "text": "Liquidity Risk",
+        "page": 13,
+        "id": 21,
+        "depth": 7
+    },
+    {
+        "text": "Pricing and Valuation Risk",
+        "page": 13,
+        "id": 22,
+        "depth": 7
+    },
+    {
+        "text": "Counterparty Credit & Settlement Risk",
+        "page": 13,
+        "id": 23,
+        "depth": 7
+    },
+    {
+        "text": "Securities Lending",
+        "page": 13,
+        "id": 24,
+        "depth": 7
+    },
+    {
+        "text": "Investment Horizon Risk",
+        "page": 13,
+        "id": 25,
+        "depth": 7
+    },
+    {
+        "text": "Cross Share Class Liabilities",
+        "page": 13,
+        "id": 26,
+        "depth": 7
+    },
+    {
+        "text": "III.  EQUITY RELATED RISKS",
+        "page": 13,
+        "id": 27,
+        "depth": 6
+    },
+    {
+        "text": "Equities",
+        "page": 13,
+        "id": 28,
+        "depth": 7
+    },
+    {
+        "text": "IV.  FIXED INCOME RELATED RISKS",
+        "page": 13,
+        "id": 29,
+        "depth": 6
+    },
+    {
+        "text": "Bonds, Debt Instruments & Fixed Income (including High Yielding Securities)",
+        "page": 13,
+        "id": 30,
+        "depth": 7
+    },
+    {
+        "text": "Investment Grade Risk",
+        "page": 14,
+        "id": 31,
+        "depth": 7
+    },
+    {
+        "text": "Lower Rated/Unrated Securities",
+        "page": 14,
+        "id": 32,
+        "depth": 7
+    },
+    {
+        "text": "Credit Risk",
+        "page": 14,
+        "id": 33,
+        "depth": 7
+    },
+    {
+        "text": "Securitised or Structured Debt Instruments",
+        "page": 14,
+        "id": 34,
+        "depth": 7
+    },
+    {
+        "text": "Mortgage-Related Securities",
+        "page": 14,
+        "id": 35,
+        "depth": 7
+    },
+    {
+        "text": "V.  COUNTRY, CONCENTRATION AND STYLE RELATED RISKS",
+        "page": 14,
+        "id": 36,
+        "depth": 6
+    },
+    {
+        "text": "Country Concentration",
+        "page": 14,
+        "id": 37,
+        "depth": 7
+    },
+    {
+        "text": "Holdings Concentration",
+        "page": 15,
+        "id": 38,
+        "depth": 7
+    },
+    {
+        "text": "Investments in Medium and Small Sized Firms",
+        "page": 15,
+        "id": 39,
+        "depth": 7
+    },
+    {
+        "text": "VI.  EMERGING MARKETS RELATED RISKS",
+        "page": 15,
+        "id": 40,
+        "depth": 6
+    },
+    {
+        "text": "Emerging Markets including Russia",
+        "page": 15,
+        "id": 41,
+        "depth": 7
+    },
+    {
+        "text": "VII.  SPECIFIC INSTRUMENT RELATED RISKS",
+        "page": 15,
+        "id": 42,
+        "depth": 6
+    },
+    {
+        "text": "China Assets",
+        "page": 15,
+        "id": 43,
+        "depth": 7
+    },
+    {
+        "text": "QFII",
+        "page": 15,
+        "id": 44,
+        "depth": 7
+    },
+    {
+        "text": "Stock Connect",
+        "page": 16,
+        "id": 45,
+        "depth": 7
+    },
+    {
+        "text": "Equity Linked Notes (Structured Notes)",
+        "page": 17,
+        "id": 46,
+        "depth": 7
+    },
+    {
+        "text": "Repurchase Transactions",
+        "page": 17,
+        "id": 47,
+        "depth": 7
+    },
+    {
+        "text": "VIII. DERIVATIVES RELATED RISKS",
+        "page": 17,
+        "id": 48,
+        "depth": 6
+    },
+    {
+        "text": "Financial Derivative Instruments",
+        "page": 17,
+        "id": 49,
+        "depth": 7
+    },
+    {
+        "text": "Risks in Relation to Specific Derivative Instruments",
+        "page": 18,
+        "id": 50,
+        "depth": 7
+    },
+    {
+        "text": "1.3  Investment Policies and Objectives",
+        "page": 20,
+        "id": 51,
+        "depth": 5
+    },
+    {
+        "text": "Performance of the Classes of Shares",
+        "page": 20,
+        "id": 52,
+        "depth": 6
+    },
+    {
+        "text": "1.3.1. EQUITY FUNDS INVESTMENT POLICY",
+        "page": 20,
+        "id": 53,
+        "depth": 6
+    },
+    {
+        "text": "1.3.2. FIXED INCOME FUNDS INVESTMENT POLICY",
+        "page": 23,
+        "id": 54,
+        "depth": 6
+    },
+    {
+        "text": "1.4.   Additional Information",
+        "page": 23,
+        "id": 55,
+        "depth": 5
+    },
+    {
+        "text": "Registration information for funds or classes of Shares",
+        "page": 23,
+        "id": 56,
+        "depth": 6
+    },
+    {
+        "text": "PART II",
+        "page": 24,
+        "id": 57,
+        "depth": 3
+    },
+    {
+        "text": "2.   CLASSES OF SHARES AND SHARE DEALING",
+        "page": 24,
+        "id": 58,
+        "depth": 4
+    },
+    {
+        "text": "2.1.   Classes of Shares",
+        "page": 24,
+        "id": 59,
+        "depth": 5
+    },
+    {
+        "text": "Class A Shares",
+        "page": 24,
+        "id": 60,
+        "depth": 6
+    },
+    {
+        "text": "Summary of Charges and Fees:",
+        "page": 24,
+        "id": 61,
+        "depth": 7
+    },
+    {
+        "text": "Class E Shares",
+        "page": 24,
+        "id": 62,
+        "depth": 6
+    },
+    {
+        "text": "Summary of Charges and Fees:",
+        "page": 25,
+        "id": 63,
+        "depth": 7
+    },
+    {
+        "text": "Class I Shares",
+        "page": 25,
+        "id": 64,
+        "depth": 6
+    },
+    {
+        "text": "Summary of Charges and Fees:",
+        "page": 25,
+        "id": 65,
+        "depth": 7
+    },
+    {
+        "text": "Class NP Shares",
+        "page": 25,
+        "id": 66,
+        "depth": 6
+    },
+    {
+        "text": "Class Y Shares",
+        "page": 26,
+        "id": 67,
+        "depth": 6
+    },
+    {
+        "text": "Summary of Charges and Fees:",
+        "page": 26,
+        "id": 68,
+        "depth": 7
+    },
+    {
+        "text": "Minimum Holding",
+        "page": 26,
+        "id": 69,
+        "depth": 6
+    },
+    {
+        "text": "Hedged Share Classes",
+        "page": 26,
+        "id": 70,
+        "depth": 6
+    },
+    {
+        "text": "2.2.   Share Dealing",
+        "page": 27,
+        "id": 71,
+        "depth": 5
+    },
+    {
+        "text": "Dealing Procedures",
+        "page": 27,
+        "id": 72,
+        "depth": 6
+    },
+    {
+        "text": "Single Price",
+        "page": 27,
+        "id": 73,
+        "depth": 6
+    },
+    {
+        "text": "Contract Notes",
+        "page": 27,
+        "id": 74,
+        "depth": 6
+    },
+    {
+        "text": "Dealing Cut-Off Times",
+        "page": 27,
+        "id": 75,
+        "depth": 6
+    },
+    {
+        "text": "2.2.1.   HOW TO BUY SHARES",
+        "page": 27,
+        "id": 76,
+        "depth": 6
+    },
+    {
+        "text": "Applications",
+        "page": 27,
+        "id": 77,
+        "depth": 7
+    },
+    {
+        "text": "Price",
+        "page": 27,
+        "id": 78,
+        "depth": 7
+    },
+    {
+        "text": "Subscription in Specie",
+        "page": 27,
+        "id": 79,
+        "depth": 7
+    },
+    {
+        "text": "Currencies",
+        "page": 27,
+        "id": 80,
+        "depth": 7
+    },
+    {
+        "text": "Settlement",
+        "page": 28,
+        "id": 81,
+        "depth": 7
+    },
+    {
+        "text": "Form of Shares",
+        "page": 28,
+        "id": 82,
+        "depth": 7
+    },
+    {
+        "text": "Anti-Money Laundering and Counter-Terrorist Financing Legislation",
+        "page": 28,
+        "id": 83,
+        "depth": 7
+    },
+    {
+        "text": "2.2.2.   HOW TO SELL SHARES",
+        "page": 28,
+        "id": 84,
+        "depth": 6
+    },
+    {
+        "text": "Instructions to Sell",
+        "page": 28,
+        "id": 85,
+        "depth": 7
+    },
+    {
+        "text": "Settlement",
+        "page": 28,
+        "id": 86,
+        "depth": 7
+    },
+    {
+        "text": "Price",
+        "page": 29,
+        "id": 87,
+        "depth": 7
+    },
+    {
+        "text": "Redemption in Specie",
+        "page": 29,
+        "id": 88,
+        "depth": 7
+    },
+    {
+        "text": "2.2.3.   HOW TO SWITCH",
+        "page": 29,
+        "id": 89,
+        "depth": 6
+    },
+    {
+        "text": "Class A Shares",
+        "page": 29,
+        "id": 90,
+        "depth": 7
+    },
+    {
+        "text": "Class E Shares",
+        "page": 29,
+        "id": 91,
+        "depth": 7
+    },
+    {
+        "text": "Class I Shares",
+        "page": 29,
+        "id": 92,
+        "depth": 7
+    },
+    {
+        "text": "Class NP Shares",
+        "page": 29,
+        "id": 93,
+        "depth": 7
+    },
+    {
+        "text": "Class Y Shares",
+        "page": 29,
+        "id": 94,
+        "depth": 7
+    },
+    {
+        "text": "Procedures",
+        "page": 29,
+        "id": 95,
+        "depth": 7
+    },
+    {
+        "text": "Amounts to be Switched",
+        "page": 29,
+        "id": 96,
+        "depth": 7
+    },
+    {
+        "text": "Price",
+        "page": 30,
+        "id": 97,
+        "depth": 7
+    },
+    {
+        "text": "2.3.   Calculation of the Net Asset Value",
+        "page": 30,
+        "id": 98,
+        "depth": 5
+    },
+    {
+        "text": "2.4.   Price-Adjustment Policy (Swing Pricing)",
+        "page": 31,
+        "id": 99,
+        "depth": 5
+    },
+    {
+        "text": "2.5.   Co-Management of Assets",
+        "page": 31,
+        "id": 100,
+        "depth": 5
+    },
+    {
+        "text": "2.6.   Temporary Suspension of Determination of Net Asset Value and of the Issue, Switching and Redemption of Shares",
+        "page": 31,
+        "id": 101,
+        "depth": 5
+    },
+    {
+        "text": "2.7.   Restrictions on Buying, Subscribing and Switching into Certain Funds",
+        "page": 32,
+        "id": 102,
+        "depth": 5
+    },
+    {
+        "text": "PART III",
+        "page": 33,
+        "id": 103,
+        "depth": 3
+    },
+    {
+        "text": "3.   GENERAL INFORMATION",
+        "page": 33,
+        "id": 104,
+        "depth": 4
+    },
+    {
+        "text": "3.1.   Dividends",
+        "page": 33,
+        "id": 105,
+        "depth": 5
+    },
+    {
+        "text": "Registered Shares",
+        "page": 33,
+        "id": 106,
+        "depth": 6
+    },
+    {
+        "text": "Dividend Reinvestment",
+        "page": 33,
+        "id": 107,
+        "depth": 7
+    },
+    {
+        "text": "Dividend Payment",
+        "page": 33,
+        "id": 108,
+        "depth": 7
+    },
+    {
+        "text": "Income Equalisation Arrangements",
+        "page": 33,
+        "id": 109,
+        "depth": 7
+    },
+    {
+        "text": "3.2.   Meetings and Reports to Shareholders",
+        "page": 33,
+        "id": 110,
+        "depth": 5
+    },
+    {
+        "text": "3.3.   Taxation",
+        "page": 34,
+        "id": 111,
+        "depth": 5
+    },
+    {
+        "text": "Taxation of the Fund",
+        "page": 34,
+        "id": 112,
+        "depth": 6
+    },
+    {
+        "text": "Taxation of individual Shareholders",
+        "page": 34,
+        "id": 113,
+        "depth": 6
+    },
+    {
+        "text": "(i)  Non-resident individual Shareholders",
+        "page": 34,
+        "id": 114,
+        "depth": 7
+    },
+    {
+        "text": "(ii)  Luxembourg resident individual Shareholders",
+        "page": 34,
+        "id": 115,
+        "depth": 7
+    },
+    {
+        "text": "(iii)  United Kingdom resident Shareholders",
+        "page": 35,
+        "id": 116,
+        "depth": 7
+    },
+    {
+        "text": "(iv)  EU Savings Directive",
+        "page": 35,
+        "id": 117,
+        "depth": 7
+    },
+    {
+        "text": "Taxation of corporate Shareholders",
+        "page": 35,
+        "id": 118,
+        "depth": 6
+    },
+    {
+        "text": "(i)  Non-resident corporate Shareholders",
+        "page": 35,
+        "id": 119,
+        "depth": 7
+    },
+    {
+        "text": "(ii)  Luxembourg  resident  corporate  Shareholders  and  non  resident  corporate  Shareholders  holding  the  Shares through a Luxembourg permanent establishment",
+        "page": 35,
+        "id": 120,
+        "depth": 7
+    },
+    {
+        "text": "Foreign Account Tax Compliance Act (‘FATCA’)",
+        "page": 35,
+        "id": 121,
+        "depth": 6
+    },
+    {
+        "text": "OECD Common Reporting Standard (“CRS”)",
+        "page": 36,
+        "id": 122,
+        "depth": 6
+    },
+    {
+        "text": "3.4.   Eligible Investors and Restriction on Ownership",
+        "page": 36,
+        "id": 123,
+        "depth": 5
+    },
+    {
+        "text": "3.5.   Liquidation of FAST Funds and Classes of Shares",
+        "page": 37,
+        "id": 124,
+        "depth": 5
+    },
+    {
+        "text": "PART IV",
+        "page": 39,
+        "id": 125,
+        "depth": 3
+    },
+    {
+        "text": "4.   ADMINISTRATION DETAILS, CHARGES AND EXPENSES",
+        "page": 39,
+        "id": 126,
+        "depth": 4
+    },
+    {
+        "text": "Board of Directors",
+        "page": 39,
+        "id": 127,
+        "depth": 5
+    },
+    {
+        "text": "Management Company and Supervisory Officers",
+        "page": 39,
+        "id": 128,
+        "depth": 5
+    },
+    {
+        "text": "The Investment Manager",
+        "page": 39,
+        "id": 129,
+        "depth": 5
+    },
+    {
+        "text": "Termination or Amendment",
+        "page": 40,
+        "id": 130,
+        "depth": 6
+    },
+    {
+        "text": "Investment Management Fee and Performance Fee",
+        "page": 40,
+        "id": 131,
+        "depth": 5
+    },
+    {
+        "text": "Performance Fee Methodology for Funds which have Equity Indices",
+        "page": 41,
+        "id": 132,
+        "depth": 5
+    },
+    {
+        "text": "Cumulative Returns",
+        "page": 41,
+        "id": 133,
+        "depth": 6
+    },
+    {
+        "text": "Daily Returns",
+        "page": 41,
+        "id": 134,
+        "depth": 6
+    },
+    {
+        "text": "Performance Fee Calculation",
+        "page": 42,
+        "id": 135,
+        "depth": 6
+    },
+    {
+        "text": "The Depositary",
+        "page": 42,
+        "id": 136,
+        "depth": 5
+    },
+    {
+        "text": "General Distributor and Distributors",
+        "page": 43,
+        "id": 137,
+        "depth": 5
+    },
+    {
+        "text": "Service Agreements",
+        "page": 43,
+        "id": 138,
+        "depth": 5
+    },
+    {
+        "text": "Auditors",
+        "page": 43,
+        "id": 139,
+        "depth": 5
+    },
+    {
+        "text": "General information on Charges and Expenses",
+        "page": 43,
+        "id": 140,
+        "depth": 5
+    },
+    {
+        "text": "PART V",
+        "page": 45,
+        "id": 141,
+        "depth": 3
+    },
+    {
+        "text": "5.   INVESTMENT RESTRICTIONS",
+        "page": 45,
+        "id": 142,
+        "depth": 4
+    },
+    {
+        "text": "5.1.   Investment Powers and Safeguards",
+        "page": 45,
+        "id": 143,
+        "depth": 5
+    },
+    {
+        "text": "A.  Investment Restrictions",
+        "page": 45,
+        "id": 144,
+        "depth": 6
+    },
+    {
+        "text": "B.  Other Safeguards",
+        "page": 47,
+        "id": 145,
+        "depth": 6
+    },
+    {
+        "text": "C.  Risk Management Procedures",
+        "page": 48,
+        "id": 146,
+        "depth": 6
+    },
+    {
+        "text": "D.  Global Exposure relating to Derivative Instruments and Leverage",
+        "page": 48,
+        "id": 147,
+        "depth": 6
+    },
+    {
+        "text": "E.  Securities Lending and Borrowing and Repurchase Transactions",
+        "page": 48,
+        "id": 148,
+        "depth": 6
+    },
+    {
+        "text": "F.  Management of collateral for Securities Lending, Repurchase and OTC Financial Derivative Transactions",
+        "page": 48,
+        "id": 149,
+        "depth": 6
+    },
+    {
+        "text": "G.  Total Return Swaps and other Financial Derivative instruments with similar characteristics",
+        "page": 49,
+        "id": 150,
+        "depth": 6
+    },
+    {
+        "text": "H.  Miscellaneous",
+        "page": 49,
+        "id": 151,
+        "depth": 6
+    },
+    {
+        "text": "5.2. Additional Country Specific Investment Restrictions: Germany",
+        "page": 49,
+        "id": 152,
+        "depth": 5
+    },
+    {
+        "text": "1  Additional tax information and investment restrictions applying to funds registered in Germany:",
+        "page": 49,
+        "id": 153,
+        "depth": 6
+    },
+    {
+        "text": "Appendix I IMPORTANT INFORMATION FOR INVESTORS IN CERTAIN COUNTRIES",
+        "page": 50,
+        "id": 154,
+        "depth": 3
+    },
+    {
+        "text": "DENMARK",
+        "page": 51,
+        "id": 155,
+        "depth": 4
+    },
+    {
+        "text": "Representative",
+        "page": 51,
+        "id": 156,
+        "depth": 5
+    },
+    {
+        "text": "Information",
+        "page": 51,
+        "id": 157,
+        "depth": 5
+    },
+    {
+        "text": "Procedure in the Event of Termination",
+        "page": 51,
+        "id": 158,
+        "depth": 5
+    },
+    {
+        "text": "FINLAND",
+        "page": 51,
+        "id": 159,
+        "depth": 4
+    },
+    {
+        "text": "Registration and Supervision",
+        "page": 51,
+        "id": 160,
+        "depth": 5
+    },
+    {
+        "text": "Marketing and Purchase of Shares",
+        "page": 51,
+        "id": 161,
+        "depth": 5
+    },
+    {
+        "text": "The Depositary",
+        "page": 52,
+        "id": 162,
+        "depth": 5
+    },
+    {
+        "text": "Payments to Shareholders",
+        "page": 52,
+        "id": 163,
+        "depth": 5
+    },
+    {
+        "text": "Dividends",
+        "page": 52,
+        "id": 164,
+        "depth": 6
+    },
+    {
+        "text": "Redemption of Shares",
+        "page": 52,
+        "id": 165,
+        "depth": 5
+    },
+    {
+        "text": "Publication of Prices",
+        "page": 52,
+        "id": 166,
+        "depth": 5
+    },
+    {
+        "text": "Documents Available for Inspection",
+        "page": 52,
+        "id": 167,
+        "depth": 5
+    },
+    {
+        "text": "Taxation",
+        "page": 52,
+        "id": 168,
+        "depth": 5
+    },
+    {
+        "text": "ICELAND",
+        "page": 53,
+        "id": 169,
+        "depth": 4
+    },
+    {
+        "text": "Registration and Supervision",
+        "page": 53,
+        "id": 170,
+        "depth": 5
+    },
+    {
+        "text": "Dealing Procedures",
+        "page": 53,
+        "id": 171,
+        "depth": 5
+    },
+    {
+        "text": "IRELAND",
+        "page": 54,
+        "id": 172,
+        "depth": 4
+    },
+    {
+        "text": "Registration and Supervision",
+        "page": 54,
+        "id": 173,
+        "depth": 5
+    },
+    {
+        "text": "Facilities Agent in Ireland",
+        "page": 54,
+        "id": 174,
+        "depth": 5
+    },
+    {
+        "text": "Irish Representative:",
+        "page": 54,
+        "id": 175,
+        "depth": 6
+    },
+    {
+        "text": "Dealing Procedures",
+        "page": 54,
+        "id": 176,
+        "depth": 5
+    },
+    {
+        "text": "Publication of Prices",
+        "page": 54,
+        "id": 177,
+        "depth": 5
+    },
+    {
+        "text": "Taxation",
+        "page": 54,
+        "id": 178,
+        "depth": 5
+    },
+    {
+        "text": "Irish pension funds within the meaning of Section 774, 784 and 785 of the Taxes Consolidation Act, 1997.",
+        "page": 54,
+        "id": 179,
+        "depth": 6
+    },
+    {
+        "text": "Other Irish Shareholders",
+        "page": 55,
+        "id": 180,
+        "depth": 6
+    },
+    {
+        "text": "Documents available for inspection",
+        "page": 55,
+        "id": 181,
+        "depth": 5
+    },
+    {
+        "text": "ITALY",
+        "page": 56,
+        "id": 182,
+        "depth": 4
+    },
+    {
+        "text": "Charges and Expenses",
+        "page": 56,
+        "id": 183,
+        "depth": 5
+    },
+    {
+        "text": "JERSEY",
+        "page": 56,
+        "id": 184,
+        "depth": 4
+    },
+    {
+        "text": "NORWAY",
+        "page": 56,
+        "id": 185,
+        "depth": 4
+    },
+    {
+        "text": "Registration and Supervision",
+        "page": 56,
+        "id": 186,
+        "depth": 5
+    },
+    {
+        "text": "Representative",
+        "page": 56,
+        "id": 187,
+        "depth": 5
+    },
+    {
+        "text": "Dealing Procedures",
+        "page": 56,
+        "id": 188,
+        "depth": 5
+    },
+    {
+        "text": "Publication of Prices",
+        "page": 56,
+        "id": 189,
+        "depth": 5
+    },
+    {
+        "text": "Taxation",
+        "page": 56,
+        "id": 190,
+        "depth": 5
+    },
+    {
+        "text": "Documents Available for Inspection",
+        "page": 58,
+        "id": 191,
+        "depth": 5
+    },
+    {
+        "text": "SINGAPORE",
+        "page": 58,
+        "id": 192,
+        "depth": 4
+    },
+    {
+        "text": "SWEDEN",
+        "page": 58,
+        "id": 193,
+        "depth": 4
+    },
+    {
+        "text": "Registration and Supervision",
+        "page": 58,
+        "id": 194,
+        "depth": 5
+    },
+    {
+        "text": "Representative",
+        "page": 58,
+        "id": 195,
+        "depth": 5
+    },
+    {
+        "text": "Dealing Procedures",
+        "page": 58,
+        "id": 196,
+        "depth": 5
+    },
+    {
+        "text": "Publication of Prices",
+        "page": 59,
+        "id": 197,
+        "depth": 5
+    },
+    {
+        "text": "Taxation",
+        "page": 59,
+        "id": 198,
+        "depth": 5
+    },
+    {
+        "text": "Documents Available for Inspection",
+        "page": 59,
+        "id": 199,
+        "depth": 5
+    },
+    {
+        "text": "THE NETHERLANDS",
+        "page": 59,
+        "id": 200,
+        "depth": 4
+    },
+    {
+        "text": "Registration and Supervision",
+        "page": 59,
+        "id": 201,
+        "depth": 5
+    },
+    {
+        "text": "Dealing Procedures",
+        "page": 59,
+        "id": 202,
+        "depth": 5
+    },
+    {
+        "text": "Taxation",
+        "page": 60,
+        "id": 203,
+        "depth": 5
+    },
+    {
+        "text": "Publication of Prices",
+        "page": 60,
+        "id": 204,
+        "depth": 5
+    },
+    {
+        "text": "General",
+        "page": 60,
+        "id": 205,
+        "depth": 5
+    },
+    {
+        "text": "UNITED KINGDOM",
+        "page": 60,
+        "id": 206,
+        "depth": 4
+    },
+    {
+        "text": "Registration and Supervision",
+        "page": 60,
+        "id": 207,
+        "depth": 5
+    },
+    {
+        "text": "Representative in the UK",
+        "page": 61,
+        "id": 208,
+        "depth": 5
+    },
+    {
+        "text": "Dealing Procedures",
+        "page": 61,
+        "id": 209,
+        "depth": 5
+    },
+    {
+        "text": "Publication of Prices",
+        "page": 61,
+        "id": 210,
+        "depth": 5
+    },
+    {
+        "text": "Taxation",
+        "page": 61,
+        "id": 211,
+        "depth": 5
+    },
+    {
+        "text": "Documents Available for Inspection",
+        "page": 63,
+        "id": 212,
+        "depth": 5
+    },
+    {
+        "text": "Commissions/Charges",
+        "page": 63,
+        "id": 213,
+        "depth": 5
+    },
+    {
+        "text": "Appendix II LIST OF SHARE CLASSES",
+        "page": 64,
+        "id": 214,
+        "depth": 3
+    }
+]

@@ -1,0 +1,458 @@
+[
+    {
+        "text": "UBS (Lux) Bond SICAV",
+        "page": 1,
+        "id": 1,
+        "depth": 1
+    },
+    {
+        "text": "Sales prospectus",
+        "page": 1,
+        "id": 2,
+        "depth": 2
+    },
+    {
+        "text": "Management and administration",
+        "page": 1,
+        "id": 3,
+        "depth": 3
+    },
+    {
+        "text": "Registered office",
+        "page": 1,
+        "id": 4,
+        "depth": 4
+    },
+    {
+        "text": "Board of Directors of the Company",
+        "page": 1,
+        "id": 5,
+        "depth": 4
+    },
+    {
+        "text": "Management Company",
+        "page": 1,
+        "id": 6,
+        "depth": 4
+    },
+    {
+        "text": "Board of Directors of the Management Company",
+        "page": 1,
+        "id": 7,
+        "depth": 4
+    },
+    {
+        "text": "Executive Board of the Management Company",
+        "page": 1,
+        "id": 8,
+        "depth": 4
+    },
+    {
+        "text": "Portfolio Manager",
+        "page": 1,
+        "id": 9,
+        "depth": 4
+    },
+    {
+        "text": "Merging assets",
+        "page": 1,
+        "id": 10,
+        "depth": 4
+    },
+    {
+        "text": "Pooling",
+        "page": 1,
+        "id": 11,
+        "depth": 4
+    },
+    {
+        "text": "Joint management",
+        "page": 2,
+        "id": 12,
+        "depth": 4
+    },
+    {
+        "text": "Custodian Bank and main paying agent",
+        "page": 2,
+        "id": 13,
+        "depth": 4
+    },
+    {
+        "text": "Administrative Agent",
+        "page": 2,
+        "id": 14,
+        "depth": 4
+    },
+    {
+        "text": "Auditor of the Company",
+        "page": 2,
+        "id": 15,
+        "depth": 4
+    },
+    {
+        "text": "Paying agents",
+        "page": 2,
+        "id": 16,
+        "depth": 4
+    },
+    {
+        "text": "Sales agencies and Distributors, sales agencies listed in the sales prospectus",
+        "page": 2,
+        "id": 17,
+        "depth": 4
+    },
+    {
+        "text": "Profile of the typical investor",
+        "page": 2,
+        "id": 18,
+        "depth": 4
+    },
+    {
+        "text": "UBS (Lux) Bond SICAV – Asian Local Currency Bond (USD)",
+        "page": 2,
+        "id": 19,
+        "depth": 5
+    },
+    {
+        "text": "UBS (Lux) Bond SICAV – Asian High Yield (USD)",
+        "page": 2,
+        "id": 20,
+        "depth": 5
+    },
+    {
+        "text": "UBS (Lux) Bond SICAV – Emerging Markets Bonds 2014 (USD) UBS (Lux) Bond SICAV – Emerging Markets Bonds 2016 (USD)",
+        "page": 2,
+        "id": 21,
+        "depth": 5
+    },
+    {
+        "text": "UBS (Lux) Bond SICAV – Emerging Markets Bonds 2016 (EUR)",
+        "page": 2,
+        "id": 22,
+        "depth": 5
+    },
+    {
+        "text": "UBS (Lux) Bond SICAV – Brazil (USD)",
+        "page": 2,
+        "id": 23,
+        "depth": 5
+    },
+    {
+        "text": "UBS (Lux) Bond SICAV – USD Brazil (USD)",
+        "page": 2,
+        "id": 24,
+        "depth": 5
+    },
+    {
+        "text": "UBS (Lux) Bond SICAV – Convert Global (EUR)",
+        "page": 2,
+        "id": 25,
+        "depth": 5
+    },
+    {
+        "text": "UBS (Lux) Bond SICAV – Currency Diversifier (USD)",
+        "page": 2,
+        "id": 26,
+        "depth": 5
+    },
+    {
+        "text": "UBS (Lux) Bond SICAV – EUR Corporates (EUR) UBS (Lux) Bond SICAV – USD Corporates (USD)",
+        "page": 2,
+        "id": 27,
+        "depth": 5
+    },
+    {
+        "text": "UBS (Lux) Bond SICAV – Global Corporates (USD)",
+        "page": 2,
+        "id": 28,
+        "depth": 5
+    },
+    {
+        "text": "UBS (Lux) Bond SICAV – EUR Corporates 2014 II (EUR) UBS (Lux) Bond SICAV – EUR Corporates 2015 II (EUR) UBS (Lux) Bond SICAV – USD Corporates 2015 II (USD)",
+        "page": 2,
+        "id": 29,
+        "depth": 5
+    },
+    {
+        "text": "UBS (Lux) Bond SICAV – European Convergence (EUR)",
+        "page": 3,
+        "id": 30,
+        "depth": 5
+    },
+    {
+        "text": "UBS (Lux) Bond SICAV – Short Term EUR Corporates (EUR) UBS (Lux) Bond SICAV – Short Term USD Corporates (USD",
+        "page": 3,
+        "id": 31,
+        "depth": 5
+    },
+    {
+        "text": "UBS (Lux) Bond SICAV – Short Duration High Yield (USD)",
+        "page": 3,
+        "id": 32,
+        "depth": 5
+    },
+    {
+        "text": "UBS (Lux) Bond SICAV – USD High Yield (USD)",
+        "page": 3,
+        "id": 33,
+        "depth": 5
+    },
+    {
+        "text": "UBS (Lux) Bond SICAV – Inflation-linked (EUR)",
+        "page": 3,
+        "id": 34,
+        "depth": 5
+    },
+    {
+        "text": "UBS (Lux) Bond SICAV – Inflation-linked Global (EUR)",
+        "page": 3,
+        "id": 35,
+        "depth": 5
+    },
+    {
+        "text": "UBS (Lux) Bond SICAV – Russia (USD)",
+        "page": 3,
+        "id": 36,
+        "depth": 5
+    },
+    {
+        "text": "UBS (Lux) Bond SICAV – Asian Local Currency Corporates (USD)",
+        "page": 3,
+        "id": 37,
+        "depth": 5
+    },
+    {
+        "text": "UBS (Lux) Bond SICAV – EUR Countries Defensive (EUR)",
+        "page": 3,
+        "id": 38,
+        "depth": 5
+    },
+    {
+        "text": "UBS (Lux) Bond SICAV – EUR Covered Bonds (EUR)",
+        "page": 3,
+        "id": 39,
+        "depth": 5
+    },
+    {
+        "text": "UBS (Lux) Bond SICAV – 2015 (EUR) UBS (Lux) Bond SICAV – 2015 II (USD) UBS (Lux) Bond SICAV – 2016 (EUR) UBS (Lux) Bond SICAV – 2016 II (USD)",
+        "page": 3,
+        "id": 40,
+        "depth": 5
+    },
+    {
+        "text": "UBS (Lux) Bond SICAV – Emerging Economies Local Currency Bond (USD)",
+        "page": 3,
+        "id": 41,
+        "depth": 5
+    },
+    {
+        "text": "Historical performance",
+        "page": 3,
+        "id": 42,
+        "depth": 4
+    },
+    {
+        "text": "Risk profile",
+        "page": 3,
+        "id": 43,
+        "depth": 4
+    },
+    {
+        "text": "Legal aspects",
+        "page": 3,
+        "id": 44,
+        "depth": 3
+    },
+    {
+        "text": "The Company",
+        "page": 3,
+        "id": 45,
+        "depth": 4
+    },
+    {
+        "text": "Share classes",
+        "page": 3,
+        "id": 46,
+        "depth": 3
+    },
+    {
+        "text": "Investment objective and investment policy of the Subfunds",
+        "page": 4,
+        "id": 47,
+        "depth": 3
+    },
+    {
+        "text": "Investment objective",
+        "page": 4,
+        "id": 48,
+        "depth": 4
+    },
+    {
+        "text": "General investment policy",
+        "page": 4,
+        "id": 49,
+        "depth": 4
+    },
+    {
+        "text": "The Subfunds and their special investment policies",
+        "page": 5,
+        "id": 50,
+        "depth": 3
+    },
+    {
+        "text": "Investments in UBS (Lux) Bond SICAV",
+        "page": 13,
+        "id": 51,
+        "depth": 3
+    },
+    {
+        "text": "Conditions for the issue and redemption of shares",
+        "page": 13,
+        "id": 52,
+        "depth": 4
+    },
+    {
+        "text": "Net asset value, issue, redemption and conversion price",
+        "page": 13,
+        "id": 53,
+        "depth": 4
+    },
+    {
+        "text": "Issue of shares",
+        "page": 14,
+        "id": 54,
+        "depth": 4
+    },
+    {
+        "text": "Redemption of shares",
+        "page": 14,
+        "id": 55,
+        "depth": 4
+    },
+    {
+        "text": "Conversion of shares",
+        "page": 14,
+        "id": 56,
+        "depth": 4
+    },
+    {
+        "text": "Prevention of money laundering and terrorist financing",
+        "page": 15,
+        "id": 57,
+        "depth": 4
+    },
+    {
+        "text": "Suspension of the net asset value calculation and of the issue, redemption and conversion of shares",
+        "page": 15,
+        "id": 58,
+        "depth": 4
+    },
+    {
+        "text": "Distribution of income",
+        "page": 15,
+        "id": 59,
+        "depth": 3
+    },
+    {
+        "text": "Taxes and expenses",
+        "page": 15,
+        "id": 60,
+        "depth": 3
+    },
+    {
+        "text": "Taxation",
+        "page": 15,
+        "id": 61,
+        "depth": 4
+    },
+    {
+        "text": "Investors in the United Kingdom",
+        "page": 15,
+        "id": 62,
+        "depth": 4
+    },
+    {
+        "text": "Expenses paid by the Company",
+        "page": 16,
+        "id": 63,
+        "depth": 4
+    },
+    {
+        "text": "Information to shareholders",
+        "page": 16,
+        "id": 64,
+        "depth": 3
+    },
+    {
+        "text": "Regular reports and publications",
+        "page": 16,
+        "id": 65,
+        "depth": 4
+    },
+    {
+        "text": "Depositing of documents",
+        "page": 16,
+        "id": 66,
+        "depth": 4
+    },
+    {
+        "text": "Liquidation of the Company and its Subfunds; merger of Subfunds",
+        "page": 16,
+        "id": 67,
+        "depth": 3
+    },
+    {
+        "text": "Liquidation of the Company and its Subfunds",
+        "page": 16,
+        "id": 68,
+        "depth": 4
+    },
+    {
+        "text": "Merger of the Company or of Subfunds with another undertaking for collective investment (“UCI”) or with its subfunds; merger of Subfunds",
+        "page": 16,
+        "id": 69,
+        "depth": 4
+    },
+    {
+        "text": "General meeting of the Company or of the shareholders of the Subfund concerned",
+        "page": 17,
+        "id": 70,
+        "depth": 4
+    },
+    {
+        "text": "Applicable law, place of performance and authoritative language",
+        "page": 17,
+        "id": 71,
+        "depth": 3
+    },
+    {
+        "text": "Investment principles",
+        "page": 17,
+        "id": 72,
+        "depth": 3
+    },
+    {
+        "text": "1\t Permitted investments of the Company",
+        "page": 17,
+        "id": 73,
+        "depth": 4
+    },
+    {
+        "text": "2\t Risk diversification",
+        "page": 17,
+        "id": 74,
+        "depth": 4
+    },
+    {
+        "text": "3\t Investment restrictions",
+        "page": 18,
+        "id": 75,
+        "depth": 4
+    },
+    {
+        "text": "4\t\u0007Special techniques and instruments that have securities and money market instruments as underlying assets",
+        "page": 18,
+        "id": 76,
+        "depth": 4
+    }
+]

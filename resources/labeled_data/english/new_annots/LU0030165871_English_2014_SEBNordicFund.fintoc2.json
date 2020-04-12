@@ -1,0 +1,1484 @@
+[
+    {
+        "text": "Prospectus SEB Fund 1",
+        "page": 1,
+        "id": 1,
+        "depth": 1
+    },
+    {
+        "text": "Important information",
+        "page": 2,
+        "id": 2,
+        "depth": 2
+    },
+    {
+        "text": "Glossary of terms",
+        "page": 3,
+        "id": 3,
+        "depth": 2
+    },
+    {
+        "text": "TABLE OF CONTENTS",
+        "page": 6,
+        "id": 4,
+        "depth": 2
+    },
+    {
+        "text": "I. The Fund",
+        "page": 8,
+        "id": 5,
+        "depth": 1
+    },
+    {
+        "text": "1. General information",
+        "page": 8,
+        "id": 6,
+        "depth": 2
+    },
+    {
+        "text": "2. Involved parties",
+        "page": 9,
+        "id": 7,
+        "depth": 2
+    },
+    {
+        "text": "2.1. Presentation of involved parties",
+        "page": 9,
+        "id": 8,
+        "depth": 3
+    },
+    {
+        "text": "Promoter",
+        "page": 9,
+        "id": 9,
+        "depth": 4
+    },
+    {
+        "text": "Management Company",
+        "page": 9,
+        "id": 10,
+        "depth": 4
+    },
+    {
+        "text": "Board of Directors of the Management Company",
+        "page": 9,
+        "id": 11,
+        "depth": 4
+    },
+    {
+        "text": "Chairperson",
+        "page": 9,
+        "id": 12,
+        "depth": 5
+    },
+    {
+        "text": "Members",
+        "page": 9,
+        "id": 13,
+        "depth": 5
+    },
+    {
+        "text": "Conducting officers",
+        "page": 9,
+        "id": 14,
+        "depth": 5
+    },
+    {
+        "text": "Central Administration (Including the administrative, registrar and transfer agent function) and Paying Agent in Luxembourg",
+        "page": 10,
+        "id": 15,
+        "depth": 4
+    },
+    {
+        "text": "Investment Managers of",
+        "page": 10,
+        "id": 16,
+        "depth": 4
+    },
+    {
+        "text": "Global Distributor",
+        "page": 10,
+        "id": 17,
+        "depth": 4
+    },
+    {
+        "text": "Representatives and paying agents outside Luxembourg",
+        "page": 10,
+        "id": 18,
+        "depth": 4
+    },
+    {
+        "text": "Custodian Bank",
+        "page": 10,
+        "id": 19,
+        "depth": 4
+    },
+    {
+        "text": "Approved Statutory Auditor of the Fund and the Management Company (hereafter the “Auditor”)",
+        "page": 10,
+        "id": 20,
+        "depth": 4
+    },
+    {
+        "text": "2.2. Description of involved parties",
+        "page": 11,
+        "id": 21,
+        "depth": 3
+    },
+    {
+        "text": "2.2.1. The Management Company",
+        "page": 11,
+        "id": 22,
+        "depth": 4
+    },
+    {
+        "text": "2.2.2. The Central Administration",
+        "page": 11,
+        "id": 23,
+        "depth": 4
+    },
+    {
+        "text": "2.2.3. The Investment Managers",
+        "page": 11,
+        "id": 24,
+        "depth": 4
+    },
+    {
+        "text": "2.2.4. The Global Distributor",
+        "page": 12,
+        "id": 25,
+        "depth": 4
+    },
+    {
+        "text": "2.2.5. The Custodian Bank",
+        "page": 12,
+        "id": 26,
+        "depth": 4
+    },
+    {
+        "text": "3. Investment objective and policy",
+        "page": 12,
+        "id": 27,
+        "depth": 2
+    },
+    {
+        "text": "3.1. Eligible Assets",
+        "page": 12,
+        "id": 28,
+        "depth": 3
+    },
+    {
+        "text": "Transferable securities and money market instruments, as defined in the Law",
+        "page": 12,
+        "id": 29,
+        "depth": 4
+    },
+    {
+        "text": "Units of undertakings for collective investment",
+        "page": 13,
+        "id": 30,
+        "depth": 4
+    },
+    {
+        "text": "Deposits with a credit institution",
+        "page": 13,
+        "id": 31,
+        "depth": 4
+    },
+    {
+        "text": "Financial derivative instruments",
+        "page": 14,
+        "id": 32,
+        "depth": 4
+    },
+    {
+        "text": "Volatility index futures",
+        "page": 14,
+        "id": 33,
+        "depth": 4
+    },
+    {
+        "text": "Credit default swaps",
+        "page": 14,
+        "id": 34,
+        "depth": 4
+    },
+    {
+        "text": "Total Return swaps",
+        "page": 15,
+        "id": 35,
+        "depth": 4
+    },
+    {
+        "text": "Money market instruments other than those dealt in on a regulated market",
+        "page": 15,
+        "id": 36,
+        "depth": 4
+    },
+    {
+        "text": "3.2. Investment restrictions applicable to Eligible Assets",
+        "page": 16,
+        "id": 37,
+        "depth": 3
+    },
+    {
+        "text": "Transferable securities and money market instruments as defined in the Law",
+        "page": 16,
+        "id": 38,
+        "depth": 4
+    },
+    {
+        "text": "Units of undertakings for collective investment",
+        "page": 17,
+        "id": 39,
+        "depth": 4
+    },
+    {
+        "text": "Specific rules applicable to",
+        "page": 18,
+        "id": 40,
+        "depth": 4
+    },
+    {
+        "text": "1. Cross Sub-Fund investments",
+        "page": 18,
+        "id": 41,
+        "depth": 5
+    },
+    {
+        "text": "2. Master and feeder structures for Sub-Funds",
+        "page": 18,
+        "id": 42,
+        "depth": 5
+    },
+    {
+        "text": "Deposits with credit institutions",
+        "page": 18,
+        "id": 43,
+        "depth": 4
+    },
+    {
+        "text": "Financial derivative instruments",
+        "page": 19,
+        "id": 44,
+        "depth": 4
+    },
+    {
+        "text": "Maximum exposure to a single body",
+        "page": 19,
+        "id": 45,
+        "depth": 4
+    },
+    {
+        "text": "Eligible Assets issued by the same group",
+        "page": 20,
+        "id": 46,
+        "depth": 4
+    },
+    {
+        "text": "Acquisition limits by issuer of Eligible Assets",
+        "page": 20,
+        "id": 47,
+        "depth": 4
+    },
+    {
+        "text": "3.3. Unauthorized investments",
+        "page": 21,
+        "id": 48,
+        "depth": 3
+    },
+    {
+        "text": "3.4. Efficient portfolio management techniques",
+        "page": 21,
+        "id": 49,
+        "depth": 3
+    },
+    {
+        "text": "3.5. Collateral management",
+        "page": 22,
+        "id": 50,
+        "depth": 3
+    },
+    {
+        "text": "4. Information on risk",
+        "page": 24,
+        "id": 51,
+        "depth": 2
+    },
+    {
+        "text": "4.1. General information",
+        "page": 24,
+        "id": 52,
+        "depth": 3
+    },
+    {
+        "text": "4.2. Risk factors",
+        "page": 24,
+        "id": 53,
+        "depth": 3
+    },
+    {
+        "text": "Commodity risk",
+        "page": 24,
+        "id": 54,
+        "depth": 4
+    },
+    {
+        "text": "Counterparty and settlement risk",
+        "page": 24,
+        "id": 55,
+        "depth": 4
+    },
+    {
+        "text": "Country risk / Geographical risk",
+        "page": 24,
+        "id": 56,
+        "depth": 4
+    },
+    {
+        "text": "Credit risk",
+        "page": 25,
+        "id": 57,
+        "depth": 4
+    },
+    {
+        "text": "Currency risk",
+        "page": 25,
+        "id": 58,
+        "depth": 4
+    },
+    {
+        "text": "Derivatives",
+        "page": 25,
+        "id": 59,
+        "depth": 4
+    },
+    {
+        "text": "Efficient portfolio management techniques",
+        "page": 26,
+        "id": 60,
+        "depth": 4
+    },
+    {
+        "text": "Interest rates",
+        "page": 26,
+        "id": 61,
+        "depth": 4
+    },
+    {
+        "text": "Investments in UCIs and UCITS",
+        "page": 27,
+        "id": 62,
+        "depth": 4
+    },
+    {
+        "text": "Liquidity risk",
+        "page": 27,
+        "id": 63,
+        "depth": 4
+    },
+    {
+        "text": "Market risk",
+        "page": 27,
+        "id": 64,
+        "depth": 4
+    },
+    {
+        "text": "Risk of default",
+        "page": 27,
+        "id": 65,
+        "depth": 4
+    },
+    {
+        "text": "4.3. Risk management process",
+        "page": 27,
+        "id": 66,
+        "depth": 3
+    },
+    {
+        "text": "5. Units",
+        "page": 28,
+        "id": 67,
+        "depth": 2
+    },
+    {
+        "text": "5.1. Unit Classes",
+        "page": 28,
+        "id": 68,
+        "depth": 3
+    },
+    {
+        "text": "5.1.1. Dividend policy",
+        "page": 28,
+        "id": 69,
+        "depth": 4
+    },
+    {
+        "text": "5.1.2. Hedging policy",
+        "page": 28,
+        "id": 70,
+        "depth": 4
+    },
+    {
+        "text": "5.1.3 Target investors",
+        "page": 28,
+        "id": 71,
+        "depth": 4
+    },
+    {
+        "text": "5.1.4. Registered / bearer Units",
+        "page": 29,
+        "id": 72,
+        "depth": 4
+    },
+    {
+        "text": "5.2. Issue of Units",
+        "page": 29,
+        "id": 73,
+        "depth": 3
+    },
+    {
+        "text": "5.2.1. Restriction on issue",
+        "page": 29,
+        "id": 74,
+        "depth": 4
+    },
+    {
+        "text": "5.2.2. Anti-money laundering procedures",
+        "page": 31,
+        "id": 75,
+        "depth": 4
+    },
+    {
+        "text": "5.2.3. Late trading and market timing",
+        "page": 31,
+        "id": 76,
+        "depth": 4
+    },
+    {
+        "text": "5.3. Redemption of Units",
+        "page": 31,
+        "id": 77,
+        "depth": 3
+    },
+    {
+        "text": "5.3.1. Compulsory redemption of Units",
+        "page": 32,
+        "id": 78,
+        "depth": 4
+    },
+    {
+        "text": "5.4. Conversion of Units",
+        "page": 32,
+        "id": 79,
+        "depth": 3
+    },
+    {
+        "text": "5.5. Cut-off time",
+        "page": 33,
+        "id": 80,
+        "depth": 3
+    },
+    {
+        "text": "6. Charges",
+        "page": 33,
+        "id": 81,
+        "depth": 2
+    },
+    {
+        "text": "7. NAV calculation",
+        "page": 34,
+        "id": 82,
+        "depth": 2
+    },
+    {
+        "text": "8. Mergers",
+        "page": 34,
+        "id": 83,
+        "depth": 2
+    },
+    {
+        "text": "9. Duration and liquidation of Sub-Funds and of the Fund",
+        "page": 34,
+        "id": 84,
+        "depth": 2
+    },
+    {
+        "text": "9.1. Duration and liquidation of Sub-Funds",
+        "page": 34,
+        "id": 85,
+        "depth": 3
+    },
+    {
+        "text": "9.2. Duration and liquidation of the Fund",
+        "page": 35,
+        "id": 86,
+        "depth": 3
+    },
+    {
+        "text": "10. Taxation of the Fund and the Unitholders",
+        "page": 36,
+        "id": 87,
+        "depth": 2
+    },
+    {
+        "text": "10.1. Taxation of the Fund",
+        "page": 36,
+        "id": 88,
+        "depth": 3
+    },
+    {
+        "text": "1) Subscription tax",
+        "page": 36,
+        "id": 89,
+        "depth": 4
+    },
+    {
+        "text": "2) Withholding tax",
+        "page": 36,
+        "id": 90,
+        "depth": 4
+    },
+    {
+        "text": "3) Income tax",
+        "page": 37,
+        "id": 91,
+        "depth": 4
+    },
+    {
+        "text": "4) Value added tax",
+        "page": 37,
+        "id": 92,
+        "depth": 4
+    },
+    {
+        "text": "5) Other taxes",
+        "page": 37,
+        "id": 93,
+        "depth": 4
+    },
+    {
+        "text": "10.2. Taxation of the Unitholders",
+        "page": 37,
+        "id": 94,
+        "depth": 3
+    },
+    {
+        "text": "11. Information to Unitholders",
+        "page": 38,
+        "id": 95,
+        "depth": 2
+    },
+    {
+        "text": "11.1. Prospectus, Management Regulations and KIID",
+        "page": 38,
+        "id": 96,
+        "depth": 3
+    },
+    {
+        "text": "11.2. Reports and financial statements",
+        "page": 38,
+        "id": 97,
+        "depth": 3
+    },
+    {
+        "text": "11.3. Issue and redemption prices and other information to Unitholders",
+        "page": 38,
+        "id": 98,
+        "depth": 3
+    },
+    {
+        "text": "11.4. Best execution",
+        "page": 38,
+        "id": 99,
+        "depth": 3
+    },
+    {
+        "text": "11.5. Voting rights",
+        "page": 38,
+        "id": 100,
+        "depth": 3
+    },
+    {
+        "text": "11.6. Complaints’ handling",
+        "page": 39,
+        "id": 101,
+        "depth": 3
+    },
+    {
+        "text": "11.7. Conflict of interest",
+        "page": 39,
+        "id": 102,
+        "depth": 3
+    },
+    {
+        "text": "11.8. Unitholders' rights against the Fund",
+        "page": 39,
+        "id": 103,
+        "depth": 3
+    },
+    {
+        "text": "II. The Sub-Funds",
+        "page": 40,
+        "id": 104,
+        "depth": 1
+    },
+    {
+        "text": "SEB Asset Selection Fund",
+        "page": 40,
+        "id": 105,
+        "depth": 2
+    },
+    {
+        "text": "1. Investment objective and policy",
+        "page": 40,
+        "id": 106,
+        "depth": 3
+    },
+    {
+        "text": "2. Investment Manager",
+        "page": 41,
+        "id": 107,
+        "depth": 3
+    },
+    {
+        "text": "3. Risk profile and risk management process",
+        "page": 41,
+        "id": 108,
+        "depth": 3
+    },
+    {
+        "text": "3.1. Risk profile",
+        "page": 41,
+        "id": 109,
+        "depth": 4
+    },
+    {
+        "text": "Credit Risk",
+        "page": 41,
+        "id": 110,
+        "depth": 5
+    },
+    {
+        "text": "Liquidity risk",
+        "page": 41,
+        "id": 111,
+        "depth": 5
+    },
+    {
+        "text": "Counterparty risk",
+        "page": 41,
+        "id": 112,
+        "depth": 5
+    },
+    {
+        "text": "Operational risk",
+        "page": 41,
+        "id": 113,
+        "depth": 5
+    },
+    {
+        "text": "Market risk",
+        "page": 41,
+        "id": 114,
+        "depth": 5
+    },
+    {
+        "text": "Interest risk",
+        "page": 42,
+        "id": 115,
+        "depth": 5
+    },
+    {
+        "text": "Derivatives",
+        "page": 42,
+        "id": 116,
+        "depth": 5
+    },
+    {
+        "text": "Currency risk",
+        "page": 42,
+        "id": 117,
+        "depth": 5
+    },
+    {
+        "text": "Specific Risks",
+        "page": 42,
+        "id": 118,
+        "depth": 5
+    },
+    {
+        "text": "3.2. Risk management process",
+        "page": 43,
+        "id": 119,
+        "depth": 4
+    },
+    {
+        "text": "a) Global exposure",
+        "page": 43,
+        "id": 120,
+        "depth": 5
+    },
+    {
+        "text": "b) Leverage",
+        "page": 43,
+        "id": 121,
+        "depth": 5
+    },
+    {
+        "text": "4. Typical Investor",
+        "page": 43,
+        "id": 122,
+        "depth": 3
+    },
+    {
+        "text": "5. Base Currency of the Sub-Fund",
+        "page": 43,
+        "id": 123,
+        "depth": 3
+    },
+    {
+        "text": "6. Classes of Units available",
+        "page": 44,
+        "id": 124,
+        "depth": 3
+    },
+    {
+        "text": "7. Charges",
+        "page": 44,
+        "id": 125,
+        "depth": 3
+    },
+    {
+        "text": "7.1. Management Fee",
+        "page": 44,
+        "id": 126,
+        "depth": 4
+    },
+    {
+        "text": "7.2. Performance Fee",
+        "page": 44,
+        "id": 127,
+        "depth": 4
+    },
+    {
+        "text": "SEB Ethical Europe Fund",
+        "page": 46,
+        "id": 128,
+        "depth": 2
+    },
+    {
+        "text": "1. Investment objective and policy",
+        "page": 46,
+        "id": 129,
+        "depth": 3
+    },
+    {
+        "text": "2. Investment Manager",
+        "page": 46,
+        "id": 130,
+        "depth": 3
+    },
+    {
+        "text": "3. Risk profile and risk management process",
+        "page": 46,
+        "id": 131,
+        "depth": 3
+    },
+    {
+        "text": "3.1. Risk profile",
+        "page": 46,
+        "id": 132,
+        "depth": 4
+    },
+    {
+        "text": "3.2. Risk management process",
+        "page": 47,
+        "id": 133,
+        "depth": 4
+    },
+    {
+        "text": "a) Global exposure",
+        "page": 47,
+        "id": 134,
+        "depth": 5
+    },
+    {
+        "text": "b) Leverage",
+        "page": 47,
+        "id": 135,
+        "depth": 5
+    },
+    {
+        "text": "4. Typical Investor",
+        "page": 47,
+        "id": 136,
+        "depth": 3
+    },
+    {
+        "text": "5. Base Currency of the Sub-Fund",
+        "page": 47,
+        "id": 137,
+        "depth": 3
+    },
+    {
+        "text": "6. Classes available",
+        "page": 48,
+        "id": 138,
+        "depth": 3
+    },
+    {
+        "text": "7. Charges",
+        "page": 48,
+        "id": 139,
+        "depth": 3
+    },
+    {
+        "text": "7.1. Management Fee",
+        "page": 48,
+        "id": 140,
+        "depth": 4
+    },
+    {
+        "text": "SEB Europe Fund",
+        "page": 49,
+        "id": 141,
+        "depth": 2
+    },
+    {
+        "text": "1. Investment objective and policy",
+        "page": 49,
+        "id": 142,
+        "depth": 3
+    },
+    {
+        "text": "2. Investment Manager",
+        "page": 49,
+        "id": 143,
+        "depth": 3
+    },
+    {
+        "text": "3. Risk profile and management process",
+        "page": 49,
+        "id": 144,
+        "depth": 3
+    },
+    {
+        "text": "3.1. Risk profile",
+        "page": 49,
+        "id": 145,
+        "depth": 4
+    },
+    {
+        "text": "3.2. Risk management process",
+        "page": 50,
+        "id": 146,
+        "depth": 4
+    },
+    {
+        "text": "a) Global exposure",
+        "page": 50,
+        "id": 147,
+        "depth": 5
+    },
+    {
+        "text": "b) Leverage",
+        "page": 50,
+        "id": 148,
+        "depth": 5
+    },
+    {
+        "text": "4. Typical Investor",
+        "page": 50,
+        "id": 149,
+        "depth": 3
+    },
+    {
+        "text": "5. Base Currency of the Sub-Fund",
+        "page": 50,
+        "id": 150,
+        "depth": 3
+    },
+    {
+        "text": "6. Classes available",
+        "page": 51,
+        "id": 151,
+        "depth": 3
+    },
+    {
+        "text": "7. Charges",
+        "page": 51,
+        "id": 152,
+        "depth": 3
+    },
+    {
+        "text": "7.1. Management fee",
+        "page": 51,
+        "id": 153,
+        "depth": 4
+    },
+    {
+        "text": "SEB Europe Index Fund",
+        "page": 52,
+        "id": 154,
+        "depth": 2
+    },
+    {
+        "text": "1. Investment objective and policy",
+        "page": 52,
+        "id": 155,
+        "depth": 3
+    },
+    {
+        "text": "2. Investment Manager",
+        "page": 53,
+        "id": 156,
+        "depth": 3
+    },
+    {
+        "text": "3. Risk profile and risk management process",
+        "page": 53,
+        "id": 157,
+        "depth": 3
+    },
+    {
+        "text": "3.1. Risk profile",
+        "page": 53,
+        "id": 158,
+        "depth": 4
+    },
+    {
+        "text": "3.2. Risk management process",
+        "page": 53,
+        "id": 159,
+        "depth": 4
+    },
+    {
+        "text": "a) Global exposure",
+        "page": 53,
+        "id": 160,
+        "depth": 5
+    },
+    {
+        "text": "b) Leverage",
+        "page": 53,
+        "id": 161,
+        "depth": 5
+    },
+    {
+        "text": "4. Typical Investor",
+        "page": 54,
+        "id": 162,
+        "depth": 3
+    },
+    {
+        "text": "5. Base Currency of the Sub-Fund",
+        "page": 54,
+        "id": 163,
+        "depth": 3
+    },
+    {
+        "text": "6. Classes available",
+        "page": 54,
+        "id": 164,
+        "depth": 3
+    },
+    {
+        "text": "7. Charges",
+        "page": 54,
+        "id": 165,
+        "depth": 3
+    },
+    {
+        "text": "7.1. Management fee",
+        "page": 54,
+        "id": 166,
+        "depth": 4
+    },
+    {
+        "text": "8. Cut off Time / Order Processing",
+        "page": 54,
+        "id": 167,
+        "depth": 3
+    },
+    {
+        "text": "SEB Global Fund",
+        "page": 56,
+        "id": 168,
+        "depth": 2
+    },
+    {
+        "text": "1. Investment objective and policy",
+        "page": 56,
+        "id": 169,
+        "depth": 3
+    },
+    {
+        "text": "2. Investment Manager",
+        "page": 56,
+        "id": 170,
+        "depth": 3
+    },
+    {
+        "text": "3. Risk profile and risk management process",
+        "page": 56,
+        "id": 171,
+        "depth": 3
+    },
+    {
+        "text": "3.1. Risk profile",
+        "page": 56,
+        "id": 172,
+        "depth": 4
+    },
+    {
+        "text": "3.2. Risk management process",
+        "page": 57,
+        "id": 173,
+        "depth": 4
+    },
+    {
+        "text": "a) Global exposure",
+        "page": 57,
+        "id": 174,
+        "depth": 5
+    },
+    {
+        "text": "b) Leverage",
+        "page": 57,
+        "id": 175,
+        "depth": 5
+    },
+    {
+        "text": "4. Typical Investor",
+        "page": 57,
+        "id": 176,
+        "depth": 3
+    },
+    {
+        "text": "5. Base Currency of the Sub-Fund",
+        "page": 57,
+        "id": 177,
+        "depth": 3
+    },
+    {
+        "text": "6. Classes available",
+        "page": 58,
+        "id": 178,
+        "depth": 3
+    },
+    {
+        "text": "7. Charges",
+        "page": 58,
+        "id": 179,
+        "depth": 3
+    },
+    {
+        "text": "7.1. Management fee",
+        "page": 58,
+        "id": 180,
+        "depth": 4
+    },
+    {
+        "text": "SEB Global Chance / Risk Fund",
+        "page": 59,
+        "id": 181,
+        "depth": 2
+    },
+    {
+        "text": "1. Investment objective and policy",
+        "page": 59,
+        "id": 182,
+        "depth": 3
+    },
+    {
+        "text": "2. Investment Manager",
+        "page": 59,
+        "id": 183,
+        "depth": 3
+    },
+    {
+        "text": "3. Risk profile and risk management",
+        "page": 59,
+        "id": 184,
+        "depth": 3
+    },
+    {
+        "text": "3.1.Risk profile",
+        "page": 59,
+        "id": 185,
+        "depth": 4
+    },
+    {
+        "text": "3.2. Risk management process",
+        "page": 60,
+        "id": 186,
+        "depth": 4
+    },
+    {
+        "text": "a) Global exposure",
+        "page": 60,
+        "id": 187,
+        "depth": 5
+    },
+    {
+        "text": "b) Leverage",
+        "page": 60,
+        "id": 188,
+        "depth": 5
+    },
+    {
+        "text": "4. Typical Investor",
+        "page": 60,
+        "id": 189,
+        "depth": 3
+    },
+    {
+        "text": "5. Base Currency of the Sub-Fund",
+        "page": 60,
+        "id": 190,
+        "depth": 3
+    },
+    {
+        "text": "6. Classes available",
+        "page": 61,
+        "id": 191,
+        "depth": 3
+    },
+    {
+        "text": "7. Charges",
+        "page": 61,
+        "id": 192,
+        "depth": 3
+    },
+    {
+        "text": "7.1. Management fee",
+        "page": 61,
+        "id": 193,
+        "depth": 4
+    },
+    {
+        "text": "SEB Japan Fund",
+        "page": 62,
+        "id": 194,
+        "depth": 2
+    },
+    {
+        "text": "1. Investment objective and policy",
+        "page": 62,
+        "id": 195,
+        "depth": 3
+    },
+    {
+        "text": "2. Investment Manager",
+        "page": 62,
+        "id": 196,
+        "depth": 3
+    },
+    {
+        "text": "3. Risk profile and risk management process",
+        "page": 62,
+        "id": 197,
+        "depth": 3
+    },
+    {
+        "text": "3.1. Risk profile",
+        "page": 62,
+        "id": 198,
+        "depth": 4
+    },
+    {
+        "text": "3.2. Risk management process",
+        "page": 63,
+        "id": 199,
+        "depth": 4
+    },
+    {
+        "text": "a) Global exposure",
+        "page": 63,
+        "id": 200,
+        "depth": 5
+    },
+    {
+        "text": "b) Leverage",
+        "page": 63,
+        "id": 201,
+        "depth": 5
+    },
+    {
+        "text": "4. Typical Investor",
+        "page": 63,
+        "id": 202,
+        "depth": 3
+    },
+    {
+        "text": "5. Base Currency of the Sub-Fund",
+        "page": 63,
+        "id": 203,
+        "depth": 3
+    },
+    {
+        "text": "6. Classes available",
+        "page": 64,
+        "id": 204,
+        "depth": 3
+    },
+    {
+        "text": "7. Charges",
+        "page": 64,
+        "id": 205,
+        "depth": 3
+    },
+    {
+        "text": "7.1. Management fee",
+        "page": 64,
+        "id": 206,
+        "depth": 4
+    },
+    {
+        "text": "8. Cut off Time / Order Processing",
+        "page": 64,
+        "id": 207,
+        "depth": 3
+    },
+    {
+        "text": "SEB Japan Chance / Risk Fund",
+        "page": 65,
+        "id": 208,
+        "depth": 2
+    },
+    {
+        "text": "1. Investment objective and policy",
+        "page": 65,
+        "id": 209,
+        "depth": 3
+    },
+    {
+        "text": "2. Investment Manager",
+        "page": 65,
+        "id": 210,
+        "depth": 3
+    },
+    {
+        "text": "3. Risk profile and risk management process",
+        "page": 65,
+        "id": 211,
+        "depth": 3
+    },
+    {
+        "text": "3.1. Risk profile",
+        "page": 65,
+        "id": 212,
+        "depth": 4
+    },
+    {
+        "text": "3.2. Risk management process",
+        "page": 66,
+        "id": 213,
+        "depth": 4
+    },
+    {
+        "text": "a) Global exposure",
+        "page": 66,
+        "id": 214,
+        "depth": 5
+    },
+    {
+        "text": "b) Leverage",
+        "page": 66,
+        "id": 215,
+        "depth": 5
+    },
+    {
+        "text": "4. Typical Investor",
+        "page": 66,
+        "id": 216,
+        "depth": 3
+    },
+    {
+        "text": "5. Base Currency of the Sub-Fund",
+        "page": 66,
+        "id": 217,
+        "depth": 3
+    },
+    {
+        "text": "6. Classes available",
+        "page": 67,
+        "id": 218,
+        "depth": 3
+    },
+    {
+        "text": "7. Charges",
+        "page": 67,
+        "id": 219,
+        "depth": 3
+    },
+    {
+        "text": "7.1. Management fee",
+        "page": 67,
+        "id": 220,
+        "depth": 4
+    },
+    {
+        "text": "8. Cut off Time / Order Processing",
+        "page": 67,
+        "id": 221,
+        "depth": 3
+    },
+    {
+        "text": "SEB Nordic Fund",
+        "page": 68,
+        "id": 222,
+        "depth": 2
+    },
+    {
+        "text": "1. Investment objective and policy",
+        "page": 68,
+        "id": 223,
+        "depth": 3
+    },
+    {
+        "text": "2. Investment Manager",
+        "page": 68,
+        "id": 224,
+        "depth": 3
+    },
+    {
+        "text": "3. Risk profile and risk management process",
+        "page": 68,
+        "id": 225,
+        "depth": 3
+    },
+    {
+        "text": "3.1. Risk profile",
+        "page": 68,
+        "id": 226,
+        "depth": 4
+    },
+    {
+        "text": "3.2. Risk management process",
+        "page": 69,
+        "id": 227,
+        "depth": 4
+    },
+    {
+        "text": "a) Global exposure",
+        "page": 69,
+        "id": 228,
+        "depth": 5
+    },
+    {
+        "text": "b) Leverage",
+        "page": 69,
+        "id": 229,
+        "depth": 5
+    },
+    {
+        "text": "4. Typical Investor",
+        "page": 69,
+        "id": 230,
+        "depth": 3
+    },
+    {
+        "text": "5. Base Currency of the Sub-Fund",
+        "page": 70,
+        "id": 231,
+        "depth": 3
+    },
+    {
+        "text": "6. Classes available",
+        "page": 70,
+        "id": 232,
+        "depth": 3
+    },
+    {
+        "text": "7. Charges",
+        "page": 70,
+        "id": 233,
+        "depth": 3
+    },
+    {
+        "text": "7.1. Management fee",
+        "page": 70,
+        "id": 234,
+        "depth": 4
+    },
+    {
+        "text": "SEB North America Chance / Risk Fund",
+        "page": 71,
+        "id": 235,
+        "depth": 2
+    },
+    {
+        "text": "1. Investment objective and policy",
+        "page": 71,
+        "id": 236,
+        "depth": 3
+    },
+    {
+        "text": "2. Investment Manager",
+        "page": 71,
+        "id": 237,
+        "depth": 3
+    },
+    {
+        "text": "3. Risk profile and risk management process",
+        "page": 71,
+        "id": 238,
+        "depth": 3
+    },
+    {
+        "text": "3.1. Risk profile",
+        "page": 71,
+        "id": 239,
+        "depth": 4
+    },
+    {
+        "text": "3.2. Risk management process",
+        "page": 72,
+        "id": 240,
+        "depth": 4
+    },
+    {
+        "text": "a) Global exposure",
+        "page": 72,
+        "id": 241,
+        "depth": 5
+    },
+    {
+        "text": "b) Leverage",
+        "page": 72,
+        "id": 242,
+        "depth": 5
+    },
+    {
+        "text": "4. Typical Investor",
+        "page": 72,
+        "id": 243,
+        "depth": 3
+    },
+    {
+        "text": "5. Base Currency of the Sub-Fund",
+        "page": 72,
+        "id": 244,
+        "depth": 3
+    },
+    {
+        "text": "6. Classes available",
+        "page": 73,
+        "id": 245,
+        "depth": 3
+    },
+    {
+        "text": "7. Charges",
+        "page": 73,
+        "id": 246,
+        "depth": 3
+    },
+    {
+        "text": "7.1. Management fee",
+        "page": 73,
+        "id": 247,
+        "depth": 4
+    }
+]

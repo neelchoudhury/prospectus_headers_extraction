@@ -1,0 +1,1442 @@
+[
+    {
+        "text": "Prospectus",
+        "page": 1,
+        "id": 1,
+        "depth": 1
+    },
+    {
+        "text": "WARNING",
+        "page": 3,
+        "id": 2,
+        "depth": 2
+    },
+    {
+        "text": "Handling of data",
+        "page": 4,
+        "id": 3,
+        "depth": 3
+    },
+    {
+        "text": "TABLE OF CONTENTS",
+        "page": 6,
+        "id": 4,
+        "depth": 2
+    },
+    {
+        "text": "ORGANISATION",
+        "page": 8,
+        "id": 5,
+        "depth": 2
+    },
+    {
+        "text": "PART I - GENERAL INFORMATION",
+        "page": 10,
+        "id": 6,
+        "depth": 1
+    },
+    {
+        "text": "1. THE SICAV",
+        "page": 10,
+        "id": 7,
+        "depth": 2
+    },
+    {
+        "text": "2. ADMINISTRATION AND MANAGEMENT",
+        "page": 12,
+        "id": 8,
+        "depth": 2
+    },
+    {
+        "text": "2.1. Board of Directors",
+        "page": 12,
+        "id": 9,
+        "depth": 3
+    },
+    {
+        "text": "2.2. Custodian bank and paying agent",
+        "page": 12,
+        "id": 10,
+        "depth": 3
+    },
+    {
+        "text": "2.3. Management Company, Domiciliary Agent, Administrative Agent, Registrar and Transfer Agent",
+        "page": 13,
+        "id": 11,
+        "depth": 3
+    },
+    {
+        "text": "2.4. Manager",
+        "page": 13,
+        "id": 12,
+        "depth": 3
+    },
+    {
+        "text": "2.5. Investment advisers",
+        "page": 14,
+        "id": 13,
+        "depth": 3
+    },
+    {
+        "text": "2.6. Distributor",
+        "page": 14,
+        "id": 14,
+        "depth": 3
+    },
+    {
+        "text": "3. INVESTMENT OBJECTIVES AND POLICY",
+        "page": 15,
+        "id": 15,
+        "depth": 2
+    },
+    {
+        "text": "4. ELIGIBLE FINANCIAL ASSETS",
+        "page": 16,
+        "id": 16,
+        "depth": 2
+    },
+    {
+        "text": "Transferable securities and money-market instruments",
+        "page": 16,
+        "id": 17,
+        "depth": 3
+    },
+    {
+        "text": "Shares/units in undertakings for collective investment",
+        "page": 17,
+        "id": 18,
+        "depth": 3
+    },
+    {
+        "text": "Credit institution deposits",
+        "page": 17,
+        "id": 19,
+        "depth": 3
+    },
+    {
+        "text": "Financial derivatives",
+        "page": 17,
+        "id": 20,
+        "depth": 3
+    },
+    {
+        "text": "5. RESTRICTIONS ON INVESTMENTS",
+        "page": 18,
+        "id": 21,
+        "depth": 2
+    },
+    {
+        "text": "Transferable securities and money-market instruments",
+        "page": 18,
+        "id": 22,
+        "depth": 3
+    },
+    {
+        "text": "Credit institution deposits",
+        "page": 19,
+        "id": 23,
+        "depth": 3
+    },
+    {
+        "text": "Financial derivatives",
+        "page": 19,
+        "id": 24,
+        "depth": 3
+    },
+    {
+        "text": "Shares/units in undertakings for collective investment",
+        "page": 19,
+        "id": 25,
+        "depth": 3
+    },
+    {
+        "text": "Combined limits",
+        "page": 21,
+        "id": 26,
+        "depth": 3
+    },
+    {
+        "text": "Limits on control",
+        "page": 21,
+        "id": 27,
+        "depth": 3
+    },
+    {
+        "text": "Loans",
+        "page": 21,
+        "id": 28,
+        "depth": 3
+    },
+    {
+        "text": "Finally, the Sicav shall ensure that the investments of each sub-fund respect the following rules",
+        "page": 22,
+        "id": 29,
+        "depth": 3
+    },
+    {
+        "text": "Notwithstanding all the abovementioned provisions",
+        "page": 22,
+        "id": 30,
+        "depth": 3
+    },
+    {
+        "text": "Risk Warning",
+        "page": 22,
+        "id": 31,
+        "depth": 3
+    },
+    {
+        "text": "Risk management method",
+        "page": 23,
+        "id": 32,
+        "depth": 3
+    },
+    {
+        "text": "6. FINANCIAL TECHNIQUES AND INSTRUMENTS ASSOCIATED WITH TRANSFERABLE SECURITIES AND MONEY MARKET INSTRUMENTS FOR EFFICIENT PORTFOLIO MANAGEMENT",
+        "page": 24,
+        "id": 33,
+        "depth": 2
+    },
+    {
+        "text": "6.1. General provisions",
+        "page": 24,
+        "id": 34,
+        "depth": 3
+    },
+    {
+        "text": "6.2. Use of derivatives",
+        "page": 24,
+        "id": 35,
+        "depth": 3
+    },
+    {
+        "text": "6.2.1. Restrictions",
+        "page": 25,
+        "id": 36,
+        "depth": 4
+    },
+    {
+        "text": "6.2.2. Financial derivatives used",
+        "page": 25,
+        "id": 37,
+        "depth": 4
+    },
+    {
+        "text": "Techniques and Instruments",
+        "page": 26,
+        "id": 38,
+        "depth": 3
+    },
+    {
+        "text": "6.3.1. Securities’ lending",
+        "page": 26,
+        "id": 39,
+        "depth": 4
+    },
+    {
+        "text": "6.3.2. Repurchase agreements",
+        "page": 26,
+        "id": 40,
+        "depth": 4
+    },
+    {
+        "text": "6.4. Guarantees and Reinvestment of Guarantees received within the framework of Financial derivatives and techniques and instruments",
+        "page": 27,
+        "id": 41,
+        "depth": 3
+    },
+    {
+        "text": "6.4.1. Guarantee level and valuation",
+        "page": 27,
+        "id": 42,
+        "depth": 4
+    },
+    {
+        "text": "6.4.2. Discount policy",
+        "page": 27,
+        "id": 43,
+        "depth": 4
+    },
+    {
+        "text": "6.4.3. Assets accepted in guarantee",
+        "page": 28,
+        "id": 44,
+        "depth": 4
+    },
+    {
+        "text": "6.4.4. Investment policy",
+        "page": 28,
+        "id": 45,
+        "depth": 4
+    },
+    {
+        "text": "7. RISKS ASSOCIATED WITH AN INVESTMENT IN THE SICAV",
+        "page": 30,
+        "id": 46,
+        "depth": 2
+    },
+    {
+        "text": "Risk of capital loss",
+        "page": 30,
+        "id": 47,
+        "depth": 3
+    },
+    {
+        "text": "A risk linked to financial management",
+        "page": 31,
+        "id": 48,
+        "depth": 3
+    },
+    {
+        "text": "Equity risk",
+        "page": 31,
+        "id": 49,
+        "depth": 3
+    },
+    {
+        "text": "A risk linked the size of capitalisation",
+        "page": 31,
+        "id": 50,
+        "depth": 3
+    },
+    {
+        "text": "Credit risk",
+        "page": 31,
+        "id": 51,
+        "depth": 3
+    },
+    {
+        "text": "High-yield bonds",
+        "page": 31,
+        "id": 52,
+        "depth": 3
+    },
+    {
+        "text": "Credit Default Swaps",
+        "page": 32,
+        "id": 53,
+        "depth": 3
+    },
+    {
+        "text": "Rate risk",
+        "page": 32,
+        "id": 54,
+        "depth": 3
+    },
+    {
+        "text": "Exchange risk",
+        "page": 32,
+        "id": 55,
+        "depth": 3
+    },
+    {
+        "text": "Emerging market risks",
+        "page": 32,
+        "id": 56,
+        "depth": 3
+    },
+    {
+        "text": "A risk linked to the use of financial derivatives",
+        "page": 32,
+        "id": 57,
+        "depth": 3
+    },
+    {
+        "text": "Management risk",
+        "page": 32,
+        "id": 58,
+        "depth": 3
+    },
+    {
+        "text": "Credit risk",
+        "page": 32,
+        "id": 59,
+        "depth": 3
+    },
+    {
+        "text": "Liquidity risk",
+        "page": 33,
+        "id": 60,
+        "depth": 3
+    },
+    {
+        "text": "Other risks",
+        "page": 33,
+        "id": 61,
+        "depth": 3
+    },
+    {
+        "text": "Securities lending risk",
+        "page": 33,
+        "id": 62,
+        "depth": 3
+    },
+    {
+        "text": "Repurchase transaction risks",
+        "page": 33,
+        "id": 63,
+        "depth": 3
+    },
+    {
+        "text": "Financial guarantee risk",
+        "page": 33,
+        "id": 64,
+        "depth": 3
+    },
+    {
+        "text": "Risks linked to reinvesting cash received as a guarantee",
+        "page": 33,
+        "id": 65,
+        "depth": 3
+    },
+    {
+        "text": "Specific risks linked to investing in contingent convertible bonds:",
+        "page": 34,
+        "id": 66,
+        "depth": 3
+    },
+    {
+        "text": "8. SHARES",
+        "page": 35,
+        "id": 67,
+        "depth": 2
+    },
+    {
+        "text": "8.1. Registered shares",
+        "page": 35,
+        "id": 68,
+        "depth": 3
+    },
+    {
+        "text": "8.2. Fractions of shares",
+        "page": 35,
+        "id": 69,
+        "depth": 3
+    },
+    {
+        "text": "8.3. Characteristics of the shares",
+        "page": 35,
+        "id": 70,
+        "depth": 3
+    },
+    {
+        "text": "8.4. Issuing shares",
+        "page": 37,
+        "id": 71,
+        "depth": 3
+    },
+    {
+        "text": "8.4.1. Warning",
+        "page": 37,
+        "id": 72,
+        "depth": 4
+    },
+    {
+        "text": "8.4.2. Procedure for issuing shares",
+        "page": 37,
+        "id": 73,
+        "depth": 4
+    },
+    {
+        "text": "8.4.3. Payment",
+        "page": 38,
+        "id": 74,
+        "depth": 4
+    },
+    {
+        "text": "8.4.4. Miscellaneous",
+        "page": 38,
+        "id": 75,
+        "depth": 4
+    },
+    {
+        "text": "8.5. Redemption of shares",
+        "page": 38,
+        "id": 76,
+        "depth": 3
+    },
+    {
+        "text": "8.5.1. Share redemption procedure",
+        "page": 38,
+        "id": 77,
+        "depth": 4
+    },
+    {
+        "text": "8.5.2. Payment",
+        "page": 39,
+        "id": 78,
+        "depth": 4
+    },
+    {
+        "text": "8.6. Conversion of shares",
+        "page": 39,
+        "id": 79,
+        "depth": 3
+    },
+    {
+        "text": "8.7. Late Trading and Market Timing",
+        "page": 40,
+        "id": 80,
+        "depth": 3
+    },
+    {
+        "text": "9. DISTRIBUTION POLICY",
+        "page": 42,
+        "id": 81,
+        "depth": 2
+    },
+    {
+        "text": "10. NET ASSET VALUE",
+        "page": 43,
+        "id": 82,
+        "depth": 2
+    },
+    {
+        "text": "10.1. Calculation of the net asset value",
+        "page": 43,
+        "id": 83,
+        "depth": 3
+    },
+    {
+        "text": "10.2. Temporary suspension of the net asset value",
+        "page": 44,
+        "id": 84,
+        "depth": 3
+    },
+    {
+        "text": "11. TAXATION",
+        "page": 46,
+        "id": 85,
+        "depth": 2
+    },
+    {
+        "text": "11.1. Taxation of the Sicav",
+        "page": 46,
+        "id": 86,
+        "depth": 3
+    },
+    {
+        "text": "11.2. Taxation of the shareholders",
+        "page": 46,
+        "id": 87,
+        "depth": 3
+    },
+    {
+        "text": "11.2.1. Taxation of resident shareholders",
+        "page": 46,
+        "id": 88,
+        "depth": 4
+    },
+    {
+        "text": "11.2.2. Taxation of non-resident shareholders",
+        "page": 46,
+        "id": 89,
+        "depth": 4
+    },
+    {
+        "text": "11.2.3. Foreign Account Tax Compliance Act, FATCA",
+        "page": 47,
+        "id": 90,
+        "depth": 4
+    },
+    {
+        "text": "12. GENERAL MEETINGS OF SHAREHOLDERS",
+        "page": 48,
+        "id": 91,
+        "depth": 2
+    },
+    {
+        "text": "13. FINANCIAL REPORTS",
+        "page": 49,
+        "id": 92,
+        "depth": 2
+    },
+    {
+        "text": "14. FEES AND EXPENSES",
+        "page": 50,
+        "id": 93,
+        "depth": 2
+    },
+    {
+        "text": "Management Company fee",
+        "page": 50,
+        "id": 94,
+        "depth": 3
+    },
+    {
+        "text": "Management fee",
+        "page": 50,
+        "id": 95,
+        "depth": 3
+    },
+    {
+        "text": "Custodian bank fees",
+        "page": 50,
+        "id": 96,
+        "depth": 3
+    },
+    {
+        "text": "Administrative, Registrar and Transfer Agent fee",
+        "page": 50,
+        "id": 97,
+        "depth": 3
+    },
+    {
+        "text": "Other fees",
+        "page": 50,
+        "id": 98,
+        "depth": 3
+    },
+    {
+        "text": "15. LIQUIDATION - DISSOLUTION OF THE SICAV OR SUB-FUNDS AND/OR CLASSES",
+        "page": 52,
+        "id": 99,
+        "depth": 2
+    },
+    {
+        "text": "15.1. Liquidation of the Sicav",
+        "page": 52,
+        "id": 100,
+        "depth": 3
+    },
+    {
+        "text": "15.2. Unconditional liquidation of a sub-fund in the Sicav",
+        "page": 52,
+        "id": 101,
+        "depth": 3
+    },
+    {
+        "text": "15.3. Merger",
+        "page": 53,
+        "id": 102,
+        "depth": 3
+    },
+    {
+        "text": "16. AVAILABLE DOCUMENTS",
+        "page": 56,
+        "id": 103,
+        "depth": 2
+    },
+    {
+        "text": "PART II – THE SUB-FUNDS OF THE SICAV",
+        "page": 57,
+        "id": 104,
+        "depth": 1
+    },
+    {
+        "text": "RICHELIEU BOND – SELECTED INVESTMENT GRADE CORPORATE EURO",
+        "page": 57,
+        "id": 105,
+        "depth": 2
+    },
+    {
+        "text": "History",
+        "page": 57,
+        "id": 106,
+        "depth": 3
+    },
+    {
+        "text": "1.2 Currency of the sub-fund",
+        "page": 57,
+        "id": 107,
+        "depth": 3
+    },
+    {
+        "text": "1.3 Investment objective",
+        "page": 57,
+        "id": 108,
+        "depth": 3
+    },
+    {
+        "text": "1.4 Investment Strategy",
+        "page": 57,
+        "id": 109,
+        "depth": 3
+    },
+    {
+        "text": "1.5 Profile of the typical investor",
+        "page": 57,
+        "id": 110,
+        "depth": 3
+    },
+    {
+        "text": "1.6 Shares",
+        "page": 58,
+        "id": 111,
+        "depth": 3
+    },
+    {
+        "text": "Valuation Day",
+        "page": 58,
+        "id": 112,
+        "depth": 3
+    },
+    {
+        "text": "1.8 Subscription, redemption and conversion",
+        "page": 58,
+        "id": 113,
+        "depth": 3
+    },
+    {
+        "text": "1.9 Fees for subscriptions, redemptions and conversions",
+        "page": 59,
+        "id": 114,
+        "depth": 3
+    },
+    {
+        "text": "1.10 Fees paid by the Sub-fund",
+        "page": 59,
+        "id": 115,
+        "depth": 3
+    },
+    {
+        "text": "1.11 Past performance",
+        "page": 59,
+        "id": 116,
+        "depth": 3
+    },
+    {
+        "text": "1.12 Global exposure limits",
+        "page": 59,
+        "id": 117,
+        "depth": 3
+    },
+    {
+        "text": "RICHELIEU BOND – GOVERNMENT BONDS USD",
+        "page": 60,
+        "id": 118,
+        "depth": 2
+    },
+    {
+        "text": "History",
+        "page": 60,
+        "id": 119,
+        "depth": 3
+    },
+    {
+        "text": "2.2 Currency of the sub-fund",
+        "page": 60,
+        "id": 120,
+        "depth": 3
+    },
+    {
+        "text": "2.3 Investment objective",
+        "page": 60,
+        "id": 121,
+        "depth": 3
+    },
+    {
+        "text": "2.4 Investment Strategy",
+        "page": 60,
+        "id": 122,
+        "depth": 3
+    },
+    {
+        "text": "2.5 Profile of the typical investor",
+        "page": 60,
+        "id": 123,
+        "depth": 3
+    },
+    {
+        "text": "2.6 Shares",
+        "page": 61,
+        "id": 124,
+        "depth": 3
+    },
+    {
+        "text": "Valuation Day",
+        "page": 61,
+        "id": 125,
+        "depth": 3
+    },
+    {
+        "text": "2.8 Subscription, redemption and conversion",
+        "page": 61,
+        "id": 126,
+        "depth": 3
+    },
+    {
+        "text": "2.9 Fees for subscriptions, redemptions and conversions",
+        "page": 61,
+        "id": 127,
+        "depth": 3
+    },
+    {
+        "text": "2.10 Past performance",
+        "page": 62,
+        "id": 128,
+        "depth": 3
+    },
+    {
+        "text": "2.11 Global exposure limits",
+        "page": 62,
+        "id": 129,
+        "depth": 3
+    },
+    {
+        "text": "RICHELIEU BOND – GOVERNMENT EURO",
+        "page": 63,
+        "id": 130,
+        "depth": 2
+    },
+    {
+        "text": "History",
+        "page": 63,
+        "id": 131,
+        "depth": 3
+    },
+    {
+        "text": "3.2 Currency of the sub-fund",
+        "page": 63,
+        "id": 132,
+        "depth": 3
+    },
+    {
+        "text": "3.3 Investment objective",
+        "page": 63,
+        "id": 133,
+        "depth": 3
+    },
+    {
+        "text": "3.4 Investment Strategy",
+        "page": 63,
+        "id": 134,
+        "depth": 3
+    },
+    {
+        "text": "3.5 Profile of the typical investor",
+        "page": 63,
+        "id": 135,
+        "depth": 3
+    },
+    {
+        "text": "3.6 Shares",
+        "page": 64,
+        "id": 136,
+        "depth": 3
+    },
+    {
+        "text": "Valuation Day",
+        "page": 64,
+        "id": 137,
+        "depth": 3
+    },
+    {
+        "text": "3.8 Subscription, redemption and conversion",
+        "page": 64,
+        "id": 138,
+        "depth": 3
+    },
+    {
+        "text": "3.9 Fees for subscriptions, redemptions and conversions",
+        "page": 64,
+        "id": 139,
+        "depth": 3
+    },
+    {
+        "text": "3.10 Fees paid by the Sub-fund",
+        "page": 65,
+        "id": 140,
+        "depth": 3
+    },
+    {
+        "text": "3.11 Past performance",
+        "page": 65,
+        "id": 141,
+        "depth": 3
+    },
+    {
+        "text": "3.12 Global exposure limits",
+        "page": 65,
+        "id": 142,
+        "depth": 3
+    },
+    {
+        "text": "RICHELIEU BOND – UPPER INVESTMENT GRADE CORPORATE EURO",
+        "page": 66,
+        "id": 143,
+        "depth": 2
+    },
+    {
+        "text": "History",
+        "page": 66,
+        "id": 144,
+        "depth": 3
+    },
+    {
+        "text": "4.2 Currency of the sub-fund",
+        "page": 66,
+        "id": 145,
+        "depth": 3
+    },
+    {
+        "text": "4.3 Investment objective",
+        "page": 66,
+        "id": 146,
+        "depth": 3
+    },
+    {
+        "text": "4.4 Investment Strategy",
+        "page": 66,
+        "id": 147,
+        "depth": 3
+    },
+    {
+        "text": "4.5 Profile of the typical investor",
+        "page": 66,
+        "id": 148,
+        "depth": 3
+    },
+    {
+        "text": "4.6 Shares",
+        "page": 67,
+        "id": 149,
+        "depth": 3
+    },
+    {
+        "text": "Valuation Day",
+        "page": 67,
+        "id": 150,
+        "depth": 3
+    },
+    {
+        "text": "4.8 Subscription, redemption and conversion",
+        "page": 67,
+        "id": 151,
+        "depth": 3
+    },
+    {
+        "text": "4.9 Fees for subscriptions, redemptions and conversions",
+        "page": 67,
+        "id": 152,
+        "depth": 3
+    },
+    {
+        "text": "4.10 Fees paid by the Sub-fund",
+        "page": 68,
+        "id": 153,
+        "depth": 3
+    },
+    {
+        "text": "4.11 Past performance",
+        "page": 68,
+        "id": 154,
+        "depth": 3
+    },
+    {
+        "text": "4.12 Global exposure limits",
+        "page": 68,
+        "id": 155,
+        "depth": 3
+    },
+    {
+        "text": "RICHELIEU BOND – HIGH YIELD EURO",
+        "page": 69,
+        "id": 156,
+        "depth": 2
+    },
+    {
+        "text": "History",
+        "page": 69,
+        "id": 157,
+        "depth": 3
+    },
+    {
+        "text": "5.2 Currency of the sub-fund",
+        "page": 69,
+        "id": 158,
+        "depth": 3
+    },
+    {
+        "text": "5.3 Investment objective",
+        "page": 69,
+        "id": 159,
+        "depth": 3
+    },
+    {
+        "text": "5.4 Investment Strategy",
+        "page": 69,
+        "id": 160,
+        "depth": 3
+    },
+    {
+        "text": "5.5 Risk profile of the typical investor",
+        "page": 69,
+        "id": 161,
+        "depth": 3
+    },
+    {
+        "text": "5.6 Shares",
+        "page": 70,
+        "id": 162,
+        "depth": 3
+    },
+    {
+        "text": "Valuation Day",
+        "page": 70,
+        "id": 163,
+        "depth": 3
+    },
+    {
+        "text": "5.8 Subscription, redemption and conversion",
+        "page": 70,
+        "id": 164,
+        "depth": 3
+    },
+    {
+        "text": "5.9 Fees for subscriptions, redemptions and conversions",
+        "page": 71,
+        "id": 165,
+        "depth": 3
+    },
+    {
+        "text": "5.10 Fees paid by the Sub-fund",
+        "page": 71,
+        "id": 166,
+        "depth": 3
+    },
+    {
+        "text": "5.11 Past performance",
+        "page": 71,
+        "id": 167,
+        "depth": 3
+    },
+    {
+        "text": "5.12 Global exposure limits",
+        "page": 71,
+        "id": 168,
+        "depth": 3
+    },
+    {
+        "text": "RICHELIEU BOND – RICHELIEU 2020",
+        "page": 72,
+        "id": 169,
+        "depth": 2
+    },
+    {
+        "text": "History",
+        "page": 72,
+        "id": 170,
+        "depth": 3
+    },
+    {
+        "text": "6.2 Currency of the sub-fund",
+        "page": 72,
+        "id": 171,
+        "depth": 3
+    },
+    {
+        "text": "6.3 Investment objective",
+        "page": 72,
+        "id": 172,
+        "depth": 3
+    },
+    {
+        "text": "6.4 Investment Strategy",
+        "page": 72,
+        "id": 173,
+        "depth": 3
+    },
+    {
+        "text": "6.5 Profile of the typical investor",
+        "page": 73,
+        "id": 174,
+        "depth": 3
+    },
+    {
+        "text": "6.6 Shares",
+        "page": 73,
+        "id": 175,
+        "depth": 3
+    },
+    {
+        "text": "6.7 Valuation Day",
+        "page": 73,
+        "id": 176,
+        "depth": 3
+    },
+    {
+        "text": "6.8 Subscription, redemption and conversion",
+        "page": 74,
+        "id": 177,
+        "depth": 3
+    },
+    {
+        "text": "6.9 Fees for subscriptions, redemptions and conversions",
+        "page": 74,
+        "id": 178,
+        "depth": 3
+    },
+    {
+        "text": "6.10 Fees paid by the Sub-fund",
+        "page": 74,
+        "id": 179,
+        "depth": 3
+    },
+    {
+        "text": "6.11 Past performance",
+        "page": 74,
+        "id": 180,
+        "depth": 3
+    },
+    {
+        "text": "6.12 Global exposure limits",
+        "page": 74,
+        "id": 181,
+        "depth": 3
+    },
+    {
+        "text": "6.13 Closure of the sub-fund",
+        "page": 75,
+        "id": 182,
+        "depth": 3
+    },
+    {
+        "text": "RICHELIEU BOND – INTERNATIONAL",
+        "page": 76,
+        "id": 183,
+        "depth": 2
+    },
+    {
+        "text": "History",
+        "page": 76,
+        "id": 184,
+        "depth": 3
+    },
+    {
+        "text": "7.2 Currency of the sub-fund",
+        "page": 76,
+        "id": 185,
+        "depth": 3
+    },
+    {
+        "text": "7.3 Investment objective",
+        "page": 76,
+        "id": 186,
+        "depth": 3
+    },
+    {
+        "text": "7.4 Investment Strategy",
+        "page": 76,
+        "id": 187,
+        "depth": 3
+    },
+    {
+        "text": "7.5 Risk profile of the typical investor",
+        "page": 76,
+        "id": 188,
+        "depth": 3
+    },
+    {
+        "text": "7.6 Shares",
+        "page": 77,
+        "id": 189,
+        "depth": 3
+    },
+    {
+        "text": "7.7 Valuation Day",
+        "page": 77,
+        "id": 190,
+        "depth": 3
+    },
+    {
+        "text": "7.8 Subscription, redemption and conversion",
+        "page": 77,
+        "id": 191,
+        "depth": 3
+    },
+    {
+        "text": "7.9 Manager",
+        "page": 78,
+        "id": 192,
+        "depth": 3
+    },
+    {
+        "text": "7.10 Fees for subscriptions, redemptions and conversions",
+        "page": 78,
+        "id": 193,
+        "depth": 3
+    },
+    {
+        "text": "7.11 Fees paid by the Sub-fund",
+        "page": 78,
+        "id": 194,
+        "depth": 3
+    },
+    {
+        "text": "7.12 Past performance",
+        "page": 78,
+        "id": 195,
+        "depth": 3
+    },
+    {
+        "text": "7.13 Global exposure limits",
+        "page": 78,
+        "id": 196,
+        "depth": 3
+    },
+    {
+        "text": "RICHELIEU BOND – DOLLAR",
+        "page": 79,
+        "id": 197,
+        "depth": 2
+    },
+    {
+        "text": "History",
+        "page": 79,
+        "id": 198,
+        "depth": 3
+    },
+    {
+        "text": "8.2 Currency of the sub-fund",
+        "page": 79,
+        "id": 199,
+        "depth": 3
+    },
+    {
+        "text": "8.3 Investment objective",
+        "page": 79,
+        "id": 200,
+        "depth": 3
+    },
+    {
+        "text": "8.4 Investment Strategy",
+        "page": 79,
+        "id": 201,
+        "depth": 3
+    },
+    {
+        "text": "8.5 Risk profile of the typical investor",
+        "page": 79,
+        "id": 202,
+        "depth": 3
+    },
+    {
+        "text": "8.6 Shares",
+        "page": 80,
+        "id": 203,
+        "depth": 3
+    },
+    {
+        "text": "8.7 Valuation Day",
+        "page": 80,
+        "id": 204,
+        "depth": 3
+    },
+    {
+        "text": "8.8 Subscription, redemption and conversion",
+        "page": 80,
+        "id": 205,
+        "depth": 3
+    },
+    {
+        "text": "8.9 Manager",
+        "page": 80,
+        "id": 206,
+        "depth": 3
+    },
+    {
+        "text": "8.10 Fees for subscriptions, redemptions and conversions",
+        "page": 81,
+        "id": 207,
+        "depth": 3
+    },
+    {
+        "text": "8.11 Fees paid by the Sub-fund",
+        "page": 81,
+        "id": 208,
+        "depth": 3
+    },
+    {
+        "text": "8.12 Past performance",
+        "page": 81,
+        "id": 209,
+        "depth": 3
+    },
+    {
+        "text": "8.13 Global exposure limits",
+        "page": 81,
+        "id": 210,
+        "depth": 3
+    },
+    {
+        "text": "8.14 Specific risks",
+        "page": 81,
+        "id": 211,
+        "depth": 3
+    },
+    {
+        "text": "RICHELIEU BOND – EURO",
+        "page": 83,
+        "id": 212,
+        "depth": 2
+    },
+    {
+        "text": "History",
+        "page": 83,
+        "id": 213,
+        "depth": 3
+    },
+    {
+        "text": "9.2 Currency of the sub-fund",
+        "page": 83,
+        "id": 214,
+        "depth": 3
+    },
+    {
+        "text": "9.3 Investment objective",
+        "page": 83,
+        "id": 215,
+        "depth": 3
+    },
+    {
+        "text": "9.4 Investment Strategy",
+        "page": 83,
+        "id": 216,
+        "depth": 3
+    },
+    {
+        "text": "9.5 Risk profile of the typical investor",
+        "page": 83,
+        "id": 217,
+        "depth": 3
+    },
+    {
+        "text": "9.6 Shares",
+        "page": 84,
+        "id": 218,
+        "depth": 3
+    },
+    {
+        "text": "9.7 Valuation Day",
+        "page": 84,
+        "id": 219,
+        "depth": 3
+    },
+    {
+        "text": "9.8 Subscription, redemption and conversion",
+        "page": 84,
+        "id": 220,
+        "depth": 3
+    },
+    {
+        "text": "9.9 Manager",
+        "page": 85,
+        "id": 221,
+        "depth": 3
+    },
+    {
+        "text": "9.10 Fees for subscriptions, redemptions and conversions",
+        "page": 85,
+        "id": 222,
+        "depth": 3
+    },
+    {
+        "text": "9.11 Fees paid by the Sub-fund",
+        "page": 85,
+        "id": 223,
+        "depth": 3
+    },
+    {
+        "text": "9.12 Past performance",
+        "page": 85,
+        "id": 224,
+        "depth": 3
+    },
+    {
+        "text": "9.13 Global exposure limits",
+        "page": 85,
+        "id": 225,
+        "depth": 3
+    },
+    {
+        "text": "10 RICHELIEU BOND – EURO PRIME",
+        "page": 86,
+        "id": 226,
+        "depth": 2
+    },
+    {
+        "text": "10.1 History",
+        "page": 86,
+        "id": 227,
+        "depth": 3
+    },
+    {
+        "text": "10.2 Currency of the sub-fund",
+        "page": 86,
+        "id": 228,
+        "depth": 3
+    },
+    {
+        "text": "10.3 Investment objective",
+        "page": 86,
+        "id": 229,
+        "depth": 3
+    },
+    {
+        "text": "10.4 Investment Strategy",
+        "page": 86,
+        "id": 230,
+        "depth": 3
+    },
+    {
+        "text": "10.5 Risk profile of the typical investor",
+        "page": 86,
+        "id": 231,
+        "depth": 3
+    },
+    {
+        "text": "10.6 Shares",
+        "page": 87,
+        "id": 232,
+        "depth": 3
+    },
+    {
+        "text": "10.7 Valuation Day",
+        "page": 87,
+        "id": 233,
+        "depth": 3
+    },
+    {
+        "text": "10.8 Subscription, redemption and conversion",
+        "page": 87,
+        "id": 234,
+        "depth": 3
+    },
+    {
+        "text": "10.9 Manager",
+        "page": 88,
+        "id": 235,
+        "depth": 3
+    },
+    {
+        "text": "10.10 Fees for subscriptions, redemptions and conversions",
+        "page": 88,
+        "id": 236,
+        "depth": 3
+    },
+    {
+        "text": "10.11 Fees paid by the Sub-fund",
+        "page": 88,
+        "id": 237,
+        "depth": 3
+    },
+    {
+        "text": "10.12 Past performance",
+        "page": 88,
+        "id": 238,
+        "depth": 3
+    },
+    {
+        "text": "10.13 Global exposure limits",
+        "page": 88,
+        "id": 239,
+        "depth": 3
+    },
+    {
+        "text": "10.14 Specific risk",
+        "page": 88,
+        "id": 240,
+        "depth": 3
+    }
+]

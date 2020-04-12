@@ -1,0 +1,596 @@
+[
+    {
+        "text": "PROSPECTUS",
+        "page": 1,
+        "id": 1,
+        "depth": 1
+    },
+    {
+        "text": "BI SICAV",
+        "page": 1,
+        "id": 2,
+        "depth": 2
+    },
+    {
+        "text": "Prospectus",
+        "page": 2,
+        "id": 3,
+        "depth": 1
+    },
+    {
+        "text": "BI SICAV",
+        "page": 2,
+        "id": 4,
+        "depth": 2
+    },
+    {
+        "text": "Table of Contents",
+        "page": 3,
+        "id": 5,
+        "depth": 3
+    },
+    {
+        "text": "Important Information",
+        "page": 4,
+        "id": 6,
+        "depth": 3
+    },
+    {
+        "text": "1.  Introduction",
+        "page": 4,
+        "id": 7,
+        "depth": 3
+    },
+    {
+        "text": "2.  Investment objective and policies",
+        "page": 5,
+        "id": 8,
+        "depth": 3
+    },
+    {
+        "text": "3.  The Company offers the following Sub-funds",
+        "page": 5,
+        "id": 9,
+        "depth": 3
+    },
+    {
+        "text": "BI SICAV - Emerging Markets Corporate Debt",
+        "page": 5,
+        "id": 10,
+        "depth": 4
+    },
+    {
+        "text": "BI SICAV - Emerging Markets Corporate Debt SRI",
+        "page": 7,
+        "id": 11,
+        "depth": 4
+    },
+    {
+        "text": "BI SICAV- Emerging Markets Debt Local Currency",
+        "page": 9,
+        "id": 12,
+        "depth": 4
+    },
+    {
+        "text": "BI SICAV - Global Emerging Markets Equities SRI",
+        "page": 11,
+        "id": 13,
+        "depth": 4
+    },
+    {
+        "text": "BI SICAV - Global Equities SRI",
+        "page": 13,
+        "id": 14,
+        "depth": 4
+    },
+    {
+        "text": "BI SICAV - New Emerging Markets Equities",
+        "page": 15,
+        "id": 15,
+        "depth": 4
+    },
+    {
+        "text": "BI SICAV - Global Consumer",
+        "page": 17,
+        "id": 16,
+        "depth": 4
+    },
+    {
+        "text": "4.  Risk Factors",
+        "page": 19,
+        "id": 17,
+        "depth": 3
+    },
+    {
+        "text": "4.1  General Risk Factors",
+        "page": 19,
+        "id": 18,
+        "depth": 4
+    },
+    {
+        "text": "4.1.1  Valuation of the Company's assets and their underlying",
+        "page": 19,
+        "id": 19,
+        "depth": 5
+    },
+    {
+        "text": "4.1.2  Exchange rates",
+        "page": 19,
+        "id": 20,
+        "depth": 5
+    },
+    {
+        "text": "4.1.3  Interest rate",
+        "page": 19,
+        "id": 21,
+        "depth": 5
+    },
+    {
+        "text": "4.1.4  Market volatility",
+        "page": 19,
+        "id": 22,
+        "depth": 5
+    },
+    {
+        "text": "4.1.5  Credit risk",
+        "page": 19,
+        "id": 23,
+        "depth": 5
+    },
+    {
+        "text": "4.1.6  Credit derivatives",
+        "page": 19,
+        "id": 24,
+        "depth": 5
+    },
+    {
+        "text": "4.1.7  Liquidity risk",
+        "page": 19,
+        "id": 25,
+        "depth": 5
+    },
+    {
+        "text": "4.1.8  Duplication of fees",
+        "page": 19,
+        "id": 26,
+        "depth": 5
+    },
+    {
+        "text": "4.2  Specific risks",
+        "page": 20,
+        "id": 27,
+        "depth": 4
+    },
+    {
+        "text": "4.2.1.  Main  risks  of  investing  in  BI  SICAV  -  Emerging  Markets  Corpo-rate  Debt  and  BI  SICAV  –  Emerging  Markets  Corporate  Debt SRI:",
+        "page": 20,
+        "id": 28,
+        "depth": 5
+    },
+    {
+        "text": "4.2.2.  Main  risks  of  investing  in  the  BI  SICAV  -  Global  Emerging  Mar-kets  Equities  SRI  and  BI  SICAV  -  New  Emerging  Markets  Equi-ties:",
+        "page": 20,
+        "id": 29,
+        "depth": 5
+    },
+    {
+        "text": "Main  risks  of  investing  in  BI  SICAV  –  Emerging  Markets  Debt  Local Currency",
+        "page": 20,
+        "id": 30,
+        "depth": 5
+    },
+    {
+        "text": "4.2.4.  Main risks of investing in BI SICAV – Global Consumer",
+        "page": 20,
+        "id": 31,
+        "depth": 5
+    },
+    {
+        "text": "Sector allocation risk",
+        "page": 20,
+        "id": 32,
+        "depth": 6
+    },
+    {
+        "text": "4.3.  Other",
+        "page": 20,
+        "id": 33,
+        "depth": 4
+    },
+    {
+        "text": "Investment in equity securities",
+        "page": 20,
+        "id": 34,
+        "depth": 5
+    },
+    {
+        "text": "General.",
+        "page": 20,
+        "id": 35,
+        "depth": 6
+    },
+    {
+        "text": "Smaller stocks.",
+        "page": 20,
+        "id": 36,
+        "depth": 6
+    },
+    {
+        "text": "New companies.",
+        "page": 20,
+        "id": 37,
+        "depth": 6
+    },
+    {
+        "text": "Illiquid investments.",
+        "page": 20,
+        "id": 38,
+        "depth": 5
+    },
+    {
+        "text": "Non-European investments.",
+        "page": 20,
+        "id": 39,
+        "depth": 5
+    },
+    {
+        "text": "Temporary defensive position.",
+        "page": 21,
+        "id": 40,
+        "depth": 5
+    },
+    {
+        "text": "Investment in emerging markets",
+        "page": 21,
+        "id": 41,
+        "depth": 5
+    },
+    {
+        "text": "Country allocation risks.",
+        "page": 21,
+        "id": 42,
+        "depth": 6
+    },
+    {
+        "text": "Operating expenses.",
+        "page": 21,
+        "id": 43,
+        "depth": 6
+    },
+    {
+        "text": "5.  Share Capital",
+        "page": 21,
+        "id": 44,
+        "depth": 3
+    },
+    {
+        "text": "6.  Share Dealing",
+        "page": 22,
+        "id": 45,
+        "depth": 3
+    },
+    {
+        "text": "Subscription for Shares",
+        "page": 22,
+        "id": 46,
+        "depth": 4
+    },
+    {
+        "text": "Redemption of Shares",
+        "page": 23,
+        "id": 47,
+        "depth": 4
+    },
+    {
+        "text": "Compulsory redemption of Shares",
+        "page": 23,
+        "id": 48,
+        "depth": 5
+    },
+    {
+        "text": "Conversion of Shares",
+        "page": 24,
+        "id": 49,
+        "depth": 4
+    },
+    {
+        "text": "Anti-money laundering",
+        "page": 25,
+        "id": 50,
+        "depth": 4
+    },
+    {
+        "text": "7.  Investment powers & restrictions",
+        "page": 25,
+        "id": 51,
+        "depth": 3
+    },
+    {
+        "text": "8.  Special Techniques and Instruments",
+        "page": 27,
+        "id": 52,
+        "depth": 3
+    },
+    {
+        "text": "A.  General provisions",
+        "page": 27,
+        "id": 53,
+        "depth": 4
+    },
+    {
+        "text": "B.  Securities lending transactions",
+        "page": 27,
+        "id": 54,
+        "depth": 4
+    },
+    {
+        "text": "C.  Sale with right of repurchase transactions / Reverse repurchase and Repurchase agreement transactions",
+        "page": 28,
+        "id": 55,
+        "depth": 4
+    },
+    {
+        "text": "D.  Additional Strategies for the Global Emerging  Markets Equities SRI, the  Emerging  Markets  Corporate  Debt  SRI  and  the  Emerging Markets Corporate Debt (the “Emerging Markets Sub-funds”)",
+        "page": 28,
+        "id": 56,
+        "depth": 4
+    },
+    {
+        "text": "Cash, short-term securities and money market instruments",
+        "page": 28,
+        "id": 57,
+        "depth": 5
+    },
+    {
+        "text": "Temporary Defensive Position",
+        "page": 28,
+        "id": 58,
+        "depth": 5
+    },
+    {
+        "text": "Concentration",
+        "page": 28,
+        "id": 59,
+        "depth": 5
+    },
+    {
+        "text": "Depository Receipts",
+        "page": 28,
+        "id": 60,
+        "depth": 5
+    },
+    {
+        "text": "Foreign Currency Futures",
+        "page": 28,
+        "id": 61,
+        "depth": 5
+    },
+    {
+        "text": "Forward Foreign Currency Transactions",
+        "page": 29,
+        "id": 62,
+        "depth": 5
+    },
+    {
+        "text": "Illiquid Securities",
+        "page": 29,
+        "id": 63,
+        "depth": 5
+    },
+    {
+        "text": "Investment in UCITS and/or other UCIs",
+        "page": 29,
+        "id": 64,
+        "depth": 5
+    },
+    {
+        "text": "Warrants",
+        "page": 29,
+        "id": 65,
+        "depth": 5
+    },
+    {
+        "text": "When-Issued and Delayed Delivery Securities",
+        "page": 29,
+        "id": 66,
+        "depth": 5
+    },
+    {
+        "text": "9.  Net Asset Value",
+        "page": 29,
+        "id": 67,
+        "depth": 3
+    },
+    {
+        "text": "10.  Taxation",
+        "page": 31,
+        "id": 68,
+        "depth": 3
+    },
+    {
+        "text": "The Company",
+        "page": 31,
+        "id": 69,
+        "depth": 4
+    },
+    {
+        "text": "Shareholders",
+        "page": 31,
+        "id": 70,
+        "depth": 4
+    },
+    {
+        "text": "EU Savings Directive",
+        "page": 31,
+        "id": 71,
+        "depth": 4
+    },
+    {
+        "text": "General principles",
+        "page": 31,
+        "id": 72,
+        "depth": 5
+    },
+    {
+        "text": "Rules applicable to Sub-funds",
+        "page": 31,
+        "id": 73,
+        "depth": 5
+    },
+    {
+        "text": "11.  Management & Administration",
+        "page": 32,
+        "id": 74,
+        "depth": 3
+    },
+    {
+        "text": "The Management Company",
+        "page": 32,
+        "id": 75,
+        "depth": 4
+    },
+    {
+        "text": "The Investment Manager",
+        "page": 32,
+        "id": 76,
+        "depth": 4
+    },
+    {
+        "text": "The Custodian, the Domiciliary and  Corporate  Agent,  the Principal Pay-ing  Agent,  the  Listing  Agent,  the  Central  Administrative  Agent  and  the Registrar and Transfer Agent",
+        "page": 32,
+        "id": 77,
+        "depth": 4
+    },
+    {
+        "text": "The Global Distributor",
+        "page": 33,
+        "id": 78,
+        "depth": 4
+    },
+    {
+        "text": "12.  Dissolution & liquidation of the Company",
+        "page": 33,
+        "id": 79,
+        "depth": 3
+    },
+    {
+        "text": "Termination of a Sub-fund and/or of a Class of Shares",
+        "page": 33,
+        "id": 80,
+        "depth": 4
+    },
+    {
+        "text": "Amalgamation,  Division  or  Transfer  of  Sub-funds  and/or  of  Classes  of Shares",
+        "page": 33,
+        "id": 81,
+        "depth": 4
+    },
+    {
+        "text": "13.  General meetings",
+        "page": 34,
+        "id": 82,
+        "depth": 3
+    },
+    {
+        "text": "14.  Distributions",
+        "page": 34,
+        "id": 83,
+        "depth": 3
+    },
+    {
+        "text": "15.  Annual & Semi-annual Reports",
+        "page": 34,
+        "id": 84,
+        "depth": 3
+    },
+    {
+        "text": "16.  Expenses borne by the Company",
+        "page": 34,
+        "id": 85,
+        "depth": 3
+    },
+    {
+        "text": "17.  Luxembourg stock exchange listing",
+        "page": 34,
+        "id": 86,
+        "depth": 3
+    },
+    {
+        "text": "18.  Payments to Shareholders",
+        "page": 34,
+        "id": 87,
+        "depth": 3
+    },
+    {
+        "text": "19.  Notices and information to Shareholders",
+        "page": 34,
+        "id": 88,
+        "depth": 3
+    },
+    {
+        "text": "20.  Documents available to Shareholders",
+        "page": 35,
+        "id": 89,
+        "depth": 3
+    },
+    {
+        "text": "21.  Competent jurisdiction & applicable law",
+        "page": 35,
+        "id": 90,
+        "depth": 3
+    },
+    {
+        "text": "22.  Registered Office",
+        "page": 35,
+        "id": 91,
+        "depth": 3
+    },
+    {
+        "text": "23.  Board of Directors",
+        "page": 35,
+        "id": 92,
+        "depth": 3
+    },
+    {
+        "text": "24.   Administration",
+        "page": 35,
+        "id": 93,
+        "depth": 3
+    },
+    {
+        "text": "25.  Promoter",
+        "page": 35,
+        "id": 94,
+        "depth": 3
+    },
+    {
+        "text": "26.  Legal Advisor(s)",
+        "page": 35,
+        "id": 95,
+        "depth": 3
+    },
+    {
+        "text": "27.  Auditor",
+        "page": 36,
+        "id": 96,
+        "depth": 3
+    },
+    {
+        "text": "28.  Public marketing authorisations",
+        "page": 36,
+        "id": 97,
+        "depth": 3
+    },
+    {
+        "text": "29.  Global Distributor",
+        "page": 36,
+        "id": 98,
+        "depth": 3
+    },
+    {
+        "text": "30.  Terms & definitions used in this Prospectus",
+        "page": 36,
+        "id": 99,
+        "depth": 3
+    }
+]

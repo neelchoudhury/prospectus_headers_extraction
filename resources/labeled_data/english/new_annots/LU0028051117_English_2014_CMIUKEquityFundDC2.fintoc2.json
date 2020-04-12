@@ -1,0 +1,854 @@
+[
+    {
+        "text": "Universe, The CMI Global Network Fund",
+        "page": 1,
+        "id": 1,
+        "depth": 1
+    },
+    {
+        "text": "UNIVERSE, THE CMI GLOBAL NETWORK FUND",
+        "page": 2,
+        "id": 2,
+        "depth": 2
+    },
+    {
+        "text": "Contents",
+        "page": 5,
+        "id": 3,
+        "depth": 2
+    },
+    {
+        "text": "Glossary",
+        "page": 7,
+        "id": 4,
+        "depth": 2
+    },
+    {
+        "text": "INTRODUCING UNIVERSE, THE CMI GLOBAL NETWORK FUND",
+        "page": 12,
+        "id": 5,
+        "depth": 1
+    },
+    {
+        "text": "The Fund",
+        "page": 12,
+        "id": 6,
+        "depth": 2
+    },
+    {
+        "text": "The Manager",
+        "page": 12,
+        "id": 7,
+        "depth": 2
+    },
+    {
+        "text": "Investment Adviser",
+        "page": 13,
+        "id": 8,
+        "depth": 2
+    },
+    {
+        "text": "THE SUB-FUNDS",
+        "page": 13,
+        "id": 9,
+        "depth": 1
+    },
+    {
+        "text": "The Equity Sub-Funds",
+        "page": 13,
+        "id": 10,
+        "depth": 2
+    },
+    {
+        "text": "Single Country Sub-Funds",
+        "page": 14,
+        "id": 11,
+        "depth": 3
+    },
+    {
+        "text": "CMI German Equity Sub-Fund",
+        "page": 14,
+        "id": 12,
+        "depth": 4
+    },
+    {
+        "text": "CMI Japan Enhanced Equity Sub-Fund",
+        "page": 14,
+        "id": 13,
+        "depth": 4
+    },
+    {
+        "text": "CMI UK Equity Sub-Fund",
+        "page": 14,
+        "id": 14,
+        "depth": 4
+    },
+    {
+        "text": "CMI US Enhanced Equity Sub-Fund",
+        "page": 14,
+        "id": 15,
+        "depth": 4
+    },
+    {
+        "text": "Regional Sub-Funds",
+        "page": 15,
+        "id": 16,
+        "depth": 3
+    },
+    {
+        "text": "CMI Continental European Equity Sub-Fund",
+        "page": 15,
+        "id": 17,
+        "depth": 4
+    },
+    {
+        "text": "CMI European Enhanced Equity Sub-Fund",
+        "page": 15,
+        "id": 18,
+        "depth": 4
+    },
+    {
+        "text": "CMI Pacific Basin Enhanced Equity Sub-Fund",
+        "page": 15,
+        "id": 19,
+        "depth": 4
+    },
+    {
+        "text": "Global Sub-Fund",
+        "page": 16,
+        "id": 20,
+        "depth": 3
+    },
+    {
+        "text": "CMI Global Equity Sub-Fund",
+        "page": 16,
+        "id": 21,
+        "depth": 4
+    },
+    {
+        "text": "The Equity Index Tracking Sub-Funds",
+        "page": 16,
+        "id": 22,
+        "depth": 2
+    },
+    {
+        "text": "Euro Equity Index Tracking Sub-Fund",
+        "page": 17,
+        "id": 23,
+        "depth": 3
+    },
+    {
+        "text": "Japan Equity Index Tracking Sub-Fund",
+        "page": 17,
+        "id": 24,
+        "depth": 3
+    },
+    {
+        "text": "UK Equity Index Tracking Sub-Fund",
+        "page": 18,
+        "id": 25,
+        "depth": 3
+    },
+    {
+        "text": "US Equity Index Tracking Sub-Fund",
+        "page": 19,
+        "id": 26,
+        "depth": 3
+    },
+    {
+        "text": "The Global Managed Sub-Fund",
+        "page": 19,
+        "id": 27,
+        "depth": 2
+    },
+    {
+        "text": "CMI Global Mixed Sub-Fund",
+        "page": 19,
+        "id": 28,
+        "depth": 3
+    },
+    {
+        "text": "The Bond Sub-Funds",
+        "page": 20,
+        "id": 29,
+        "depth": 2
+    },
+    {
+        "text": "CMI Japan Bond Sub-Fund",
+        "page": 20,
+        "id": 30,
+        "depth": 3
+    },
+    {
+        "text": "CMI UK Bond Sub-Fund",
+        "page": 20,
+        "id": 31,
+        "depth": 3
+    },
+    {
+        "text": "CMI US Bond Sub-Fund",
+        "page": 20,
+        "id": 32,
+        "depth": 3
+    },
+    {
+        "text": "CMI Euro Bond Sub-Fund",
+        "page": 21,
+        "id": 33,
+        "depth": 3
+    },
+    {
+        "text": "CMI Global Bond Sub-Fund",
+        "page": 21,
+        "id": 34,
+        "depth": 3
+    },
+    {
+        "text": "The Currency Reserve Sub-Funds",
+        "page": 21,
+        "id": 35,
+        "depth": 2
+    },
+    {
+        "text": "CMI Euro Currency Reserve Sub-Fund",
+        "page": 22,
+        "id": 36,
+        "depth": 3
+    },
+    {
+        "text": "CMI Sterling Currency Reserve Sub-Fund",
+        "page": 22,
+        "id": 37,
+        "depth": 3
+    },
+    {
+        "text": "CMI US Dollar Currency Reserve Sub-Fund",
+        "page": 22,
+        "id": 38,
+        "depth": 3
+    },
+    {
+        "text": "The CMIG Sub-Funds",
+        "page": 22,
+        "id": 39,
+        "depth": 2
+    },
+    {
+        "text": "CMIG Access 80% Sub-Fund",
+        "page": 22,
+        "id": 40,
+        "depth": 3
+    },
+    {
+        "text": "CMIG Access 70% Flexible Sub-Fund",
+        "page": 23,
+        "id": 41,
+        "depth": 3
+    },
+    {
+        "text": "CMIG Access 80% Flexible Sub-Fund",
+        "page": 24,
+        "id": 42,
+        "depth": 3
+    },
+    {
+        "text": "CMIG Access 90% Flexible Sub-Fund",
+        "page": 25,
+        "id": 43,
+        "depth": 3
+    },
+    {
+        "text": "CMIG Fixed Term Euro Bond Sub-Fund",
+        "page": 26,
+        "id": 44,
+        "depth": 3
+    },
+    {
+        "text": "CMIG Focus Euro Bond Sub-Fund",
+        "page": 27,
+        "id": 45,
+        "depth": 3
+    },
+    {
+        "text": "The Guaranteed Sub-Funds",
+        "page": 27,
+        "id": 46,
+        "depth": 2
+    },
+    {
+        "text": "HLE Euro-Garant 80 Flex",
+        "page": 27,
+        "id": 47,
+        "depth": 3
+    },
+    {
+        "text": "Fund of Funds Sub-Funds",
+        "page": 30,
+        "id": 48,
+        "depth": 3
+    },
+    {
+        "text": "CMI Sterling Cautious Managed Sub-Fund",
+        "page": 31,
+        "id": 49,
+        "depth": 4
+    },
+    {
+        "text": "CMI Sterling Balanced Managed Sub-Fund",
+        "page": 31,
+        "id": 50,
+        "depth": 4
+    },
+    {
+        "text": "CMI Sterling Adventurous Managed Sub-Fund",
+        "page": 31,
+        "id": 51,
+        "depth": 4
+    },
+    {
+        "text": "CMI Dollar Cautious Managed Sub-Fund",
+        "page": 32,
+        "id": 52,
+        "depth": 4
+    },
+    {
+        "text": "CMI Dollar Balanced Managed Sub-Fund",
+        "page": 32,
+        "id": 53,
+        "depth": 4
+    },
+    {
+        "text": "CMI Dollar Adventurous Managed Sub-Fund",
+        "page": 32,
+        "id": 54,
+        "depth": 4
+    },
+    {
+        "text": "CMI Euro Cautious Managed Sub-Fund",
+        "page": 33,
+        "id": 55,
+        "depth": 4
+    },
+    {
+        "text": "CMI Euro Balanced Managed Sub-Fund",
+        "page": 33,
+        "id": 56,
+        "depth": 4
+    },
+    {
+        "text": "CMI Euro Adventurous Managed Sub-Fund",
+        "page": 33,
+        "id": 57,
+        "depth": 4
+    },
+    {
+        "text": "INVESTING IN THE FUND",
+        "page": 34,
+        "id": 58,
+        "depth": 1
+    },
+    {
+        "text": "Why Luxembourg?",
+        "page": 34,
+        "id": 59,
+        "depth": 2
+    },
+    {
+        "text": "Simplicity",
+        "page": 34,
+        "id": 60,
+        "depth": 3
+    },
+    {
+        "text": "Publication of Share Prices",
+        "page": 35,
+        "id": 61,
+        "depth": 3
+    },
+    {
+        "text": "What are the Risks?",
+        "page": 35,
+        "id": 62,
+        "depth": 2
+    },
+    {
+        "text": "General Economic Conditions",
+        "page": 35,
+        "id": 63,
+        "depth": 3
+    },
+    {
+        "text": "Market Risks",
+        "page": 35,
+        "id": 64,
+        "depth": 3
+    },
+    {
+        "text": "Concentration risk",
+        "page": 36,
+        "id": 65,
+        "depth": 3
+    },
+    {
+        "text": "Currency risk",
+        "page": 36,
+        "id": 66,
+        "depth": 3
+    },
+    {
+        "text": "Investing in Equity Securities",
+        "page": 36,
+        "id": 67,
+        "depth": 3
+    },
+    {
+        "text": "Investing in Debt Securities",
+        "page": 36,
+        "id": 68,
+        "depth": 3
+    },
+    {
+        "text": "Investments in government debt securities",
+        "page": 37,
+        "id": 69,
+        "depth": 3
+    },
+    {
+        "text": "Investments in debt securities of Financial Institutions",
+        "page": 37,
+        "id": 70,
+        "depth": 3
+    },
+    {
+        "text": "Investment Grade Bonds",
+        "page": 37,
+        "id": 71,
+        "depth": 3
+    },
+    {
+        "text": "High Yield Bonds",
+        "page": 37,
+        "id": 72,
+        "depth": 3
+    },
+    {
+        "text": "Lack of Liquidity in Markets",
+        "page": 38,
+        "id": 73,
+        "depth": 3
+    },
+    {
+        "text": "Counterparty risk",
+        "page": 38,
+        "id": 74,
+        "depth": 3
+    },
+    {
+        "text": "Emerging and less developed markets risk",
+        "page": 38,
+        "id": 75,
+        "depth": 3
+    },
+    {
+        "text": "Small and mid cap companies risk",
+        "page": 39,
+        "id": 76,
+        "depth": 3
+    },
+    {
+        "text": "Futures",
+        "page": 39,
+        "id": 77,
+        "depth": 3
+    },
+    {
+        "text": "Effects of Redemptions",
+        "page": 40,
+        "id": 78,
+        "depth": 3
+    },
+    {
+        "text": "Institutional Risk",
+        "page": 40,
+        "id": 79,
+        "depth": 3
+    },
+    {
+        "text": "Securities Lending Risk",
+        "page": 40,
+        "id": 80,
+        "depth": 3
+    },
+    {
+        "text": "Investment in a \"fund of funds\" structure Risk",
+        "page": 40,
+        "id": 81,
+        "depth": 3
+    },
+    {
+        "text": "What are the costs?",
+        "page": 41,
+        "id": 82,
+        "depth": 2
+    },
+    {
+        "text": "Class 1",
+        "page": 41,
+        "id": 83,
+        "depth": 3
+    },
+    {
+        "text": "Class 2, class 3 and class 7",
+        "page": 42,
+        "id": 84,
+        "depth": 3
+    },
+    {
+        "text": "Class 8",
+        "page": 43,
+        "id": 85,
+        "depth": 3
+    },
+    {
+        "text": "How to apply?",
+        "page": 44,
+        "id": 86,
+        "depth": 2
+    },
+    {
+        "text": "Delegation of Powers",
+        "page": 44,
+        "id": 87,
+        "depth": 3
+    },
+    {
+        "text": "Listing",
+        "page": 44,
+        "id": 88,
+        "depth": 3
+    },
+    {
+        "text": "REPURCHASES AND SWITCHES",
+        "page": 44,
+        "id": 89,
+        "depth": 1
+    },
+    {
+        "text": "Instructions",
+        "page": 44,
+        "id": 90,
+        "depth": 2
+    },
+    {
+        "text": "Switching",
+        "page": 45,
+        "id": 91,
+        "depth": 2
+    },
+    {
+        "text": "Charges on Switches",
+        "page": 46,
+        "id": 92,
+        "depth": 2
+    },
+    {
+        "text": "Settlement",
+        "page": 46,
+        "id": 93,
+        "depth": 2
+    },
+    {
+        "text": "General",
+        "page": 47,
+        "id": 94,
+        "depth": 2
+    },
+    {
+        "text": "DIVIDENDS",
+        "page": 48,
+        "id": 95,
+        "depth": 1
+    },
+    {
+        "text": "Dividend Policy",
+        "page": 48,
+        "id": 96,
+        "depth": 2
+    },
+    {
+        "text": "Declaration of Dividends",
+        "page": 48,
+        "id": 97,
+        "depth": 2
+    },
+    {
+        "text": "Reinvestment and Payment of Dividends",
+        "page": 48,
+        "id": 98,
+        "depth": 2
+    },
+    {
+        "text": "Income Equalisation",
+        "page": 49,
+        "id": 99,
+        "depth": 2
+    },
+    {
+        "text": "General",
+        "page": 49,
+        "id": 100,
+        "depth": 2
+    },
+    {
+        "text": "CHARGES AND EXPENSES",
+        "page": 49,
+        "id": 101,
+        "depth": 1
+    },
+    {
+        "text": "On Application",
+        "page": 49,
+        "id": 102,
+        "depth": 2
+    },
+    {
+        "text": "On Switches",
+        "page": 50,
+        "id": 103,
+        "depth": 2
+    },
+    {
+        "text": "On Repurchase",
+        "page": 50,
+        "id": 104,
+        "depth": 2
+    },
+    {
+        "text": "Management Fees",
+        "page": 51,
+        "id": 105,
+        "depth": 2
+    },
+    {
+        "text": "Custodian",
+        "page": 52,
+        "id": 106,
+        "depth": 2
+    },
+    {
+        "text": "Other Expenses",
+        "page": 52,
+        "id": 107,
+        "depth": 2
+    },
+    {
+        "text": "TAXATION",
+        "page": 52,
+        "id": 108,
+        "depth": 1
+    },
+    {
+        "text": "Taxation of Shareholders",
+        "page": 53,
+        "id": 109,
+        "depth": 2
+    },
+    {
+        "text": "Taxation of the Fund",
+        "page": 56,
+        "id": 110,
+        "depth": 2
+    },
+    {
+        "text": "INVESTMENT SAFEGUARDS",
+        "page": 57,
+        "id": 111,
+        "depth": 1
+    },
+    {
+        "text": "HISTORICAL PERFORMANCE",
+        "page": 67,
+        "id": 112,
+        "depth": 1
+    },
+    {
+        "text": "RISK-MANAGEMENT PROCESS AND GLOBAL EXPOSURE",
+        "page": 67,
+        "id": 113,
+        "depth": 1
+    },
+    {
+        "text": "CALCULATION OF NET ASSET VALUE AND DEALING PRICE",
+        "page": 68,
+        "id": 114,
+        "depth": 1
+    },
+    {
+        "text": "Net Asset Value",
+        "page": 68,
+        "id": 115,
+        "depth": 2
+    },
+    {
+        "text": "Dealing Price",
+        "page": 72,
+        "id": 116,
+        "depth": 2
+    },
+    {
+        "text": "Suspensions",
+        "page": 73,
+        "id": 117,
+        "depth": 2
+    },
+    {
+        "text": "MEETINGS AND REPORTS",
+        "page": 74,
+        "id": 118,
+        "depth": 1
+    },
+    {
+        "text": "Meetings",
+        "page": 74,
+        "id": 119,
+        "depth": 2
+    },
+    {
+        "text": "Voting",
+        "page": 74,
+        "id": 120,
+        "depth": 2
+    },
+    {
+        "text": "Reports",
+        "page": 75,
+        "id": 121,
+        "depth": 2
+    },
+    {
+        "text": "BOARD OF DIRECTORS OF THE FUND",
+        "page": 75,
+        "id": 122,
+        "depth": 1
+    },
+    {
+        "text": "Chairman",
+        "page": 75,
+        "id": 123,
+        "depth": 2
+    },
+    {
+        "text": "Directors",
+        "page": 75,
+        "id": 124,
+        "depth": 2
+    },
+    {
+        "text": "Directors' Interests",
+        "page": 76,
+        "id": 125,
+        "depth": 2
+    },
+    {
+        "text": "The Manager",
+        "page": 77,
+        "id": 126,
+        "depth": 2
+    },
+    {
+        "text": "The Global Distributor",
+        "page": 77,
+        "id": 127,
+        "depth": 2
+    },
+    {
+        "text": "UK Representative",
+        "page": 77,
+        "id": 128,
+        "depth": 2
+    },
+    {
+        "text": "The Custodian and the Administrative Agent",
+        "page": 77,
+        "id": 129,
+        "depth": 2
+    },
+    {
+        "text": "Anti-Money Laundering",
+        "page": 78,
+        "id": 130,
+        "depth": 2
+    },
+    {
+        "text": "Material Contracts",
+        "page": 78,
+        "id": 131,
+        "depth": 2
+    },
+    {
+        "text": "Reduction of Share Capital below Statutory Minimum",
+        "page": 79,
+        "id": 132,
+        "depth": 2
+    },
+    {
+        "text": "Winding-up and Liquidation",
+        "page": 79,
+        "id": 133,
+        "depth": 2
+    },
+    {
+        "text": "The Shares",
+        "page": 80,
+        "id": 134,
+        "depth": 2
+    },
+    {
+        "text": "Transfers",
+        "page": 81,
+        "id": 135,
+        "depth": 2
+    },
+    {
+        "text": "Restrictions on Shareholdings",
+        "page": 81,
+        "id": 136,
+        "depth": 2
+    },
+    {
+        "text": "Miscellaneous",
+        "page": 82,
+        "id": 137,
+        "depth": 2
+    },
+    {
+        "text": "Documents Available for Inspection",
+        "page": 83,
+        "id": 138,
+        "depth": 2
+    },
+    {
+        "text": "TERMS AND CONDITIONS OF ISSUE",
+        "page": 83,
+        "id": 139,
+        "depth": 1
+    },
+    {
+        "text": "CONFLICTS OF INTEREST",
+        "page": 84,
+        "id": 140,
+        "depth": 1
+    },
+    {
+        "text": "DISCLAIMER",
+        "page": 85,
+        "id": 141,
+        "depth": 1
+    },
+    {
+        "text": "Back Page",
+        "page": 87,
+        "id": 142,
+        "depth": 1
+    }
+]

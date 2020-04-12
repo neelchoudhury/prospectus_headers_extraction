@@ -1,0 +1,536 @@
+[
+    {
+        "text": "CARNEGIE FUND V",
+        "page": 1,
+        "id": 1,
+        "depth": 1
+    },
+    {
+        "text": "TABLE OF CONTENTS",
+        "page": 2,
+        "id": 2,
+        "depth": 2
+    },
+    {
+        "text": "1. INTRODUCTION",
+        "page": 3,
+        "id": 3,
+        "depth": 1
+    },
+    {
+        "text": "2. MANAGEMENT AND ADMINISTRATION",
+        "page": 4,
+        "id": 4,
+        "depth": 1
+    },
+    {
+        "text": "MANAGEMENT COMPANY",
+        "page": 4,
+        "id": 5,
+        "depth": 2
+    },
+    {
+        "text": "BOARD OF DIRECTORS OF THE MANAGEMENT COMPANY",
+        "page": 4,
+        "id": 6,
+        "depth": 2
+    },
+    {
+        "text": "CONDUCTING OFFICERS",
+        "page": 5,
+        "id": 7,
+        "depth": 2
+    },
+    {
+        "text": "INVESTMENT MANAGER",
+        "page": 5,
+        "id": 8,
+        "depth": 2
+    },
+    {
+        "text": "RESEARCH ADVISOR",
+        "page": 5,
+        "id": 9,
+        "depth": 2
+    },
+    {
+        "text": "CUSTODIAN",
+        "page": 5,
+        "id": 10,
+        "depth": 2
+    },
+    {
+        "text": "CENTRAL ADMINISTRATION AGENT",
+        "page": 5,
+        "id": 11,
+        "depth": 2
+    },
+    {
+        "text": "PRINCIPAL DISTRIBUTION AND PAYING AGENT",
+        "page": 5,
+        "id": 12,
+        "depth": 2
+    },
+    {
+        "text": "AUDITOR OF THE FUND AND OF THE MANAGEMENT COMPANY",
+        "page": 5,
+        "id": 13,
+        "depth": 2
+    },
+    {
+        "text": "LEGAL ADVISORS",
+        "page": 5,
+        "id": 14,
+        "depth": 2
+    },
+    {
+        "text": "3. LEGAL FORM",
+        "page": 6,
+        "id": 15,
+        "depth": 1
+    },
+    {
+        "text": "4. STRUCTURE",
+        "page": 6,
+        "id": 16,
+        "depth": 1
+    },
+    {
+        "text": "5. THE ORGANISATION OF UNITS",
+        "page": 6,
+        "id": 17,
+        "depth": 1
+    },
+    {
+        "text": "6. OBJECTIVE AND INVESTMENT POLICY OF THE SUB-FUNDS",
+        "page": 8,
+        "id": 18,
+        "depth": 1
+    },
+    {
+        "text": "CARNEGIE FUND V – THE CARNEGIE GLOBAL HEALTHCARE SUB- FUND",
+        "page": 9,
+        "id": 19,
+        "depth": 2
+    },
+    {
+        "text": "Investment objective and policy",
+        "page": 9,
+        "id": 20,
+        "depth": 3
+    },
+    {
+        "text": "Typical Investor",
+        "page": 9,
+        "id": 21,
+        "depth": 3
+    },
+    {
+        "text": "Investment Manager",
+        "page": 9,
+        "id": 22,
+        "depth": 3
+    },
+    {
+        "text": "Risk Warning",
+        "page": 9,
+        "id": 23,
+        "depth": 3
+    },
+    {
+        "text": "Reference currency",
+        "page": 10,
+        "id": 24,
+        "depth": 3
+    },
+    {
+        "text": "Dealing currencies",
+        "page": 10,
+        "id": 25,
+        "depth": 3
+    },
+    {
+        "text": "Current offering price",
+        "page": 10,
+        "id": 26,
+        "depth": 3
+    },
+    {
+        "text": "Valuation Day",
+        "page": 10,
+        "id": 27,
+        "depth": 3
+    },
+    {
+        "text": "Redemption fee",
+        "page": 10,
+        "id": 28,
+        "depth": 3
+    },
+    {
+        "text": "Conversion fee",
+        "page": 10,
+        "id": 29,
+        "depth": 3
+    },
+    {
+        "text": "Management fee",
+        "page": 10,
+        "id": 30,
+        "depth": 3
+    },
+    {
+        "text": "Performance fee",
+        "page": 10,
+        "id": 31,
+        "depth": 3
+    },
+    {
+        "text": "Custodian fee",
+        "page": 10,
+        "id": 32,
+        "depth": 3
+    },
+    {
+        "text": "7. NET ASSET VALUE",
+        "page": 11,
+        "id": 33,
+        "depth": 1
+    },
+    {
+        "text": "8. ISSUE OF UNITS",
+        "page": 11,
+        "id": 34,
+        "depth": 1
+    },
+    {
+        "text": "CURRENT OFFERING PERIOD",
+        "page": 11,
+        "id": 35,
+        "depth": 2
+    },
+    {
+        "text": "General Provisions",
+        "page": 11,
+        "id": 36,
+        "depth": 3
+    },
+    {
+        "text": "Processing of the applications",
+        "page": 11,
+        "id": 37,
+        "depth": 3
+    },
+    {
+        "text": "Anti-Money Laundering and Fight against Financing of Terrorism",
+        "page": 12,
+        "id": 38,
+        "depth": 3
+    },
+    {
+        "text": "Payment and Confirmation",
+        "page": 12,
+        "id": 39,
+        "depth": 3
+    },
+    {
+        "text": "9. REDEMPTION OF UNITS",
+        "page": 13,
+        "id": 40,
+        "depth": 1
+    },
+    {
+        "text": "GENERAL PROVISIONS",
+        "page": 13,
+        "id": 41,
+        "depth": 2
+    },
+    {
+        "text": "PROCESSING OF THE REDEMPTION REQUESTS",
+        "page": 13,
+        "id": 42,
+        "depth": 2
+    },
+    {
+        "text": "10. MARKET TIMING POLICY",
+        "page": 14,
+        "id": 43,
+        "depth": 1
+    },
+    {
+        "text": "11. DISTRIBUTION POLICY",
+        "page": 14,
+        "id": 44,
+        "depth": 1
+    },
+    {
+        "text": "12. CHARGES AND EXPENSES",
+        "page": 14,
+        "id": 45,
+        "depth": 1
+    },
+    {
+        "text": "13. DUTIES AND RESPONSIBILITIES OF MANAGEMENT AND ADMINISTRATION",
+        "page": 15,
+        "id": 46,
+        "depth": 1
+    },
+    {
+        "text": "13.1. THE MANAGEMENT COMPANY",
+        "page": 15,
+        "id": 47,
+        "depth": 2
+    },
+    {
+        "text": "13.2. THE CUSTODIAN AND PAYING AGENT",
+        "page": 16,
+        "id": 48,
+        "depth": 2
+    },
+    {
+        "text": "13.3. LIABILITY OF THE MANAGEMENT COMPANY AND THE CUSTODIAN",
+        "page": 17,
+        "id": 49,
+        "depth": 2
+    },
+    {
+        "text": "13.4. CENTRAL ADMINISTRATION",
+        "page": 17,
+        "id": 50,
+        "depth": 2
+    },
+    {
+        "text": "13.5. THE INVESTMENT MANAGER",
+        "page": 18,
+        "id": 51,
+        "depth": 2
+    },
+    {
+        "text": "13.6. THE PRINCIPAL DISTRIBUTION AGENT, SELLING AGENTS, FINANCIAL SERVICING AND REPRESENTATION",
+        "page": 18,
+        "id": 52,
+        "depth": 2
+    },
+    {
+        "text": "14. ACCOUNTING YEAR AND AUDIT",
+        "page": 19,
+        "id": 53,
+        "depth": 1
+    },
+    {
+        "text": "15. REPORTS",
+        "page": 19,
+        "id": 54,
+        "depth": 1
+    },
+    {
+        "text": "16. AMENDMENT OF THE MANAGEMENT REGULATIONS",
+        "page": 19,
+        "id": 55,
+        "depth": 1
+    },
+    {
+        "text": "17. DURATION & LIQUIDATION & MERGER",
+        "page": 19,
+        "id": 56,
+        "depth": 1
+    },
+    {
+        "text": "LIQUIDATION OF THE FUND",
+        "page": 20,
+        "id": 57,
+        "depth": 2
+    },
+    {
+        "text": "DISSOLUTION AND LIQUIDATION OF SUB-FUNDS AND SPLIT OR CONSOLIDATION OF CLASSES",
+        "page": 20,
+        "id": 58,
+        "depth": 2
+    },
+    {
+        "text": "MERGER",
+        "page": 21,
+        "id": 59,
+        "depth": 2
+    },
+    {
+        "text": "18. TAXATION",
+        "page": 21,
+        "id": 60,
+        "depth": 1
+    },
+    {
+        "text": "TAXATION OF THE FUND",
+        "page": 21,
+        "id": 61,
+        "depth": 2
+    },
+    {
+        "text": "TAXATION OF UNITHOLDERS",
+        "page": 22,
+        "id": 62,
+        "depth": 2
+    },
+    {
+        "text": "19. INVESTMENT RESTRICTIONS",
+        "page": 22,
+        "id": 63,
+        "depth": 1
+    },
+    {
+        "text": "20. TECHNIQUES AND INSTRUMENTS RELATING TO TRANSFERABLE SECURITIES",
+        "page": 31,
+        "id": 64,
+        "depth": 1
+    },
+    {
+        "text": "21. FURTHER INFORMATION",
+        "page": 32,
+        "id": 65,
+        "depth": 1
+    },
+    {
+        "text": "21.1. Sub-Funds and Class/Sub-Class of Units",
+        "page": 32,
+        "id": 66,
+        "depth": 2
+    },
+    {
+        "text": "21.1.1 Sub-Funds",
+        "page": 32,
+        "id": 67,
+        "depth": 3
+    },
+    {
+        "text": "21.1.2. Class/Sub-Class of Units",
+        "page": 33,
+        "id": 68,
+        "depth": 3
+    },
+    {
+        "text": "A Allotment of Units in each Class/Sub-Class",
+        "page": 33,
+        "id": 69,
+        "depth": 4
+    },
+    {
+        "text": "B Restrictions",
+        "page": 33,
+        "id": 70,
+        "depth": 4
+    },
+    {
+        "text": "21.1.3 Conversions",
+        "page": 34,
+        "id": 71,
+        "depth": 3
+    },
+    {
+        "text": "A General provision",
+        "page": 34,
+        "id": 72,
+        "depth": 4
+    },
+    {
+        "text": "B Procedure",
+        "page": 34,
+        "id": 73,
+        "depth": 4
+    },
+    {
+        "text": "21.1.4. Redemptions",
+        "page": 35,
+        "id": 74,
+        "depth": 3
+    },
+    {
+        "text": "A Deferral of Redemptions",
+        "page": 35,
+        "id": 75,
+        "depth": 4
+    },
+    {
+        "text": "B Minimum Unitholding",
+        "page": 35,
+        "id": 76,
+        "depth": 4
+    },
+    {
+        "text": "21.2. VALUATIONS",
+        "page": 36,
+        "id": 77,
+        "depth": 2
+    },
+    {
+        "text": "21.2.1. Net Asset Value determination",
+        "page": 36,
+        "id": 78,
+        "depth": 3
+    },
+    {
+        "text": "21.2.2 Suspension of Calculation of the Net Asset Value, of the issue, the conversion and the redemption of Units",
+        "page": 37,
+        "id": 79,
+        "depth": 3
+    },
+    {
+        "text": "21.3. RISK",
+        "page": 38,
+        "id": 80,
+        "depth": 2
+    },
+    {
+        "text": "Risk of Loss",
+        "page": 39,
+        "id": 81,
+        "depth": 3
+    },
+    {
+        "text": "Financial Derivative Instrument Risk",
+        "page": 39,
+        "id": 82,
+        "depth": 3
+    },
+    {
+        "text": "Futures, Options and Forward Transactions Risk",
+        "page": 39,
+        "id": 83,
+        "depth": 3
+    },
+    {
+        "text": "OTC Derivative Transactions Risk",
+        "page": 40,
+        "id": 84,
+        "depth": 3
+    },
+    {
+        "text": "Counterparty Risk",
+        "page": 40,
+        "id": 85,
+        "depth": 3
+    },
+    {
+        "text": "Suspension of Trading on any Exchange",
+        "page": 40,
+        "id": 86,
+        "depth": 3
+    },
+    {
+        "text": "Reliance on the Custodian",
+        "page": 40,
+        "id": 87,
+        "depth": 3
+    },
+    {
+        "text": "Specific risks linked to securities lending and repurchase transactions",
+        "page": 40,
+        "id": 88,
+        "depth": 3
+    },
+    {
+        "text": "21.4. GENERAL",
+        "page": 41,
+        "id": 89,
+        "depth": 2
+    }
+]

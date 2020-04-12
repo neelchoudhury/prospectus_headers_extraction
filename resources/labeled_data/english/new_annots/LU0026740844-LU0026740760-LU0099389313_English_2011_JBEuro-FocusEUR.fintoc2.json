@@ -1,0 +1,806 @@
+[
+    {
+        "text": "JULIUS BAER MULTISTOCK",
+        "page": 1,
+        "id": 1,
+        "depth": 1
+    },
+    {
+        "text": "T ABLE OF C ONTENTS",
+        "page": 3,
+        "id": 2,
+        "depth": 2
+    },
+    {
+        "text": "1. I NTRODUCTION",
+        "page": 5,
+        "id": 3,
+        "depth": 1
+    },
+    {
+        "text": "2. O RGANISATION AND MANAGEMENT",
+        "page": 8,
+        "id": 4,
+        "depth": 1
+    },
+    {
+        "text": "Board of Directors of the Company",
+        "page": 8,
+        "id": 5,
+        "depth": 2
+    },
+    {
+        "text": "Chairman",
+        "page": 8,
+        "id": 6,
+        "depth": 3
+    },
+    {
+        "text": "Members",
+        "page": 8,
+        "id": 7,
+        "depth": 3
+    },
+    {
+        "text": "Management Company",
+        "page": 8,
+        "id": 8,
+        "depth": 2
+    },
+    {
+        "text": "Board of Directors of the Management Company",
+        "page": 8,
+        "id": 9,
+        "depth": 2
+    },
+    {
+        "text": "Chairman",
+        "page": 8,
+        "id": 10,
+        "depth": 3
+    },
+    {
+        "text": "Members",
+        "page": 8,
+        "id": 11,
+        "depth": 3
+    },
+    {
+        "text": "Managing directors of the Management Company",
+        "page": 8,
+        "id": 12,
+        "depth": 2
+    },
+    {
+        "text": "Investment Managers and Investment Advisers",
+        "page": 8,
+        "id": 13,
+        "depth": 2
+    },
+    {
+        "text": "Custodian, Central administration and principal paying agent Registrar and transfer agent",
+        "page": 8,
+        "id": 14,
+        "depth": 2
+    },
+    {
+        "text": "Distributors",
+        "page": 9,
+        "id": 15,
+        "depth": 2
+    },
+    {
+        "text": "Auditor of annual report",
+        "page": 9,
+        "id": 16,
+        "depth": 2
+    },
+    {
+        "text": "Legal adviser",
+        "page": 9,
+        "id": 17,
+        "depth": 2
+    },
+    {
+        "text": "Supervisory authority in Luxembourg",
+        "page": 9,
+        "id": 18,
+        "depth": 2
+    },
+    {
+        "text": "3. I NVESTMENT OBJECTIVES AND POLICY",
+        "page": 10,
+        "id": 19,
+        "depth": 1
+    },
+    {
+        "text": "Julius Baer Multistock – ABSOLUTE RETURN EUROPE EQUITY FUND",
+        "page": 10,
+        "id": 20,
+        "depth": 2
+    },
+    {
+        "text": "Julius Baer Multistock – AFRICA OPPORTUNITIES FUND",
+        "page": 12,
+        "id": 21,
+        "depth": 2
+    },
+    {
+        "text": "Julius Baer Multistock – AGRICULTURE FUND",
+        "page": 13,
+        "id": 22,
+        "depth": 2
+    },
+    {
+        "text": "Julius Baer Multistock – ASIA STOCK FUND",
+        "page": 14,
+        "id": 23,
+        "depth": 2
+    },
+    {
+        "text": "Julius Baer Multistock – BIOTECH FUND",
+        "page": 15,
+        "id": 24,
+        "depth": 2
+    },
+    {
+        "text": "Julius Baer Multistock – BLACK SEA FUND",
+        "page": 16,
+        "id": 25,
+        "depth": 2
+    },
+    {
+        "text": "Julius Baer Multistock – CENTRAL EUROPE STOCK FUND",
+        "page": 17,
+        "id": 26,
+        "depth": 2
+    },
+    {
+        "text": "Julius Baer Multistock – CHINDONESIA FUND",
+        "page": 18,
+        "id": 27,
+        "depth": 2
+    },
+    {
+        "text": "Julius Baer Multistock – ENERGY TRANSITION FUND",
+        "page": 20,
+        "id": 28,
+        "depth": 2
+    },
+    {
+        "text": "Julius Baer Multistock – EURO LARGE CAP STOCK FUND",
+        "page": 21,
+        "id": 29,
+        "depth": 2
+    },
+    {
+        "text": "Julius Baer Multistock – EUROLAND VALUE STOCK FUND",
+        "page": 22,
+        "id": 30,
+        "depth": 2
+    },
+    {
+        "text": "Julius Baer Multistock – EUROPE SELECTION FUND",
+        "page": 22,
+        "id": 31,
+        "depth": 2
+    },
+    {
+        "text": "Julius Baer Multistock – EUROPE SMALL & MID CAP STOCK FUND",
+        "page": 22,
+        "id": 32,
+        "depth": 2
+    },
+    {
+        "text": "Julius Baer Multistock – EUROPE STOCK FUND",
+        "page": 23,
+        "id": 33,
+        "depth": 2
+    },
+    {
+        "text": "Julius Baer Multistock – GERMAN VALUE STOCK FUND",
+        "page": 23,
+        "id": 34,
+        "depth": 2
+    },
+    {
+        "text": "Julius Baer Multistock – GLOBAL EMERGING MARKETS STOCK FUND",
+        "page": 23,
+        "id": 35,
+        "depth": 2
+    },
+    {
+        "text": "Julius Baer Multistock – GLOBAL SELECTION FUND",
+        "page": 24,
+        "id": 36,
+        "depth": 2
+    },
+    {
+        "text": "Julius Baer Multistock – GLOBAL STOCK FUND",
+        "page": 25,
+        "id": 37,
+        "depth": 2
+    },
+    {
+        "text": "Julius Baer Multistock – HEALTH OPPORTUNITIES FUND",
+        "page": 26,
+        "id": 38,
+        "depth": 2
+    },
+    {
+        "text": "Julius Baer Multistock – INFRASTRUCTURE FUND",
+        "page": 27,
+        "id": 39,
+        "depth": 2
+    },
+    {
+        "text": "Julius Baer Multistock – JAPAN STOCK FUND",
+        "page": 28,
+        "id": 40,
+        "depth": 2
+    },
+    {
+        "text": "Julius Baer Multistock – JULIUS BAER EQUITY FUND SPECIAL VALUE",
+        "page": 28,
+        "id": 41,
+        "depth": 2
+    },
+    {
+        "text": "Julius Baer Multistock – LUXURY BRANDS FUND",
+        "page": 29,
+        "id": 42,
+        "depth": 2
+    },
+    {
+        "text": "Julius Baer Multistock – NATURAL RESOURCES FUND",
+        "page": 30,
+        "id": 43,
+        "depth": 2
+    },
+    {
+        "text": "Julius Baer Multistock – NORTHERN AFRICA FUND",
+        "page": 31,
+        "id": 44,
+        "depth": 2
+    },
+    {
+        "text": "Julius Baer Multistock – RUSSIA FUND",
+        "page": 32,
+        "id": 45,
+        "depth": 2
+    },
+    {
+        "text": "Julius Baer Multistock – SWISS SMALL & MID CAP STOCK FUND",
+        "page": 33,
+        "id": 46,
+        "depth": 2
+    },
+    {
+        "text": "Julius Baer Multistock – SWISS STOCK FUND",
+        "page": 33,
+        "id": 47,
+        "depth": 2
+    },
+    {
+        "text": "Julius Baer Multistock – US LEADING STOCK FUND",
+        "page": 34,
+        "id": 48,
+        "depth": 2
+    },
+    {
+        "text": "Julius Baer Multistock – US VALUE STOCK FUND",
+        "page": 34,
+        "id": 49,
+        "depth": 2
+    },
+    {
+        "text": "4. I NVESTOR PROFILE",
+        "page": 34,
+        "id": 50,
+        "depth": 1
+    },
+    {
+        "text": "ABSOLUTE RETURN EUROPE EQUITY FUND, EUROPE STOCK FUND, GLOBAL STOCK FUND, JAPAN STOCK FUND, SWISS STOCK FUND, US LEADING STOCK FUND and EURO LARGE CAP STOCK FUND",
+        "page": 34,
+        "id": 51,
+        "depth": 2
+    },
+    {
+        "text": "AGRICULTURE FUND, GLOBAL SELECTION FUND, EUROPE SELECTION FUND INFRASTRUCTURE FUND, LUXURY BRANDS FUND and NATURAL RESOURCES FUND",
+        "page": 35,
+        "id": 52,
+        "depth": 2
+    },
+    {
+        "text": "EUROLAND VALUE STOCK FUND, GERMAN VALUE STOCK FUND and US VALUE STOCK FUND",
+        "page": 35,
+        "id": 53,
+        "depth": 2
+    },
+    {
+        "text": "ASIA STOCK FUND, BIOTECH FUND, BLACK SEA FUND, CENTRAL EUROPE STOCK FUND, CHINDONESIA FUND, ENERGY TRANSITION FUND, JULIUS BAER EQUITY FUND SPECIAL VALUE, GLOBAL EMERGING MARKETS STOCK FUND, EUROPE SMALL & MID CAP STOCK FUND, HEALTH OPPORTUNITIES FUND, NORTHERN AFRICA FUND, AFRICA OPPORTUNITIES FUND, RUSSIA FUND and SWISS SMALL & MID CAP STOCK FUND",
+        "page": 35,
+        "id": 54,
+        "depth": 2
+    },
+    {
+        "text": "5. I NVESTMENT LIMITS",
+        "page": 35,
+        "id": 55,
+        "depth": 1
+    },
+    {
+        "text": "1. Investments in securities, money market instruments, deposits and derivatives",
+        "page": 35,
+        "id": 56,
+        "depth": 2
+    },
+    {
+        "text": "2. Investment restrictions",
+        "page": 37,
+        "id": 57,
+        "depth": 2
+    },
+    {
+        "text": "3. Further investment guidelines",
+        "page": 40,
+        "id": 58,
+        "depth": 2
+    },
+    {
+        "text": "S PECIAL INVESTMENT TECHNIQUES AND FINANCIAL INSTRUMENTS",
+        "page": 41,
+        "id": 59,
+        "depth": 1
+    },
+    {
+        "text": "6.1 O PTIONS ON SECURITIES",
+        "page": 41,
+        "id": 60,
+        "depth": 2
+    },
+    {
+        "text": "6.2 F INANCIAL FUTURES , SWAPS AND OPTIONS ON FINANCIAL INSTRUMENTS",
+        "page": 41,
+        "id": 61,
+        "depth": 2
+    },
+    {
+        "text": "a) Hedges against market risks and risks associated with stock market performance",
+        "page": 41,
+        "id": 62,
+        "depth": 3
+    },
+    {
+        "text": "b) Hedges against interest rate risks",
+        "page": 41,
+        "id": 63,
+        "depth": 3
+    },
+    {
+        "text": "c) Hedges against inflation risks",
+        "page": 42,
+        "id": 64,
+        "depth": 3
+    },
+    {
+        "text": "d) Hedges against credit default risk and the risk of a deterioration in a borrower's credit standing",
+        "page": 42,
+        "id": 65,
+        "depth": 3
+    },
+    {
+        "text": "e) Non-hedging transactions (\"active management\")",
+        "page": 42,
+        "id": 66,
+        "depth": 3
+    },
+    {
+        "text": "f) Securities forward settlement transactions",
+        "page": 42,
+        "id": 67,
+        "depth": 3
+    },
+    {
+        "text": "6.3 S ECURITIES LENDING",
+        "page": 42,
+        "id": 68,
+        "depth": 2
+    },
+    {
+        "text": "6.4 S ECURITIES REPURCHASE AGREEMENTS",
+        "page": 43,
+        "id": 69,
+        "depth": 2
+    },
+    {
+        "text": "6.5 T ECHNIQUES AND INSTRUMENTS FOR HEDGING CURRENCY RISKS",
+        "page": 43,
+        "id": 70,
+        "depth": 2
+    },
+    {
+        "text": "6.6 S TRUCTURED PRODUCTS",
+        "page": 43,
+        "id": 71,
+        "depth": 2
+    },
+    {
+        "text": "6.7 R ISKS ASSOCIATED WITH THE USE OF DERIVATIVES AND OTHER SPECIAL INVESTMENT TECHNIQUES AND FINANCIAL INSTRUMENTS",
+        "page": 44,
+        "id": 72,
+        "depth": 2
+    },
+    {
+        "text": "- Market risks",
+        "page": 44,
+        "id": 73,
+        "depth": 3
+    },
+    {
+        "text": "- Monitoring and control",
+        "page": 44,
+        "id": 74,
+        "depth": 3
+    },
+    {
+        "text": "- Liquidity risks",
+        "page": 44,
+        "id": 75,
+        "depth": 3
+    },
+    {
+        "text": "- Counterparty risks risks",
+        "page": 44,
+        "id": 76,
+        "depth": 3
+    },
+    {
+        "text": "- Risks associated with credit default (\"CDS\") transactions",
+        "page": 44,
+        "id": 77,
+        "depth": 3
+    },
+    {
+        "text": "- Risks associated with credit spread swap (\"CSS\") transactions",
+        "page": 44,
+        "id": 78,
+        "depth": 3
+    },
+    {
+        "text": "Risks associated with inflation swap transactions",
+        "page": 45,
+        "id": 79,
+        "depth": 3
+    },
+    {
+        "text": "Risks involved in contracts for difference (“CFD”",
+        "page": 45,
+        "id": 80,
+        "depth": 3
+    },
+    {
+        "text": "6.8. L EVERAGE",
+        "page": 45,
+        "id": 81,
+        "depth": 2
+    },
+    {
+        "text": "7. T HE C OMPANY",
+        "page": 46,
+        "id": 82,
+        "depth": 1
+    },
+    {
+        "text": "General Information",
+        "page": 46,
+        "id": 83,
+        "depth": 2
+    },
+    {
+        "text": "Minimum Capital",
+        "page": 46,
+        "id": 84,
+        "depth": 2
+    },
+    {
+        "text": "Liquidation / Merger",
+        "page": 46,
+        "id": 85,
+        "depth": 2
+    },
+    {
+        "text": "Independence of the Subfunds",
+        "page": 46,
+        "id": 86,
+        "depth": 2
+    },
+    {
+        "text": "The Board of Directors",
+        "page": 47,
+        "id": 87,
+        "depth": 2
+    },
+    {
+        "text": "8. C USTODIAN",
+        "page": 47,
+        "id": 88,
+        "depth": 1
+    },
+    {
+        "text": "9. M ANAGEMENT C OMPANY",
+        "page": 47,
+        "id": 89,
+        "depth": 1
+    },
+    {
+        "text": "10. P RINCIPAL ADMINISTRATIVE AGENT , R EGISTRAR AND TRANSFER AGENT DOMICILIARY AND PRINCIPAL PAYING AGENT ,",
+        "page": 48,
+        "id": 90,
+        "depth": 1
+    },
+    {
+        "text": "11. G ENERAL INFORMATION ON I NVESTMENT M ANAGEMENT AND I NVESTMENT A DVICE",
+        "page": 48,
+        "id": 91,
+        "depth": 1
+    },
+    {
+        "text": "11.1 I NVESTMENT MANAGERS / I NVESTMENT ADVISERS",
+        "page": 48,
+        "id": 92,
+        "depth": 2
+    },
+    {
+        "text": "11.2 A DVISER",
+        "page": 49,
+        "id": 93,
+        "depth": 2
+    },
+    {
+        "text": "12. P AYING AGENTS AND REPRESENTATIVES",
+        "page": 49,
+        "id": 94,
+        "depth": 1
+    },
+    {
+        "text": "13. D ISTRIBUTORS",
+        "page": 49,
+        "id": 95,
+        "depth": 1
+    },
+    {
+        "text": "14. C O - MANAGEMENT",
+        "page": 50,
+        "id": 96,
+        "depth": 1
+    },
+    {
+        "text": "15. D ESCRIPTION OF S HARES",
+        "page": 51,
+        "id": 97,
+        "depth": 1
+    },
+    {
+        "text": "General",
+        "page": 51,
+        "id": 98,
+        "depth": 2
+    },
+    {
+        "text": "Share Categories",
+        "page": 52,
+        "id": 99,
+        "depth": 2
+    },
+    {
+        "text": "Identification number of share categories",
+        "page": 53,
+        "id": 100,
+        "depth": 2
+    },
+    {
+        "text": "16. I SSUE OF S HARES / A PPLICATION PROCEDURE",
+        "page": 53,
+        "id": 101,
+        "depth": 1
+    },
+    {
+        "text": "General Information on the Issue",
+        "page": 53,
+        "id": 102,
+        "depth": 2
+    },
+    {
+        "text": "Issue Price / Selling Fee",
+        "page": 54,
+        "id": 103,
+        "depth": 2
+    },
+    {
+        "text": "Minimum Subscription Amount",
+        "page": 54,
+        "id": 104,
+        "depth": 2
+    },
+    {
+        "text": "Payments",
+        "page": 54,
+        "id": 105,
+        "depth": 2
+    },
+    {
+        "text": "In-Kind Contribution",
+        "page": 54,
+        "id": 106,
+        "depth": 2
+    },
+    {
+        "text": "Several Joint Applicants",
+        "page": 54,
+        "id": 107,
+        "depth": 2
+    },
+    {
+        "text": "Nominee Service",
+        "page": 55,
+        "id": 108,
+        "depth": 2
+    },
+    {
+        "text": "16.1 16.2 A PPLICATION AND CONFIRMATION",
+        "page": 55,
+        "id": 109,
+        "depth": 2
+    },
+    {
+        "text": "G ENERAL",
+        "page": 55,
+        "id": 110,
+        "depth": 2
+    },
+    {
+        "text": "17. R EDEMPTION OF S HARES",
+        "page": 56,
+        "id": 111,
+        "depth": 1
+    },
+    {
+        "text": "General Information on Redemptions",
+        "page": 56,
+        "id": 112,
+        "depth": 2
+    },
+    {
+        "text": "Redemption price",
+        "page": 56,
+        "id": 113,
+        "depth": 2
+    },
+    {
+        "text": "Redemption Fee",
+        "page": 57,
+        "id": 114,
+        "depth": 2
+    },
+    {
+        "text": "Redemption in Kind",
+        "page": 57,
+        "id": 115,
+        "depth": 2
+    },
+    {
+        "text": "Redemption Deferral",
+        "page": 57,
+        "id": 116,
+        "depth": 2
+    },
+    {
+        "text": "Liquidation of Subfunds",
+        "page": 57,
+        "id": 117,
+        "depth": 2
+    },
+    {
+        "text": "Merging of Subfunds",
+        "page": 58,
+        "id": 118,
+        "depth": 2
+    },
+    {
+        "text": "Merging or liquidation of Share categories",
+        "page": 58,
+        "id": 119,
+        "depth": 2
+    },
+    {
+        "text": "18. S WITCHING OF S HARES",
+        "page": 58,
+        "id": 120,
+        "depth": 1
+    },
+    {
+        "text": "19. D IVIDENDS",
+        "page": 59,
+        "id": 121,
+        "depth": 1
+    },
+    {
+        "text": "20. C ALCULATION OF NET ASSET VALUE",
+        "page": 59,
+        "id": 122,
+        "depth": 1
+    },
+    {
+        "text": "21. S USPENSION OF CALCULATION OF NET ASSET VALUE , AND OF THE ISSUE , REDEMPTION AND SWITCHING OF S HARES",
+        "page": 60,
+        "id": 123,
+        "depth": 1
+    },
+    {
+        "text": "22. F EES AND COSTS",
+        "page": 61,
+        "id": 124,
+        "depth": 1
+    },
+    {
+        "text": "Performance fee relating to the ABSOLUTE RETURN EUROPE EQUITY FUND and the INFRASTRUCTURE FUND",
+        "page": 62,
+        "id": 125,
+        "depth": 2
+    },
+    {
+        "text": "T AXATION",
+        "page": 63,
+        "id": 126,
+        "depth": 1
+    },
+    {
+        "text": "23.1 T HE C OMPANY",
+        "page": 63,
+        "id": 127,
+        "depth": 2
+    },
+    {
+        "text": "23.2 T HE SHAREHOLDERS",
+        "page": 64,
+        "id": 128,
+        "depth": 2
+    },
+    {
+        "text": "24. G ENERAL MEETING OF SHAREHOLDERS AND REPORTING",
+        "page": 64,
+        "id": 129,
+        "depth": 1
+    },
+    {
+        "text": "25. A PPLICABLE LAW , JURISDICTION",
+        "page": 64,
+        "id": 130,
+        "depth": 1
+    },
+    {
+        "text": "26. D OCUMENTS FOR INSPECTION",
+        "page": 65,
+        "id": 131,
+        "depth": 1
+    },
+    {
+        "text": "A NNEX I: O VERVIEW OF COMPARATIVE INDICES",
+        "page": 66,
+        "id": 132,
+        "depth": 1
+    },
+    {
+        "text": "A NNEX II: O VERVIEW TABLE WITH ALL SHARE CATEGORIES AND IDENTIFICATION NUMBERS",
+        "page": 67,
+        "id": 133,
+        "depth": 1
+    },
+    {
+        "text": "Important legal information",
+        "page": 75,
+        "id": 134,
+        "depth": 1
+    }
+]

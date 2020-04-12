@@ -1,0 +1,2066 @@
+[
+    {
+        "text": "DB PWM II",
+        "page": 1,
+        "id": 1,
+        "depth": 1
+    },
+    {
+        "text": "INTRODUCTION",
+        "page": 2,
+        "id": 2,
+        "depth": 2
+    },
+    {
+        "text": "ADMINISTRATION OF THE COMPANY",
+        "page": 3,
+        "id": 3,
+        "depth": 2
+    },
+    {
+        "text": "HEAD OFFICE",
+        "page": 3,
+        "id": 4,
+        "depth": 3
+    },
+    {
+        "text": "BOARD OF DIRECTORS",
+        "page": 3,
+        "id": 5,
+        "depth": 3
+    },
+    {
+        "text": "MANAGEMENT COMPANY AND DOMICILIARY AGENT (PLACE OF CENTRAL ADMINISTRATION)",
+        "page": 3,
+        "id": 6,
+        "depth": 3
+    },
+    {
+        "text": "INVESTMENT ADVISOR",
+        "page": 3,
+        "id": 7,
+        "depth": 3
+    },
+    {
+        "text": "INVESTMENT MANAGER",
+        "page": 3,
+        "id": 8,
+        "depth": 3
+    },
+    {
+        "text": "INDEPENDENT AUDITOR",
+        "page": 3,
+        "id": 9,
+        "depth": 3
+    },
+    {
+        "text": "CUSTODIAN BANK, REGISTRAR AND TRANSFER AGENT, ADMINISTRATIVE AND PAYING AGENT AND LISTING AGENT",
+        "page": 3,
+        "id": 10,
+        "depth": 3
+    },
+    {
+        "text": "LEGAL ADVISER",
+        "page": 4,
+        "id": 11,
+        "depth": 3
+    },
+    {
+        "text": "PROMOTER",
+        "page": 4,
+        "id": 12,
+        "depth": 3
+    },
+    {
+        "text": "TABLE OF CONTENTS",
+        "page": 5,
+        "id": 13,
+        "depth": 2
+    },
+    {
+        "text": "GLOSSARY OF TERMS",
+        "page": 7,
+        "id": 14,
+        "depth": 2
+    },
+    {
+        "text": "1. THE COMPANY",
+        "page": 11,
+        "id": 15,
+        "depth": 1
+    },
+    {
+        "text": "A. GENERAL INFORMATION",
+        "page": 11,
+        "id": 16,
+        "depth": 2
+    },
+    {
+        "text": "Safeguarding the rights of shareholders",
+        "page": 12,
+        "id": 17,
+        "depth": 3
+    },
+    {
+        "text": "B. SHARE CAPITAL",
+        "page": 12,
+        "id": 18,
+        "depth": 2
+    },
+    {
+        "text": "C. LIQUIDATION OF THE COMPANY",
+        "page": 12,
+        "id": 19,
+        "depth": 2
+    },
+    {
+        "text": "D. LIQUIDATION/MERGER OF SUB-FUNDS",
+        "page": 13,
+        "id": 20,
+        "depth": 2
+    },
+    {
+        "text": "Liquidation",
+        "page": 13,
+        "id": 21,
+        "depth": 3
+    },
+    {
+        "text": "Mergers",
+        "page": 13,
+        "id": 22,
+        "depth": 3
+    },
+    {
+        "text": "Mergers decided by the Board of Directors",
+        "page": 13,
+        "id": 23,
+        "depth": 4
+    },
+    {
+        "text": "Mergers decided by the Shareholders",
+        "page": 14,
+        "id": 24,
+        "depth": 4
+    },
+    {
+        "text": "2. INVESTMENT OBJECTIVES, POLICIES, TECHNIQUES AND RESTRICTIONS",
+        "page": 15,
+        "id": 25,
+        "depth": 1
+    },
+    {
+        "text": "I. INVESTMENT OBJECTIVE",
+        "page": 15,
+        "id": 26,
+        "depth": 2
+    },
+    {
+        "text": "II. INVESTMENT POLICY",
+        "page": 15,
+        "id": 27,
+        "depth": 2
+    },
+    {
+        "text": "III. INVESTMENT RESTRICTIONS",
+        "page": 15,
+        "id": 28,
+        "depth": 2
+    },
+    {
+        "text": "IV. TECHNIQUES AND INSTRUMENTS",
+        "page": 21,
+        "id": 29,
+        "depth": 2
+    },
+    {
+        "text": "1. General",
+        "page": 21,
+        "id": 30,
+        "depth": 3
+    },
+    {
+        "text": "Risks and Costs",
+        "page": 21,
+        "id": 31,
+        "depth": 4
+    },
+    {
+        "text": "Total Return Swaps",
+        "page": 21,
+        "id": 32,
+        "depth": 4
+    },
+    {
+        "text": "OTC Derivatives",
+        "page": 21,
+        "id": 33,
+        "depth": 4
+    },
+    {
+        "text": "2. Securities lending and borrowing",
+        "page": 22,
+        "id": 34,
+        "depth": 3
+    },
+    {
+        "text": "3. Repurchase Agreement Transactions",
+        "page": 23,
+        "id": 35,
+        "depth": 3
+    },
+    {
+        "text": "4. Collateral Management of Derivatives and Techniques and Instruments",
+        "page": 24,
+        "id": 36,
+        "depth": 3
+    },
+    {
+        "text": "5. Conflicts of Interest",
+        "page": 25,
+        "id": 37,
+        "depth": 3
+    },
+    {
+        "text": "3. DIRECTORS OF THE COMPANY",
+        "page": 25,
+        "id": 38,
+        "depth": 1
+    },
+    {
+        "text": "4. MANAGEMENT COMPANY AND DOMICILIARY AGENT",
+        "page": 26,
+        "id": 39,
+        "depth": 1
+    },
+    {
+        "text": "5. INVESTMENT ADVISOR",
+        "page": 27,
+        "id": 40,
+        "depth": 1
+    },
+    {
+        "text": "6. CUSTODIAN BANK",
+        "page": 27,
+        "id": 41,
+        "depth": 1
+    },
+    {
+        "text": "7. ADMINISTRATIVE, REGISTRAR- and TRANSFER AGENT",
+        "page": 28,
+        "id": 42,
+        "depth": 1
+    },
+    {
+        "text": "8. PAYING AGENT",
+        "page": 28,
+        "id": 43,
+        "depth": 1
+    },
+    {
+        "text": "9. DISTRIBUTORS",
+        "page": 28,
+        "id": 44,
+        "depth": 1
+    },
+    {
+        "text": "10. CO-MANAGEMENT AND POOLING",
+        "page": 28,
+        "id": 45,
+        "depth": 1
+    },
+    {
+        "text": "11. SHARES",
+        "page": 29,
+        "id": 46,
+        "depth": 1
+    },
+    {
+        "text": "12. NET ASSET VALUE",
+        "page": 30,
+        "id": 47,
+        "depth": 1
+    },
+    {
+        "text": "Valuation Day",
+        "page": 30,
+        "id": 48,
+        "depth": 2
+    },
+    {
+        "text": "Reference Currency",
+        "page": 30,
+        "id": 49,
+        "depth": 2
+    },
+    {
+        "text": "Net Asset Value",
+        "page": 30,
+        "id": 50,
+        "depth": 2
+    },
+    {
+        "text": "Valuation of Assets",
+        "page": 32,
+        "id": 51,
+        "depth": 2
+    },
+    {
+        "text": "Additional Provisions",
+        "page": 33,
+        "id": 52,
+        "depth": 2
+    },
+    {
+        "text": "Temporary suspension of the calculation of Net Asset Value",
+        "page": 33,
+        "id": 53,
+        "depth": 2
+    },
+    {
+        "text": "13. ISSUE AND DELIVERY OF SHARES",
+        "page": 34,
+        "id": 54,
+        "depth": 1
+    },
+    {
+        "text": "Initial subscriptions",
+        "page": 34,
+        "id": 55,
+        "depth": 2
+    },
+    {
+        "text": "Current subscriptions",
+        "page": 34,
+        "id": 56,
+        "depth": 2
+    },
+    {
+        "text": "Restriction of ownership of shares",
+        "page": 35,
+        "id": 57,
+        "depth": 2
+    },
+    {
+        "text": "Institutional Investors",
+        "page": 35,
+        "id": 58,
+        "depth": 2
+    },
+    {
+        "text": "Market timing and late trading",
+        "page": 36,
+        "id": 59,
+        "depth": 2
+    },
+    {
+        "text": "US Investors",
+        "page": 36,
+        "id": 60,
+        "depth": 2
+    },
+    {
+        "text": "14. REDEMPTION OF SHARES",
+        "page": 36,
+        "id": 61,
+        "depth": 1
+    },
+    {
+        "text": "15. CONVERSION OF SHARES",
+        "page": 37,
+        "id": 62,
+        "depth": 1
+    },
+    {
+        "text": "16. DATA PROTECTION",
+        "page": 38,
+        "id": 63,
+        "depth": 1
+    },
+    {
+        "text": "17. CHARGES AND EXPENSES BORNE BY THE COMPANY",
+        "page": 39,
+        "id": 64,
+        "depth": 1
+    },
+    {
+        "text": "Costs and Expenses relative to Derivative Transactions and the use of Techniques and Instruments",
+        "page": 39,
+        "id": 65,
+        "depth": 2
+    },
+    {
+        "text": "Management Fees and Other Management Charges",
+        "page": 40,
+        "id": 66,
+        "depth": 2
+    },
+    {
+        "text": "Investment Advisor Fee",
+        "page": 40,
+        "id": 67,
+        "depth": 2
+    },
+    {
+        "text": "Distribution Fee",
+        "page": 40,
+        "id": 68,
+        "depth": 2
+    },
+    {
+        "text": "Fees of the Custodian and Administrative Agent",
+        "page": 40,
+        "id": 69,
+        "depth": 2
+    },
+    {
+        "text": "Multiplication of Fees",
+        "page": 41,
+        "id": 70,
+        "depth": 2
+    },
+    {
+        "text": "Soft commission agreements",
+        "page": 41,
+        "id": 71,
+        "depth": 2
+    },
+    {
+        "text": "Rebates",
+        "page": 41,
+        "id": 72,
+        "depth": 2
+    },
+    {
+        "text": "18. CONFLICTS OF INTEREST",
+        "page": 42,
+        "id": 73,
+        "depth": 1
+    },
+    {
+        "text": "19. FISCAL YEAR",
+        "page": 42,
+        "id": 74,
+        "depth": 1
+    },
+    {
+        "text": "20. PERIODIC REPORTS",
+        "page": 42,
+        "id": 75,
+        "depth": 1
+    },
+    {
+        "text": "21. GENERAL MEETING OF SHAREHOLDERS",
+        "page": 43,
+        "id": 76,
+        "depth": 1
+    },
+    {
+        "text": "22. DISTRIBUTION OF DIVIDENDS",
+        "page": 43,
+        "id": 77,
+        "depth": 1
+    },
+    {
+        "text": "23. JURISDICTION – OFFICIAL LANGUAGE",
+        "page": 44,
+        "id": 78,
+        "depth": 1
+    },
+    {
+        "text": "24. TAXATION",
+        "page": 44,
+        "id": 79,
+        "depth": 1
+    },
+    {
+        "text": "I. Taxation of the Company",
+        "page": 44,
+        "id": 80,
+        "depth": 2
+    },
+    {
+        "text": "I.) Subscription tax",
+        "page": 44,
+        "id": 81,
+        "depth": 3
+    },
+    {
+        "text": "II.) Withholding tax",
+        "page": 45,
+        "id": 82,
+        "depth": 3
+    },
+    {
+        "text": "III.) Income tax",
+        "page": 45,
+        "id": 83,
+        "depth": 3
+    },
+    {
+        "text": "IV.) Value added tax",
+        "page": 45,
+        "id": 84,
+        "depth": 3
+    },
+    {
+        "text": "V.) Other taxes",
+        "page": 45,
+        "id": 85,
+        "depth": 3
+    },
+    {
+        "text": "II. Taxation of the shareholders",
+        "page": 46,
+        "id": 86,
+        "depth": 2
+    },
+    {
+        "text": "I.) Luxembourg tax residency of the shareholders",
+        "page": 46,
+        "id": 87,
+        "depth": 3
+    },
+    {
+        "text": "II.) Income tax",
+        "page": 46,
+        "id": 88,
+        "depth": 3
+    },
+    {
+        "text": "A. Luxembourg resident shareholders",
+        "page": 46,
+        "id": 89,
+        "depth": 4
+    },
+    {
+        "text": "1. Luxembourg resident individuals",
+        "page": 46,
+        "id": 90,
+        "depth": 5
+    },
+    {
+        "text": "2. Luxembourg resident companies",
+        "page": 46,
+        "id": 91,
+        "depth": 5
+    },
+    {
+        "text": "3. Luxembourg residents benefiting from a special tax regime",
+        "page": 46,
+        "id": 92,
+        "depth": 5
+    },
+    {
+        "text": "B. Luxembourg non-resident shareholders",
+        "page": 47,
+        "id": 93,
+        "depth": 4
+    },
+    {
+        "text": "III.) Net wealth tax",
+        "page": 47,
+        "id": 94,
+        "depth": 3
+    },
+    {
+        "text": "IV.) Other taxes",
+        "page": 47,
+        "id": 95,
+        "depth": 3
+    },
+    {
+        "text": "25. SHAREHOLDER INFORMATION",
+        "page": 47,
+        "id": 96,
+        "depth": 1
+    },
+    {
+        "text": "a) Net Asset Value",
+        "page": 47,
+        "id": 97,
+        "depth": 2
+    },
+    {
+        "text": "b) Dividend payments",
+        "page": 47,
+        "id": 98,
+        "depth": 2
+    },
+    {
+        "text": "26. DOCUMENTS AVAILABLE TO THE PUBLIC",
+        "page": 48,
+        "id": 99,
+        "depth": 1
+    },
+    {
+        "text": "APPENDIX I: SPECIAL CONSIDERATIONS ON RISKS",
+        "page": 49,
+        "id": 100,
+        "depth": 1
+    },
+    {
+        "text": "(1) Special considerations on risks for Sub-Funds investing in fixed income and equity securities and in financial instruments",
+        "page": 49,
+        "id": 101,
+        "depth": 2
+    },
+    {
+        "text": "A) Investments in debt securities",
+        "page": 49,
+        "id": 102,
+        "depth": 3
+    },
+    {
+        "text": "B) Investing in equity securities",
+        "page": 49,
+        "id": 103,
+        "depth": 3
+    },
+    {
+        "text": "C) Exchange rates",
+        "page": 49,
+        "id": 104,
+        "depth": 3
+    },
+    {
+        "text": "D) Small capitalisation companies",
+        "page": 49,
+        "id": 105,
+        "depth": 3
+    },
+    {
+        "text": "E) New markets",
+        "page": 50,
+        "id": 106,
+        "depth": 3
+    },
+    {
+        "text": "F) Investments in financial instruments",
+        "page": 50,
+        "id": 107,
+        "depth": 3
+    },
+    {
+        "text": "G) Risks of options trading",
+        "page": 50,
+        "id": 108,
+        "depth": 3
+    },
+    {
+        "text": "H) Investing in futures is volatile and involves a high degree of leverage",
+        "page": 50,
+        "id": 109,
+        "depth": 3
+    },
+    {
+        "text": "I) Futures markets may be illiquid",
+        "page": 51,
+        "id": 110,
+        "depth": 3
+    },
+    {
+        "text": "J) Investments in OTC Markets",
+        "page": 51,
+        "id": 111,
+        "depth": 3
+    },
+    {
+        "text": "Market Risk",
+        "page": 51,
+        "id": 112,
+        "depth": 3
+    },
+    {
+        "text": "L) Liquidity Risk",
+        "page": 51,
+        "id": 113,
+        "depth": 3
+    },
+    {
+        "text": "M) Warrants",
+        "page": 52,
+        "id": 114,
+        "depth": 3
+    },
+    {
+        "text": "N) Counterparty Risk",
+        "page": 52,
+        "id": 115,
+        "depth": 3
+    },
+    {
+        "text": "O) Risk in Connection with the Use of Securities Lending and Repurchase Agreements",
+        "page": 52,
+        "id": 116,
+        "depth": 3
+    },
+    {
+        "text": "(2) Special considerations on risks for Sub-Funds investing in other UCIs",
+        "page": 53,
+        "id": 117,
+        "depth": 2
+    },
+    {
+        "text": "A) New UCIs",
+        "page": 53,
+        "id": 118,
+        "depth": 3
+    },
+    {
+        "text": "B) Performance fee",
+        "page": 53,
+        "id": 119,
+        "depth": 3
+    },
+    {
+        "text": "C) Fee structure",
+        "page": 53,
+        "id": 120,
+        "depth": 3
+    },
+    {
+        "text": "D) Multiplication of costs",
+        "page": 53,
+        "id": 121,
+        "depth": 3
+    },
+    {
+        "text": "E) Real Estate Investments",
+        "page": 54,
+        "id": 122,
+        "depth": 3
+    },
+    {
+        "text": "(3) Risk management process",
+        "page": 54,
+        "id": 123,
+        "depth": 2
+    },
+    {
+        "text": "APPENDIX II: UK TAX SUPPLEMENT",
+        "page": 55,
+        "id": 124,
+        "depth": 1
+    },
+    {
+        "text": "The offshore funds regime",
+        "page": 55,
+        "id": 125,
+        "depth": 2
+    },
+    {
+        "text": "Treatment of gains on disposal of shares",
+        "page": 55,
+        "id": 126,
+        "depth": 2
+    },
+    {
+        "text": "Treatment of income",
+        "page": 55,
+        "id": 127,
+        "depth": 2
+    },
+    {
+        "text": "Other UK tax considerations",
+        "page": 56,
+        "id": 128,
+        "depth": 2
+    },
+    {
+        "text": "DB PWM II – GIS US Equity Portfolio",
+        "page": 57,
+        "id": 129,
+        "depth": 2
+    },
+    {
+        "text": "(1) INVESTMENT OBJECTIVE AND POLICY",
+        "page": 57,
+        "id": 130,
+        "depth": 3
+    },
+    {
+        "text": "Profile of the typical investor",
+        "page": 57,
+        "id": 131,
+        "depth": 4
+    },
+    {
+        "text": "(2) INVESTMENT ADVISOR, MANAGEMENT FEES AND OTHER MANAGEMENT CHARGES",
+        "page": 57,
+        "id": 132,
+        "depth": 3
+    },
+    {
+        "text": "(3) VALUATION DAY & CURRENCY",
+        "page": 58,
+        "id": 133,
+        "depth": 3
+    },
+    {
+        "text": "(4) SPECIFIC CONSIDERATIONS ON RISKS",
+        "page": 58,
+        "id": 134,
+        "depth": 3
+    },
+    {
+        "text": "SUBSCRIPTIONS",
+        "page": 58,
+        "id": 135,
+        "depth": 3
+    },
+    {
+        "text": "(6) REDEMPTIONS",
+        "page": 60,
+        "id": 136,
+        "depth": 3
+    },
+    {
+        "text": "(7) CONVERSIONS",
+        "page": 60,
+        "id": 137,
+        "depth": 3
+    },
+    {
+        "text": "(8) CLASSES OF SHARES AVAILABLE",
+        "page": 60,
+        "id": 138,
+        "depth": 3
+    },
+    {
+        "text": "(9) DISTRIBUTION OF DIVIDENDS",
+        "page": 60,
+        "id": 139,
+        "depth": 3
+    },
+    {
+        "text": "(10) RISK MANAGEMENT",
+        "page": 61,
+        "id": 140,
+        "depth": 3
+    },
+    {
+        "text": "(11) SUBSCRIPTION TAX (TAXE D’ABONNEMENT)",
+        "page": 61,
+        "id": 141,
+        "depth": 3
+    },
+    {
+        "text": "DB PWM II – UK Equity Portfolio",
+        "page": 62,
+        "id": 142,
+        "depth": 2
+    },
+    {
+        "text": "(1) INVESTMENT OBJECTIVE AND POLICY",
+        "page": 62,
+        "id": 143,
+        "depth": 3
+    },
+    {
+        "text": "Profile of the typical investor",
+        "page": 62,
+        "id": 144,
+        "depth": 4
+    },
+    {
+        "text": "(2) INVESTMENT ADVISOR, INVESTMENT MANAGER, MANAGEMENT FEES AND OTHER MANAGEMENT CHARGES",
+        "page": 62,
+        "id": 145,
+        "depth": 3
+    },
+    {
+        "text": "(3) VALUATION DAY & CURRENCY",
+        "page": 63,
+        "id": 146,
+        "depth": 3
+    },
+    {
+        "text": "(4) SPECIFIC CONSIDERATIONS ON RISKS",
+        "page": 63,
+        "id": 147,
+        "depth": 3
+    },
+    {
+        "text": "SUBSCRIPTIONS",
+        "page": 64,
+        "id": 148,
+        "depth": 3
+    },
+    {
+        "text": "(6) REDEMPTIONS",
+        "page": 64,
+        "id": 149,
+        "depth": 3
+    },
+    {
+        "text": "(7) CONVERSIONS",
+        "page": 64,
+        "id": 150,
+        "depth": 3
+    },
+    {
+        "text": "(8) CLASSES OF SHARES AVAILABLE",
+        "page": 64,
+        "id": 151,
+        "depth": 3
+    },
+    {
+        "text": "(9) DISTRIBUTION OF DIVIDENDS",
+        "page": 65,
+        "id": 152,
+        "depth": 3
+    },
+    {
+        "text": "(10) RISK MANAGEMENT",
+        "page": 65,
+        "id": 153,
+        "depth": 3
+    },
+    {
+        "text": "(11) SUBSCRIPTION TAX (TAXE D’ABONNEMENT)",
+        "page": 65,
+        "id": 154,
+        "depth": 3
+    },
+    {
+        "text": "DB PWM II – GIS Dynamic Control Portfolio - Conservative (Euro)",
+        "page": 66,
+        "id": 155,
+        "depth": 2
+    },
+    {
+        "text": "(1) INVESTMENT OBJECTIVE",
+        "page": 66,
+        "id": 156,
+        "depth": 3
+    },
+    {
+        "text": "Profile of the typical investor",
+        "page": 66,
+        "id": 157,
+        "depth": 4
+    },
+    {
+        "text": "(2) INVESTMENT POLICY AND RESTRICTIONS",
+        "page": 66,
+        "id": 158,
+        "depth": 3
+    },
+    {
+        "text": "(3) INVESTMENT ADVISOR, MANAGEMENT FEES AND OTHER MANAGEMENT CHARGES",
+        "page": 67,
+        "id": 159,
+        "depth": 3
+    },
+    {
+        "text": "(4) VALUATION DAY & CURRENCY",
+        "page": 68,
+        "id": 160,
+        "depth": 3
+    },
+    {
+        "text": "(5) SPECIFIC CONSIDERATIONS ON RISKS",
+        "page": 68,
+        "id": 161,
+        "depth": 3
+    },
+    {
+        "text": "SUBSCRIPTIONS",
+        "page": 69,
+        "id": 162,
+        "depth": 3
+    },
+    {
+        "text": "(7) REDEMPTIONS",
+        "page": 69,
+        "id": 163,
+        "depth": 3
+    },
+    {
+        "text": "(8) CONVERSIONS",
+        "page": 69,
+        "id": 164,
+        "depth": 3
+    },
+    {
+        "text": "(9) CLASSES OF SHARES AVAILABLE",
+        "page": 69,
+        "id": 165,
+        "depth": 3
+    },
+    {
+        "text": "(10) DISTRIBUTION OF DIVIDENDS",
+        "page": 70,
+        "id": 166,
+        "depth": 3
+    },
+    {
+        "text": "(11) RISK MANAGEMENT",
+        "page": 70,
+        "id": 167,
+        "depth": 3
+    },
+    {
+        "text": "(12) SUBSCRIPTION TAX (TAXE D’ABONNEMENT)",
+        "page": 70,
+        "id": 168,
+        "depth": 3
+    },
+    {
+        "text": "DB PWM II – GIS Dynamic Control Portfolio - Core (Euro)",
+        "page": 71,
+        "id": 169,
+        "depth": 2
+    },
+    {
+        "text": "(1) INVESTMENT OBJECTIVE",
+        "page": 71,
+        "id": 170,
+        "depth": 3
+    },
+    {
+        "text": "Profile of the typical investor",
+        "page": 71,
+        "id": 171,
+        "depth": 4
+    },
+    {
+        "text": "(2) INVESTMENT POLICY AND RESTRICTIONS",
+        "page": 71,
+        "id": 172,
+        "depth": 3
+    },
+    {
+        "text": "(3) INVESTMENT ADVISOR, MANAGEMENT FEES AND OTHER MANAGEMENT CHARGES",
+        "page": 72,
+        "id": 173,
+        "depth": 3
+    },
+    {
+        "text": "(4) of the VALUATION DAY & CURRENCY",
+        "page": 73,
+        "id": 174,
+        "depth": 3
+    },
+    {
+        "text": "(5) SPECIFIC CONSIDERATIONS ON RISKS",
+        "page": 73,
+        "id": 175,
+        "depth": 3
+    },
+    {
+        "text": "SUBSCRIPTIONS",
+        "page": 74,
+        "id": 176,
+        "depth": 3
+    },
+    {
+        "text": "(7) REDEMPTIONS",
+        "page": 74,
+        "id": 177,
+        "depth": 3
+    },
+    {
+        "text": "(8) CONVERSIONS",
+        "page": 74,
+        "id": 178,
+        "depth": 3
+    },
+    {
+        "text": "(9) CLASSES OF SHARES AVAILABLE",
+        "page": 74,
+        "id": 179,
+        "depth": 3
+    },
+    {
+        "text": "(10) DISTRIBUTION OF DIVIDENDS",
+        "page": 75,
+        "id": 180,
+        "depth": 3
+    },
+    {
+        "text": "(11) RISK MANAGEMENT",
+        "page": 75,
+        "id": 181,
+        "depth": 3
+    },
+    {
+        "text": "(12) SUBSCRIPTION TAX (TAXE D’ABONNEMENT)",
+        "page": 75,
+        "id": 182,
+        "depth": 3
+    },
+    {
+        "text": "DB PWM II – Active Asset Allocation Portfolio - Conservative (Euro)",
+        "page": 76,
+        "id": 183,
+        "depth": 2
+    },
+    {
+        "text": "(1) INVESTMENT OBJECTIVE",
+        "page": 76,
+        "id": 184,
+        "depth": 3
+    },
+    {
+        "text": "Profile of the typical investor",
+        "page": 76,
+        "id": 185,
+        "depth": 4
+    },
+    {
+        "text": "(2) INVESTMENT POLICY AND RESTRICTIONS",
+        "page": 76,
+        "id": 186,
+        "depth": 3
+    },
+    {
+        "text": "(3) INVESTMENT ADVISOR, MANAGEMENT FEES AND OTHER MANAGEMENT CHARGES",
+        "page": 77,
+        "id": 187,
+        "depth": 3
+    },
+    {
+        "text": "Performance Fee",
+        "page": 78,
+        "id": 188,
+        "depth": 4
+    },
+    {
+        "text": "(4) VALUATION DAY & CURRENCY",
+        "page": 78,
+        "id": 189,
+        "depth": 3
+    },
+    {
+        "text": "(5) SPECIFIC CONSIDERATIONS ON RISKS",
+        "page": 79,
+        "id": 190,
+        "depth": 3
+    },
+    {
+        "text": "SUBSCRIPTIONS",
+        "page": 79,
+        "id": 191,
+        "depth": 3
+    },
+    {
+        "text": "(7) REDEMPTIONS",
+        "page": 79,
+        "id": 192,
+        "depth": 3
+    },
+    {
+        "text": "(8) CONVERSIONS",
+        "page": 79,
+        "id": 193,
+        "depth": 3
+    },
+    {
+        "text": "(9) CLASSES OF SHARES AVAILABLE",
+        "page": 80,
+        "id": 194,
+        "depth": 3
+    },
+    {
+        "text": "(10) DISTRIBUTION OF DIVIDENDS",
+        "page": 80,
+        "id": 195,
+        "depth": 3
+    },
+    {
+        "text": "(11) RISK MANAGEMENT",
+        "page": 80,
+        "id": 196,
+        "depth": 3
+    },
+    {
+        "text": "(12) SUBSCRIPTION TAX (TAXE D’ABONNEMENT)",
+        "page": 80,
+        "id": 197,
+        "depth": 3
+    },
+    {
+        "text": "DB PWM II – Active Asset Allocation Portfolio - Core (Euro)",
+        "page": 82,
+        "id": 198,
+        "depth": 2
+    },
+    {
+        "text": "(1) INVESTMENT OBJECTIVE",
+        "page": 82,
+        "id": 199,
+        "depth": 3
+    },
+    {
+        "text": "Profile of the typical investor",
+        "page": 82,
+        "id": 200,
+        "depth": 4
+    },
+    {
+        "text": "(2) INVESTMENT POLICY AND RESTRICTIONS",
+        "page": 82,
+        "id": 201,
+        "depth": 3
+    },
+    {
+        "text": "(3) INVESTMENT ADVISOR, MANAGEMENT FEES AND OTHER MANAGEMENT CHARGES",
+        "page": 83,
+        "id": 202,
+        "depth": 3
+    },
+    {
+        "text": "Performance Fee",
+        "page": 84,
+        "id": 203,
+        "depth": 4
+    },
+    {
+        "text": "(4) VALUATION DAY & CURRENCY",
+        "page": 84,
+        "id": 204,
+        "depth": 3
+    },
+    {
+        "text": "(5) SPECIFIC CONSIDERATIONS ON RISKS",
+        "page": 85,
+        "id": 205,
+        "depth": 3
+    },
+    {
+        "text": "SUBSCRIPTIONS",
+        "page": 85,
+        "id": 206,
+        "depth": 3
+    },
+    {
+        "text": "(7) REDEMPTIONS",
+        "page": 85,
+        "id": 207,
+        "depth": 3
+    },
+    {
+        "text": "(8) CONVERSIONS",
+        "page": 85,
+        "id": 208,
+        "depth": 3
+    },
+    {
+        "text": "(9) CLASSES OF SHARES AVAILABLE",
+        "page": 85,
+        "id": 209,
+        "depth": 3
+    },
+    {
+        "text": "(10) DISTRIBUTION OF DIVIDENDS",
+        "page": 86,
+        "id": 210,
+        "depth": 3
+    },
+    {
+        "text": "(11) RISK MANAGEMENT",
+        "page": 86,
+        "id": 211,
+        "depth": 3
+    },
+    {
+        "text": "(12) SUBSCRIPTION TAX (TAXE D’ABONNEMENT)",
+        "page": 86,
+        "id": 212,
+        "depth": 3
+    },
+    {
+        "text": "DB PWM II – Active Asset Allocation Portfolio - Growth (Euro)",
+        "page": 88,
+        "id": 213,
+        "depth": 2
+    },
+    {
+        "text": "(1) INVESTMENT OBJECTIVE",
+        "page": 88,
+        "id": 214,
+        "depth": 3
+    },
+    {
+        "text": "Profile of the typical investor",
+        "page": 88,
+        "id": 215,
+        "depth": 4
+    },
+    {
+        "text": "(2) INVESTMENT POLICY AND RESTRICTIONS",
+        "page": 88,
+        "id": 216,
+        "depth": 3
+    },
+    {
+        "text": "(3) INVESTMENT ADVISOR, MANAGEMENT FEES AND OTHER MANAGEMENT CHARGES",
+        "page": 89,
+        "id": 217,
+        "depth": 3
+    },
+    {
+        "text": "Performance Fee",
+        "page": 90,
+        "id": 218,
+        "depth": 4
+    },
+    {
+        "text": "(4) VALUATION DAY & CURRENCY",
+        "page": 90,
+        "id": 219,
+        "depth": 3
+    },
+    {
+        "text": "(5) SPECIFIC CONSIDERATIONS ON RISKS",
+        "page": 90,
+        "id": 220,
+        "depth": 3
+    },
+    {
+        "text": "SUBSCRIPTIONS",
+        "page": 91,
+        "id": 221,
+        "depth": 3
+    },
+    {
+        "text": "(7) REDEMPTIONS",
+        "page": 911,
+        "id": 222,
+        "depth": 3
+    },
+    {
+        "text": "(8) CONVERSIONS",
+        "page": 91,
+        "id": 223,
+        "depth": 3
+    },
+    {
+        "text": "(9) CLASSES OF SHARES AVAILABLE",
+        "page": 91,
+        "id": 224,
+        "depth": 3
+    },
+    {
+        "text": "(10) DISTRIBUTION OF DIVIDENDS",
+        "page": 92,
+        "id": 225,
+        "depth": 3
+    },
+    {
+        "text": "(11) RISK MANAGEMENT",
+        "page": 92,
+        "id": 226,
+        "depth": 3
+    },
+    {
+        "text": "(12) SUBSCRIPTION TAX (TAXE D’ABONNEMENT)",
+        "page": 92,
+        "id": 227,
+        "depth": 3
+    },
+    {
+        "text": "DB PWM II – Active Asset Allocation Portfolio - Conservative (USD)",
+        "page": 93,
+        "id": 228,
+        "depth": 2
+    },
+    {
+        "text": "(1) INVESTMENT OBJECTIVE",
+        "page": 93,
+        "id": 229,
+        "depth": 3
+    },
+    {
+        "text": "Profile of the typical investor",
+        "page": 93,
+        "id": 230,
+        "depth": 4
+    },
+    {
+        "text": "(2) INVESTMENT POLICY AND RESTRICTIONS",
+        "page": 94,
+        "id": 231,
+        "depth": 3
+    },
+    {
+        "text": "(3) INVESTMENT ADVISOR, MANAGEMENT FEES AND OTHER MANAGEMENT CHARGES",
+        "page": 95,
+        "id": 232,
+        "depth": 3
+    },
+    {
+        "text": "Performance Fee",
+        "page": 95,
+        "id": 233,
+        "depth": 4
+    },
+    {
+        "text": "(4) VALUATION DAY & CURRENCY",
+        "page": 96,
+        "id": 234,
+        "depth": 3
+    },
+    {
+        "text": "(5) SPECIFIC CONSIDERATIONS ON RISKS",
+        "page": 96,
+        "id": 235,
+        "depth": 3
+    },
+    {
+        "text": "SUBSCRIPTIONS",
+        "page": 96,
+        "id": 236,
+        "depth": 3
+    },
+    {
+        "text": "(7) REDEMPTIONS",
+        "page": 97,
+        "id": 237,
+        "depth": 3
+    },
+    {
+        "text": "(8) CONVERSIONS",
+        "page": 97,
+        "id": 238,
+        "depth": 3
+    },
+    {
+        "text": "(9) CLASSES OF SHARES AVAILABLE",
+        "page": 97,
+        "id": 239,
+        "depth": 3
+    },
+    {
+        "text": "(10) DISTRIBUTION OF DIVIDENDS",
+        "page": 97,
+        "id": 240,
+        "depth": 3
+    },
+    {
+        "text": "(11) RISK MANAGEMENT",
+        "page": 97,
+        "id": 241,
+        "depth": 3
+    },
+    {
+        "text": "(12) SUBSCRIPTION TAX (TAXE D’ABONNEMENT)",
+        "page": 98,
+        "id": 242,
+        "depth": 3
+    },
+    {
+        "text": "DB PWM II – Active Asset Allocation Portfolio - Core (USD)",
+        "page": 99,
+        "id": 243,
+        "depth": 2
+    },
+    {
+        "text": "(1) INVESTMENT OBJECTIVE",
+        "page": 99,
+        "id": 244,
+        "depth": 3
+    },
+    {
+        "text": "Profile of the typical investor",
+        "page": 99,
+        "id": 245,
+        "depth": 4
+    },
+    {
+        "text": "(2) INVESTMENT POLICY AND RESTRICTIONS",
+        "page": 99,
+        "id": 246,
+        "depth": 3
+    },
+    {
+        "text": "(3) INVESTMENT ADVISOR, MANAGEMENT FEES AND OTHER MANAGEMENT CHARGES",
+        "page": 100,
+        "id": 247,
+        "depth": 3
+    },
+    {
+        "text": "Performance Fee",
+        "page": 101,
+        "id": 248,
+        "depth": 4
+    },
+    {
+        "text": "(4) VALUATION DAY & CURRENCY",
+        "page": 101,
+        "id": 249,
+        "depth": 3
+    },
+    {
+        "text": "(5) SPECIFIC CONSIDERATIONS ON RISKS",
+        "page": 102,
+        "id": 250,
+        "depth": 3
+    },
+    {
+        "text": "SUBSCRIPTIONS",
+        "page": 102,
+        "id": 251,
+        "depth": 3
+    },
+    {
+        "text": "(7) REDEMPTIONS",
+        "page": 102,
+        "id": 252,
+        "depth": 3
+    },
+    {
+        "text": "(8) CONVERSIONS",
+        "page": 102,
+        "id": 253,
+        "depth": 3
+    },
+    {
+        "text": "(9) CLASSES OF SHARES AVAILABLE",
+        "page": 102,
+        "id": 254,
+        "depth": 3
+    },
+    {
+        "text": "(10) DISTRIBUTION OF DIVIDENDS",
+        "page": 103,
+        "id": 255,
+        "depth": 3
+    },
+    {
+        "text": "(11) RISK MANAGEMENT",
+        "page": 103,
+        "id": 256,
+        "depth": 3
+    },
+    {
+        "text": "(12) SUBSCRIPTION TAX (TAXE D’ABONNEMENT)",
+        "page": 103,
+        "id": 257,
+        "depth": 3
+    },
+    {
+        "text": "DB PWM II – Active Asset Allocation Portfolio - Growth (USD)",
+        "page": 105,
+        "id": 258,
+        "depth": 2
+    },
+    {
+        "text": "(1) INVESTMENT OBJECTIVE",
+        "page": 105,
+        "id": 259,
+        "depth": 3
+    },
+    {
+        "text": "Profile of the typical investor",
+        "page": 105,
+        "id": 260,
+        "depth": 4
+    },
+    {
+        "text": "(2) INVESTMENT POLICY AND RESTRICTIONS",
+        "page": 105,
+        "id": 261,
+        "depth": 3
+    },
+    {
+        "text": "(3) INVESTMENT ADVISOR, MANAGEMENT FEES AND OTHER MANAGEMENT CHARGES",
+        "page": 106,
+        "id": 262,
+        "depth": 3
+    },
+    {
+        "text": "Performance Fee",
+        "page": 107,
+        "id": 263,
+        "depth": 4
+    },
+    {
+        "text": "(4) VALUATION DAY & CURRENCY",
+        "page": 107,
+        "id": 264,
+        "depth": 3
+    },
+    {
+        "text": "(5) SPECIFIC CONSIDERATIONS ON RISKS",
+        "page": 108,
+        "id": 265,
+        "depth": 3
+    },
+    {
+        "text": "SUBSCRIPTIONS",
+        "page": 108,
+        "id": 266,
+        "depth": 3
+    },
+    {
+        "text": "(7) REDEMPTIONS",
+        "page": 108,
+        "id": 267,
+        "depth": 3
+    },
+    {
+        "text": "(8) CONVERSIONS",
+        "page": 108,
+        "id": 268,
+        "depth": 3
+    },
+    {
+        "text": "(9) CLASSES OF SHARES AVAILABLE",
+        "page": 108,
+        "id": 269,
+        "depth": 3
+    },
+    {
+        "text": "(10) DISTRIBUTION OF DIVIDENDS",
+        "page": 109,
+        "id": 270,
+        "depth": 3
+    },
+    {
+        "text": "(11) RISK MANAGEMENT",
+        "page": 109,
+        "id": 271,
+        "depth": 3
+    },
+    {
+        "text": "(12) SUBSCRIPTION TAX (TAXE D’ABONNEMENT)",
+        "page": 109,
+        "id": 272,
+        "depth": 3
+    },
+    {
+        "text": "DB PWM II – GIS Dynamic Control Portfolio - Conservative (USD)",
+        "page": 111,
+        "id": 273,
+        "depth": 2
+    },
+    {
+        "text": "(1) INVESTMENT OBJECTIVE",
+        "page": 111,
+        "id": 274,
+        "depth": 3
+    },
+    {
+        "text": "Profile of the typical investor",
+        "page": 111,
+        "id": 275,
+        "depth": 4
+    },
+    {
+        "text": "(2) INVESTMENT POLICY AND RESTRICTIONS",
+        "page": 111,
+        "id": 276,
+        "depth": 3
+    },
+    {
+        "text": "(3) INVESTMENT ADVISOR, MANAGEMENT FEES AND OTHER MANAGEMENT CHARGES",
+        "page": 112,
+        "id": 277,
+        "depth": 3
+    },
+    {
+        "text": "(4) VALUATION DAY & CURRENCY",
+        "page": 113,
+        "id": 278,
+        "depth": 3
+    },
+    {
+        "text": "(5) SPECIFIC CONSIDERATIONS ON RISKS",
+        "page": 113,
+        "id": 279,
+        "depth": 3
+    },
+    {
+        "text": "SUBSCRIPTIONS",
+        "page": 113,
+        "id": 280,
+        "depth": 3
+    },
+    {
+        "text": "(7) REDEMPTIONS",
+        "page": 114,
+        "id": 281,
+        "depth": 3
+    },
+    {
+        "text": "(8) CONVERSIONS",
+        "page": 114,
+        "id": 282,
+        "depth": 3
+    },
+    {
+        "text": "(9) CLASSES OF SHARES AVAILABLE",
+        "page": 114,
+        "id": 283,
+        "depth": 3
+    },
+    {
+        "text": "(10) DISTRIBUTION OF DIVIDENDS",
+        "page": 115,
+        "id": 284,
+        "depth": 3
+    },
+    {
+        "text": "(11) RISK MANAGEMENT",
+        "page": 115,
+        "id": 285,
+        "depth": 3
+    },
+    {
+        "text": "(12) SUBSCRIPTION TAX (TAXE D’ABONNEMENT)",
+        "page": 115,
+        "id": 286,
+        "depth": 3
+    },
+    {
+        "text": "DB PWM II – GIS Dynamic Control Portfolio - Core (USD)",
+        "page": 116,
+        "id": 287,
+        "depth": 2
+    },
+    {
+        "text": "(1) INVESTMENT OBJECTIVE",
+        "page": 116,
+        "id": 288,
+        "depth": 3
+    },
+    {
+        "text": "Profile of the typical investor",
+        "page": 116,
+        "id": 289,
+        "depth": 4
+    },
+    {
+        "text": "(2) INVESTMENT POLICY AND RESTRICTIONS",
+        "page": 116,
+        "id": 290,
+        "depth": 3
+    },
+    {
+        "text": "(3) INVESTMENT ADVISOR, MANAGEMENT FEES AND OTHER MANAGEMENT CHARGES",
+        "page": 117,
+        "id": 291,
+        "depth": 3
+    },
+    {
+        "text": "(4) VALUATION DAY & CURRENCY",
+        "page": 118,
+        "id": 292,
+        "depth": 3
+    },
+    {
+        "text": "(5) SPECIFIC CONSIDERATIONS ON RISKS",
+        "page": 118,
+        "id": 293,
+        "depth": 3
+    },
+    {
+        "text": "SUBSCRIPTIONS",
+        "page": 118,
+        "id": 294,
+        "depth": 3
+    },
+    {
+        "text": "(7) REDEMPTIONS",
+        "page": 119,
+        "id": 295,
+        "depth": 3
+    },
+    {
+        "text": "(8) CONVERSIONS",
+        "page": 119,
+        "id": 296,
+        "depth": 3
+    },
+    {
+        "text": "(9) CLASSES OF SHARES AVAILABLE",
+        "page": 119,
+        "id": 297,
+        "depth": 3
+    },
+    {
+        "text": "(10) DISTRIBUTION OF DIVIDENDS",
+        "page": 120,
+        "id": 298,
+        "depth": 3
+    },
+    {
+        "text": "(11) RISK MANAGEMENT",
+        "page": 120,
+        "id": 299,
+        "depth": 3
+    },
+    {
+        "text": "(12) SUBSCRIPTION TAX (TAXE D’ABONNEMENT)",
+        "page": 120,
+        "id": 300,
+        "depth": 3
+    },
+    {
+        "text": "DB PWM II – GIS Asia ex Japan Portfolio",
+        "page": 121,
+        "id": 301,
+        "depth": 2
+    },
+    {
+        "text": "(1) INVESTMENT OBJECTIVE AND POLICY",
+        "page": 121,
+        "id": 302,
+        "depth": 3
+    },
+    {
+        "text": "Profile of the typical investor",
+        "page": 121,
+        "id": 303,
+        "depth": 4
+    },
+    {
+        "text": "(2) INVESTMENT ADVISOR, MANAGEMENT FEES AND OTHER MANAGEMENT CHARGES",
+        "page": 121,
+        "id": 304,
+        "depth": 3
+    },
+    {
+        "text": "(3) VALUATION DAY & CURRENCY",
+        "page": 122,
+        "id": 305,
+        "depth": 3
+    },
+    {
+        "text": "(4) SPECIFIC CONSIDERATIONS ON RISKS",
+        "page": 122,
+        "id": 306,
+        "depth": 3
+    },
+    {
+        "text": "SUBSCRIPTIONS",
+        "page": 122,
+        "id": 307,
+        "depth": 3
+    },
+    {
+        "text": "(6) REDEMPTIONS",
+        "page": 123,
+        "id": 308,
+        "depth": 3
+    },
+    {
+        "text": "(7) CONVERSIONS",
+        "page": 123,
+        "id": 309,
+        "depth": 3
+    },
+    {
+        "text": "(8) CLASSES OF SHARES AVAILABLE",
+        "page": 123,
+        "id": 310,
+        "depth": 3
+    },
+    {
+        "text": "(9) DISTRIBUTION OF DIVIDENDS",
+        "page": 123,
+        "id": 311,
+        "depth": 3
+    },
+    {
+        "text": "(10) RISK MANAGEMENT",
+        "page": 123,
+        "id": 312,
+        "depth": 3
+    },
+    {
+        "text": "12) SUBSCRIPTION TAX (TAXE D’ABONNEMENT)",
+        "page": 124,
+        "id": 313,
+        "depth": 3
+    },
+    {
+        "text": "DB PWM II – LiquidAlts UCITS (Euro)",
+        "page": 125,
+        "id": 314,
+        "depth": 2
+    },
+    {
+        "text": "(1) INVESTMENT OBJECTIVE",
+        "page": 125,
+        "id": 315,
+        "depth": 3
+    },
+    {
+        "text": "Profile of the typical investor",
+        "page": 125,
+        "id": 316,
+        "depth": 4
+    },
+    {
+        "text": "(2) INVESTMENT POLICY AND RESTRICTIONS",
+        "page": 125,
+        "id": 317,
+        "depth": 3
+    },
+    {
+        "text": "(3) INVESTMENT ADVISOR, MANAGEMENT FEES AND OTHER MANAGEMENT CHARGES",
+        "page": 126,
+        "id": 318,
+        "depth": 3
+    },
+    {
+        "text": "(4) SPECIFIC CONSIDERATIONS ON RISKS",
+        "page": 127,
+        "id": 319,
+        "depth": 3
+    },
+    {
+        "text": "VALUATION DAY & CURRENCY",
+        "page": 127,
+        "id": 320,
+        "depth": 3
+    },
+    {
+        "text": "(6) SUBSCRIPTIONS",
+        "page": 127,
+        "id": 321,
+        "depth": 3
+    },
+    {
+        "text": "(7) REDEMPTIONS",
+        "page": 128,
+        "id": 322,
+        "depth": 3
+    },
+    {
+        "text": "(8) CONVERSIONS",
+        "page": 128,
+        "id": 323,
+        "depth": 3
+    },
+    {
+        "text": "(9) CLASSES OF SHARES AVAILABLE",
+        "page": 128,
+        "id": 324,
+        "depth": 3
+    },
+    {
+        "text": "(10) DISTRIBUTION OF DIVIDENDS",
+        "page": 129,
+        "id": 325,
+        "depth": 3
+    },
+    {
+        "text": "(11) RISK MANAGEMENT",
+        "page": 129,
+        "id": 326,
+        "depth": 3
+    },
+    {
+        "text": "(12) SUBSCRIPTION TAX (TAXE D’ABONNEMENT)",
+        "page": 129,
+        "id": 327,
+        "depth": 3
+    },
+    {
+        "text": "DB PWM II – LiquidAlts UCITS",
+        "page": 130,
+        "id": 328,
+        "depth": 2
+    },
+    {
+        "text": "(1) INVESTMENT OBJECTIVE",
+        "page": 130,
+        "id": 329,
+        "depth": 3
+    },
+    {
+        "text": "Profile of the typical investor",
+        "page": 130,
+        "id": 330,
+        "depth": 4
+    },
+    {
+        "text": "(2) INVESTMENT POLICY AND RESTRICTIONS",
+        "page": 131,
+        "id": 331,
+        "depth": 3
+    },
+    {
+        "text": "(3) INVESTMENT ADVISOR, MANAGEMENT FEES AND OTHER MANAGEMENT CHARGES",
+        "page": 132,
+        "id": 332,
+        "depth": 3
+    },
+    {
+        "text": "VALUATION DAY & CURRENCY",
+        "page": 133,
+        "id": 333,
+        "depth": 3
+    },
+    {
+        "text": "(5) SUBSCRIPTIONS",
+        "page": 133,
+        "id": 334,
+        "depth": 3
+    },
+    {
+        "text": "(6) REDEMPTIONS",
+        "page": 133,
+        "id": 335,
+        "depth": 3
+    },
+    {
+        "text": "(7) CONVERSIONS",
+        "page": 134,
+        "id": 336,
+        "depth": 3
+    },
+    {
+        "text": "(8) CLASSES OF SHARES AVAILABLE",
+        "page": 134,
+        "id": 337,
+        "depth": 3
+    },
+    {
+        "text": "(9) DISTRIBUTION OF DIVIDENDS",
+        "page": 135,
+        "id": 338,
+        "depth": 3
+    },
+    {
+        "text": "(10) RISK MANAGEMENT",
+        "page": 135,
+        "id": 339,
+        "depth": 3
+    },
+    {
+        "text": "(11) SUBSCRIPTION TAX (TAXE D’ABONNEMENT)",
+        "page": 135,
+        "id": 340,
+        "depth": 3
+    },
+    {
+        "text": "ADDITIONAL INFORMATION FOR INVESTORS IN THE FEDERAL REPUBLIC OF GERMANY",
+        "page": 136,
+        "id": 341,
+        "depth": 1
+    },
+    {
+        "text": "Additional information for Investors in the Federal Republic of Germany",
+        "page": 136,
+        "id": 342,
+        "depth": 2
+    },
+    {
+        "text": "Paying and information agent in Germany",
+        "page": 136,
+        "id": 343,
+        "depth": 2
+    },
+    {
+        "text": "Publications",
+        "page": 136,
+        "id": 344,
+        "depth": 2
+    }
+]

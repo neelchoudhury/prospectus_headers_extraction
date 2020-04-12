@@ -1,0 +1,1760 @@
+[
+    {
+        "text": "Man Umbrella SICAV",
+        "page": 1,
+        "id": 1,
+        "depth": 1
+    },
+    {
+        "text": "Important notices",
+        "page": 2,
+        "id": 2,
+        "depth": 2
+    },
+    {
+        "text": "Table of contents",
+        "page": 3,
+        "id": 3,
+        "depth": 2
+    },
+    {
+        "text": "Administration",
+        "page": 4,
+        "id": 4,
+        "depth": 1
+    },
+    {
+        "text": "Board of Directors",
+        "page": 4,
+        "id": 5,
+        "depth": 2
+    },
+    {
+        "text": "Chairman",
+        "page": 4,
+        "id": 6,
+        "depth": 3
+    },
+    {
+        "text": "Board members",
+        "page": 4,
+        "id": 7,
+        "depth": 3
+    },
+    {
+        "text": "Management Company",
+        "page": 4,
+        "id": 8,
+        "depth": 2
+    },
+    {
+        "text": "Chairman",
+        "page": 4,
+        "id": 9,
+        "depth": 3
+    },
+    {
+        "text": "Board members",
+        "page": 4,
+        "id": 10,
+        "depth": 3
+    },
+    {
+        "text": "Conducting Officers",
+        "page": 4,
+        "id": 11,
+        "depth": 3
+    },
+    {
+        "text": "Registered Office of the Fund",
+        "page": 4,
+        "id": 12,
+        "depth": 2
+    },
+    {
+        "text": "Central Administrative Agent",
+        "page": 4,
+        "id": 13,
+        "depth": 2
+    },
+    {
+        "text": "Investment Managers",
+        "page": 5,
+        "id": 14,
+        "depth": 2
+    },
+    {
+        "text": "Registrar and Transfer Agent",
+        "page": 5,
+        "id": 15,
+        "depth": 2
+    },
+    {
+        "text": "Custodian Bank",
+        "page": 5,
+        "id": 16,
+        "depth": 2
+    },
+    {
+        "text": "Auditors",
+        "page": 5,
+        "id": 17,
+        "depth": 2
+    },
+    {
+        "text": "Legal Advisers in Luxembourg",
+        "page": 5,
+        "id": 18,
+        "depth": 2
+    },
+    {
+        "text": "The Fund",
+        "page": 6,
+        "id": 19,
+        "depth": 1
+    },
+    {
+        "text": "Management",
+        "page": 7,
+        "id": 20,
+        "depth": 1
+    },
+    {
+        "text": "Board of Directors and senior management",
+        "page": 7,
+        "id": 21,
+        "depth": 2
+    },
+    {
+        "text": "Management Company",
+        "page": 7,
+        "id": 22,
+        "depth": 2
+    },
+    {
+        "text": "Investment Managers",
+        "page": 9,
+        "id": 23,
+        "depth": 2
+    },
+    {
+        "text": "Man Investments (CH) AG",
+        "page": 9,
+        "id": 24,
+        "depth": 3
+    },
+    {
+        "text": "Man Investments Ltd.",
+        "page": 9,
+        "id": 25,
+        "depth": 3
+    },
+    {
+        "text": "GLG Partners LP",
+        "page": 9,
+        "id": 26,
+        "depth": 3
+    },
+    {
+        "text": "Custodian bank",
+        "page": 10,
+        "id": 27,
+        "depth": 1
+    },
+    {
+        "text": "Central administration",
+        "page": 10,
+        "id": 28,
+        "depth": 1
+    },
+    {
+        "text": "Shares",
+        "page": 11,
+        "id": 29,
+        "depth": 1
+    },
+    {
+        "text": "Issue of Shares",
+        "page": 12,
+        "id": 30,
+        "depth": 1
+    },
+    {
+        "text": "Direct subscriptions of Shares",
+        "page": 12,
+        "id": 31,
+        "depth": 2
+    },
+    {
+        "text": "Subscriptions via distribution agents",
+        "page": 13,
+        "id": 32,
+        "depth": 2
+    },
+    {
+        "text": "Minimum Subscription and Holding Amounts",
+        "page": 13,
+        "id": 33,
+        "depth": 3
+    },
+    {
+        "text": "Minimum Additional Subscription Amount",
+        "page": 13,
+        "id": 34,
+        "depth": 3
+    },
+    {
+        "text": "General provisions for subscription applications",
+        "page": 13,
+        "id": 35,
+        "depth": 3
+    },
+    {
+        "text": "Subscription Application Amount",
+        "page": 14,
+        "id": 36,
+        "depth": 3
+    },
+    {
+        "text": "Redemption of Shares",
+        "page": 14,
+        "id": 37,
+        "depth": 1
+    },
+    {
+        "text": "Conversion of Shares",
+        "page": 15,
+        "id": 38,
+        "depth": 1
+    },
+    {
+        "text": "General provisions for applications",
+        "page": 15,
+        "id": 39,
+        "depth": 1
+    },
+    {
+        "text": "Fax Applications",
+        "page": 15,
+        "id": 40,
+        "depth": 2
+    },
+    {
+        "text": "Authorised E-mail Addresses",
+        "page": 15,
+        "id": 41,
+        "depth": 2
+    },
+    {
+        "text": "Protection against late trading and market timing practices",
+        "page": 16,
+        "id": 42,
+        "depth": 1
+    },
+    {
+        "text": "Distribution policy",
+        "page": 16,
+        "id": 43,
+        "depth": 1
+    },
+    {
+        "text": "Fees and Expenses",
+        "page": 16,
+        "id": 44,
+        "depth": 1
+    },
+    {
+        "text": "Taxation",
+        "page": 18,
+        "id": 45,
+        "depth": 1
+    },
+    {
+        "text": "General",
+        "page": 18,
+        "id": 46,
+        "depth": 2
+    },
+    {
+        "text": "Taxes chargeable to the Fund",
+        "page": 18,
+        "id": 47,
+        "depth": 2
+    },
+    {
+        "text": "Taxation of shareholders",
+        "page": 19,
+        "id": 48,
+        "depth": 2
+    },
+    {
+        "text": "Luxembourg tax residency of the shareholders",
+        "page": 19,
+        "id": 49,
+        "depth": 3
+    },
+    {
+        "text": "Luxembourg resident individual shareholders",
+        "page": 19,
+        "id": 50,
+        "depth": 3
+    },
+    {
+        "text": "Luxembourg resident corporate shareholders",
+        "page": 19,
+        "id": 51,
+        "depth": 3
+    },
+    {
+        "text": "Luxembourg resident shareholders benefiting from a special tax regime",
+        "page": 19,
+        "id": 52,
+        "depth": 3
+    },
+    {
+        "text": "Taxation of Luxembourg non-residents shareholders",
+        "page": 20,
+        "id": 53,
+        "depth": 3
+    },
+    {
+        "text": "Net wealth tax",
+        "page": 20,
+        "id": 54,
+        "depth": 2
+    },
+    {
+        "text": "Value added tax",
+        "page": 21,
+        "id": 55,
+        "depth": 2
+    },
+    {
+        "text": "Other taxes",
+        "page": 21,
+        "id": 56,
+        "depth": 2
+    },
+    {
+        "text": "US Tax Compliance",
+        "page": 21,
+        "id": 57,
+        "depth": 2
+    },
+    {
+        "text": "Winding-up, liquidation and merger of the Fund",
+        "page": 22,
+        "id": 58,
+        "depth": 1
+    },
+    {
+        "text": "Winding-up and liquidation of sub-funds",
+        "page": 22,
+        "id": 59,
+        "depth": 2
+    },
+    {
+        "text": "Merger of the Fund and of sub-funds",
+        "page": 23,
+        "id": 60,
+        "depth": 2
+    },
+    {
+        "text": "Information for shareholders",
+        "page": 24,
+        "id": 61,
+        "depth": 1
+    },
+    {
+        "text": "General Meeting",
+        "page": 24,
+        "id": 62,
+        "depth": 1
+    },
+    {
+        "text": "Accounting year",
+        "page": 24,
+        "id": 63,
+        "depth": 1
+    },
+    {
+        "text": "General investment guidelines and restrictions",
+        "page": 24,
+        "id": 64,
+        "depth": 1
+    },
+    {
+        "text": "1.The assets of each sub-fund may include the following",
+        "page": 25,
+        "id": 65,
+        "depth": 2
+    },
+    {
+        "text": "2.Each sub-fund may moreover",
+        "page": 26,
+        "id": 66,
+        "depth": 2
+    },
+    {
+        "text": "3.The Fund shall also comply with the following investment restrictions when investing the assets of any sub-fund",
+        "page": 26,
+        "id": 67,
+        "depth": 2
+    },
+    {
+        "text": "4.Without prejudice to any contrary provisions set out herein",
+        "page": 30,
+        "id": 68,
+        "depth": 2
+    },
+    {
+        "text": "5. Investment limits applying to other techniques and instruments relating to transferable securities and money market instruments for the purpose of efficient portfolio management",
+        "page": 30,
+        "id": 69,
+        "depth": 2
+    },
+    {
+        "text": "6. Collateral policy and reinvestment of collateral",
+        "page": 32,
+        "id": 70,
+        "depth": 2
+    },
+    {
+        "text": "7. Risk management procedures",
+        "page": 33,
+        "id": 71,
+        "depth": 2
+    },
+    {
+        "text": "8. Risks involved when employing other techniques and instruments relating to transferable securities and money market instruments for the purpose of efficient portfolio management",
+        "page": 33,
+        "id": 72,
+        "depth": 2
+    },
+    {
+        "text": "Calculation of the net asset value of shares",
+        "page": 34,
+        "id": 73,
+        "depth": 1
+    },
+    {
+        "text": "Calculation and publication",
+        "page": 34,
+        "id": 74,
+        "depth": 2
+    },
+    {
+        "text": "Temporary suspension of calculation",
+        "page": 35,
+        "id": 75,
+        "depth": 2
+    },
+    {
+        "text": "Transfer and use of shareholders’ personal data",
+        "page": 36,
+        "id": 76,
+        "depth": 1
+    },
+    {
+        "text": "Pooling",
+        "page": 37,
+        "id": 77,
+        "depth": 1
+    },
+    {
+        "text": "Conflicts of interest",
+        "page": 38,
+        "id": 78,
+        "depth": 1
+    },
+    {
+        "text": "Board of Directors",
+        "page": 38,
+        "id": 79,
+        "depth": 2
+    },
+    {
+        "text": "Management Company",
+        "page": 38,
+        "id": 80,
+        "depth": 2
+    },
+    {
+        "text": "Man Group entities and affiliates",
+        "page": 38,
+        "id": 81,
+        "depth": 2
+    },
+    {
+        "text": "Legal Disclaimer",
+        "page": 39,
+        "id": 82,
+        "depth": 1
+    },
+    {
+        "text": "Appendices to the Prospectus: the Sub-Funds",
+        "page": 39,
+        "id": 83,
+        "depth": 1
+    },
+    {
+        "text": "Appendix 1: Man Convertibles Far East",
+        "page": 41,
+        "id": 84,
+        "depth": 2
+    },
+    {
+        "text": "1. Investment objective and policy",
+        "page": 41,
+        "id": 85,
+        "depth": 3
+    },
+    {
+        "text": "2. Investment risks",
+        "page": 42,
+        "id": 86,
+        "depth": 3
+    },
+    {
+        "text": "3. Currency",
+        "page": 42,
+        "id": 87,
+        "depth": 3
+    },
+    {
+        "text": "4. Stock exchange listing",
+        "page": 42,
+        "id": 88,
+        "depth": 3
+    },
+    {
+        "text": "5. Shares",
+        "page": 42,
+        "id": 89,
+        "depth": 3
+    },
+    {
+        "text": "6. Share Classes",
+        "page": 42,
+        "id": 90,
+        "depth": 3
+    },
+    {
+        "text": "7. Net asset value",
+        "page": 43,
+        "id": 91,
+        "depth": 3
+    },
+    {
+        "text": "8. Management Fee",
+        "page": 43,
+        "id": 92,
+        "depth": 3
+    },
+    {
+        "text": "9. Administrative and Operating Costs",
+        "page": 43,
+        "id": 93,
+        "depth": 3
+    },
+    {
+        "text": "10. Minimum transaction amounts",
+        "page": 43,
+        "id": 94,
+        "depth": 3
+    },
+    {
+        "text": "11. Launch of the Sub-Fund",
+        "page": 44,
+        "id": 95,
+        "depth": 3
+    },
+    {
+        "text": "12. Investor profile",
+        "page": 44,
+        "id": 96,
+        "depth": 3
+    },
+    {
+        "text": "13. Global exposure",
+        "page": 44,
+        "id": 97,
+        "depth": 3
+    },
+    {
+        "text": "Table 1: Share Classes of Man Convertibles Far East",
+        "page": 45,
+        "id": 98,
+        "depth": 3
+    },
+    {
+        "text": "Appendix 2: Man Convertibles Japan",
+        "page": 46,
+        "id": 99,
+        "depth": 2
+    },
+    {
+        "text": "1. Investment objective and policy",
+        "page": 47,
+        "id": 100,
+        "depth": 3
+    },
+    {
+        "text": "2. Investment risks",
+        "page": 48,
+        "id": 101,
+        "depth": 3
+    },
+    {
+        "text": "3. Currency",
+        "page": 48,
+        "id": 102,
+        "depth": 3
+    },
+    {
+        "text": "4. Stock exchange listing",
+        "page": 48,
+        "id": 103,
+        "depth": 3
+    },
+    {
+        "text": "5. Shares",
+        "page": 48,
+        "id": 104,
+        "depth": 3
+    },
+    {
+        "text": "6. Share Classes",
+        "page": 48,
+        "id": 105,
+        "depth": 3
+    },
+    {
+        "text": "7. Net asset value",
+        "page": 49,
+        "id": 106,
+        "depth": 3
+    },
+    {
+        "text": "8. Management Fee",
+        "page": 49,
+        "id": 107,
+        "depth": 3
+    },
+    {
+        "text": "9. Administrative and Operating Costs",
+        "page": 49,
+        "id": 108,
+        "depth": 3
+    },
+    {
+        "text": "10. Minimum transaction amounts",
+        "page": 49,
+        "id": 109,
+        "depth": 3
+    },
+    {
+        "text": "11. Launch of the Sub-Fund",
+        "page": 49,
+        "id": 110,
+        "depth": 3
+    },
+    {
+        "text": "12. Investor profile",
+        "page": 50,
+        "id": 111,
+        "depth": 3
+    },
+    {
+        "text": "13. Global exposure",
+        "page": 50,
+        "id": 112,
+        "depth": 3
+    },
+    {
+        "text": "Table 2: Share Classes of Man Convertibles Japan",
+        "page": 51,
+        "id": 113,
+        "depth": 3
+    },
+    {
+        "text": "Appendix 3: Man Convertibles Europe",
+        "page": 53,
+        "id": 114,
+        "depth": 2
+    },
+    {
+        "text": "1. Investment objective and policy",
+        "page": 53,
+        "id": 115,
+        "depth": 3
+    },
+    {
+        "text": "2. Investment risks",
+        "page": 54,
+        "id": 116,
+        "depth": 3
+    },
+    {
+        "text": "3. Currency",
+        "page": 54,
+        "id": 117,
+        "depth": 3
+    },
+    {
+        "text": "4. Stock exchange listing",
+        "page": 54,
+        "id": 118,
+        "depth": 3
+    },
+    {
+        "text": "5. Shares",
+        "page": 54,
+        "id": 119,
+        "depth": 3
+    },
+    {
+        "text": "6. Share Classes",
+        "page": 54,
+        "id": 120,
+        "depth": 3
+    },
+    {
+        "text": "7. Net asset value",
+        "page": 55,
+        "id": 121,
+        "depth": 3
+    },
+    {
+        "text": "8. Management Fee",
+        "page": 55,
+        "id": 122,
+        "depth": 3
+    },
+    {
+        "text": "9. Administrative and Operating Costs",
+        "page": 55,
+        "id": 123,
+        "depth": 3
+    },
+    {
+        "text": "10. Minimum transaction amount",
+        "page": 55,
+        "id": 124,
+        "depth": 3
+    },
+    {
+        "text": "11. Launch of the Sub-Fund",
+        "page": 55,
+        "id": 125,
+        "depth": 3
+    },
+    {
+        "text": "12. Investor profile",
+        "page": 56,
+        "id": 126,
+        "depth": 3
+    },
+    {
+        "text": "13. Global exposure",
+        "page": 56,
+        "id": 127,
+        "depth": 3
+    },
+    {
+        "text": "Table 3: Share Classes of Man Convertibles Europe",
+        "page": 57,
+        "id": 128,
+        "depth": 3
+    },
+    {
+        "text": "Appendix 4: Man Convertibles Global",
+        "page": 59,
+        "id": 129,
+        "depth": 2
+    },
+    {
+        "text": "1. Investment objective and policy",
+        "page": 59,
+        "id": 130,
+        "depth": 3
+    },
+    {
+        "text": "2. Investment risks",
+        "page": 60,
+        "id": 131,
+        "depth": 3
+    },
+    {
+        "text": "3. Currency",
+        "page": 60,
+        "id": 132,
+        "depth": 3
+    },
+    {
+        "text": "4. Stock exchange listing",
+        "page": 60,
+        "id": 133,
+        "depth": 3
+    },
+    {
+        "text": "5. Shares",
+        "page": 60,
+        "id": 134,
+        "depth": 3
+    },
+    {
+        "text": "6. Share Classes",
+        "page": 60,
+        "id": 135,
+        "depth": 3
+    },
+    {
+        "text": "7. Net asset value",
+        "page": 61,
+        "id": 136,
+        "depth": 3
+    },
+    {
+        "text": "8. Minimum transaction amounts",
+        "page": 61,
+        "id": 137,
+        "depth": 3
+    },
+    {
+        "text": "9. Management Fee",
+        "page": 61,
+        "id": 138,
+        "depth": 3
+    },
+    {
+        "text": "10. Administrative and Operating Costs",
+        "page": 61,
+        "id": 139,
+        "depth": 3
+    },
+    {
+        "text": "11. Launch of the Sub-Fund",
+        "page": 61,
+        "id": 140,
+        "depth": 3
+    },
+    {
+        "text": "12. Investor profile",
+        "page": 62,
+        "id": 141,
+        "depth": 3
+    },
+    {
+        "text": "13. Global exposure",
+        "page": 62,
+        "id": 142,
+        "depth": 3
+    },
+    {
+        "text": "Table 4: Share Classes of Man Convertibles Global",
+        "page": 63,
+        "id": 143,
+        "depth": 3
+    },
+    {
+        "text": "Appendix 5: Man Convertibles America",
+        "page": 66,
+        "id": 144,
+        "depth": 2
+    },
+    {
+        "text": "1. Investment objective and policy",
+        "page": 66,
+        "id": 145,
+        "depth": 3
+    },
+    {
+        "text": "2. Investment risks",
+        "page": 66,
+        "id": 146,
+        "depth": 3
+    },
+    {
+        "text": "3. Currency",
+        "page": 67,
+        "id": 147,
+        "depth": 3
+    },
+    {
+        "text": "4. Stock exchange listing",
+        "page": 67,
+        "id": 148,
+        "depth": 3
+    },
+    {
+        "text": "5. Shares",
+        "page": 67,
+        "id": 149,
+        "depth": 3
+    },
+    {
+        "text": "6. Share Classes",
+        "page": 67,
+        "id": 150,
+        "depth": 3
+    },
+    {
+        "text": "7. Net asset value",
+        "page": 68,
+        "id": 151,
+        "depth": 3
+    },
+    {
+        "text": "8. Management Fee",
+        "page": 68,
+        "id": 152,
+        "depth": 3
+    },
+    {
+        "text": "9. Administrative and Operating Costs",
+        "page": 68,
+        "id": 153,
+        "depth": 3
+    },
+    {
+        "text": "10. Minimum transaction amounts",
+        "page": 68,
+        "id": 154,
+        "depth": 3
+    },
+    {
+        "text": "11. Launch of the Sub-Fund",
+        "page": 68,
+        "id": 155,
+        "depth": 3
+    },
+    {
+        "text": "12. Investor profile",
+        "page": 69,
+        "id": 156,
+        "depth": 3
+    },
+    {
+        "text": "13. Global exposure",
+        "page": 69,
+        "id": 157,
+        "depth": 3
+    },
+    {
+        "text": "Table 5: Share Classes of Man Convertibles America",
+        "page": 70,
+        "id": 158,
+        "depth": 3
+    },
+    {
+        "text": "Appendix 6: Man AHL Trend",
+        "page": 72,
+        "id": 159,
+        "depth": 2
+    },
+    {
+        "text": "1. Investment objective and strategy",
+        "page": 72,
+        "id": 160,
+        "depth": 3
+    },
+    {
+        "text": "Investment objective",
+        "page": 72,
+        "id": 161,
+        "depth": 4
+    },
+    {
+        "text": "Investment strategy",
+        "page": 72,
+        "id": 162,
+        "depth": 4
+    },
+    {
+        "text": "2. Investment risks",
+        "page": 73,
+        "id": 163,
+        "depth": 3
+    },
+    {
+        "text": "(a) Risk factors relating to the Sub-Fund",
+        "page": 73,
+        "id": 164,
+        "depth": 4
+    },
+    {
+        "text": "(b) Risk factors relating to the Swaps",
+        "page": 75,
+        "id": 165,
+        "depth": 4
+    },
+    {
+        "text": "(c) Risk factors relating to the Index",
+        "page": 76,
+        "id": 166,
+        "depth": 4
+    },
+    {
+        "text": "3. Currency",
+        "page": 78,
+        "id": 167,
+        "depth": 3
+    },
+    {
+        "text": "4. Stock exchange listing",
+        "page": 78,
+        "id": 168,
+        "depth": 3
+    },
+    {
+        "text": "5. Shares",
+        "page": 79,
+        "id": 169,
+        "depth": 3
+    },
+    {
+        "text": "6. Share classes",
+        "page": 79,
+        "id": 170,
+        "depth": 3
+    },
+    {
+        "text": "Dividend share classes",
+        "page": 79,
+        "id": 171,
+        "depth": 4
+    },
+    {
+        "text": "7. Net asset value",
+        "page": 80,
+        "id": 172,
+        "depth": 3
+    },
+    {
+        "text": "Issue and redemption of shares",
+        "page": 80,
+        "id": 173,
+        "depth": 4
+    },
+    {
+        "text": "Processing of subscriptions and redemptions",
+        "page": 80,
+        "id": 174,
+        "depth": 4
+    },
+    {
+        "text": "Processing of conversions",
+        "page": 81,
+        "id": 175,
+        "depth": 4
+    },
+    {
+        "text": "8. Fees and expenses",
+        "page": 81,
+        "id": 176,
+        "depth": 3
+    },
+    {
+        "text": "Management fee",
+        "page": 81,
+        "id": 177,
+        "depth": 4
+    },
+    {
+        "text": "Performance fee",
+        "page": 82,
+        "id": 178,
+        "depth": 4
+    },
+    {
+        "text": "Administrative and Operating costs",
+        "page": 82,
+        "id": 179,
+        "depth": 4
+    },
+    {
+        "text": "9. Launch of the Sub-Fund",
+        "page": 82,
+        "id": 180,
+        "depth": 3
+    },
+    {
+        "text": "10. Investor profile",
+        "page": 83,
+        "id": 181,
+        "depth": 3
+    },
+    {
+        "text": "11. Global exposure",
+        "page": 83,
+        "id": 182,
+        "depth": 3
+    },
+    {
+        "text": "Leverage",
+        "page": 83,
+        "id": 183,
+        "depth": 4
+    },
+    {
+        "text": "12. Minimum level for the Sub-Fund to be operated in an economically efficient manner",
+        "page": 83,
+        "id": 184,
+        "depth": 3
+    },
+    {
+        "text": "13. Minimum investment",
+        "page": 83,
+        "id": 185,
+        "depth": 3
+    },
+    {
+        "text": "14. General Description of the Swaps",
+        "page": 85,
+        "id": 186,
+        "depth": 3
+    },
+    {
+        "text": "Use of the Swap",
+        "page": 85,
+        "id": 187,
+        "depth": 4
+    },
+    {
+        "text": "Fees and Expenses",
+        "page": 86,
+        "id": 188,
+        "depth": 4
+    },
+    {
+        "text": "15. General Description of the Index",
+        "page": 86,
+        "id": 189,
+        "depth": 3
+    },
+    {
+        "text": "Index objective and design",
+        "page": 86,
+        "id": 190,
+        "depth": 4
+    },
+    {
+        "text": "Index construction and management",
+        "page": 87,
+        "id": 191,
+        "depth": 4
+    },
+    {
+        "text": "Index calculation and publication",
+        "page": 88,
+        "id": 192,
+        "depth": 4
+    },
+    {
+        "text": "Table 6: Share Classes of Man AHL Trend",
+        "page": 89,
+        "id": 193,
+        "depth": 3
+    },
+    {
+        "text": "Appendix 7: Man AHL Diversity",
+        "page": 96,
+        "id": 194,
+        "depth": 2
+    },
+    {
+        "text": "1. Investment objective and strategy",
+        "page": 96,
+        "id": 195,
+        "depth": 3
+    },
+    {
+        "text": "Investment objective",
+        "page": 96,
+        "id": 196,
+        "depth": 4
+    },
+    {
+        "text": "Investment strategy",
+        "page": 96,
+        "id": 197,
+        "depth": 4
+    },
+    {
+        "text": "2. Investment risks",
+        "page": 97,
+        "id": 198,
+        "depth": 3
+    },
+    {
+        "text": "(a) Risk factors relating to the Sub-Fund",
+        "page": 97,
+        "id": 199,
+        "depth": 4
+    },
+    {
+        "text": "(b) Risk factors relating to the Swaps",
+        "page": 99,
+        "id": 200,
+        "depth": 4
+    },
+    {
+        "text": "(c) Risk factors relating to the Index",
+        "page": 100,
+        "id": 201,
+        "depth": 4
+    },
+    {
+        "text": "3. Currency",
+        "page": 102,
+        "id": 202,
+        "depth": 3
+    },
+    {
+        "text": "4. Stock exchange listing",
+        "page": 103,
+        "id": 203,
+        "depth": 3
+    },
+    {
+        "text": "5. Shares",
+        "page": 103,
+        "id": 204,
+        "depth": 3
+    },
+    {
+        "text": "6. Share classes",
+        "page": 103,
+        "id": 205,
+        "depth": 3
+    },
+    {
+        "text": "7. Net asset value",
+        "page": 103,
+        "id": 206,
+        "depth": 3
+    },
+    {
+        "text": "Issue and redemption of shares",
+        "page": 103,
+        "id": 207,
+        "depth": 4
+    },
+    {
+        "text": "Processing of subscriptions and redemptions",
+        "page": 104,
+        "id": 208,
+        "depth": 4
+    },
+    {
+        "text": "Processing of conversions",
+        "page": 104,
+        "id": 209,
+        "depth": 4
+    },
+    {
+        "text": "8. Fees and expenses",
+        "page": 104,
+        "id": 210,
+        "depth": 3
+    },
+    {
+        "text": "Management fee",
+        "page": 105,
+        "id": 211,
+        "depth": 4
+    },
+    {
+        "text": "Performance fee",
+        "page": 105,
+        "id": 212,
+        "depth": 4
+    },
+    {
+        "text": "‘Class MUS D34 Man AHL Diversity - GBP Shares’",
+        "page": 105,
+        "id": 213,
+        "depth": 4
+    },
+    {
+        "text": "Administrative and Operating costs",
+        "page": 106,
+        "id": 214,
+        "depth": 4
+    },
+    {
+        "text": "9. Launch of the Sub-Fund",
+        "page": 106,
+        "id": 215,
+        "depth": 3
+    },
+    {
+        "text": "10. Investor profile",
+        "page": 106,
+        "id": 216,
+        "depth": 3
+    },
+    {
+        "text": "11. Global exposure",
+        "page": 106,
+        "id": 217,
+        "depth": 3
+    },
+    {
+        "text": "Leverage",
+        "page": 106,
+        "id": 218,
+        "depth": 4
+    },
+    {
+        "text": "12. Minimum level for the Sub-Fund to be operated in an economically efficient manner",
+        "page": 107,
+        "id": 219,
+        "depth": 3
+    },
+    {
+        "text": "13. Minimum investment",
+        "page": 107,
+        "id": 220,
+        "depth": 3
+    },
+    {
+        "text": "14. General Description of the Swaps",
+        "page": 108,
+        "id": 221,
+        "depth": 3
+    },
+    {
+        "text": "Use of the Swap",
+        "page": 108,
+        "id": 222,
+        "depth": 4
+    },
+    {
+        "text": "Fees and Expenses",
+        "page": 109,
+        "id": 223,
+        "depth": 4
+    },
+    {
+        "text": "15. General Description of the Index",
+        "page": 109,
+        "id": 224,
+        "depth": 3
+    },
+    {
+        "text": "Index objective and design",
+        "page": 109,
+        "id": 225,
+        "depth": 4
+    },
+    {
+        "text": "Index construction and management",
+        "page": 110,
+        "id": 226,
+        "depth": 4
+    },
+    {
+        "text": "Index calculation and publication",
+        "page": 111,
+        "id": 227,
+        "depth": 4
+    },
+    {
+        "text": "Table 7: Share Classes of Man AHL Diversity",
+        "page": 112,
+        "id": 228,
+        "depth": 3
+    },
+    {
+        "text": "Appendix 8: Man GLG Multi-Strategy",
+        "page": 114,
+        "id": 229,
+        "depth": 2
+    },
+    {
+        "text": "1. Investment objective and strategy",
+        "page": 114,
+        "id": 230,
+        "depth": 3
+    },
+    {
+        "text": "Investment objective",
+        "page": 114,
+        "id": 231,
+        "depth": 4
+    },
+    {
+        "text": "Investment strategy",
+        "page": 114,
+        "id": 232,
+        "depth": 4
+    },
+    {
+        "text": "2. Investment risks",
+        "page": 115,
+        "id": 233,
+        "depth": 3
+    },
+    {
+        "text": "(a) Risk factors relating to the Sub-Fund",
+        "page": 115,
+        "id": 234,
+        "depth": 4
+    },
+    {
+        "text": "(b) Risk factors relating to the Target Funds",
+        "page": 116,
+        "id": 235,
+        "depth": 4
+    },
+    {
+        "text": "General market risk",
+        "page": 117,
+        "id": 236,
+        "depth": 5
+    },
+    {
+        "text": "Emerging Markets",
+        "page": 117,
+        "id": 237,
+        "depth": 5
+    },
+    {
+        "text": "Futures and Options Contracts and Hedging Strategies",
+        "page": 118,
+        "id": 238,
+        "depth": 5
+    },
+    {
+        "text": "Derivative Instruments",
+        "page": 118,
+        "id": 239,
+        "depth": 5
+    },
+    {
+        "text": "Risks associated with investments in high yield and distressed debt",
+        "page": 119,
+        "id": 240,
+        "depth": 5
+    },
+    {
+        "text": "Counterparty Risk",
+        "page": 119,
+        "id": 241,
+        "depth": 5
+    },
+    {
+        "text": "3. Currency",
+        "page": 120,
+        "id": 242,
+        "depth": 3
+    },
+    {
+        "text": "4. Stock exchange listing",
+        "page": 120,
+        "id": 243,
+        "depth": 3
+    },
+    {
+        "text": "5. Shares",
+        "page": 120,
+        "id": 244,
+        "depth": 3
+    },
+    {
+        "text": "6. Share classes",
+        "page": 120,
+        "id": 245,
+        "depth": 3
+    },
+    {
+        "text": "General",
+        "page": 120,
+        "id": 246,
+        "depth": 4
+    },
+    {
+        "text": "Dividend share classes",
+        "page": 121,
+        "id": 247,
+        "depth": 4
+    },
+    {
+        "text": "7. Net asset value",
+        "page": 121,
+        "id": 248,
+        "depth": 3
+    },
+    {
+        "text": "Issue and redemption of shares",
+        "page": 121,
+        "id": 249,
+        "depth": 4
+    },
+    {
+        "text": "Processing of subscriptions and redemptions",
+        "page": 121,
+        "id": 250,
+        "depth": 4
+    },
+    {
+        "text": "Processing of conversions",
+        "page": 122,
+        "id": 251,
+        "depth": 4
+    },
+    {
+        "text": "8. Fees and expenses",
+        "page": 122,
+        "id": 252,
+        "depth": 3
+    },
+    {
+        "text": "Management fee",
+        "page": 122,
+        "id": 253,
+        "depth": 4
+    },
+    {
+        "text": "Performance fee",
+        "page": 122,
+        "id": 254,
+        "depth": 4
+    },
+    {
+        "text": "Administrative and operating costs",
+        "page": 123,
+        "id": 255,
+        "depth": 4
+    },
+    {
+        "text": "Underlying fees",
+        "page": 123,
+        "id": 256,
+        "depth": 4
+    },
+    {
+        "text": "Distribution fees",
+        "page": 123,
+        "id": 257,
+        "depth": 4
+    },
+    {
+        "text": "9. Launch of the Sub-Fund",
+        "page": 123,
+        "id": 258,
+        "depth": 3
+    },
+    {
+        "text": "10. Investor profile",
+        "page": 123,
+        "id": 259,
+        "depth": 3
+    },
+    {
+        "text": "11. Global exposure",
+        "page": 123,
+        "id": 260,
+        "depth": 3
+    },
+    {
+        "text": "Leverage",
+        "page": 124,
+        "id": 261,
+        "depth": 4
+    },
+    {
+        "text": "12. Minimum level for the Sub-Fund to be operated in an economically efficient manner",
+        "page": 124,
+        "id": 262,
+        "depth": 3
+    },
+    {
+        "text": "13. Minimum amounts",
+        "page": 124,
+        "id": 263,
+        "depth": 3
+    },
+    {
+        "text": "Table 8: Share Classes of Man GLG Multi-Strategy",
+        "page": 126,
+        "id": 264,
+        "depth": 3
+    },
+    {
+        "text": "Appendix 9: GLG Flexible Bond Fund",
+        "page": 130,
+        "id": 265,
+        "depth": 2
+    },
+    {
+        "text": "1. Investment objective and strategy",
+        "page": 130,
+        "id": 266,
+        "depth": 3
+    },
+    {
+        "text": "Investment objective",
+        "page": 130,
+        "id": 267,
+        "depth": 4
+    },
+    {
+        "text": "Investment strategy and policy",
+        "page": 130,
+        "id": 268,
+        "depth": 4
+    },
+    {
+        "text": "2. Investment risks",
+        "page": 131,
+        "id": 269,
+        "depth": 3
+    },
+    {
+        "text": "3. General market risk",
+        "page": 132,
+        "id": 270,
+        "depth": 3
+    },
+    {
+        "text": "4. Investment matters",
+        "page": 132,
+        "id": 271,
+        "depth": 3
+    },
+    {
+        "text": "5. Futures and Options Contracts and Hedging Strategies",
+        "page": 133,
+        "id": 272,
+        "depth": 3
+    },
+    {
+        "text": "6. Derivative Instruments",
+        "page": 133,
+        "id": 273,
+        "depth": 3
+    },
+    {
+        "text": "7. Counterparty Risk",
+        "page": 134,
+        "id": 274,
+        "depth": 3
+    },
+    {
+        "text": "8. Currency",
+        "page": 134,
+        "id": 275,
+        "depth": 3
+    },
+    {
+        "text": "9. Stock exchange listing",
+        "page": 135,
+        "id": 276,
+        "depth": 3
+    },
+    {
+        "text": "10. Shares",
+        "page": 135,
+        "id": 277,
+        "depth": 3
+    },
+    {
+        "text": "11. Share classes",
+        "page": 135,
+        "id": 278,
+        "depth": 3
+    },
+    {
+        "text": "General",
+        "page": 135,
+        "id": 279,
+        "depth": 4
+    },
+    {
+        "text": "Dividend share classes",
+        "page": 135,
+        "id": 280,
+        "depth": 4
+    },
+    {
+        "text": "12. Net asset value",
+        "page": 136,
+        "id": 281,
+        "depth": 3
+    },
+    {
+        "text": "13. Subscriptions and redemptions",
+        "page": 136,
+        "id": 282,
+        "depth": 3
+    },
+    {
+        "text": "14. Fees and expenses",
+        "page": 137,
+        "id": 283,
+        "depth": 3
+    },
+    {
+        "text": "Management fee",
+        "page": 138,
+        "id": 284,
+        "depth": 4
+    },
+    {
+        "text": "Performance fee",
+        "page": 138,
+        "id": 285,
+        "depth": 4
+    },
+    {
+        "text": "Administrative and operating costs",
+        "page": 138,
+        "id": 286,
+        "depth": 4
+    },
+    {
+        "text": "15. Launch of the Sub-Fund",
+        "page": 138,
+        "id": 287,
+        "depth": 3
+    },
+    {
+        "text": "16. Investor profile",
+        "page": 139,
+        "id": 288,
+        "depth": 3
+    },
+    {
+        "text": "17. Global exposure",
+        "page": 139,
+        "id": 289,
+        "depth": 3
+    },
+    {
+        "text": "Leverage",
+        "page": 139,
+        "id": 290,
+        "depth": 4
+    },
+    {
+        "text": "18. Minimum level for the Sub-Fund to be operated in an economically efficient manner",
+        "page": 138,
+        "id": 291,
+        "depth": 3
+    },
+    {
+        "text": "19. Minimum amounts",
+        "page": 139,
+        "id": 292,
+        "depth": 3
+    },
+    {
+        "text": "Table 9: Share Classes of GLG Flexible Bond Fund",
+        "page": 140,
+        "id": 293,
+        "depth": 3
+    }
+]

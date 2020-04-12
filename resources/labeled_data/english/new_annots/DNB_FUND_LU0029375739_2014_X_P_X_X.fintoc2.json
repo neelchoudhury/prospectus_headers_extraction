@@ -1,0 +1,740 @@
+[
+    {
+        "text": "DNB FUND",
+        "page": 1,
+        "id": 1,
+        "depth": 1
+    },
+    {
+        "text": "Prospectus",
+        "page": 1,
+        "id": 2,
+        "depth": 2
+    },
+    {
+        "text": "I.  FORMATION - LEGAL STATUS",
+        "page": 7,
+        "id": 3,
+        "depth": 3
+    },
+    {
+        "text": "II.  ELIGIBLE INVESTOR",
+        "page": 7,
+        "id": 4,
+        "depth": 3
+    },
+    {
+        "text": "III.  LISTING",
+        "page": 7,
+        "id": 5,
+        "depth": 3
+    },
+    {
+        "text": "IV.  MANAGEMENT REGULATIONS",
+        "page": 7,
+        "id": 6,
+        "depth": 3
+    },
+    {
+        "text": "V.  OBJECTIVES OF THE EQUITY SUB-FUNDS",
+        "page": 8,
+        "id": 7,
+        "depth": 3
+    },
+    {
+        "text": "1.  General Investment Objectives",
+        "page": 8,
+        "id": 8,
+        "depth": 4
+    },
+    {
+        "text": "2.  Risk Profile",
+        "page": 8,
+        "id": 9,
+        "depth": 4
+    },
+    {
+        "text": "3.  Profile of Targeted Investors",
+        "page": 9,
+        "id": 10,
+        "depth": 4
+    },
+    {
+        "text": "4.  Total Annual Return and ongoing charges",
+        "page": 9,
+        "id": 11,
+        "depth": 4
+    },
+    {
+        "text": "VI.  EQUITY SUB-FUNDS",
+        "page": 9,
+        "id": 12,
+        "depth": 3
+    },
+    {
+        "text": "DNB FUND – GLOBAL SRI",
+        "page": 9,
+        "id": 13,
+        "depth": 4
+    },
+    {
+        "text": "DNB FUND - FAR EAST",
+        "page": 10,
+        "id": 14,
+        "depth": 4
+    },
+    {
+        "text": "DNB FUND - ASIAN SMALL CAP",
+        "page": 10,
+        "id": 15,
+        "depth": 4
+    },
+    {
+        "text": "DNB FUND - GLOBAL EMERGING MARKETS SRI",
+        "page": 11,
+        "id": 16,
+        "depth": 4
+    },
+    {
+        "text": "DNB FUND - SCANDINAVIA",
+        "page": 11,
+        "id": 17,
+        "depth": 4
+    },
+    {
+        "text": "DNB FUND - INDIA",
+        "page": 12,
+        "id": 18,
+        "depth": 4
+    },
+    {
+        "text": "DNB FUND – CHINA CENTURY",
+        "page": 12,
+        "id": 19,
+        "depth": 4
+    },
+    {
+        "text": "DNB FUND – NAVIGATOR",
+        "page": 13,
+        "id": 20,
+        "depth": 4
+    },
+    {
+        "text": "DNB FUND - PRIVATE EQUITY",
+        "page": 14,
+        "id": 21,
+        "depth": 4
+    },
+    {
+        "text": "DNB FUND - RENEWABLE ENERGY",
+        "page": 15,
+        "id": 22,
+        "depth": 4
+    },
+    {
+        "text": "DNB FUND - TECHNOLOGY",
+        "page": 15,
+        "id": 23,
+        "depth": 4
+    },
+    {
+        "text": "DNB FUND – GLOBAL VALUE & MOMENTUM",
+        "page": 16,
+        "id": 24,
+        "depth": 4
+    },
+    {
+        "text": "VII.  OBJECTIVES OF THE BOND SUB-FUNDS",
+        "page": 16,
+        "id": 25,
+        "depth": 3
+    },
+    {
+        "text": "1.  General Investment Objectives",
+        "page": 16,
+        "id": 26,
+        "depth": 4
+    },
+    {
+        "text": "2.  Risk Profile",
+        "page": 17,
+        "id": 27,
+        "depth": 4
+    },
+    {
+        "text": "3.  Profile of Targeted Investors",
+        "page": 17,
+        "id": 28,
+        "depth": 4
+    },
+    {
+        "text": "4.  Total Annual Return and ongoing charges",
+        "page": 17,
+        "id": 29,
+        "depth": 4
+    },
+    {
+        "text": "VIII.  BOND SUB-FUNDS",
+        "page": 18,
+        "id": 30,
+        "depth": 3
+    },
+    {
+        "text": "DNB FUND SEK LONG BOND",
+        "page": 18,
+        "id": 31,
+        "depth": 4
+    },
+    {
+        "text": "DNB FUND SEK SHORT BOND",
+        "page": 18,
+        "id": 32,
+        "depth": 4
+    },
+    {
+        "text": "IX.  OBJECTIVES OF THE ALTERNATIVE INVESTMENT SUB-FUNDS",
+        "page": 19,
+        "id": 33,
+        "depth": 3
+    },
+    {
+        "text": "1.  General Investment Objectives",
+        "page": 19,
+        "id": 34,
+        "depth": 4
+    },
+    {
+        "text": "2.   Risk Profile",
+        "page": 20,
+        "id": 35,
+        "depth": 4
+    },
+    {
+        "text": "3.  Profile of Targeted Investors",
+        "page": 20,
+        "id": 36,
+        "depth": 4
+    },
+    {
+        "text": "4.  Total Annual Return and ongoing charges",
+        "page": 20,
+        "id": 37,
+        "depth": 4
+    },
+    {
+        "text": "X.  ALTERNATIVE INVESTMENT SUB-FUNDS",
+        "page": 20,
+        "id": 38,
+        "depth": 3
+    },
+    {
+        "text": "DNB FUND – ECO Absolute Return",
+        "page": 20,
+        "id": 39,
+        "depth": 4
+    },
+    {
+        "text": "DNB FUND – TMT Absolute Return",
+        "page": 21,
+        "id": 40,
+        "depth": 4
+    },
+    {
+        "text": "DNB FUND – Norway Absolute Return",
+        "page": 22,
+        "id": 41,
+        "depth": 4
+    },
+    {
+        "text": "GENERAL",
+        "page": 23,
+        "id": 42,
+        "depth": 4
+    },
+    {
+        "text": "XI.  TYPE OF UNITS ON OFFER",
+        "page": 24,
+        "id": 43,
+        "depth": 3
+    },
+    {
+        "text": "XII.  INVESTMENT RESTRICTIONS",
+        "page": 26,
+        "id": 44,
+        "depth": 3
+    },
+    {
+        "text": "1.  Investment objective and investment policy",
+        "page": 26,
+        "id": 45,
+        "depth": 4
+    },
+    {
+        "text": "2.  Investment restrictions",
+        "page": 27,
+        "id": 46,
+        "depth": 4
+    },
+    {
+        "text": "A.  Investments in the Sub-Funds may consist solely of:",
+        "page": 28,
+        "id": 47,
+        "depth": 5
+    },
+    {
+        "text": "B.  Each Sub-Fund may however:",
+        "page": 30,
+        "id": 48,
+        "depth": 5
+    },
+    {
+        "text": "C.  In  addition,  the  Fund  shall  comply  in  respect  of  the  net  assets  of  each Sub-Fund with the following investment restrictions per issuer:",
+        "page": 31,
+        "id": 49,
+        "depth": 5
+    },
+    {
+        "text": "(a) Risk Diversification rules",
+        "page": 31,
+        "id": 50,
+        "depth": 6
+    },
+    {
+        "text": "Transferable Securities and Money Market Instruments",
+        "page": 31,
+        "id": 51,
+        "depth": 7
+    },
+    {
+        "text": "Bank Deposits",
+        "page": 32,
+        "id": 52,
+        "depth": 7
+    },
+    {
+        "text": "Derivative Instruments",
+        "page": 32,
+        "id": 53,
+        "depth": 7
+    },
+    {
+        "text": "Units of Open-Ended Funds",
+        "page": 33,
+        "id": 54,
+        "depth": 7
+    },
+    {
+        "text": "Master- Feeder structures",
+        "page": 33,
+        "id": 55,
+        "depth": 7
+    },
+    {
+        "text": "Combined limits",
+        "page": 34,
+        "id": 56,
+        "depth": 7
+    },
+    {
+        "text": "(b) Limitations on Control",
+        "page": 34,
+        "id": 57,
+        "depth": 6
+    },
+    {
+        "text": "D.  In  addition,  the  Fund  shall  comply  in  respect  of  its  net  assets  with  the following investment restrictions per instrument:",
+        "page": 35,
+        "id": 58,
+        "depth": 5
+    },
+    {
+        "text": "E.  Finally, the Fund shall comply in respect of the assets of each Sub-Fund with the following investment restrictions:",
+        "page": 35,
+        "id": 59,
+        "depth": 5
+    },
+    {
+        "text": "F.  Notwithstanding anything to the contrary herein contained:",
+        "page": 35,
+        "id": 60,
+        "depth": 5
+    },
+    {
+        "text": "3.  Special investment, hedging techniques and instruments and collateral",
+        "page": 36,
+        "id": 61,
+        "depth": 4
+    },
+    {
+        "text": "A.  General",
+        "page": 36,
+        "id": 62,
+        "depth": 5
+    },
+    {
+        "text": "B. Efficient Portfolio Management Techniques",
+        "page": 36,
+        "id": 63,
+        "depth": 5
+    },
+    {
+        "text": "(1) Securities Lending and Borrowing Transactions",
+        "page": 37,
+        "id": 64,
+        "depth": 6
+    },
+    {
+        "text": "(2) Repurchase and Reverse Repurchase Transactions",
+        "page": 37,
+        "id": 65,
+        "depth": 6
+    },
+    {
+        "text": "(3) Impact of the use of efficient portfolio management techniques on the performance of the Sub-Funds",
+        "page": 38,
+        "id": 66,
+        "depth": 6
+    },
+    {
+        "text": "C. Management of Collateral and Collateral Policy",
+        "page": 38,
+        "id": 67,
+        "depth": 5
+    },
+    {
+        "text": "General",
+        "page": 38,
+        "id": 68,
+        "depth": 6
+    },
+    {
+        "text": "Eligible Collateral",
+        "page": 38,
+        "id": 69,
+        "depth": 6
+    },
+    {
+        "text": "Level of Collateral",
+        "page": 39,
+        "id": 70,
+        "depth": 6
+    },
+    {
+        "text": "Haircut Policy",
+        "page": 39,
+        "id": 71,
+        "depth": 6
+    },
+    {
+        "text": "Reinvestment of Collateral",
+        "page": 39,
+        "id": 72,
+        "depth": 6
+    },
+    {
+        "text": "4.  Risk management process",
+        "page": 40,
+        "id": 73,
+        "depth": 4
+    },
+    {
+        "text": "Equity and Bond Sub-Funds",
+        "page": 40,
+        "id": 74,
+        "depth": 5
+    },
+    {
+        "text": "Alternative Investment Sub-Funds",
+        "page": 41,
+        "id": 75,
+        "depth": 5
+    },
+    {
+        "text": "5.  Risk factors",
+        "page": 41,
+        "id": 76,
+        "depth": 4
+    },
+    {
+        "text": "Issuers",
+        "page": 41,
+        "id": 77,
+        "depth": 5
+    },
+    {
+        "text": "Investing in Equity Securities",
+        "page": 41,
+        "id": 78,
+        "depth": 5
+    },
+    {
+        "text": "Investment in Debt Securities / Fixed Income Securities",
+        "page": 41,
+        "id": 79,
+        "depth": 5
+    },
+    {
+        "text": "Unrated securities",
+        "page": 42,
+        "id": 80,
+        "depth": 5
+    },
+    {
+        "text": "Securities  Lending,  Repurchase  Agreements  and  Reverse  Repurchase Transactions",
+        "page": 42,
+        "id": 81,
+        "depth": 5
+    },
+    {
+        "text": "Special Investment Techniques",
+        "page": 42,
+        "id": 82,
+        "depth": 5
+    },
+    {
+        "text": "Financial Derivative Risks Volatility",
+        "page": 43,
+        "id": 83,
+        "depth": 5
+    },
+    {
+        "text": "Particular Risks of OTC Derivative Transactions Absence of regulation; counterparty default",
+        "page": 43,
+        "id": 84,
+        "depth": 5
+    },
+    {
+        "text": "Counterparty Risk",
+        "page": 43,
+        "id": 85,
+        "depth": 5
+    },
+    {
+        "text": "Interest Rates",
+        "page": 44,
+        "id": 86,
+        "depth": 5
+    },
+    {
+        "text": "Exchange Rates",
+        "page": 44,
+        "id": 87,
+        "depth": 5
+    },
+    {
+        "text": "Risk Factors Relating to Small Cap Companies",
+        "page": 44,
+        "id": 88,
+        "depth": 5
+    },
+    {
+        "text": "Performance Risk",
+        "page": 44,
+        "id": 89,
+        "depth": 5
+    },
+    {
+        "text": "Risk Relating To High Transaction Costs",
+        "page": 45,
+        "id": 90,
+        "depth": 5
+    },
+    {
+        "text": "Emerging Countries",
+        "page": 45,
+        "id": 91,
+        "depth": 5
+    },
+    {
+        "text": "Investments in Specific Sectors",
+        "page": 46,
+        "id": 92,
+        "depth": 5
+    },
+    {
+        "text": "XIII.  RIGHTS OF THE UNITHOLDERS",
+        "page": 46,
+        "id": 93,
+        "depth": 3
+    },
+    {
+        "text": "XIV.  MANAGEMENT ORGANIZATION",
+        "page": 46,
+        "id": 94,
+        "depth": 3
+    },
+    {
+        "text": "1.  Management Company",
+        "page": 46,
+        "id": 95,
+        "depth": 4
+    },
+    {
+        "text": "2.  Investment Manager and investment sub-managers",
+        "page": 48,
+        "id": 96,
+        "depth": 4
+    },
+    {
+        "text": "3.  Subsidiaries of the Fund",
+        "page": 48,
+        "id": 97,
+        "depth": 4
+    },
+    {
+        "text": "4.  Co-managing",
+        "page": 48,
+        "id": 98,
+        "depth": 4
+    },
+    {
+        "text": "XV.  DEPOSITARY BANK AND CENTRAL ADMINISTRATION",
+        "page": 50,
+        "id": 99,
+        "depth": 3
+    },
+    {
+        "text": "XVI.  COSTS TO BE BORNE BY THE FUND",
+        "page": 51,
+        "id": 100,
+        "depth": 3
+    },
+    {
+        "text": "Central Administration Agent Fees",
+        "page": 52,
+        "id": 101,
+        "depth": 4
+    },
+    {
+        "text": "Depositary Bank Fees",
+        "page": 52,
+        "id": 102,
+        "depth": 4
+    },
+    {
+        "text": "XVII.  CO-OWNERSHIP UNITS",
+        "page": 52,
+        "id": 103,
+        "depth": 3
+    },
+    {
+        "text": "XVIII.  SUBSCRIPTION",
+        "page": 52,
+        "id": 104,
+        "depth": 3
+    },
+    {
+        "text": "XIX.  REDEMPTION",
+        "page": 54,
+        "id": 105,
+        "depth": 3
+    },
+    {
+        "text": "XX.  NET ASSET VALUE",
+        "page": 55,
+        "id": 106,
+        "depth": 3
+    },
+    {
+        "text": "XXI.  SUSPENSION  OF  CALCULATION  OF  NET  ASSET  VALUE,  REDEMPTIONS, SUBSCRIPTIONS, CONVERSIONS",
+        "page": 57,
+        "id": 107,
+        "depth": 3
+    },
+    {
+        "text": "XXII.  ISSUE PRICE",
+        "page": 58,
+        "id": 108,
+        "depth": 3
+    },
+    {
+        "text": "XXIII.  REDEMPTION PRICE",
+        "page": 58,
+        "id": 109,
+        "depth": 3
+    },
+    {
+        "text": "XXIV.  CONVERSION",
+        "page": 58,
+        "id": 110,
+        "depth": 3
+    },
+    {
+        "text": "XXV.  PLACEMENT AND FINANCIAL SERVICING",
+        "page": 59,
+        "id": 111,
+        "depth": 3
+    },
+    {
+        "text": "XXVI.  PREVENTION OF MARKET TIMING, FREQUENT TRADING AND LATE TRADING",
+        "page": 60,
+        "id": 112,
+        "depth": 3
+    },
+    {
+        "text": "XXVII.  DATA PROTECTION",
+        "page": 60,
+        "id": 113,
+        "depth": 3
+    },
+    {
+        "text": "XXVIII.  PUBLICATIONS",
+        "page": 61,
+        "id": 114,
+        "depth": 3
+    },
+    {
+        "text": "XXIX.  DIVIDEND POLICY",
+        "page": 61,
+        "id": 115,
+        "depth": 3
+    },
+    {
+        "text": "XXX.  TAX STATUS",
+        "page": 62,
+        "id": 116,
+        "depth": 3
+    },
+    {
+        "text": "XXXI.  FINANCIAL YEAR",
+        "page": 62,
+        "id": 117,
+        "depth": 3
+    },
+    {
+        "text": "XXXII.  REGULAR REPORTS",
+        "page": 62,
+        "id": 118,
+        "depth": 3
+    },
+    {
+        "text": "XXXIII.  CONFLICTS IF INTEREST",
+        "page": 62,
+        "id": 119,
+        "depth": 3
+    },
+    {
+        "text": "XXXIV.  DURATION AND LIQUIDATION OF THE FUND",
+        "page": 63,
+        "id": 120,
+        "depth": 3
+    },
+    {
+        "text": "XXXV.  STATUTE OF LIMITATIONS",
+        "page": 64,
+        "id": 121,
+        "depth": 3
+    },
+    {
+        "text": "XXXVI.  APPLICABLE LAW, JURISDICTION AND GOVERNING LANGUAGE",
+        "page": 64,
+        "id": 122,
+        "depth": 3
+    },
+    {
+        "text": "XXXVII.  DOCUMENTS AVAILABLE FOR INSPECTION",
+        "page": 64,
+        "id": 123,
+        "depth": 3
+    }
+]

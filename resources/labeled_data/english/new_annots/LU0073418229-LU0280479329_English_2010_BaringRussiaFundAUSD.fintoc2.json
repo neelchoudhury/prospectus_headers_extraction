@@ -1,0 +1,674 @@
+[
+    {
+        "text": "Baring Russia Fund",
+        "page": 1,
+        "id": 1,
+        "depth": 1
+    },
+    {
+        "text": "INTRODUCTION",
+        "page": 3,
+        "id": 2,
+        "depth": 2
+    },
+    {
+        "text": "TABLE OF CONTENTS",
+        "page": 4,
+        "id": 3,
+        "depth": 2
+    },
+    {
+        "text": "GLOSSARY OF TERMS",
+        "page": 5,
+        "id": 4,
+        "depth": 2
+    },
+    {
+        "text": "IMPORTANT INFORMATION",
+        "page": 9,
+        "id": 5,
+        "depth": 1
+    },
+    {
+        "text": "Board of Directors",
+        "page": 10,
+        "id": 6,
+        "depth": 2
+    },
+    {
+        "text": "Chairman",
+        "page": 10,
+        "id": 7,
+        "depth": 3
+    },
+    {
+        "text": "Members",
+        "page": 10,
+        "id": 8,
+        "depth": 3
+    },
+    {
+        "text": "Registered Office",
+        "page": 10,
+        "id": 9,
+        "depth": 2
+    },
+    {
+        "text": "Promoter",
+        "page": 10,
+        "id": 10,
+        "depth": 2
+    },
+    {
+        "text": "Management Company",
+        "page": 10,
+        "id": 11,
+        "depth": 2
+    },
+    {
+        "text": "Custodian and Paying Agent",
+        "page": 10,
+        "id": 12,
+        "depth": 2
+    },
+    {
+        "text": "Investment Manager",
+        "page": 10,
+        "id": 13,
+        "depth": 2
+    },
+    {
+        "text": "Distributor",
+        "page": 10,
+        "id": 14,
+        "depth": 2
+    },
+    {
+        "text": "Auditor",
+        "page": 10,
+        "id": 15,
+        "depth": 2
+    },
+    {
+        "text": "Legal Adviser",
+        "page": 11,
+        "id": 16,
+        "depth": 2
+    },
+    {
+        "text": "Listing Agent",
+        "page": 11,
+        "id": 17,
+        "depth": 2
+    },
+    {
+        "text": "PRINCIPAL FEATURES",
+        "page": 12,
+        "id": 18,
+        "depth": 1
+    },
+    {
+        "text": "Structure",
+        "page": 12,
+        "id": 19,
+        "depth": 2
+    },
+    {
+        "text": "Classes of Shares",
+        "page": 12,
+        "id": 20,
+        "depth": 2
+    },
+    {
+        "text": "Offer Price",
+        "page": 12,
+        "id": 21,
+        "depth": 2
+    },
+    {
+        "text": "Dealing",
+        "page": 12,
+        "id": 22,
+        "depth": 2
+    },
+    {
+        "text": "Distribution",
+        "page": 12,
+        "id": 23,
+        "depth": 2
+    },
+    {
+        "text": "Listing",
+        "page": 12,
+        "id": 24,
+        "depth": 2
+    },
+    {
+        "text": "INVESTMENT OBJECTIVE AND POLICY",
+        "page": 13,
+        "id": 25,
+        "depth": 1
+    },
+    {
+        "text": "General",
+        "page": 13,
+        "id": 26,
+        "depth": 2
+    },
+    {
+        "text": "A. Investment objective",
+        "page": 13,
+        "id": 27,
+        "depth": 3
+    },
+    {
+        "text": "B. Investment Policy",
+        "page": 13,
+        "id": 28,
+        "depth": 3
+    },
+    {
+        "text": "RISK MANAGEMENT PROCESS",
+        "page": 14,
+        "id": 29,
+        "depth": 1
+    },
+    {
+        "text": "RISK FACTORS",
+        "page": 14,
+        "id": 30,
+        "depth": 1
+    },
+    {
+        "text": "General",
+        "page": 14,
+        "id": 31,
+        "depth": 2
+    },
+    {
+        "text": "No Investment Guarantee",
+        "page": 15,
+        "id": 32,
+        "depth": 2
+    },
+    {
+        "text": "Counterparty Risk",
+        "page": 15,
+        "id": 33,
+        "depth": 2
+    },
+    {
+        "text": "Derivatives, Techniques and Instruments",
+        "page": 15,
+        "id": 34,
+        "depth": 2
+    },
+    {
+        "text": "General",
+        "page": 15,
+        "id": 35,
+        "depth": 3
+    },
+    {
+        "text": "Futures Contracts",
+        "page": 15,
+        "id": 36,
+        "depth": 3
+    },
+    {
+        "text": "Forward Trading",
+        "page": 16,
+        "id": 37,
+        "depth": 3
+    },
+    {
+        "text": "Over the Counter (OTC) Transactions Risk",
+        "page": 16,
+        "id": 38,
+        "depth": 2
+    },
+    {
+        "text": "Currency of Denomination of Shares",
+        "page": 16,
+        "id": 39,
+        "depth": 2
+    },
+    {
+        "text": "Investment in Specific Sectors and Countries",
+        "page": 16,
+        "id": 40,
+        "depth": 2
+    },
+    {
+        "text": "Investment in Emerging Markets",
+        "page": 17,
+        "id": 41,
+        "depth": 2
+    },
+    {
+        "text": "Market Liquidity and Foreign Investment Infrastructure",
+        "page": 17,
+        "id": 42,
+        "depth": 2
+    },
+    {
+        "text": "Political, Social and Economic Instability",
+        "page": 17,
+        "id": 43,
+        "depth": 2
+    },
+    {
+        "text": "Suspension of Trading",
+        "page": 17,
+        "id": 44,
+        "depth": 2
+    },
+    {
+        "text": "Market Disruption Risk",
+        "page": 17,
+        "id": 45,
+        "depth": 2
+    },
+    {
+        "text": "Specific Risks of Investing in Russia",
+        "page": 17,
+        "id": 46,
+        "depth": 2
+    },
+    {
+        "text": "Accounting Practices and Quality of Information",
+        "page": 17,
+        "id": 47,
+        "depth": 2
+    },
+    {
+        "text": "Taxation",
+        "page": 18,
+        "id": 48,
+        "depth": 2
+    },
+    {
+        "text": "Settlement and Custody Risk",
+        "page": 18,
+        "id": 49,
+        "depth": 2
+    },
+    {
+        "text": "Synthetic Products",
+        "page": 18,
+        "id": 50,
+        "depth": 2
+    },
+    {
+        "text": "The Banking System",
+        "page": 19,
+        "id": 51,
+        "depth": 2
+    },
+    {
+        "text": "Conflicts of Interests",
+        "page": 19,
+        "id": 52,
+        "depth": 2
+    },
+    {
+        "text": "PROFILE OF TARGETED INVESTORS",
+        "page": 19,
+        "id": 53,
+        "depth": 1
+    },
+    {
+        "text": "BOARD OF DIRECTORS",
+        "page": 19,
+        "id": 54,
+        "depth": 1
+    },
+    {
+        "text": "THE MANAGEMENT COMPANY",
+        "page": 20,
+        "id": 55,
+        "depth": 1
+    },
+    {
+        "text": "INVESTMENT MANAGER",
+        "page": 20,
+        "id": 56,
+        "depth": 1
+    },
+    {
+        "text": "CUSTODIAN AND PAYING AGENT",
+        "page": 21,
+        "id": 57,
+        "depth": 1
+    },
+    {
+        "text": "DISTRIBUTOR",
+        "page": 21,
+        "id": 58,
+        "depth": 1
+    },
+    {
+        "text": "THE SHARES",
+        "page": 22,
+        "id": 59,
+        "depth": 1
+    },
+    {
+        "text": "ISSUE AND SALE OF SHARES",
+        "page": 22,
+        "id": 60,
+        "depth": 1
+    },
+    {
+        "text": "General",
+        "page": 22,
+        "id": 61,
+        "depth": 2
+    },
+    {
+        "text": "Initial Sales Charges",
+        "page": 23,
+        "id": 62,
+        "depth": 2
+    },
+    {
+        "text": "REDEMPTION OF SHARES",
+        "page": 23,
+        "id": 63,
+        "depth": 1
+    },
+    {
+        "text": "CONVERSION OF SHARES",
+        "page": 24,
+        "id": 64,
+        "depth": 1
+    },
+    {
+        "text": "PREVENTION OF MARKET TIMING AND LATE TRADING",
+        "page": 25,
+        "id": 65,
+        "depth": 1
+    },
+    {
+        "text": "DATA PROTECTION",
+        "page": 25,
+        "id": 66,
+        "depth": 1
+    },
+    {
+        "text": "DISTRIBUTION POLICY",
+        "page": 26,
+        "id": 67,
+        "depth": 1
+    },
+    {
+        "text": "CHARGES AND EXPENSES",
+        "page": 26,
+        "id": 68,
+        "depth": 1
+    },
+    {
+        "text": "General",
+        "page": 26,
+        "id": 69,
+        "depth": 2
+    },
+    {
+        "text": "Fees of the Management Company",
+        "page": 26,
+        "id": 70,
+        "depth": 2
+    },
+    {
+        "text": "Fees of the Investment Manager",
+        "page": 26,
+        "id": 71,
+        "depth": 2
+    },
+    {
+        "text": "Performance Fee",
+        "page": 27,
+        "id": 72,
+        "depth": 2
+    },
+    {
+        "text": "Commissions/Brokerage",
+        "page": 28,
+        "id": 73,
+        "depth": 2
+    },
+    {
+        "text": "Fees of the Custodian",
+        "page": 28,
+        "id": 74,
+        "depth": 2
+    },
+    {
+        "text": "Fees of the Distributor/Sales Charge",
+        "page": 28,
+        "id": 75,
+        "depth": 2
+    },
+    {
+        "text": "Investment in Collective Investment Schemes",
+        "page": 28,
+        "id": 76,
+        "depth": 2
+    },
+    {
+        "text": "TAXATION",
+        "page": 28,
+        "id": 77,
+        "depth": 1
+    },
+    {
+        "text": "European Union Taxation of Savings Income Directive",
+        "page": 29,
+        "id": 78,
+        "depth": 2
+    },
+    {
+        "text": "Taxation of the company in Luxembourg",
+        "page": 29,
+        "id": 79,
+        "depth": 2
+    },
+    {
+        "text": "General",
+        "page": 29,
+        "id": 80,
+        "depth": 2
+    },
+    {
+        "text": "Luxembourg taxation of Shareholders",
+        "page": 30,
+        "id": 81,
+        "depth": 2
+    },
+    {
+        "text": "United Kingdom (“UK”)",
+        "page": 30,
+        "id": 82,
+        "depth": 2
+    },
+    {
+        "text": "Shareholders",
+        "page": 30,
+        "id": 83,
+        "depth": 2
+    },
+    {
+        "text": "SHAREHOLDER MEETINGS AND REPORTS TO SHAREHOLDERS",
+        "page": 32,
+        "id": 84,
+        "depth": 1
+    },
+    {
+        "text": "APPENDIX I: INVESTMENT RESTRICTIONS",
+        "page": 33,
+        "id": 85,
+        "depth": 1
+    },
+    {
+        "text": "1. Investments in the Company shall consist solely of",
+        "page": 33,
+        "id": 86,
+        "depth": 2
+    },
+    {
+        "text": "The Company may however",
+        "page": 34,
+        "id": 87,
+        "depth": 2
+    },
+    {
+        "text": "3. In addition, the Company shall comply with the following investment restrictions per issuer",
+        "page": 35,
+        "id": 88,
+        "depth": 2
+    },
+    {
+        "text": "Risk Diversification rules",
+        "page": 35,
+        "id": 89,
+        "depth": 3
+    },
+    {
+        "text": "Transferable Securities and Money Market Instruments",
+        "page": 35,
+        "id": 90,
+        "depth": 4
+    },
+    {
+        "text": "Bank Deposits",
+        "page": 36,
+        "id": 91,
+        "depth": 4
+    },
+    {
+        "text": "Derivative Instruments",
+        "page": 36,
+        "id": 92,
+        "depth": 4
+    },
+    {
+        "text": "Shares of Open-Ended UCIs or UCITS",
+        "page": 36,
+        "id": 93,
+        "depth": 4
+    },
+    {
+        "text": "Combined Limits",
+        "page": 36,
+        "id": 94,
+        "depth": 4
+    },
+    {
+        "text": "Limitations on Control",
+        "page": 36,
+        "id": 95,
+        "depth": 3
+    },
+    {
+        "text": "In addition, the Company shall comply in respect of its net assets with the following investment restrictions per instrument:",
+        "page": 37,
+        "id": 96,
+        "depth": 2
+    },
+    {
+        "text": "Finally, the Company shall comply in respect of its assets with the following investment restrictions:",
+        "page": 37,
+        "id": 97,
+        "depth": 2
+    },
+    {
+        "text": "6. Notwithstanding anything to the contrary herein contained",
+        "page": 38,
+        "id": 98,
+        "depth": 2
+    },
+    {
+        "text": "APPENDIX II: TECHNIQUES AND INSTRUMENTS",
+        "page": 39,
+        "id": 99,
+        "depth": 1
+    },
+    {
+        "text": "General",
+        "page": 39,
+        "id": 100,
+        "depth": 2
+    },
+    {
+        "text": "Securities Lending and Borrowing",
+        "page": 39,
+        "id": 101,
+        "depth": 2
+    },
+    {
+        "text": "Repurchase Agreement Transactions",
+        "page": 39,
+        "id": 102,
+        "depth": 2
+    },
+    {
+        "text": "APPENDIX III: DETERMINATION OF THE NET ASSET VALUE",
+        "page": 41,
+        "id": 103,
+        "depth": 1
+    },
+    {
+        "text": "Calculation and Publication",
+        "page": 41,
+        "id": 104,
+        "depth": 2
+    },
+    {
+        "text": "Temporary Suspension of the Calculation",
+        "page": 42,
+        "id": 105,
+        "depth": 2
+    },
+    {
+        "text": "APPENDIX IV: GENERAL INFORMATION",
+        "page": 43,
+        "id": 106,
+        "depth": 1
+    },
+    {
+        "text": "Corporate Information",
+        "page": 43,
+        "id": 107,
+        "depth": 2
+    },
+    {
+        "text": "Dissolution and Liquidation of the Company",
+        "page": 43,
+        "id": 108,
+        "depth": 2
+    },
+    {
+        "text": "APPENDIX V: DOCUMENTS AVAILABLE",
+        "page": 44,
+        "id": 109,
+        "depth": 1
+    },
+    {
+        "text": "Publication of Prices",
+        "page": 45,
+        "id": 110,
+        "depth": 2
+    },
+    {
+        "text": "APPENDIX VI: SHARE CLASSES AVAILABLE FOR SUBSCRIPTION",
+        "page": 46,
+        "id": 111,
+        "depth": 1
+    },
+    {
+        "text": "APPENDIX VII: REGISTRATION STATUS",
+        "page": 46,
+        "id": 112,
+        "depth": 1
+    }
+]

@@ -1,0 +1,764 @@
+[
+    {
+        "text": "KEY INVESTOR INFORMATION",
+        "page": 1,
+        "id": 1,
+        "depth": 1
+    },
+    {
+        "text": "Columbus EM Debt Strategy",
+        "page": 1,
+        "id": 2,
+        "depth": 2
+    },
+    {
+        "text": "Objective and Investment Policy",
+        "page": 1,
+        "id": 3,
+        "depth": 3
+    },
+    {
+        "text": "Investment Objective",
+        "page": 1,
+        "id": 4,
+        "depth": 4
+    },
+    {
+        "text": "Investment Policy",
+        "page": 1,
+        "id": 5,
+        "depth": 4
+    },
+    {
+        "text": "Fund Currency",
+        "page": 1,
+        "id": 6,
+        "depth": 4
+    },
+    {
+        "text": "Investment Horizon",
+        "page": 1,
+        "id": 7,
+        "depth": 4
+    },
+    {
+        "text": "Processing of subscription and redemption orders",
+        "page": 1,
+        "id": 8,
+        "depth": 4
+    },
+    {
+        "text": "Risk and Reward Profile",
+        "page": 1,
+        "id": 9,
+        "depth": 3
+    },
+    {
+        "text": "Why is this Fund in this category?",
+        "page": 1,
+        "id": 10,
+        "depth": 4
+    },
+    {
+        "text": "Additional Risks",
+        "page": 1,
+        "id": 11,
+        "depth": 4
+    },
+    {
+        "text": "Charges",
+        "page": 2,
+        "id": 12,
+        "depth": 3
+    },
+    {
+        "text": "Past Performance",
+        "page": 2,
+        "id": 13,
+        "depth": 3
+    },
+    {
+        "text": "Practical Information",
+        "page": 2,
+        "id": 14,
+        "depth": 3
+    },
+    {
+        "text": "Depositary:",
+        "page": 2,
+        "id": 15,
+        "depth": 4
+    },
+    {
+        "text": "Further Information:",
+        "page": 2,
+        "id": 16,
+        "depth": 4
+    },
+    {
+        "text": "Net Asset Value Publication:",
+        "page": 2,
+        "id": 17,
+        "depth": 4
+    },
+    {
+        "text": "Tax Legislation:",
+        "page": 2,
+        "id": 18,
+        "depth": 4
+    },
+    {
+        "text": "Liability Statement:",
+        "page": 2,
+        "id": 19,
+        "depth": 4
+    },
+    {
+        "text": "COLUMBUS EM DEBT STRATEGY",
+        "page": 3,
+        "id": 20,
+        "depth": 1
+    },
+    {
+        "text": "PROSPECTUS",
+        "page": 3,
+        "id": 21,
+        "depth": 2
+    },
+    {
+        "text": "I – General characteristics:",
+        "page": 3,
+        "id": 22,
+        "depth": 3
+    },
+    {
+        "text": "I - 1 Form of the Fund:",
+        "page": 3,
+        "id": 23,
+        "depth": 4
+    },
+    {
+        "text": "Name:",
+        "page": 3,
+        "id": 24,
+        "depth": 5
+    },
+    {
+        "text": "Legal status and member-state in which the Fund was established:",
+        "page": 3,
+        "id": 25,
+        "depth": 5
+    },
+    {
+        "text": "Launch  Date  and  term:",
+        "page": 3,
+        "id": 26,
+        "depth": 5
+    },
+    {
+        "text": "Summary of the management offer:",
+        "page": 3,
+        "id": 27,
+        "depth": 5
+    },
+    {
+        "text": "Indication  of  the  place  where  the  latest,  annual  report,  interim  statements,  net  asset  value  of the fund and  if any, information on past performance can be obtained:",
+        "page": 3,
+        "id": 28,
+        "depth": 5
+    },
+    {
+        "text": "I - 2 Stakeholders:",
+        "page": 4,
+        "id": 29,
+        "depth": 4
+    },
+    {
+        "text": "Management  company:",
+        "page": 4,
+        "id": 30,
+        "depth": 5
+    },
+    {
+        "text": "Custody account keeper, depository and orders centralising custodian:",
+        "page": 4,
+        "id": 31,
+        "depth": 5
+    },
+    {
+        "text": "Description of its duties and of conflicts of interest that may arise:",
+        "page": 4,
+        "id": 32,
+        "depth": 6
+    },
+    {
+        "text": "Description  of  any  safekeeping  functions  delegated  by  the  Depositary,  the  list  of  delegates  and sub-delegates and any conflicts of interest that may arise from such a delegation:",
+        "page": 5,
+        "id": 33,
+        "depth": 6
+    },
+    {
+        "text": "Auditor:",
+        "page": 5,
+        "id": 34,
+        "depth": 5
+    },
+    {
+        "text": "Fund  Promoter:",
+        "page": 5,
+        "id": 35,
+        "depth": 5
+    },
+    {
+        "text": "Delegates:",
+        "page": 5,
+        "id": 36,
+        "depth": 5
+    },
+    {
+        "text": "II – General characteristics:",
+        "page": 5,
+        "id": 37,
+        "depth": 3
+    },
+    {
+        "text": "II – 1 Unit characteristics:",
+        "page": 5,
+        "id": 38,
+        "depth": 4
+    },
+    {
+        "text": "ISIN code:",
+        "page": 5,
+        "id": 39,
+        "depth": 5
+    },
+    {
+        "text": "Nature  of  rights  attached  to  the  unit  class  :",
+        "page": 5,
+        "id": 40,
+        "depth": 5
+    },
+    {
+        "text": "Entry  in  a  register  or  liabilities  accounting  procedure:",
+        "page": 6,
+        "id": 41,
+        "depth": 5
+    },
+    {
+        "text": "Voting rights:",
+        "page": 6,
+        "id": 42,
+        "depth": 5
+    },
+    {
+        "text": "Form of units:",
+        "page": 6,
+        "id": 43,
+        "depth": 5
+    },
+    {
+        "text": "Breakdown:",
+        "page": 6,
+        "id": 44,
+        "depth": 5
+    },
+    {
+        "text": "Fund Accounting Closing Date:",
+        "page": 6,
+        "id": 45,
+        "depth": 5
+    },
+    {
+        "text": "Closing date of the first accounting year:",
+        "page": 6,
+        "id": 46,
+        "depth": 5
+    },
+    {
+        "text": "Tax regime indications:",
+        "page": 6,
+        "id": 47,
+        "depth": 5
+    },
+    {
+        "text": "Obligations related to the FATCA regulation",
+        "page": 6,
+        "id": 48,
+        "depth": 6
+    },
+    {
+        "text": "Obligations related to the Automatic Exchange of Information (AEOI)",
+        "page": 6,
+        "id": 49,
+        "depth": 6
+    },
+    {
+        "text": "II – 2 Specific provisions:",
+        "page": 7,
+        "id": 50,
+        "depth": 4
+    },
+    {
+        "text": "Classification:",
+        "page": 7,
+        "id": 51,
+        "depth": 5
+    },
+    {
+        "text": "Investment in UCIS:",
+        "page": 7,
+        "id": 52,
+        "depth": 5
+    },
+    {
+        "text": "Investment objective:",
+        "page": 7,
+        "id": 53,
+        "depth": 5
+    },
+    {
+        "text": "Reference indicator:",
+        "page": 7,
+        "id": 54,
+        "depth": 5
+    },
+    {
+        "text": "Investment strategy:",
+        "page": 7,
+        "id": 55,
+        "depth": 5
+    },
+    {
+        "text": "1. On the strategies employed:",
+        "page": 7,
+        "id": 56,
+        "depth": 6
+    },
+    {
+        "text": "2. Asset base:",
+        "page": 8,
+        "id": 57,
+        "depth": 6
+    },
+    {
+        "text": "Equity",
+        "page": 8,
+        "id": 58,
+        "depth": 7
+    },
+    {
+        "text": "Debt securities and money market instruments",
+        "page": 8,
+        "id": 59,
+        "depth": 7
+    },
+    {
+        "text": "Shares or units in UCITS or investment funds:",
+        "page": 9,
+        "id": 60,
+        "depth": 7
+    },
+    {
+        "text": "3. Derivative instruments:",
+        "page": 9,
+        "id": 61,
+        "depth": 6
+    },
+    {
+        "text": "4. Securities with embedded derivatives:",
+        "page": 11,
+        "id": 62,
+        "depth": 6
+    },
+    {
+        "text": "5. Deposits:",
+        "page": 11,
+        "id": 63,
+        "depth": 6
+    },
+    {
+        "text": "6. Cash borrowing",
+        "page": 11,
+        "id": 64,
+        "depth": 6
+    },
+    {
+        "text": "7. Temporary purchases and sales of securities",
+        "page": 11,
+        "id": 65,
+        "depth": 6
+    },
+    {
+        "text": "8. Contracts constituting financial guarantee:",
+        "page": 11,
+        "id": 66,
+        "depth": 6
+    },
+    {
+        "text": "Risk profile:",
+        "page": 12,
+        "id": 67,
+        "depth": 5
+    },
+    {
+        "text": "1. Credit risk:",
+        "page": 12,
+        "id": 68,
+        "depth": 6
+    },
+    {
+        "text": "2. Interest rate risk:",
+        "page": 12,
+        "id": 69,
+        "depth": 6
+    },
+    {
+        "text": "3. Risks associated with discretionary management:",
+        "page": 12,
+        "id": 70,
+        "depth": 6
+    },
+    {
+        "text": "4.  Risk linked to commitment to  derivatives:",
+        "page": 12,
+        "id": 71,
+        "depth": 6
+    },
+    {
+        "text": "5. Counterparty risk:",
+        "page": 12,
+        "id": 72,
+        "depth": 6
+    },
+    {
+        "text": "6. Emerging Markets Risk:",
+        "page": 13,
+        "id": 73,
+        "depth": 6
+    },
+    {
+        "text": "7. Currency exchange risk:",
+        "page": 13,
+        "id": 74,
+        "depth": 6
+    },
+    {
+        "text": "8. Equity risk:",
+        "page": 13,
+        "id": 75,
+        "depth": 6
+    },
+    {
+        "text": "9. Risk associated with investment in certain UCITS:",
+        "page": 13,
+        "id": 76,
+        "depth": 6
+    },
+    {
+        "text": "10. Risks  linked  to  securities  financing  transactions  (temporary  purchase  and  sale  of  securities,  total return swaps) and risks linked to financial guarantees (collateral)",
+        "page": 13,
+        "id": 77,
+        "depth": 6
+    },
+    {
+        "text": "Guarantee or protection:",
+        "page": 13,
+        "id": 78,
+        "depth": 5
+    },
+    {
+        "text": "Target  subscribers  and  typical  investor  profile:",
+        "page": 13,
+        "id": 79,
+        "depth": 5
+    },
+    {
+        "text": "Calculation and allocation of the Distributable Amounts:",
+        "page": 14,
+        "id": 80,
+        "depth": 5
+    },
+    {
+        "text": "Distribution frequency:",
+        "page": 14,
+        "id": 81,
+        "depth": 5
+    },
+    {
+        "text": "Characteristics of the units:",
+        "page": 15,
+        "id": 82,
+        "depth": 5
+    },
+    {
+        "text": "Subscription  and  redemption  process:",
+        "page": 15,
+        "id": 83,
+        "depth": 5
+    },
+    {
+        "text": "Frequency of calculation for the net asset value:",
+        "page": 15,
+        "id": 84,
+        "depth": 5
+    },
+    {
+        "text": "Place of publication of the Net Asset Value:",
+        "page": 15,
+        "id": 85,
+        "depth": 5
+    },
+    {
+        "text": "Fees and commissions:",
+        "page": 15,
+        "id": 86,
+        "depth": 5
+    },
+    {
+        "text": "Subscription and redemption fees:",
+        "page": 15,
+        "id": 87,
+        "depth": 6
+    },
+    {
+        "text": "Management fees:",
+        "page": 16,
+        "id": 88,
+        "depth": 6
+    },
+    {
+        "text": "Selection of the brokers/ intermediaries:",
+        "page": 16,
+        "id": 89,
+        "depth": 6
+    },
+    {
+        "text": "III –Commercial information:",
+        "page": 16,
+        "id": 90,
+        "depth": 3
+    },
+    {
+        "text": "ESG criteria:",
+        "page": 17,
+        "id": 91,
+        "depth": 4
+    },
+    {
+        "text": "Voting rights policy and access to the voting rights report :",
+        "page": 17,
+        "id": 92,
+        "depth": 4
+    },
+    {
+        "text": "IV –Investment rules:",
+        "page": 17,
+        "id": 93,
+        "depth": 3
+    },
+    {
+        "text": "VI – Risk monitoring:",
+        "page": 17,
+        "id": 94,
+        "depth": 3
+    },
+    {
+        "text": "VII – Asset valuation and accounting rules",
+        "page": 17,
+        "id": 95,
+        "depth": 3
+    },
+    {
+        "text": "Transferable securities:",
+        "page": 17,
+        "id": 96,
+        "depth": 4
+    },
+    {
+        "text": "Financial instruments and securities traded on a regulated market in France or abroad:",
+        "page": 17,
+        "id": 97,
+        "depth": 5
+    },
+    {
+        "text": "UCI shares or units:",
+        "page": 18,
+        "id": 98,
+        "depth": 5
+    },
+    {
+        "text": "Negotiable debt securities:",
+        "page": 18,
+        "id": 99,
+        "depth": 5
+    },
+    {
+        "text": "Securitization instruments:",
+        "page": 19,
+        "id": 100,
+        "depth": 5
+    },
+    {
+        "text": "Temporary securities acquisition and sales transactions:",
+        "page": 19,
+        "id": 101,
+        "depth": 5
+    },
+    {
+        "text": "Lending/borrowing:",
+        "page": 19,
+        "id": 102,
+        "depth": 6
+    },
+    {
+        "text": "Repurchase agreements:",
+        "page": 19,
+        "id": 103,
+        "depth": 6
+    },
+    {
+        "text": "Financial instruments not traded on a regulated market:",
+        "page": 19,
+        "id": 104,
+        "depth": 5
+    },
+    {
+        "text": "Derivatives instruments",
+        "page": 19,
+        "id": 105,
+        "depth": 4
+    },
+    {
+        "text": "VIII. Remuneration policy",
+        "page": 21,
+        "id": 106,
+        "depth": 3
+    },
+    {
+        "text": "COLUMBUS EM DEBT STRATEGY",
+        "page": 23,
+        "id": 107,
+        "depth": 1
+    },
+    {
+        "text": "R E G U L A T I O N S",
+        "page": 23,
+        "id": 108,
+        "depth": 2
+    },
+    {
+        "text": "SECTION IASSETS AND UNITS",
+        "page": 24,
+        "id": 109,
+        "depth": 3
+    },
+    {
+        "text": "Article 1 – Co-ownership units",
+        "page": 24,
+        "id": 110,
+        "depth": 4
+    },
+    {
+        "text": "Article 2 – Minimum capital",
+        "page": 24,
+        "id": 111,
+        "depth": 4
+    },
+    {
+        "text": "Article 3 – Issue and redemption of units",
+        "page": 25,
+        "id": 112,
+        "depth": 4
+    },
+    {
+        "text": "Article 4 – Calculation of net asset value",
+        "page": 26,
+        "id": 113,
+        "depth": 4
+    },
+    {
+        "text": "SECTION IIOPERATION OF THE FUND",
+        "page": 26,
+        "id": 114,
+        "depth": 3
+    },
+    {
+        "text": "Article 5 – The Management Company",
+        "page": 26,
+        "id": 115,
+        "depth": 4
+    },
+    {
+        "text": "Article 5a - Operating Rules",
+        "page": 26,
+        "id": 116,
+        "depth": 4
+    },
+    {
+        "text": "Article 6 - Custodian",
+        "page": 26,
+        "id": 117,
+        "depth": 4
+    },
+    {
+        "text": "Article 7 – The Auditor",
+        "page": 27,
+        "id": 118,
+        "depth": 4
+    },
+    {
+        "text": "Article 8 - Financial statements and annual report",
+        "page": 27,
+        "id": 119,
+        "depth": 4
+    },
+    {
+        "text": "SECTION IIIPROCEDURES FOR APPROPRIATION OF NET INCOME",
+        "page": 28,
+        "id": 120,
+        "depth": 3
+    },
+    {
+        "text": "Article 9 – Appropriation of Distributable Incomes",
+        "page": 28,
+        "id": 121,
+        "depth": 4
+    },
+    {
+        "text": "SECTION IVMERGER - SPLIT - DISSOLUTION - EXTENSION - LIQUIDATION",
+        "page": 29,
+        "id": 122,
+        "depth": 3
+    },
+    {
+        "text": "Article 10 - Merger - Split",
+        "page": 29,
+        "id": 123,
+        "depth": 4
+    },
+    {
+        "text": "Article 11 - Dissolution - Extensions",
+        "page": 29,
+        "id": 124,
+        "depth": 4
+    },
+    {
+        "text": "Article 12 - Liquidation",
+        "page": 29,
+        "id": 125,
+        "depth": 4
+    },
+    {
+        "text": "SECTION VDISPUTES",
+        "page": 29,
+        "id": 126,
+        "depth": 3
+    },
+    {
+        "text": "Article 13 – Jurisdiction – Election of domicile",
+        "page": 29,
+        "id": 127,
+        "depth": 4
+    }
+]

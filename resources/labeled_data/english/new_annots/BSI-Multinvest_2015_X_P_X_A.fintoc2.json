@@ -1,0 +1,746 @@
+[
+    {
+        "text": "BSI-Multinvest",
+        "page": 1,
+        "id": 1,
+        "depth": 1
+    },
+    {
+        "text": "Prospectus",
+        "page": 1,
+        "id": 2,
+        "depth": 2
+    },
+    {
+        "text": "INTRODUCTION",
+        "page": 2,
+        "id": 3,
+        "depth": 3
+    },
+    {
+        "text": "TABLE OF CONTENTS",
+        "page": 4,
+        "id": 4,
+        "depth": 3
+    },
+    {
+        "text": "BSI - MULTINVEST",
+        "page": 5,
+        "id": 5,
+        "depth": 3
+    },
+    {
+        "text": "Board:",
+        "page": 5,
+        "id": 6,
+        "depth": 4
+    },
+    {
+        "text": "Chairman",
+        "page": 5,
+        "id": 7,
+        "depth": 5
+    },
+    {
+        "text": "Directors",
+        "page": 5,
+        "id": 8,
+        "depth": 5
+    },
+    {
+        "text": "SICAV's Registered office:",
+        "page": 5,
+        "id": 9,
+        "depth": 4
+    },
+    {
+        "text": "Management Company:",
+        "page": 5,
+        "id": 10,
+        "depth": 4
+    },
+    {
+        "text": "Chairman",
+        "page": 5,
+        "id": 11,
+        "depth": 4
+    },
+    {
+        "text": "Directors",
+        "page": 5,
+        "id": 12,
+        "depth": 4
+    },
+    {
+        "text": "Portfolio  Management  function  for  all  sub-funds  except  BSI-Multinvest  -  Alternative  UCITS  and  BSI-Multinvest – Euro Stocks is delegated by the Management Company to:",
+        "page": 6,
+        "id": 13,
+        "depth": 4
+    },
+    {
+        "text": "Portfolio  Management  function  for  BSI-Multinvest  -  Alternative  UCITS  is  delegated  by  the Management Company to:",
+        "page": 6,
+        "id": 14,
+        "depth": 4
+    },
+    {
+        "text": "Portfolio  Management  function  for  BSI-Multinvest–Euro  Stocks  is  delegated  by  the  Management Company to:",
+        "page": 6,
+        "id": 15,
+        "depth": 4
+    },
+    {
+        "text": "Domiciliation,             Administrative and Transfer Agent functions are delegated by the Management Company to:",
+        "page": 6,
+        "id": 16,
+        "depth": 4
+    },
+    {
+        "text": "Custodian Bank and Paying agent:",
+        "page": 6,
+        "id": 17,
+        "depth": 4
+    },
+    {
+        "text": "Auditor:",
+        "page": 6,
+        "id": 18,
+        "depth": 4
+    },
+    {
+        "text": "Representative and paying agent in Switzerland:",
+        "page": 6,
+        "id": 19,
+        "depth": 4
+    },
+    {
+        "text": "Distributor/Intermediary and paying agent in Italy:",
+        "page": 6,
+        "id": 20,
+        "depth": 4
+    },
+    {
+        "text": "INVESTMENT OBJECTIVES AND POLICY",
+        "page": 7,
+        "id": 21,
+        "depth": 3
+    },
+    {
+        "text": "1. Investment objectives and policy and minimum subscription of the individual sub-funds",
+        "page": 7,
+        "id": 22,
+        "depth": 4
+    },
+    {
+        "text": "BSI-Multinvest – Asian Stocks",
+        "page": 7,
+        "id": 23,
+        "depth": 5
+    },
+    {
+        "text": "BSI-Multinvest – Short Term Bonds CHF",
+        "page": 8,
+        "id": 24,
+        "depth": 5
+    },
+    {
+        "text": "BSI-Multinvest – Short Term Bonds USD",
+        "page": 8,
+        "id": 25,
+        "depth": 5
+    },
+    {
+        "text": "BSI-Multinvest – Short Term Bonds EUR",
+        "page": 9,
+        "id": 26,
+        "depth": 5
+    },
+    {
+        "text": "BSI-Multinvest – Swiss Stocks",
+        "page": 9,
+        "id": 27,
+        "depth": 5
+    },
+    {
+        "text": "BSI-Multinvest – US Stocks",
+        "page": 9,
+        "id": 28,
+        "depth": 5
+    },
+    {
+        "text": "BSI-Multinvest – Alternative UCITS",
+        "page": 10,
+        "id": 29,
+        "depth": 5
+    },
+    {
+        "text": "BSI-Multinvest – Strategy Income (CHF)",
+        "page": 10,
+        "id": 30,
+        "depth": 5
+    },
+    {
+        "text": "BSI-Multinvest – Strategy Income (EUR)",
+        "page": 11,
+        "id": 31,
+        "depth": 5
+    },
+    {
+        "text": "BSI-Multinvest – Strategy Balanced (CHF)",
+        "page": 11,
+        "id": 32,
+        "depth": 5
+    },
+    {
+        "text": "BSI-Multinvest – Strategy Balanced (EUR)",
+        "page": 12,
+        "id": 33,
+        "depth": 5
+    },
+    {
+        "text": "BSI-Multinvest – Cash EUR",
+        "page": 12,
+        "id": 34,
+        "depth": 5
+    },
+    {
+        "text": "BSI-Multinvest – Cash USD",
+        "page": 13,
+        "id": 35,
+        "depth": 5
+    },
+    {
+        "text": "BSI-Multinvest – Cash CHF",
+        "page": 13,
+        "id": 36,
+        "depth": 5
+    },
+    {
+        "text": "BSI-Multinvest – Bonds EUR",
+        "page": 14,
+        "id": 37,
+        "depth": 5
+    },
+    {
+        "text": "BSI-Multinvest – Bonds USD",
+        "page": 14,
+        "id": 38,
+        "depth": 5
+    },
+    {
+        "text": "BSI-Multinvest – Bonds CHF",
+        "page": 15,
+        "id": 39,
+        "depth": 5
+    },
+    {
+        "text": "BSI-Multinvest – Global Dynamic Bonds",
+        "page": 15,
+        "id": 40,
+        "depth": 5
+    },
+    {
+        "text": "BSI-Multinvest – Global Credit Bond",
+        "page": 16,
+        "id": 41,
+        "depth": 5
+    },
+    {
+        "text": "BSI-Multinvest – Emerging Markets Bonds",
+        "page": 17,
+        "id": 42,
+        "depth": 5
+    },
+    {
+        "text": "BSI-Multinvest – Euro Stocks",
+        "page": 18,
+        "id": 43,
+        "depth": 5
+    },
+    {
+        "text": "BSI-Multinvest – Japanese Stocks",
+        "page": 19,
+        "id": 44,
+        "depth": 5
+    },
+    {
+        "text": "BSI-Multinvest – Dynamic European Markets",
+        "page": 20,
+        "id": 45,
+        "depth": 5
+    },
+    {
+        "text": "PROFILE OF THE TYPICAL INVESTOR",
+        "page": 22,
+        "id": 46,
+        "depth": 3
+    },
+    {
+        "text": "BSI-Multinvest  –  Short  Term  Bonds  CHF:",
+        "page": 22,
+        "id": 47,
+        "depth": 4
+    },
+    {
+        "text": "BSI-Multinvest  –  Short  Term  Bonds  EUR:",
+        "page": 22,
+        "id": 48,
+        "depth": 4
+    },
+    {
+        "text": "BSI-Multinvest  –  Short  Term  Bonds  USD:",
+        "page": 22,
+        "id": 49,
+        "depth": 4
+    },
+    {
+        "text": "BSI-Multinvest  –  Asian  Stocks:",
+        "page": 22,
+        "id": 50,
+        "depth": 4
+    },
+    {
+        "text": "BSI-Multinvest  –  Swiss  Stocks:",
+        "page": 22,
+        "id": 51,
+        "depth": 4
+    },
+    {
+        "text": "BSI-Multinvest  –  US  Stocks:",
+        "page": 22,
+        "id": 52,
+        "depth": 4
+    },
+    {
+        "text": "BSI-Multinvest – Strategy Income (CHF):",
+        "page": 22,
+        "id": 53,
+        "depth": 4
+    },
+    {
+        "text": "BSI-Multinvest  –  Strategy  Income  (EUR):",
+        "page": 22,
+        "id": 54,
+        "depth": 4
+    },
+    {
+        "text": "BSI-Multinvest  –  Strategy  Balanced  (CHF):",
+        "page": 22,
+        "id": 55,
+        "depth": 4
+    },
+    {
+        "text": "BSI-Multinvest  –  Strategy  Balanced  (EUR):",
+        "page": 22,
+        "id": 56,
+        "depth": 4
+    },
+    {
+        "text": "BSI-Multinvest – Alternative UCITS",
+        "page": 22,
+        "id": 57,
+        "depth": 4
+    },
+    {
+        "text": "BSI-Multinvest – Cash EUR",
+        "page": 22,
+        "id": 58,
+        "depth": 4
+    },
+    {
+        "text": "BSI-Multinvest – Cash USD",
+        "page": 22,
+        "id": 59,
+        "depth": 4
+    },
+    {
+        "text": "BSI-Multinvest – Cash CHF",
+        "page": 22,
+        "id": 60,
+        "depth": 4
+    },
+    {
+        "text": "BSI-Multinvest – Bonds EUR",
+        "page": 22,
+        "id": 61,
+        "depth": 4
+    },
+    {
+        "text": "BSI-Multinvest – Bonds USD",
+        "page": 22,
+        "id": 62,
+        "depth": 4
+    },
+    {
+        "text": "BSI-Multinvest – Bonds CHF",
+        "page": 23,
+        "id": 63,
+        "depth": 4
+    },
+    {
+        "text": "BSI-Multinvest – Global Dynamic Bonds",
+        "page": 23,
+        "id": 64,
+        "depth": 4
+    },
+    {
+        "text": "BSI-Multinvest – Global Credit Bond",
+        "page": 23,
+        "id": 65,
+        "depth": 4
+    },
+    {
+        "text": "BSI-Multinvest – Emerging Markets Bonds",
+        "page": 23,
+        "id": 66,
+        "depth": 4
+    },
+    {
+        "text": "BSI-Multinvest  –  Euro  Stocks:",
+        "page": 23,
+        "id": 67,
+        "depth": 4
+    },
+    {
+        "text": "BSI-Multinvest – Japanese Stocks:",
+        "page": 23,
+        "id": 68,
+        "depth": 4
+    },
+    {
+        "text": "BSI-Multinvest – Dynamic European Markets:",
+        "page": 23,
+        "id": 69,
+        "depth": 4
+    },
+    {
+        "text": "SPECIFIC INVESTMENT RISKS",
+        "page": 24,
+        "id": 70,
+        "depth": 3
+    },
+    {
+        "text": "Investment in UCI and UCITS",
+        "page": 24,
+        "id": 71,
+        "depth": 4
+    },
+    {
+        "text": "Relating to existing Investment Funds",
+        "page": 25,
+        "id": 72,
+        "depth": 5
+    },
+    {
+        "text": "Investments in equities",
+        "page": 25,
+        "id": 73,
+        "depth": 4
+    },
+    {
+        "text": "Use of derivatives",
+        "page": 25,
+        "id": 74,
+        "depth": 4
+    },
+    {
+        "text": "Use of futures and options",
+        "page": 25,
+        "id": 75,
+        "depth": 4
+    },
+    {
+        "text": "Options  on  transferable  securities/indices:",
+        "page": 25,
+        "id": 76,
+        "depth": 5
+    },
+    {
+        "text": "Futures:",
+        "page": 26,
+        "id": 77,
+        "depth": 5
+    },
+    {
+        "text": "Use of credit default swaps (CDS)",
+        "page": 26,
+        "id": 78,
+        "depth": 4
+    },
+    {
+        "text": "Risks connected with the use of derivatives",
+        "page": 26,
+        "id": 79,
+        "depth": 4
+    },
+    {
+        "text": "Risk Management",
+        "page": 27,
+        "id": 80,
+        "depth": 4
+    },
+    {
+        "text": "Leverage",
+        "page": 27,
+        "id": 81,
+        "depth": 4
+    },
+    {
+        "text": "Historical performance",
+        "page": 28,
+        "id": 82,
+        "depth": 4
+    },
+    {
+        "text": "Total Expense Ratio (“TER”)",
+        "page": 28,
+        "id": 83,
+        "depth": 4
+    },
+    {
+        "text": "Collateral Management",
+        "page": 28,
+        "id": 84,
+        "depth": 4
+    },
+    {
+        "text": "MANAGEMENT COMPANY",
+        "page": 29,
+        "id": 85,
+        "depth": 3
+    },
+    {
+        "text": "FUNCTIONS DELEGATED BY THE MANAGEMENT COMPANY",
+        "page": 30,
+        "id": 86,
+        "depth": 3
+    },
+    {
+        "text": "PORTFOLIO MANAGERS",
+        "page": 31,
+        "id": 87,
+        "depth": 3
+    },
+    {
+        "text": "CUSTODIAN BANK AND PAYING AGENT",
+        "page": 32,
+        "id": 88,
+        "depth": 3
+    },
+    {
+        "text": "DOMICILIATION, ADMINISTRATIVE AND TRANSFER AGENT",
+        "page": 33,
+        "id": 89,
+        "depth": 3
+    },
+    {
+        "text": "DISTRIBUTOR",
+        "page": 33,
+        "id": 90,
+        "depth": 3
+    },
+    {
+        "text": "SHARES",
+        "page": 33,
+        "id": 91,
+        "depth": 3
+    },
+    {
+        "text": "ISSUE OF SHARES",
+        "page": 34,
+        "id": 92,
+        "depth": 3
+    },
+    {
+        "text": "Prevention of money laundering and terrorist financing",
+        "page": 35,
+        "id": 93,
+        "depth": 4
+    },
+    {
+        "text": "REPURCHASE OF SHARES",
+        "page": 35,
+        "id": 94,
+        "depth": 3
+    },
+    {
+        "text": "CONVERSION OF SHARES",
+        "page": 37,
+        "id": 95,
+        "depth": 3
+    },
+    {
+        "text": "MARKET TIMING & LATE TRADING",
+        "page": 38,
+        "id": 96,
+        "depth": 3
+    },
+    {
+        "text": "DIVIDEND POLICY",
+        "page": 38,
+        "id": 97,
+        "depth": 3
+    },
+    {
+        "text": "CHARGES AND EXPENSES",
+        "page": 39,
+        "id": 98,
+        "depth": 3
+    },
+    {
+        "text": "PERFORMANCE FEE",
+        "page": 40,
+        "id": 99,
+        "depth": 4
+    },
+    {
+        "text": "a) BSI-Multinvest – Alternative UCITS",
+        "page": 40,
+        "id": 100,
+        "depth": 5
+    },
+    {
+        "text": "b) BSI-Multinvest – Global Credit Bond",
+        "page": 41,
+        "id": 101,
+        "depth": 5
+    },
+    {
+        "text": "TAXATION OF THE SICAV AND ITS SHAREHOLDERS",
+        "page": 42,
+        "id": 102,
+        "depth": 3
+    },
+    {
+        "text": "Taxation of the SICAV in Luxembourg",
+        "page": 42,
+        "id": 103,
+        "depth": 4
+    },
+    {
+        "text": "Taxation of the shareholders",
+        "page": 42,
+        "id": 104,
+        "depth": 4
+    },
+    {
+        "text": "INFORMATION TO SHAREHOLDERS AND COMPLAINTS HANDLING",
+        "page": 43,
+        "id": 105,
+        "depth": 3
+    },
+    {
+        "text": "ANNEX I: INVESTMENT RESTRICTIONS",
+        "page": 44,
+        "id": 106,
+        "depth": 3
+    },
+    {
+        "text": "General Principles",
+        "page": 44,
+        "id": 107,
+        "depth": 4
+    },
+    {
+        "text": "1.  Investment Instruments:",
+        "page": 44,
+        "id": 108,
+        "depth": 5
+    },
+    {
+        "text": "2.  Risk diversification",
+        "page": 46,
+        "id": 109,
+        "depth": 5
+    },
+    {
+        "text": "3.  Investment restrictions",
+        "page": 47,
+        "id": 110,
+        "depth": 5
+    },
+    {
+        "text": "ANNEX  II:  TECHNIQUES  AND  INSTRUMENTS  RELATING  TO  TRANSFERABLE SECURITIES OR USED TO HEDGE CURRENCY RISKS",
+        "page": 49,
+        "id": 111,
+        "depth": 3
+    },
+    {
+        "text": "Special  techniques  and  instruments  relating  to  transferable  securities  and  money  market instruments",
+        "page": 49,
+        "id": 112,
+        "depth": 4
+    },
+    {
+        "text": "Further techniques and instruments",
+        "page": 50,
+        "id": 113,
+        "depth": 4
+    },
+    {
+        "text": "ANNEX III: CALCULATION OF THE NET ASSET VALUE",
+        "page": 51,
+        "id": 114,
+        "depth": 3
+    },
+    {
+        "text": "1. Calculation and publication of the net asset value per share",
+        "page": 51,
+        "id": 115,
+        "depth": 4
+    },
+    {
+        "text": "2.  Temporary  suspension  of  the  calculation  of  the  net  asset  value  per  share  and  of  the  issue, repurchase and conversion of shares",
+        "page": 52,
+        "id": 116,
+        "depth": 4
+    },
+    {
+        "text": "ANNEX IV: GENERAL INFORMATION",
+        "page": 53,
+        "id": 117,
+        "depth": 3
+    },
+    {
+        "text": "1)  THE SICAV",
+        "page": 53,
+        "id": 118,
+        "depth": 4
+    },
+    {
+        "text": "2.  LIQUIDATION, TERMINATION AND MERGING OF THE SICAV AND ITS SUB-FUNDS",
+        "page": 54,
+        "id": 119,
+        "depth": 4
+    },
+    {
+        "text": "Liquidation of the SICAV",
+        "page": 54,
+        "id": 120,
+        "depth": 5
+    },
+    {
+        "text": "Liquidation of Sub- funds and / or share classes",
+        "page": 54,
+        "id": 121,
+        "depth": 5
+    },
+    {
+        "text": "3.  MERGER  OF  THE  SICAV  OR  OF  SUB-FUNDS  WITH  ANOTHER  UCITS  OR  OTHER  SUB-FUNDS THEREOF; MERGER OF ONE OR MORE SUB-FUNDS WITHIN THE FUND; DIVISION OF SUB-FUNDS",
+        "page": 55,
+        "id": 122,
+        "depth": 4
+    },
+    {
+        "text": "Closure of sub-funds",
+        "page": 56,
+        "id": 123,
+        "depth": 5
+    },
+    {
+        "text": "ANNEX V: AVAILABLE DOCUMENTS",
+        "page": 57,
+        "id": 124,
+        "depth": 3
+    }
+]

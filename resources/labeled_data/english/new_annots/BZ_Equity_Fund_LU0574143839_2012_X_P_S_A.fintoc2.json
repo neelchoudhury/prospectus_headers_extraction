@@ -1,0 +1,1070 @@
+[
+    {
+        "text": "SALES PROSPECTUS",
+        "page": 1,
+        "id": 1,
+        "depth": 1
+    },
+    {
+        "text": "BZ Equity Fund",
+        "page": 1,
+        "id": 2,
+        "depth": 2
+    },
+    {
+        "text": "Contents",
+        "page": 2,
+        "id": 3,
+        "depth": 3
+    },
+    {
+        "text": "Management, distribution and advisory services",
+        "page": 5,
+        "id": 4,
+        "depth": 3
+    },
+    {
+        "text": "INVESTMENT COMPANY",
+        "page": 5,
+        "id": 5,
+        "depth": 4
+    },
+    {
+        "text": "Board of Directors of the Investment Company",
+        "page": 5,
+        "id": 6,
+        "depth": 5
+    },
+    {
+        "text": "Chairman of the Board of Directors",
+        "page": 5,
+        "id": 7,
+        "depth": 6
+    },
+    {
+        "text": "Deputy Chairman of the Board of Directors",
+        "page": 5,
+        "id": 8,
+        "depth": 6
+    },
+    {
+        "text": "Members of the Board of Directors",
+        "page": 5,
+        "id": 9,
+        "depth": 6
+    },
+    {
+        "text": "AUDITORS OF THE INVESTMENT COMPANY",
+        "page": 5,
+        "id": 10,
+        "depth": 4
+    },
+    {
+        "text": "Management Company",
+        "page": 6,
+        "id": 11,
+        "depth": 4
+    },
+    {
+        "text": "Board of Directors of the Management Company",
+        "page": 6,
+        "id": 12,
+        "depth": 5
+    },
+    {
+        "text": "Chairman of the Board of Directors",
+        "page": 6,
+        "id": 13,
+        "depth": 6
+    },
+    {
+        "text": "Deputy Chairman of the Board of Directors",
+        "page": 6,
+        "id": 14,
+        "depth": 6
+    },
+    {
+        "text": "Member of the Board of Directors",
+        "page": 6,
+        "id": 15,
+        "depth": 6
+    },
+    {
+        "text": "Management Company Executives",
+        "page": 6,
+        "id": 16,
+        "depth": 6
+    },
+    {
+        "text": "Auditor of the Management Company",
+        "page": 6,
+        "id": 17,
+        "depth": 4
+    },
+    {
+        "text": "CUSTODIAN BANK",
+        "page": 7,
+        "id": 18,
+        "depth": 4
+    },
+    {
+        "text": "CENTRAL ADMINISTRATION AGENT AND REGISTRAR AND TRANSFER AGENT",
+        "page": 7,
+        "id": 19,
+        "depth": 4
+    },
+    {
+        "text": "FUND MANAGER",
+        "page": 7,
+        "id": 20,
+        "depth": 4
+    },
+    {
+        "text": "PAYING AGENT",
+        "page": 7,
+        "id": 21,
+        "depth": 4
+    },
+    {
+        "text": "Sales Prospectus",
+        "page": 9,
+        "id": 22,
+        "depth": 1
+    },
+    {
+        "text": "The Investment Company",
+        "page": 9,
+        "id": 23,
+        "depth": 2
+    },
+    {
+        "text": "The Management Company",
+        "page": 9,
+        "id": 24,
+        "depth": 2
+    },
+    {
+        "text": "Custodian Bank and paying agent",
+        "page": 11,
+        "id": 25,
+        "depth": 2
+    },
+    {
+        "text": "Central Administration Agent, registrar and transfer agent",
+        "page": 11,
+        "id": 26,
+        "depth": 2
+    },
+    {
+        "text": "The Fund Manager",
+        "page": 11,
+        "id": 27,
+        "depth": 2
+    },
+    {
+        "text": "Legal position of shareholders",
+        "page": 12,
+        "id": 28,
+        "depth": 2
+    },
+    {
+        "text": "General Information on trading in the sub-fund's shares",
+        "page": 12,
+        "id": 29,
+        "depth": 2
+    },
+    {
+        "text": "Investment policy",
+        "page": 13,
+        "id": 30,
+        "depth": 2
+    },
+    {
+        "text": "Information on techniques and instruments",
+        "page": 13,
+        "id": 31,
+        "depth": 2
+    },
+    {
+        "text": "1.  Options",
+        "page": 13,
+        "id": 32,
+        "depth": 3
+    },
+    {
+        "text": "2.  Financial Futures Contracts",
+        "page": 14,
+        "id": 33,
+        "depth": 3
+    },
+    {
+        "text": "3.  Securities Lending",
+        "page": 14,
+        "id": 34,
+        "depth": 3
+    },
+    {
+        "text": "4.  Forward exchange contracts",
+        "page": 14,
+        "id": 35,
+        "depth": 3
+    },
+    {
+        "text": "5.  Swaps",
+        "page": 15,
+        "id": 36,
+        "depth": 3
+    },
+    {
+        "text": "6.  Swaptions",
+        "page": 15,
+        "id": 37,
+        "depth": 3
+    },
+    {
+        "text": "7.  Techniques for the management of credit risks",
+        "page": 15,
+        "id": 38,
+        "depth": 3
+    },
+    {
+        "text": "7.1 Credit default swaps (CDS)",
+        "page": 15,
+        "id": 39,
+        "depth": 4
+    },
+    {
+        "text": "7.2  Credit linked notes (CLN)",
+        "page": 16,
+        "id": 40,
+        "depth": 4
+    },
+    {
+        "text": "8.  Remarks",
+        "page": 16,
+        "id": 41,
+        "depth": 3
+    },
+    {
+        "text": "Calculation of the net asset value per share",
+        "page": 16,
+        "id": 42,
+        "depth": 2
+    },
+    {
+        "text": "Issue of shares",
+        "page": 17,
+        "id": 43,
+        "depth": 2
+    },
+    {
+        "text": "Redemption and exchange of shares",
+        "page": 18,
+        "id": 44,
+        "depth": 2
+    },
+    {
+        "text": "Remarks on risk",
+        "page": 20,
+        "id": 45,
+        "depth": 2
+    },
+    {
+        "text": "Interest change Risk",
+        "page": 20,
+        "id": 46,
+        "depth": 3
+    },
+    {
+        "text": "Credit risk",
+        "page": 20,
+        "id": 47,
+        "depth": 3
+    },
+    {
+        "text": "General market risk",
+        "page": 20,
+        "id": 48,
+        "depth": 3
+    },
+    {
+        "text": "Company-specific risk",
+        "page": 20,
+        "id": 49,
+        "depth": 3
+    },
+    {
+        "text": "Risk of counterparty default",
+        "page": 20,
+        "id": 50,
+        "depth": 3
+    },
+    {
+        "text": "Counterparty risk",
+        "page": 20,
+        "id": 51,
+        "depth": 3
+    },
+    {
+        "text": "Currency risk",
+        "page": 21,
+        "id": 52,
+        "depth": 3
+    },
+    {
+        "text": "Industry risk",
+        "page": 21,
+        "id": 53,
+        "depth": 3
+    },
+    {
+        "text": "Country and regional risk",
+        "page": 21,
+        "id": 54,
+        "depth": 3
+    },
+    {
+        "text": "Country and transfer risk",
+        "page": 21,
+        "id": 55,
+        "depth": 3
+    },
+    {
+        "text": "Liquidity risk",
+        "page": 21,
+        "id": 56,
+        "depth": 3
+    },
+    {
+        "text": "Custody risk",
+        "page": 21,
+        "id": 57,
+        "depth": 3
+    },
+    {
+        "text": "Inflation risk",
+        "page": 21,
+        "id": 58,
+        "depth": 3
+    },
+    {
+        "text": "Risk of liquidation",
+        "page": 22,
+        "id": 59,
+        "depth": 3
+    },
+    {
+        "text": "Risks arising from the usage of derivatives",
+        "page": 22,
+        "id": 60,
+        "depth": 3
+    },
+    {
+        "text": "Risk of redemption suspension",
+        "page": 22,
+        "id": 61,
+        "depth": 3
+    },
+    {
+        "text": "Risk profile",
+        "page": 22,
+        "id": 62,
+        "depth": 2
+    },
+    {
+        "text": "Risk profile 1 - Security-oriented",
+        "page": 22,
+        "id": 63,
+        "depth": 3
+    },
+    {
+        "text": "Risk profile 2 - Conservative",
+        "page": 23,
+        "id": 64,
+        "depth": 3
+    },
+    {
+        "text": "Risk profile 3 - Growth-oriented",
+        "page": 23,
+        "id": 65,
+        "depth": 3
+    },
+    {
+        "text": "Risk profile 4 - Speculative",
+        "page": 23,
+        "id": 66,
+        "depth": 3
+    },
+    {
+        "text": "Risk-management procedures",
+        "page": 23,
+        "id": 67,
+        "depth": 2
+    },
+    {
+        "text": "Commitment approach:",
+        "page": 23,
+        "id": 68,
+        "depth": 3
+    },
+    {
+        "text": "VaR approach:",
+        "page": 23,
+        "id": 69,
+        "depth": 3
+    },
+    {
+        "text": "Relative VaR approach:",
+        "page": 23,
+        "id": 70,
+        "depth": 3
+    },
+    {
+        "text": "Absolute VaR approach:",
+        "page": 24,
+        "id": 71,
+        "depth": 3
+    },
+    {
+        "text": "Taxation of the Investment Company and its sub-funds",
+        "page": 24,
+        "id": 72,
+        "depth": 2
+    },
+    {
+        "text": "Taxation of earnings from shares in the Investment Company held by the shareholder",
+        "page": 24,
+        "id": 73,
+        "depth": 2
+    },
+    {
+        "text": "Publication of the net asset value per share and the issue and redemption price",
+        "page": 25,
+        "id": 74,
+        "depth": 2
+    },
+    {
+        "text": "Disclosure of information to shareholders",
+        "page": 25,
+        "id": 75,
+        "depth": 2
+    },
+    {
+        "text": "Information for shareholders in the United States of America",
+        "page": 26,
+        "id": 76,
+        "depth": 2
+    },
+    {
+        "text": "Annex 1   BZ Equity Fund – Agro",
+        "page": 27,
+        "id": 77,
+        "depth": 1
+    },
+    {
+        "text": "Investment objectives",
+        "page": 27,
+        "id": 78,
+        "depth": 2
+    },
+    {
+        "text": "Investment policy",
+        "page": 27,
+        "id": 79,
+        "depth": 2
+    },
+    {
+        "text": "Risk profile of the sub-fund",
+        "page": 28,
+        "id": 80,
+        "depth": 2
+    },
+    {
+        "text": "Risk profile 3 - Growth-oriented",
+        "page": 28,
+        "id": 81,
+        "depth": 3
+    },
+    {
+        "text": "Commitment approach",
+        "page": 28,
+        "id": 82,
+        "depth": 3
+    },
+    {
+        "text": "Risk profile of the typical shareholder",
+        "page": 28,
+        "id": 83,
+        "depth": 2
+    },
+    {
+        "text": "Share classes of the sub-fund",
+        "page": 29,
+        "id": 84,
+        "depth": 2
+    },
+    {
+        "text": "Costs which are reimbursed from the sub-fund’s assets",
+        "page": 30,
+        "id": 85,
+        "depth": 2
+    },
+    {
+        "text": "1.  Management fee",
+        "page": 30,
+        "id": 86,
+        "depth": 3
+    },
+    {
+        "text": "2.  Custodian Bank fee",
+        "page": 30,
+        "id": 87,
+        "depth": 3
+    },
+    {
+        "text": "Costs to be borne by the shareholders include",
+        "page": 30,
+        "id": 88,
+        "depth": 2
+    },
+    {
+        "text": "Use of income",
+        "page": 31,
+        "id": 89,
+        "depth": 2
+    },
+    {
+        "text": "Annex 2   BZ Equity Fund – Infra",
+        "page": 31,
+        "id": 90,
+        "depth": 1
+    },
+    {
+        "text": "Investment objectives",
+        "page": 31,
+        "id": 91,
+        "depth": 2
+    },
+    {
+        "text": "Investment policy",
+        "page": 31,
+        "id": 92,
+        "depth": 2
+    },
+    {
+        "text": "Risk profile of the sub-fund",
+        "page": 32,
+        "id": 93,
+        "depth": 2
+    },
+    {
+        "text": "Risk profile 3 - Growth-oriented",
+        "page": 32,
+        "id": 94,
+        "depth": 3
+    },
+    {
+        "text": "Commitment approach",
+        "page": 32,
+        "id": 95,
+        "depth": 3
+    },
+    {
+        "text": "Risk profile of the typical shareholder",
+        "page": 32,
+        "id": 96,
+        "depth": 2
+    },
+    {
+        "text": "Share classes of the sub-fund",
+        "page": 33,
+        "id": 97,
+        "depth": 2
+    },
+    {
+        "text": "Costs which are reimbursed from the sub-fund’s assets",
+        "page": 34,
+        "id": 98,
+        "depth": 2
+    },
+    {
+        "text": "1.  Management fee",
+        "page": 34,
+        "id": 99,
+        "depth": 3
+    },
+    {
+        "text": "2.  Custodian Bank fee",
+        "page": 34,
+        "id": 100,
+        "depth": 3
+    },
+    {
+        "text": "Costs to be borne by the shareholders include",
+        "page": 34,
+        "id": 101,
+        "depth": 2
+    },
+    {
+        "text": "Use of income",
+        "page": 35,
+        "id": 102,
+        "depth": 2
+    },
+    {
+        "text": "Annex 3   BZ Equity Fund – Senior",
+        "page": 36,
+        "id": 103,
+        "depth": 1
+    },
+    {
+        "text": "Investment objectives",
+        "page": 36,
+        "id": 104,
+        "depth": 2
+    },
+    {
+        "text": "Investment policy",
+        "page": 36,
+        "id": 105,
+        "depth": 2
+    },
+    {
+        "text": "Risk profile of the sub-fund",
+        "page": 37,
+        "id": 106,
+        "depth": 2
+    },
+    {
+        "text": "Risk profile 3 - Growth-oriented",
+        "page": 37,
+        "id": 107,
+        "depth": 3
+    },
+    {
+        "text": "Commitment approach",
+        "page": 37,
+        "id": 108,
+        "depth": 3
+    },
+    {
+        "text": "Risk profile of the typical shareholder",
+        "page": 37,
+        "id": 109,
+        "depth": 2
+    },
+    {
+        "text": "Costs which are reimbursed from the sub-fund’s assets",
+        "page": 39,
+        "id": 110,
+        "depth": 2
+    },
+    {
+        "text": "1.  Management fee",
+        "page": 39,
+        "id": 111,
+        "depth": 3
+    },
+    {
+        "text": "2.  Custodian Bank fee",
+        "page": 39,
+        "id": 112,
+        "depth": 3
+    },
+    {
+        "text": "Costs to be borne by the shareholders include",
+        "page": 39,
+        "id": 113,
+        "depth": 2
+    },
+    {
+        "text": "Use of income",
+        "page": 40,
+        "id": 114,
+        "depth": 2
+    },
+    {
+        "text": "Annex 4   BZ Equity Fund - Pharma",
+        "page": 41,
+        "id": 115,
+        "depth": 1
+    },
+    {
+        "text": "Investment objectives",
+        "page": 41,
+        "id": 116,
+        "depth": 2
+    },
+    {
+        "text": "Investment policy",
+        "page": 41,
+        "id": 117,
+        "depth": 2
+    },
+    {
+        "text": "Risk profile 3 - Growth-oriented",
+        "page": 42,
+        "id": 118,
+        "depth": 3
+    },
+    {
+        "text": "Commitment approach",
+        "page": 42,
+        "id": 119,
+        "depth": 3
+    },
+    {
+        "text": "Risk profile of the typical shareholder",
+        "page": 42,
+        "id": 120,
+        "depth": 2
+    },
+    {
+        "text": "Share classes of the sub-fund",
+        "page": 43,
+        "id": 121,
+        "depth": 2
+    },
+    {
+        "text": "Costs which are reimbursed from the sub-fund’s assets",
+        "page": 43,
+        "id": 122,
+        "depth": 2
+    },
+    {
+        "text": "1.  Management fee",
+        "page": 43,
+        "id": 123,
+        "depth": 3
+    },
+    {
+        "text": "2.  Custodian Bank fee",
+        "page": 43,
+        "id": 124,
+        "depth": 3
+    },
+    {
+        "text": "Costs to be borne by the shareholders include",
+        "page": 43,
+        "id": 125,
+        "depth": 2
+    },
+    {
+        "text": "Use of income",
+        "page": 44,
+        "id": 126,
+        "depth": 2
+    },
+    {
+        "text": "Articles of Association of   BZ Equity Fund",
+        "page": 45,
+        "id": 127,
+        "depth": 1
+    },
+    {
+        "text": "Article 1. General provisions",
+        "page": 45,
+        "id": 128,
+        "depth": 2
+    },
+    {
+        "text": "§ 1 Name of the Investment Company",
+        "page": 45,
+        "id": 129,
+        "depth": 3
+    },
+    {
+        "text": "§ 2 Registered office of the Investment Company",
+        "page": 45,
+        "id": 130,
+        "depth": 3
+    },
+    {
+        "text": "§ 3 Objects of the Investment Company",
+        "page": 45,
+        "id": 131,
+        "depth": 3
+    },
+    {
+        "text": "§ 4 Term of the Investment Company",
+        "page": 45,
+        "id": 132,
+        "depth": 3
+    },
+    {
+        "text": "Article 2. General investment principles and restrictions",
+        "page": 46,
+        "id": 133,
+        "depth": 2
+    },
+    {
+        "text": "§ 5 Objective of the investment policy",
+        "page": 46,
+        "id": 134,
+        "depth": 3
+    },
+    {
+        "text": "§ 6 General investment principles and restrictions",
+        "page": 46,
+        "id": 135,
+        "depth": 3
+    },
+    {
+        "text": "Article 3. Company capital and shares",
+        "page": 55,
+        "id": 136,
+        "depth": 2
+    },
+    {
+        "text": "§ 7 Company capital",
+        "page": 55,
+        "id": 137,
+        "depth": 3
+    },
+    {
+        "text": "§ 8 Shares",
+        "page": 56,
+        "id": 138,
+        "depth": 3
+    },
+    {
+        "text": "§ 9 Calculation of the net asset value per share",
+        "page": 56,
+        "id": 139,
+        "depth": 3
+    },
+    {
+        "text": "§ 10 Suspension of the calculation of the net asset value per share and of redemption",
+        "page": 58,
+        "id": 140,
+        "depth": 3
+    },
+    {
+        "text": "§ 11 Issue of shares",
+        "page": 58,
+        "id": 141,
+        "depth": 3
+    },
+    {
+        "text": "§ 12 Limitation and suspension of the issue of shares",
+        "page": 60,
+        "id": 142,
+        "depth": 3
+    },
+    {
+        "text": "§ 13 Redemption and exchange of shares",
+        "page": 60,
+        "id": 143,
+        "depth": 3
+    },
+    {
+        "text": "§ 14 Limitation and suspension of redemption and exchange",
+        "page": 62,
+        "id": 144,
+        "depth": 3
+    },
+    {
+        "text": "Article 4. General meeting",
+        "page": 63,
+        "id": 145,
+        "depth": 2
+    },
+    {
+        "text": "§ 15 Rights of the general meeting",
+        "page": 63,
+        "id": 146,
+        "depth": 3
+    },
+    {
+        "text": "§ 16 Ordinary General Meeting",
+        "page": 63,
+        "id": 147,
+        "depth": 3
+    },
+    {
+        "text": "§ 17 Extraordinary General Meeting",
+        "page": 63,
+        "id": 148,
+        "depth": 3
+    },
+    {
+        "text": "§ 18 Resolutions and voting",
+        "page": 64,
+        "id": 149,
+        "depth": 3
+    },
+    {
+        "text": "§ 19 Chairman, scrutineer and secretary",
+        "page": 65,
+        "id": 150,
+        "depth": 3
+    },
+    {
+        "text": "Article 5. Board of Directors",
+        "page": 65,
+        "id": 151,
+        "depth": 2
+    },
+    {
+        "text": "§ 20 Members",
+        "page": 65,
+        "id": 152,
+        "depth": 3
+    },
+    {
+        "text": "§ 21 Authorisations",
+        "page": 66,
+        "id": 153,
+        "depth": 3
+    },
+    {
+        "text": "§ 22 Internal organisation of the Board of Directors",
+        "page": 66,
+        "id": 154,
+        "depth": 3
+    },
+    {
+        "text": "§ 23 Frequency and convening of meetings",
+        "page": 66,
+        "id": 155,
+        "depth": 3
+    },
+    {
+        "text": "§ 24 Resolutions",
+        "page": 67,
+        "id": 156,
+        "depth": 3
+    },
+    {
+        "text": "§ 25 Representation of the Investment Company",
+        "page": 67,
+        "id": 157,
+        "depth": 3
+    },
+    {
+        "text": "§ 26 Incompatibility provisions/Conflict of interest",
+        "page": 68,
+        "id": 158,
+        "depth": 3
+    },
+    {
+        "text": "§ 27 Exemption of liability",
+        "page": 68,
+        "id": 159,
+        "depth": 3
+    },
+    {
+        "text": "§ 28 Management Company",
+        "page": 69,
+        "id": 160,
+        "depth": 3
+    },
+    {
+        "text": "§ 29 Fund manager",
+        "page": 69,
+        "id": 161,
+        "depth": 3
+    },
+    {
+        "text": "Article 6. Merger and liquidation of the Investment Company",
+        "page": 70,
+        "id": 162,
+        "depth": 2
+    },
+    {
+        "text": "§ 30 Merger of the Investment Company",
+        "page": 70,
+        "id": 163,
+        "depth": 3
+    },
+    {
+        "text": "§ 31 Liquidation of the Investment Company",
+        "page": 71,
+        "id": 164,
+        "depth": 3
+    },
+    {
+        "text": "Article 7.  The sub-funds",
+        "page": 72,
+        "id": 165,
+        "depth": 2
+    },
+    {
+        "text": "§ 32 The sub-funds",
+        "page": 72,
+        "id": 166,
+        "depth": 3
+    },
+    {
+        "text": "§ 33 Term of the individual sub-funds",
+        "page": 72,
+        "id": 167,
+        "depth": 3
+    },
+    {
+        "text": "§ 34 Liquidation of one or several of the sub-funds",
+        "page": 72,
+        "id": 168,
+        "depth": 3
+    },
+    {
+        "text": "Article 8. Auditor",
+        "page": 73,
+        "id": 169,
+        "depth": 2
+    },
+    {
+        "text": "§ 35 Auditor",
+        "page": 73,
+        "id": 170,
+        "depth": 3
+    },
+    {
+        "text": "Article 9. Final provisions",
+        "page": 73,
+        "id": 171,
+        "depth": 2
+    },
+    {
+        "text": "§ 36 Utilisation of income",
+        "page": 73,
+        "id": 172,
+        "depth": 3
+    },
+    {
+        "text": "§ 37 Reporting",
+        "page": 74,
+        "id": 173,
+        "depth": 3
+    },
+    {
+        "text": "§ 38 Costs",
+        "page": 74,
+        "id": 174,
+        "depth": 3
+    },
+    {
+        "text": "§ 39 Financial year",
+        "page": 77,
+        "id": 175,
+        "depth": 3
+    },
+    {
+        "text": "§ 40 Custodian Bank",
+        "page": 77,
+        "id": 176,
+        "depth": 3
+    },
+    {
+        "text": "§ 41 Amendment to the Articles of Association",
+        "page": 77,
+        "id": 177,
+        "depth": 3
+    },
+    {
+        "text": "§ 42 General provisions",
+        "page": 77,
+        "id": 178,
+        "depth": 3
+    }
+]

@@ -1,0 +1,662 @@
+[
+    {
+        "text": "Sales Prospectus",
+        "page": 1,
+        "id": 1,
+        "depth": 1
+    },
+    {
+        "text": "Management and Administration",
+        "page": 3,
+        "id": 2,
+        "depth": 2
+    },
+    {
+        "text": "Registered office",
+        "page": 3,
+        "id": 3,
+        "depth": 3
+    },
+    {
+        "text": "Board of Directors of the Company (the \"Board of Directors\")",
+        "page": 3,
+        "id": 4,
+        "depth": 3
+    },
+    {
+        "text": "Chairman",
+        "page": 3,
+        "id": 5,
+        "depth": 4
+    },
+    {
+        "text": "Members",
+        "page": 3,
+        "id": 6,
+        "depth": 4
+    },
+    {
+        "text": "Management Company",
+        "page": 3,
+        "id": 7,
+        "depth": 3
+    },
+    {
+        "text": "Directors of the Management Company",
+        "page": 4,
+        "id": 8,
+        "depth": 3
+    },
+    {
+        "text": "Chairman",
+        "page": 4,
+        "id": 9,
+        "depth": 4
+    },
+    {
+        "text": "Members",
+        "page": 4,
+        "id": 10,
+        "depth": 4
+    },
+    {
+        "text": "Conducting officers of the Management Company",
+        "page": 4,
+        "id": 11,
+        "depth": 3
+    },
+    {
+        "text": "Portfolio management",
+        "page": 4,
+        "id": 12,
+        "depth": 3
+    },
+    {
+        "text": "Eligible Portfolio Managers for the sub-funds",
+        "page": 5,
+        "id": 13,
+        "depth": 3
+    },
+    {
+        "text": "Currency Manager",
+        "page": 6,
+        "id": 14,
+        "depth": 3
+    },
+    {
+        "text": "Portfolio Manager selection and asset allocation",
+        "page": 6,
+        "id": 15,
+        "depth": 3
+    },
+    {
+        "text": "Transition Advisor",
+        "page": 7,
+        "id": 16,
+        "depth": 3
+    },
+    {
+        "text": "Pooling of Assets",
+        "page": 7,
+        "id": 17,
+        "depth": 3
+    },
+    {
+        "text": "Pooling",
+        "page": 7,
+        "id": 18,
+        "depth": 3
+    },
+    {
+        "text": "Co-Management",
+        "page": 8,
+        "id": 19,
+        "depth": 3
+    },
+    {
+        "text": "Depositary and main paying agent",
+        "page": 9,
+        "id": 20,
+        "depth": 3
+    },
+    {
+        "text": "Administrative Agent",
+        "page": 10,
+        "id": 21,
+        "depth": 3
+    },
+    {
+        "text": "Auditor of the Company",
+        "page": 10,
+        "id": 22,
+        "depth": 3
+    },
+    {
+        "text": "Paying agents",
+        "page": 11,
+        "id": 23,
+        "depth": 3
+    },
+    {
+        "text": "Rights of investors against the service providers of the Company",
+        "page": 11,
+        "id": 24,
+        "depth": 3
+    },
+    {
+        "text": "Profile of the typical investor",
+        "page": 11,
+        "id": 25,
+        "depth": 3
+    },
+    {
+        "text": "Historical performance",
+        "page": 11,
+        "id": 26,
+        "depth": 3
+    },
+    {
+        "text": "Risk profile",
+        "page": 11,
+        "id": 27,
+        "depth": 3
+    },
+    {
+        "text": "Data protection",
+        "page": 12,
+        "id": 28,
+        "depth": 3
+    },
+    {
+        "text": "The Company",
+        "page": 12,
+        "id": 29,
+        "depth": 2
+    },
+    {
+        "text": "Initial issue price of shares",
+        "page": 13,
+        "id": 30,
+        "depth": 3
+    },
+    {
+        "text": "Currency Hedged Share Classes",
+        "page": 13,
+        "id": 31,
+        "depth": 3
+    },
+    {
+        "text": "Hedging",
+        "page": 13,
+        "id": 32,
+        "depth": 3
+    },
+    {
+        "text": "“UKdist”",
+        "page": 13,
+        "id": 33,
+        "depth": 3
+    },
+    {
+        "text": "Legal Aspects",
+        "page": 13,
+        "id": 34,
+        "depth": 3
+    },
+    {
+        "text": "Investment Objective and Investment Policy of the sub-funds",
+        "page": 14,
+        "id": 35,
+        "depth": 3
+    },
+    {
+        "text": "Investment Objective",
+        "page": 14,
+        "id": 36,
+        "depth": 4
+    },
+    {
+        "text": "B. Investment Policy of each sub-fund",
+        "page": 14,
+        "id": 37,
+        "depth": 4
+    },
+    {
+        "text": "General",
+        "page": 14,
+        "id": 38,
+        "depth": 5
+    },
+    {
+        "text": "Use of financial derivative instruments",
+        "page": 15,
+        "id": 39,
+        "depth": 5
+    },
+    {
+        "text": "Collateral Management",
+        "page": 15,
+        "id": 40,
+        "depth": 5
+    },
+    {
+        "text": "Use of EPM Techniques",
+        "page": 16,
+        "id": 41,
+        "depth": 5
+    },
+    {
+        "text": "Leverage",
+        "page": 16,
+        "id": 42,
+        "depth": 5
+    },
+    {
+        "text": "Risk Factors",
+        "page": 17,
+        "id": 43,
+        "depth": 4
+    },
+    {
+        "text": "General economic conditions",
+        "page": 17,
+        "id": 44,
+        "depth": 5
+    },
+    {
+        "text": "Nominee arrangements",
+        "page": 17,
+        "id": 45,
+        "depth": 5
+    },
+    {
+        "text": "Use of derivatives",
+        "page": 17,
+        "id": 46,
+        "depth": 5
+    },
+    {
+        "text": "Synthetic short selling",
+        "page": 18,
+        "id": 47,
+        "depth": 5
+    },
+    {
+        "text": "Synthetic leverage",
+        "page": 19,
+        "id": 48,
+        "depth": 5
+    },
+    {
+        "text": "Insolvency risk on swap counterparties",
+        "page": 19,
+        "id": 49,
+        "depth": 5
+    },
+    {
+        "text": "Potential illiquidity of exchange traded instruments and swap contracts",
+        "page": 19,
+        "id": 50,
+        "depth": 5
+    },
+    {
+        "text": "Ability to take positions through swap contracts",
+        "page": 19,
+        "id": 51,
+        "depth": 5
+    },
+    {
+        "text": "Market Risk",
+        "page": 19,
+        "id": 52,
+        "depth": 5
+    },
+    {
+        "text": "Emerging Markets",
+        "page": 20,
+        "id": 53,
+        "depth": 5
+    },
+    {
+        "text": "Forward Foreign Exchange Contracts",
+        "page": 21,
+        "id": 54,
+        "depth": 5
+    },
+    {
+        "text": "Currency Options",
+        "page": 21,
+        "id": 55,
+        "depth": 5
+    },
+    {
+        "text": "Currency Exposure",
+        "page": 21,
+        "id": 56,
+        "depth": 5
+    },
+    {
+        "text": "Leverage, interest rates and margin",
+        "page": 21,
+        "id": 57,
+        "depth": 5
+    },
+    {
+        "text": "Use of EPM Techniques",
+        "page": 22,
+        "id": 58,
+        "depth": 5
+    },
+    {
+        "text": "High-yield securities",
+        "page": 22,
+        "id": 59,
+        "depth": 5
+    },
+    {
+        "text": "Equities",
+        "page": 23,
+        "id": 60,
+        "depth": 5
+    },
+    {
+        "text": "Investments in UCI and UCITS",
+        "page": 23,
+        "id": 61,
+        "depth": 5
+    },
+    {
+        "text": "Potential risks to investing in contingent convertible bonds",
+        "page": 23,
+        "id": 62,
+        "depth": 5
+    },
+    {
+        "text": "Conflicts of interest",
+        "page": 24,
+        "id": 63,
+        "depth": 5
+    },
+    {
+        "text": "Investments in Multi Manager Access II",
+        "page": 25,
+        "id": 64,
+        "depth": 3
+    },
+    {
+        "text": "Conditions for the issue and redemption of shares",
+        "page": 25,
+        "id": 65,
+        "depth": 4
+    },
+    {
+        "text": "B. Net asset value",
+        "page": 27,
+        "id": 66,
+        "depth": 4
+    },
+    {
+        "text": "C. Market-Timing and Late Trading",
+        "page": 29,
+        "id": 67,
+        "depth": 4
+    },
+    {
+        "text": "D. Issue of shares",
+        "page": 29,
+        "id": 68,
+        "depth": 4
+    },
+    {
+        "text": "E. Redemption of shares",
+        "page": 30,
+        "id": 69,
+        "depth": 4
+    },
+    {
+        "text": "F. Conversion of shares",
+        "page": 31,
+        "id": 70,
+        "depth": 4
+    },
+    {
+        "text": "G. Prevention of money laundering",
+        "page": 32,
+        "id": 71,
+        "depth": 4
+    },
+    {
+        "text": "H. Suspension of the net asset value calculation and of the issue, redemption and conversion of shares",
+        "page": 32,
+        "id": 72,
+        "depth": 4
+    },
+    {
+        "text": "I. Distribution of income",
+        "page": 33,
+        "id": 73,
+        "depth": 4
+    },
+    {
+        "text": "J. Taxes and expenses",
+        "page": 33,
+        "id": 74,
+        "depth": 4
+    },
+    {
+        "text": "Tax",
+        "page": 33,
+        "id": 75,
+        "depth": 5
+    },
+    {
+        "text": "Taxation in accordance with European law",
+        "page": 34,
+        "id": 76,
+        "depth": 5
+    },
+    {
+        "text": "Foreign Account Tax Compliance Act (\"FATCA\")",
+        "page": 34,
+        "id": 77,
+        "depth": 5
+    },
+    {
+        "text": "Expenses paid by the Company",
+        "page": 35,
+        "id": 78,
+        "depth": 5
+    },
+    {
+        "text": "Operation and administration expenses of the Company",
+        "page": 35,
+        "id": 79,
+        "depth": 5
+    },
+    {
+        "text": "Information to Shareholders",
+        "page": 36,
+        "id": 80,
+        "depth": 3
+    },
+    {
+        "text": "A. Regular reports and publications",
+        "page": 36,
+        "id": 81,
+        "depth": 4
+    },
+    {
+        "text": "B. Lodgment of documents and regular reports",
+        "page": 37,
+        "id": 82,
+        "depth": 4
+    },
+    {
+        "text": "Liquidation and Merging of the Company, its sub-funds and share classes",
+        "page": 37,
+        "id": 83,
+        "depth": 3
+    },
+    {
+        "text": "A. Liquidation of the Company, its sub-funds and share classes",
+        "page": 37,
+        "id": 84,
+        "depth": 4
+    },
+    {
+        "text": "B. Merger of sub-funds or one sub-fund with another undertaking for collective investment (UCI)",
+        "page": 38,
+        "id": 85,
+        "depth": 4
+    },
+    {
+        "text": "C. General meeting of shareholders",
+        "page": 38,
+        "id": 86,
+        "depth": 4
+    },
+    {
+        "text": "Applicable Law, Place of Performance and Authoritative Language",
+        "page": 38,
+        "id": 87,
+        "depth": 3
+    },
+    {
+        "text": "Investment Restrictions",
+        "page": 39,
+        "id": 88,
+        "depth": 3
+    },
+    {
+        "text": "Special Investment Policy of the sub-funds",
+        "page": 39,
+        "id": 89,
+        "depth": 2
+    },
+    {
+        "text": "Multi Manager Access II – European Multi Credit",
+        "page": 39,
+        "id": 90,
+        "depth": 3
+    },
+    {
+        "text": "Multi Manager Access II – US Multi Credit",
+        "page": 40,
+        "id": 91,
+        "depth": 3
+    },
+    {
+        "text": "Multi Manager Access II – Global Fixed Income Enhanced Strategies",
+        "page": 40,
+        "id": 92,
+        "depth": 3
+    },
+    {
+        "text": "Multi Manager Access II – Flexible",
+        "page": 40,
+        "id": 93,
+        "depth": 3
+    },
+    {
+        "text": "Multi Manager Access II – Emerging Markets Debt",
+        "page": 41,
+        "id": 94,
+        "depth": 3
+    },
+    {
+        "text": "Multi Manager Access II – High Yield",
+        "page": 41,
+        "id": 95,
+        "depth": 3
+    },
+    {
+        "text": "ANNEX 1 - INVESTMENT RESTRICTIONS",
+        "page": 42,
+        "id": 96,
+        "depth": 1
+    },
+    {
+        "text": "1. INVESTMENT INSTRUMENTS AND RESTRICTIONS",
+        "page": 42,
+        "id": 97,
+        "depth": 2
+    },
+    {
+        "text": "Risk diversification",
+        "page": 43,
+        "id": 98,
+        "depth": 3
+    },
+    {
+        "text": "Exceptions which can be made",
+        "page": 44,
+        "id": 99,
+        "depth": 3
+    },
+    {
+        "text": "Investment in UCITS and/or other UCIs",
+        "page": 44,
+        "id": 100,
+        "depth": 3
+    },
+    {
+        "text": "Tolerances, UCITS and other UCIs with multiple compartments",
+        "page": 45,
+        "id": 101,
+        "depth": 3
+    },
+    {
+        "text": "Investment prohibitions",
+        "page": 45,
+        "id": 102,
+        "depth": 3
+    },
+    {
+        "text": "Investments between sub-funds",
+        "page": 46,
+        "id": 103,
+        "depth": 3
+    },
+    {
+        "text": "2. USE OF FINANCIAL DERIVATIVE INSTRUMENTS AND EFFICIENT PORTFOLIO MANAGEMENT TECHNIQUES",
+        "page": 46,
+        "id": 104,
+        "depth": 2
+    },
+    {
+        "text": "Financial derivative instruments and EPM Techniques",
+        "page": 46,
+        "id": 105,
+        "depth": 3
+    },
+    {
+        "text": "Collateral policy for OTC Derivatives and EPM Techniques",
+        "page": 48,
+        "id": 106,
+        "depth": 3
+    },
+    {
+        "text": "ANNEX II – DEFINITIONS",
+        "page": 52,
+        "id": 107,
+        "depth": 1
+    },
+    {
+        "text": "Additional information for investors in the Federal Republic of Germany",
+        "page": 54,
+        "id": 108,
+        "depth": 1
+    },
+    {
+        "text": "Domestic Information Agent",
+        "page": 54,
+        "id": 109,
+        "depth": 2
+    },
+    {
+        "text": "Publications",
+        "page": 54,
+        "id": 110,
+        "depth": 2
+    }
+]

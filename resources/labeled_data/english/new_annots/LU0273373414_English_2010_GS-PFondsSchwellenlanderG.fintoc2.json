@@ -1,0 +1,794 @@
+[
+    {
+        "text": "Kapitalfonds L.K.",
+        "page": 1,
+        "id": 1,
+        "depth": 1
+    },
+    {
+        "text": "Contents",
+        "page": 2,
+        "id": 2,
+        "depth": 2
+    },
+    {
+        "text": "Management and administration",
+        "page": 4,
+        "id": 3,
+        "depth": 2
+    },
+    {
+        "text": "Fund management company",
+        "page": 4,
+        "id": 4,
+        "depth": 3
+    },
+    {
+        "text": "Board of directors of the fund management company",
+        "page": 4,
+        "id": 5,
+        "depth": 3
+    },
+    {
+        "text": "Senior management",
+        "page": 4,
+        "id": 6,
+        "depth": 3
+    },
+    {
+        "text": "Auditors",
+        "page": 4,
+        "id": 7,
+        "depth": 3
+    },
+    {
+        "text": "Depositary, registrar and transfer agent",
+        "page": 4,
+        "id": 8,
+        "depth": 3
+    },
+    {
+        "text": "Central administrative agent",
+        "page": 4,
+        "id": 9,
+        "depth": 3
+    },
+    {
+        "text": "Paying agent",
+        "page": 4,
+        "id": 10,
+        "depth": 3
+    },
+    {
+        "text": "Selling agents",
+        "page": 4,
+        "id": 11,
+        "depth": 3
+    },
+    {
+        "text": "Legal advisers",
+        "page": 4,
+        "id": 12,
+        "depth": 3
+    },
+    {
+        "text": "Prospectus Kapitalfonds L.K.",
+        "page": 6,
+        "id": 13,
+        "depth": 1
+    },
+    {
+        "text": "1. Introduction",
+        "page": 6,
+        "id": 14,
+        "depth": 2
+    },
+    {
+        "text": "2. Fund management regulations",
+        "page": 7,
+        "id": 15,
+        "depth": 2
+    },
+    {
+        "text": "3. Fund management company",
+        "page": 7,
+        "id": 16,
+        "depth": 2
+    },
+    {
+        "text": "4. Registrar and transfer agent, central administrative agent and paying agent",
+        "page": 8,
+        "id": 17,
+        "depth": 2
+    },
+    {
+        "text": "4.1 Registrar and transfer agent, paying agent",
+        "page": 8,
+        "id": 18,
+        "depth": 3
+    },
+    {
+        "text": "4.2 Central administrative agent",
+        "page": 8,
+        "id": 19,
+        "depth": 3
+    },
+    {
+        "text": "5. Investment objectives and policy",
+        "page": 9,
+        "id": 20,
+        "depth": 2
+    },
+    {
+        "text": "Risk factors",
+        "page": 9,
+        "id": 21,
+        "depth": 3
+    },
+    {
+        "text": "6. Investment policy and investment limits",
+        "page": 12,
+        "id": 22,
+        "depth": 2
+    },
+    {
+        "text": "7. Depositary",
+        "page": 12,
+        "id": 23,
+        "depth": 2
+    },
+    {
+        "text": "8. Purchase, redemption and exchange of units",
+        "page": 13,
+        "id": 24,
+        "depth": 2
+    },
+    {
+        "text": "9. Contacts (asset value, issue price, redemption price)",
+        "page": 14,
+        "id": 25,
+        "depth": 2
+    },
+    {
+        "text": "10. Information provided for unit holders",
+        "page": 14,
+        "id": 26,
+        "depth": 2
+    },
+    {
+        "text": "11. Prevention of market timing and late trading practices",
+        "page": 15,
+        "id": 27,
+        "depth": 2
+    },
+    {
+        "text": "12. Taxes",
+        "page": 15,
+        "id": 28,
+        "depth": 2
+    },
+    {
+        "text": "12.1. Taxation of fund assets",
+        "page": 15,
+        "id": 29,
+        "depth": 3
+    },
+    {
+        "text": "12.2. Taxation of unit holders",
+        "page": 15,
+        "id": 30,
+        "depth": 3
+    },
+    {
+        "text": "13. Additional information",
+        "page": 16,
+        "id": 31,
+        "depth": 2
+    },
+    {
+        "text": "Annexes to the prospectus",
+        "page": 17,
+        "id": 32,
+        "depth": 1
+    },
+    {
+        "text": "Euro-Anleihen-Unterfonds",
+        "page": 17,
+        "id": 33,
+        "depth": 2
+    },
+    {
+        "text": "Investment policy and objectives",
+        "page": 17,
+        "id": 34,
+        "depth": 3
+    },
+    {
+        "text": "Profile of the typical investor",
+        "page": 17,
+        "id": 35,
+        "depth": 3
+    },
+    {
+        "text": "Risk profile",
+        "page": 17,
+        "id": 36,
+        "depth": 3
+    },
+    {
+        "text": "Units",
+        "page": 17,
+        "id": 37,
+        "depth": 3
+    },
+    {
+        "text": "Costs",
+        "page": 17,
+        "id": 38,
+        "depth": 3
+    },
+    {
+        "text": "Deutschland aktiv-Unterfonds",
+        "page": 18,
+        "id": 39,
+        "depth": 2
+    },
+    {
+        "text": "Investment policy and objectives",
+        "page": 18,
+        "id": 40,
+        "depth": 3
+    },
+    {
+        "text": "Profile of the typical investor",
+        "page": 18,
+        "id": 41,
+        "depth": 3
+    },
+    {
+        "text": "Risk profile",
+        "page": 18,
+        "id": 42,
+        "depth": 3
+    },
+    {
+        "text": "Units",
+        "page": 18,
+        "id": 43,
+        "depth": 3
+    },
+    {
+        "text": "Costs",
+        "page": 19,
+        "id": 44,
+        "depth": 3
+    },
+    {
+        "text": "EuroRentenAktiv-Unterfonds",
+        "page": 20,
+        "id": 45,
+        "depth": 2
+    },
+    {
+        "text": "Investment policy and objectives",
+        "page": 20,
+        "id": 46,
+        "depth": 3
+    },
+    {
+        "text": "Profile of the typical investor",
+        "page": 20,
+        "id": 47,
+        "depth": 3
+    },
+    {
+        "text": "Risk profile",
+        "page": 20,
+        "id": 48,
+        "depth": 3
+    },
+    {
+        "text": "Units and distributions",
+        "page": 20,
+        "id": 49,
+        "depth": 3
+    },
+    {
+        "text": "Costs",
+        "page": 21,
+        "id": 50,
+        "depth": 3
+    },
+    {
+        "text": "Schwellenländer-Unterfonds",
+        "page": 22,
+        "id": 51,
+        "depth": 2
+    },
+    {
+        "text": "Investment policy and objectives",
+        "page": 22,
+        "id": 52,
+        "depth": 3
+    },
+    {
+        "text": "Profile of the typical investor",
+        "page": 22,
+        "id": 53,
+        "depth": 3
+    },
+    {
+        "text": "Risk profile",
+        "page": 23,
+        "id": 54,
+        "depth": 3
+    },
+    {
+        "text": "Units and distributions",
+        "page": 23,
+        "id": 55,
+        "depth": 3
+    },
+    {
+        "text": "Costs",
+        "page": 23,
+        "id": 56,
+        "depth": 3
+    },
+    {
+        "text": "Global Value-Unterfonds",
+        "page": 24,
+        "id": 57,
+        "depth": 2
+    },
+    {
+        "text": "Investment policy and objectives",
+        "page": 24,
+        "id": 58,
+        "depth": 3
+    },
+    {
+        "text": "Profile of the typical investor",
+        "page": 24,
+        "id": 59,
+        "depth": 3
+    },
+    {
+        "text": "Risk profile",
+        "page": 25,
+        "id": 60,
+        "depth": 3
+    },
+    {
+        "text": "Units and distributions",
+        "page": 25,
+        "id": 61,
+        "depth": 3
+    },
+    {
+        "text": "Costs",
+        "page": 25,
+        "id": 62,
+        "depth": 3
+    },
+    {
+        "text": "Family Business-Unterfonds",
+        "page": 26,
+        "id": 63,
+        "depth": 2
+    },
+    {
+        "text": "Investment policy and objectives",
+        "page": 26,
+        "id": 64,
+        "depth": 3
+    },
+    {
+        "text": "Profile of the typical investor",
+        "page": 26,
+        "id": 65,
+        "depth": 3
+    },
+    {
+        "text": "Risk profile",
+        "page": 26,
+        "id": 66,
+        "depth": 3
+    },
+    {
+        "text": "Units and distributions",
+        "page": 26,
+        "id": 67,
+        "depth": 3
+    },
+    {
+        "text": "Costs",
+        "page": 27,
+        "id": 68,
+        "depth": 3
+    },
+    {
+        "text": "Aktien Europa-Unterfonds",
+        "page": 28,
+        "id": 69,
+        "depth": 2
+    },
+    {
+        "text": "Investment policy and objectives",
+        "page": 28,
+        "id": 70,
+        "depth": 3
+    },
+    {
+        "text": "Profile of the typical investor",
+        "page": 28,
+        "id": 71,
+        "depth": 3
+    },
+    {
+        "text": "Risk profile",
+        "page": 28,
+        "id": 72,
+        "depth": 3
+    },
+    {
+        "text": "Units",
+        "page": 28,
+        "id": 73,
+        "depth": 3
+    },
+    {
+        "text": "Costs",
+        "page": 29,
+        "id": 74,
+        "depth": 3
+    },
+    {
+        "text": "Aktien-Global-Dividends-Unterfonds",
+        "page": 30,
+        "id": 75,
+        "depth": 2
+    },
+    {
+        "text": "Investment policy and objectives",
+        "page": 30,
+        "id": 76,
+        "depth": 3
+    },
+    {
+        "text": "Profile of the typical investor",
+        "page": 31,
+        "id": 77,
+        "depth": 3
+    },
+    {
+        "text": "Risk profile",
+        "page": 31,
+        "id": 78,
+        "depth": 3
+    },
+    {
+        "text": "Units and distributions",
+        "page": 31,
+        "id": 79,
+        "depth": 3
+    },
+    {
+        "text": "Costs",
+        "page": 31,
+        "id": 80,
+        "depth": 3
+    },
+    {
+        "text": "GAP-Unterfonds",
+        "page": 33,
+        "id": 81,
+        "depth": 2
+    },
+    {
+        "text": "Investment policy and objectives",
+        "page": 33,
+        "id": 82,
+        "depth": 3
+    },
+    {
+        "text": "Profile of the typical investor",
+        "page": 33,
+        "id": 83,
+        "depth": 3
+    },
+    {
+        "text": "Risk profile",
+        "page": 33,
+        "id": 84,
+        "depth": 3
+    },
+    {
+        "text": "Investment manager",
+        "page": 33,
+        "id": 85,
+        "depth": 3
+    },
+    {
+        "text": "Investment advisers",
+        "page": 34,
+        "id": 86,
+        "depth": 3
+    },
+    {
+        "text": "Units",
+        "page": 34,
+        "id": 87,
+        "depth": 3
+    },
+    {
+        "text": "Costs",
+        "page": 34,
+        "id": 88,
+        "depth": 3
+    },
+    {
+        "text": "Global Markets-Unterfonds",
+        "page": 35,
+        "id": 89,
+        "depth": 2
+    },
+    {
+        "text": "Investment policy and objectives",
+        "page": 35,
+        "id": 90,
+        "depth": 3
+    },
+    {
+        "text": "Profile of the typical investor",
+        "page": 35,
+        "id": 91,
+        "depth": 3
+    },
+    {
+        "text": "Risk profile",
+        "page": 35,
+        "id": 92,
+        "depth": 3
+    },
+    {
+        "text": "Units",
+        "page": 36,
+        "id": 93,
+        "depth": 3
+    },
+    {
+        "text": "Costs",
+        "page": 36,
+        "id": 94,
+        "depth": 3
+    },
+    {
+        "text": "Golden Gate International Trends-Unterfonds",
+        "page": 37,
+        "id": 95,
+        "depth": 2
+    },
+    {
+        "text": "Investment policy and objectives",
+        "page": 37,
+        "id": 96,
+        "depth": 3
+    },
+    {
+        "text": "Profile of the typical investor",
+        "page": 37,
+        "id": 97,
+        "depth": 3
+    },
+    {
+        "text": "Risk profile",
+        "page": 37,
+        "id": 98,
+        "depth": 3
+    },
+    {
+        "text": "Units",
+        "page": 38,
+        "id": 99,
+        "depth": 3
+    },
+    {
+        "text": "Costs",
+        "page": 38,
+        "id": 100,
+        "depth": 3
+    },
+    {
+        "text": "Euro Konzept-Unterfonds",
+        "page": 39,
+        "id": 101,
+        "depth": 2
+    },
+    {
+        "text": "Investment policy and objectives",
+        "page": 39,
+        "id": 102,
+        "depth": 3
+    },
+    {
+        "text": "Profile of the typical investor",
+        "page": 39,
+        "id": 103,
+        "depth": 3
+    },
+    {
+        "text": "Risk profile",
+        "page": 39,
+        "id": 104,
+        "depth": 3
+    },
+    {
+        "text": "Units",
+        "page": 39,
+        "id": 105,
+        "depth": 3
+    },
+    {
+        "text": "Costs",
+        "page": 39,
+        "id": 106,
+        "depth": 3
+    },
+    {
+        "text": "Fund Management Regulations",
+        "page": 41,
+        "id": 107,
+        "depth": 1
+    },
+    {
+        "text": "Article 1 The fund",
+        "page": 41,
+        "id": 108,
+        "depth": 2
+    },
+    {
+        "text": "Article 2 Fund management company",
+        "page": 42,
+        "id": 109,
+        "depth": 2
+    },
+    {
+        "text": "Article 3 Depositary",
+        "page": 42,
+        "id": 110,
+        "depth": 2
+    },
+    {
+        "text": "Article 4 Registrar and transfer agent",
+        "page": 43,
+        "id": 111,
+        "depth": 2
+    },
+    {
+        "text": "Article 5 General investment principles and investment limits",
+        "page": 43,
+        "id": 112,
+        "depth": 2
+    },
+    {
+        "text": "Article 6",
+        "page": 47,
+        "id": 113,
+        "depth": 2
+    },
+    {
+        "text": "a. General provisions",
+        "page": 47,
+        "id": 114,
+        "depth": 3
+    },
+    {
+        "text": "b. Repurchase agreements for transferable securities",
+        "page": 48,
+        "id": 115,
+        "depth": 3
+    },
+    {
+        "text": "c. Lending of transferable securities",
+        "page": 48,
+        "id": 116,
+        "depth": 3
+    },
+    {
+        "text": "d. Other techniques and instruments",
+        "page": 49,
+        "id": 117,
+        "depth": 3
+    },
+    {
+        "text": "Article 7 Fund units",
+        "page": 49,
+        "id": 118,
+        "depth": 2
+    },
+    {
+        "text": "Article 8 Issuance of units",
+        "page": 49,
+        "id": 119,
+        "depth": 2
+    },
+    {
+        "text": "Article 9 Calculation of unit price",
+        "page": 50,
+        "id": 120,
+        "depth": 2
+    },
+    {
+        "text": "Article 10 Suspension of the calculation of the unit price",
+        "page": 51,
+        "id": 121,
+        "depth": 2
+    },
+    {
+        "text": "Article 11 Redemption of units",
+        "page": 51,
+        "id": 122,
+        "depth": 2
+    },
+    {
+        "text": "Article 12 Exchange of units",
+        "page": 51,
+        "id": 123,
+        "depth": 2
+    },
+    {
+        "text": "Article 13 Financial year and auditing",
+        "page": 52,
+        "id": 124,
+        "depth": 2
+    },
+    {
+        "text": "Article 14 Duration and liquidation of the fund and the sub-funds",
+        "page": 52,
+        "id": 125,
+        "depth": 2
+    },
+    {
+        "text": "Article 15 Merger of sub-funds",
+        "page": 53,
+        "id": 126,
+        "depth": 2
+    },
+    {
+        "text": "Article 16 Expenses and general costs",
+        "page": 53,
+        "id": 127,
+        "depth": 2
+    },
+    {
+        "text": "Article 17 Time limits and presentation deadlines",
+        "page": 54,
+        "id": 128,
+        "depth": 2
+    },
+    {
+        "text": "Article 18 Amendments to the fund management regulations and publication of the amendments",
+        "page": 54,
+        "id": 129,
+        "depth": 2
+    },
+    {
+        "text": "Article 19 Publication of other information",
+        "page": 54,
+        "id": 130,
+        "depth": 2
+    },
+    {
+        "text": "Article 20 Applicable law, place of jurisdiction and contract language",
+        "page": 55,
+        "id": 131,
+        "depth": 2
+    },
+    {
+        "text": "Article 21 Effective date",
+        "page": 55,
+        "id": 132,
+        "depth": 2
+    }
+]

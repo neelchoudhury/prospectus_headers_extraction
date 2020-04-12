@@ -1,0 +1,1016 @@
+[
+    {
+        "text": "S A L E S   P R O S P E C T U S",
+        "page": 1,
+        "id": 1,
+        "depth": 1
+    },
+    {
+        "text": "Arabesque SICAV",
+        "page": 1,
+        "id": 2,
+        "depth": 2
+    },
+    {
+        "text": "Table of Contents",
+        "page": 2,
+        "id": 3,
+        "depth": 3
+    },
+    {
+        "text": "Management, distribution and advisory services",
+        "page": 4,
+        "id": 4,
+        "depth": 3
+    },
+    {
+        "text": "INVESTMENT COMPANY",
+        "page": 4,
+        "id": 5,
+        "depth": 4
+    },
+    {
+        "text": "Board of Directors of the Investment Company",
+        "page": 4,
+        "id": 6,
+        "depth": 5
+    },
+    {
+        "text": "Chairman of the Board of Directors",
+        "page": 4,
+        "id": 7,
+        "depth": 6
+    },
+    {
+        "text": "Deputy Chairman of the Board of Directors",
+        "page": 4,
+        "id": 8,
+        "depth": 6
+    },
+    {
+        "text": "Member of the Board of Directors",
+        "page": 4,
+        "id": 9,
+        "depth": 6
+    },
+    {
+        "text": "AUDITORS OF THE INVESTMENT COMPANY",
+        "page": 4,
+        "id": 10,
+        "depth": 4
+    },
+    {
+        "text": "Management Company",
+        "page": 5,
+        "id": 11,
+        "depth": 4
+    },
+    {
+        "text": "Management Company Executives (management body)",
+        "page": 5,
+        "id": 12,
+        "depth": 5
+    },
+    {
+        "text": "Board of Directors of the Management Company",
+        "page": 5,
+        "id": 13,
+        "depth": 5
+    },
+    {
+        "text": "Chairman of the Board of Directors",
+        "page": 5,
+        "id": 14,
+        "depth": 6
+    },
+    {
+        "text": "Board of Directors",
+        "page": 5,
+        "id": 15,
+        "depth": 6
+    },
+    {
+        "text": "Auditor of the Management Company",
+        "page": 5,
+        "id": 16,
+        "depth": 4
+    },
+    {
+        "text": "DEPOSITARY",
+        "page": 6,
+        "id": 17,
+        "depth": 4
+    },
+    {
+        "text": "CENTRAL ADMINISTRATION AGENT AND REGISTRAR AND TRANSFER AGENT",
+        "page": 6,
+        "id": 18,
+        "depth": 4
+    },
+    {
+        "text": "FUND MANAGER",
+        "page": 6,
+        "id": 19,
+        "depth": 4
+    },
+    {
+        "text": "PAYING AGENT",
+        "page": 6,
+        "id": 20,
+        "depth": 4
+    },
+    {
+        "text": "Sales Prospectus",
+        "page": 8,
+        "id": 21,
+        "depth": 3
+    },
+    {
+        "text": "The Investment Company",
+        "page": 8,
+        "id": 22,
+        "depth": 4
+    },
+    {
+        "text": "The Management Company",
+        "page": 9,
+        "id": 23,
+        "depth": 4
+    },
+    {
+        "text": "Depositary and paying agent",
+        "page": 11,
+        "id": 24,
+        "depth": 4
+    },
+    {
+        "text": "Registrar and transfer agent",
+        "page": 11,
+        "id": 25,
+        "depth": 4
+    },
+    {
+        "text": "Central Administration Agent",
+        "page": 11,
+        "id": 26,
+        "depth": 4
+    },
+    {
+        "text": "Fund Manager",
+        "page": 12,
+        "id": 27,
+        "depth": 4
+    },
+    {
+        "text": "Legal position of shareholders",
+        "page": 12,
+        "id": 28,
+        "depth": 4
+    },
+    {
+        "text": "General Information on trading in the sub-fund's shares",
+        "page": 13,
+        "id": 29,
+        "depth": 4
+    },
+    {
+        "text": "Investment policy",
+        "page": 14,
+        "id": 30,
+        "depth": 4
+    },
+    {
+        "text": "Information on derivatives and other techniques and instruments",
+        "page": 14,
+        "id": 31,
+        "depth": 4
+    },
+    {
+        "text": "1.  Options privilege",
+        "page": 14,
+        "id": 32,
+        "depth": 5
+    },
+    {
+        "text": "2.  Financial futures contracts",
+        "page": 15,
+        "id": 33,
+        "depth": 5
+    },
+    {
+        "text": "3.  Derivatives embedded in financial instruments",
+        "page": 15,
+        "id": 34,
+        "depth": 5
+    },
+    {
+        "text": "4.  Securities financing transactions",
+        "page": 15,
+        "id": 35,
+        "depth": 5
+    },
+    {
+        "text": "4.1   Securities lending",
+        "page": 15,
+        "id": 36,
+        "depth": 6
+    },
+    {
+        "text": "4.2  Securities repurchase agreements",
+        "page": 17,
+        "id": 37,
+        "depth": 6
+    },
+    {
+        "text": "5.  Currency futures contracts",
+        "page": 18,
+        "id": 38,
+        "depth": 5
+    },
+    {
+        "text": "6.  Swaps",
+        "page": 18,
+        "id": 39,
+        "depth": 5
+    },
+    {
+        "text": "7.  Swaptions",
+        "page": 19,
+        "id": 40,
+        "depth": 5
+    },
+    {
+        "text": "8.  Techniques for the management of credit risks",
+        "page": 19,
+        "id": 41,
+        "depth": 5
+    },
+    {
+        "text": "9.  Remarks",
+        "page": 20,
+        "id": 42,
+        "depth": 5
+    },
+    {
+        "text": "Calculation of the net asset value per share",
+        "page": 20,
+        "id": 43,
+        "depth": 4
+    },
+    {
+        "text": "Issue of shares",
+        "page": 21,
+        "id": 44,
+        "depth": 4
+    },
+    {
+        "text": "Redemption and exchange of shares",
+        "page": 22,
+        "id": 45,
+        "depth": 4
+    },
+    {
+        "text": "Risk remarks",
+        "page": 24,
+        "id": 46,
+        "depth": 4
+    },
+    {
+        "text": "General market risk",
+        "page": 24,
+        "id": 47,
+        "depth": 5
+    },
+    {
+        "text": "Interest rate change Risk",
+        "page": 24,
+        "id": 48,
+        "depth": 5
+    },
+    {
+        "text": "Risk of negative deposit rates",
+        "page": 24,
+        "id": 49,
+        "depth": 5
+    },
+    {
+        "text": "Credit risk",
+        "page": 24,
+        "id": 50,
+        "depth": 5
+    },
+    {
+        "text": "Company-specific risk",
+        "page": 25,
+        "id": 51,
+        "depth": 5
+    },
+    {
+        "text": "Risk of Counterparty Default",
+        "page": 25,
+        "id": 52,
+        "depth": 5
+    },
+    {
+        "text": "Counterparty risk",
+        "page": 25,
+        "id": 53,
+        "depth": 5
+    },
+    {
+        "text": "Currency risk",
+        "page": 26,
+        "id": 54,
+        "depth": 5
+    },
+    {
+        "text": "Industry risk",
+        "page": 26,
+        "id": 55,
+        "depth": 5
+    },
+    {
+        "text": "Country and regional risk",
+        "page": 27,
+        "id": 56,
+        "depth": 5
+    },
+    {
+        "text": "Legal and tax risk",
+        "page": 27,
+        "id": 57,
+        "depth": 5
+    },
+    {
+        "text": "Country and transfer risk",
+        "page": 27,
+        "id": 58,
+        "depth": 5
+    },
+    {
+        "text": "Liquidity risk",
+        "page": 27,
+        "id": 59,
+        "depth": 5
+    },
+    {
+        "text": "Custody risk",
+        "page": 27,
+        "id": 60,
+        "depth": 5
+    },
+    {
+        "text": "Emerging markets risks",
+        "page": 27,
+        "id": 61,
+        "depth": 5
+    },
+    {
+        "text": "Investments in Russia",
+        "page": 28,
+        "id": 62,
+        "depth": 5
+    },
+    {
+        "text": "Inflation risk",
+        "page": 28,
+        "id": 63,
+        "depth": 5
+    },
+    {
+        "text": "Concentration risk",
+        "page": 28,
+        "id": 64,
+        "depth": 5
+    },
+    {
+        "text": "Performance risk",
+        "page": 28,
+        "id": 65,
+        "depth": 5
+    },
+    {
+        "text": "Risk of liquidation",
+        "page": 28,
+        "id": 66,
+        "depth": 5
+    },
+    {
+        "text": "Settlement risk",
+        "page": 29,
+        "id": 67,
+        "depth": 5
+    },
+    {
+        "text": "Risks arising from the use of derivatives and other techniques and instruments",
+        "page": 29,
+        "id": 68,
+        "depth": 5
+    },
+    {
+        "text": "Risks of securities lending agreements",
+        "page": 29,
+        "id": 69,
+        "depth": 6
+    },
+    {
+        "text": "Risks of repurchase agreements",
+        "page": 29,
+        "id": 70,
+        "depth": 6
+    },
+    {
+        "text": "Risks related to receiving and providing collateral",
+        "page": 30,
+        "id": 71,
+        "depth": 5
+    },
+    {
+        "text": "Risks associated with target funds",
+        "page": 30,
+        "id": 72,
+        "depth": 5
+    },
+    {
+        "text": "Risk of redemption suspension",
+        "page": 31,
+        "id": 73,
+        "depth": 5
+    },
+    {
+        "text": "Potential conflicts of interest",
+        "page": 31,
+        "id": 74,
+        "depth": 5
+    },
+    {
+        "text": "Risk profile",
+        "page": 32,
+        "id": 75,
+        "depth": 4
+    },
+    {
+        "text": "Risk profile - Safety-oriented",
+        "page": 32,
+        "id": 76,
+        "depth": 5
+    },
+    {
+        "text": "Risk profile - Conservative",
+        "page": 32,
+        "id": 77,
+        "depth": 5
+    },
+    {
+        "text": "Risk profile - Growth-oriented",
+        "page": 32,
+        "id": 78,
+        "depth": 5
+    },
+    {
+        "text": "Risk profile - Speculative",
+        "page": 32,
+        "id": 79,
+        "depth": 5
+    },
+    {
+        "text": "Risk-management procedures",
+        "page": 32,
+        "id": 80,
+        "depth": 4
+    },
+    {
+        "text": "Taxation of the Investment Company and its sub-funds",
+        "page": 33,
+        "id": 81,
+        "depth": 4
+    },
+    {
+        "text": "Taxation of earnings from shares in the Investment Company held by the shareholder",
+        "page": 34,
+        "id": 82,
+        "depth": 4
+    },
+    {
+        "text": "Publication of the net asset value per share and the issue and redemption price",
+        "page": 34,
+        "id": 83,
+        "depth": 4
+    },
+    {
+        "text": "Disclosure of information to shareholders",
+        "page": 34,
+        "id": 84,
+        "depth": 4
+    },
+    {
+        "text": "Information for shareholders in the United States of America",
+        "page": 36,
+        "id": 85,
+        "depth": 4
+    },
+    {
+        "text": "Information for investors with respect to the automatic exchange of information",
+        "page": 38,
+        "id": 86,
+        "depth": 4
+    },
+    {
+        "text": "Annex 1  Arabesque SICAV – Arabesque Prime",
+        "page": 39,
+        "id": 87,
+        "depth": 3
+    },
+    {
+        "text": "Investment objectives",
+        "page": 39,
+        "id": 88,
+        "depth": 4
+    },
+    {
+        "text": "Investment policy",
+        "page": 39,
+        "id": 89,
+        "depth": 4
+    },
+    {
+        "text": "Risk profile of the sub-fund",
+        "page": 40,
+        "id": 90,
+        "depth": 4
+    },
+    {
+        "text": "Risk approach",
+        "page": 40,
+        "id": 91,
+        "depth": 4
+    },
+    {
+        "text": "Share classes of the sub-fund",
+        "page": 42,
+        "id": 92,
+        "depth": 4
+    },
+    {
+        "text": "Costs which are reimbursed from the sub-fund’s assets",
+        "page": 42,
+        "id": 93,
+        "depth": 4
+    },
+    {
+        "text": "1.  Management Company fee",
+        "page": 42,
+        "id": 94,
+        "depth": 5
+    },
+    {
+        "text": "2.  Fund management fee",
+        "page": 42,
+        "id": 95,
+        "depth": 5
+    },
+    {
+        "text": "3.  Depositary fee",
+        "page": 42,
+        "id": 96,
+        "depth": 5
+    },
+    {
+        "text": "4.  Central Administration Agent fee",
+        "page": 42,
+        "id": 97,
+        "depth": 5
+    },
+    {
+        "text": "5.  Registrar and Transfer agent fee",
+        "page": 42,
+        "id": 98,
+        "depth": 5
+    },
+    {
+        "text": "6.  Further Costs",
+        "page": 43,
+        "id": 99,
+        "depth": 5
+    },
+    {
+        "text": "Use of income",
+        "page": 43,
+        "id": 100,
+        "depth": 4
+    },
+    {
+        "text": "Annex 2  Arabesque SICAV – Arabesque Systematic",
+        "page": 44,
+        "id": 101,
+        "depth": 3
+    },
+    {
+        "text": "Investment objectives",
+        "page": 44,
+        "id": 102,
+        "depth": 4
+    },
+    {
+        "text": "Investment policy",
+        "page": 44,
+        "id": 103,
+        "depth": 4
+    },
+    {
+        "text": "Risk profile of the sub-fund",
+        "page": 45,
+        "id": 104,
+        "depth": 4
+    },
+    {
+        "text": "Risk approach",
+        "page": 45,
+        "id": 105,
+        "depth": 4
+    },
+    {
+        "text": "Share classes of the sub-fund",
+        "page": 49,
+        "id": 106,
+        "depth": 4
+    },
+    {
+        "text": "Costs which are reimbursed from the sub-fund’s assets",
+        "page": 49,
+        "id": 107,
+        "depth": 4
+    },
+    {
+        "text": "1.  Management Company fee",
+        "page": 49,
+        "id": 108,
+        "depth": 5
+    },
+    {
+        "text": "2.  Fund Management fee",
+        "page": 49,
+        "id": 109,
+        "depth": 5
+    },
+    {
+        "text": "3.  Depositary fee",
+        "page": 49,
+        "id": 110,
+        "depth": 5
+    },
+    {
+        "text": "4.  Central Administration Agent fee",
+        "page": 49,
+        "id": 111,
+        "depth": 5
+    },
+    {
+        "text": "5.  Registrar and Transfer Agent fee",
+        "page": 50,
+        "id": 112,
+        "depth": 5
+    },
+    {
+        "text": "6.  Further Costs",
+        "page": 50,
+        "id": 113,
+        "depth": 5
+    },
+    {
+        "text": "Use of income",
+        "page": 50,
+        "id": 114,
+        "depth": 4
+    },
+    {
+        "text": "Articles of Association of Arabesque SICAV",
+        "page": 51,
+        "id": 115,
+        "depth": 1
+    },
+    {
+        "text": "I.   Name, registered office and purpose of the Investment Company",
+        "page": 51,
+        "id": 116,
+        "depth": 2
+    },
+    {
+        "text": "Article 1  Name",
+        "page": 51,
+        "id": 117,
+        "depth": 3
+    },
+    {
+        "text": "Article 2  Registered office",
+        "page": 51,
+        "id": 118,
+        "depth": 3
+    },
+    {
+        "text": "Article 3  Purpose",
+        "page": 51,
+        "id": 119,
+        "depth": 3
+    },
+    {
+        "text": "Article 4  General investment principles and restrictions",
+        "page": 52,
+        "id": 120,
+        "depth": 3
+    },
+    {
+        "text": "1.  Definitions:",
+        "page": 52,
+        "id": 121,
+        "depth": 4
+    },
+    {
+        "text": "2.  Only the following categories of securities and money market instruments may be purchased:",
+        "page": 53,
+        "id": 122,
+        "depth": 4
+    },
+    {
+        "text": "4.  Techniques and instruments",
+        "page": 55,
+        "id": 123,
+        "depth": 4
+    },
+    {
+        "text": "5.  Risk diversification",
+        "page": 56,
+        "id": 124,
+        "depth": 4
+    },
+    {
+        "text": "6.  Liquid funds",
+        "page": 60,
+        "id": 125,
+        "depth": 4
+    },
+    {
+        "text": "7.  Loans and encumbrance prohibition",
+        "page": 60,
+        "id": 126,
+        "depth": 4
+    },
+    {
+        "text": "8.  Further investment guidelines",
+        "page": 61,
+        "id": 127,
+        "depth": 4
+    },
+    {
+        "text": "II.  Duration, merger and liquidation of the Investment Company or of one or several sub-funds",
+        "page": 61,
+        "id": 128,
+        "depth": 2
+    },
+    {
+        "text": "Article 5  Duration of the Investment Company",
+        "page": 61,
+        "id": 129,
+        "depth": 3
+    },
+    {
+        "text": "Article 6  Merger of the Investment Company or of one or several sub-funds",
+        "page": 61,
+        "id": 130,
+        "depth": 3
+    },
+    {
+        "text": "Article 7  Liquidation of the Investment Company or of one or several sub-funds",
+        "page": 63,
+        "id": 131,
+        "depth": 3
+    },
+    {
+        "text": "III.  Sub-funds and duration of one or several sub-funds",
+        "page": 64,
+        "id": 132,
+        "depth": 2
+    },
+    {
+        "text": "Article 8  The sub-funds",
+        "page": 64,
+        "id": 133,
+        "depth": 3
+    },
+    {
+        "text": "Article 9  Duration of the individual sub-funds",
+        "page": 64,
+        "id": 134,
+        "depth": 3
+    },
+    {
+        "text": "IV.  Capital and shares",
+        "page": 64,
+        "id": 135,
+        "depth": 2
+    },
+    {
+        "text": "Article 10  Capital",
+        "page": 64,
+        "id": 136,
+        "depth": 3
+    },
+    {
+        "text": "Article 11  Shares",
+        "page": 64,
+        "id": 137,
+        "depth": 3
+    },
+    {
+        "text": "Article 12  Calculation of the net asset value per share",
+        "page": 65,
+        "id": 138,
+        "depth": 3
+    },
+    {
+        "text": "Article 13  Suspension of the calculation of the net asset value per share",
+        "page": 68,
+        "id": 139,
+        "depth": 3
+    },
+    {
+        "text": "Article 14  Issue of shares",
+        "page": 68,
+        "id": 140,
+        "depth": 3
+    },
+    {
+        "text": "Article 15  Restriction and suspension of the issue of shares",
+        "page": 70,
+        "id": 141,
+        "depth": 3
+    },
+    {
+        "text": "Article 16  Redemption and exchange of shares",
+        "page": 70,
+        "id": 142,
+        "depth": 3
+    },
+    {
+        "text": "V.  General meeting",
+        "page": 73,
+        "id": 143,
+        "depth": 2
+    },
+    {
+        "text": "Article 17  Rights of the general meeting",
+        "page": 73,
+        "id": 144,
+        "depth": 3
+    },
+    {
+        "text": "Article 18  Convening of meetings",
+        "page": 73,
+        "id": 145,
+        "depth": 3
+    },
+    {
+        "text": "Article 19   Quorum and voting",
+        "page": 73,
+        "id": 146,
+        "depth": 3
+    },
+    {
+        "text": "Article 20  Chairman, teller, secretary",
+        "page": 74,
+        "id": 147,
+        "depth": 3
+    },
+    {
+        "text": "VI.  Board of Directors",
+        "page": 75,
+        "id": 148,
+        "depth": 2
+    },
+    {
+        "text": "Article 21  Membership",
+        "page": 75,
+        "id": 149,
+        "depth": 3
+    },
+    {
+        "text": "Article 22  Authorisations",
+        "page": 75,
+        "id": 150,
+        "depth": 3
+    },
+    {
+        "text": "Article 23  Internal organisation of the Board of Directors",
+        "page": 76,
+        "id": 151,
+        "depth": 3
+    },
+    {
+        "text": "Article 24  Frequency and convening of meetings",
+        "page": 76,
+        "id": 152,
+        "depth": 3
+    },
+    {
+        "text": "Article 25  Meetings of the Board of Directors",
+        "page": 76,
+        "id": 153,
+        "depth": 3
+    },
+    {
+        "text": "Article 26  Minutes",
+        "page": 77,
+        "id": 154,
+        "depth": 3
+    },
+    {
+        "text": "Article 27  Authorised signatories",
+        "page": 77,
+        "id": 155,
+        "depth": 3
+    },
+    {
+        "text": "Article 28  Incompatibilities and personal interest",
+        "page": 77,
+        "id": 156,
+        "depth": 3
+    },
+    {
+        "text": "Article 29  Indemnification",
+        "page": 78,
+        "id": 157,
+        "depth": 3
+    },
+    {
+        "text": "Article 30  Management Company",
+        "page": 79,
+        "id": 158,
+        "depth": 3
+    },
+    {
+        "text": "Article 31  Fund Manager",
+        "page": 79,
+        "id": 159,
+        "depth": 3
+    },
+    {
+        "text": "VII.  Auditors",
+        "page": 80,
+        "id": 160,
+        "depth": 2
+    },
+    {
+        "text": "Article 32  Auditors",
+        "page": 80,
+        "id": 161,
+        "depth": 3
+    },
+    {
+        "text": "VIII.  General and final provisions",
+        "page": 80,
+        "id": 162,
+        "depth": 2
+    },
+    {
+        "text": "Article 33  Use of income",
+        "page": 80,
+        "id": 163,
+        "depth": 3
+    },
+    {
+        "text": "Article 34   Reports",
+        "page": 81,
+        "id": 164,
+        "depth": 3
+    },
+    {
+        "text": "Article 35  Costs",
+        "page": 81,
+        "id": 165,
+        "depth": 3
+    },
+    {
+        "text": "Article 36  Financial year",
+        "page": 84,
+        "id": 166,
+        "depth": 3
+    },
+    {
+        "text": "Article 37  Depositary",
+        "page": 84,
+        "id": 167,
+        "depth": 3
+    },
+    {
+        "text": "Article 38  Amendment of the Articles of Association",
+        "page": 87,
+        "id": 168,
+        "depth": 3
+    },
+    {
+        "text": "Article 39  General",
+        "page": 87,
+        "id": 169,
+        "depth": 3
+    }
+]

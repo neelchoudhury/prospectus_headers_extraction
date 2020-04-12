@@ -1,0 +1,1124 @@
+[
+    {
+        "text": "Morgan Stanley Investment Funds",
+        "page": 1,
+        "id": 1,
+        "depth": 1
+    },
+    {
+        "text": "IMPORTANT INFORMATION",
+        "page": 2,
+        "id": 2,
+        "depth": 2
+    },
+    {
+        "text": "Contents",
+        "page": 3,
+        "id": 3,
+        "depth": 2
+    },
+    {
+        "text": "Prospectus of the Morgan Stanley Investment Funds",
+        "page": 5,
+        "id": 4,
+        "depth": 2
+    },
+    {
+        "text": "Definitions",
+        "page": 7,
+        "id": 5,
+        "depth": 2
+    },
+    {
+        "text": "Section 1",
+        "page": 8,
+        "id": 6,
+        "depth": 1
+    },
+    {
+        "text": "1.1 The Company and the Funds",
+        "page": 8,
+        "id": 7,
+        "depth": 2
+    },
+    {
+        "text": "1.2 Investment Objectives and Policies",
+        "page": 10,
+        "id": 8,
+        "depth": 2
+    },
+    {
+        "text": "GENERAL INFORMATION RELATING TO THE FUNDS",
+        "page": 10,
+        "id": 9,
+        "depth": 3
+    },
+    {
+        "text": "EQUITY FUNDS",
+        "page": 11,
+        "id": 10,
+        "depth": 3
+    },
+    {
+        "text": "ASIAN EQUITY FUND",
+        "page": 11,
+        "id": 11,
+        "depth": 4
+    },
+    {
+        "text": "ASIA-PACIFIC EQUITY FUND",
+        "page": 11,
+        "id": 12,
+        "depth": 4
+    },
+    {
+        "text": "ASIAN PROPERTY FUND",
+        "page": 11,
+        "id": 13,
+        "depth": 4
+    },
+    {
+        "text": "EMERGING EUROPE, MIDDLE EAST AND AFRICA EQUITY FUND",
+        "page": 12,
+        "id": 14,
+        "depth": 4
+    },
+    {
+        "text": "EMERGING MARKETS EQUITY FUND",
+        "page": 12,
+        "id": 15,
+        "depth": 4
+    },
+    {
+        "text": "EUROPEAN EQUITY ALPHA FUND",
+        "page": 12,
+        "id": 16,
+        "depth": 4
+    },
+    {
+        "text": "EUROPEAN PROPERTY FUND",
+        "page": 13,
+        "id": 17,
+        "depth": 4
+    },
+    {
+        "text": "EUROPEAN SMALL CAP VALUE FUND",
+        "page": 13,
+        "id": 18,
+        "depth": 4
+    },
+    {
+        "text": "EUROZONE EQUITY ALPHA FUND",
+        "page": 13,
+        "id": 19,
+        "depth": 4
+    },
+    {
+        "text": "GLOBAL BRANDS FUND",
+        "page": 14,
+        "id": 20,
+        "depth": 4
+    },
+    {
+        "text": "GLOBAL EQUITY ALLOCATION FUND",
+        "page": 14,
+        "id": 21,
+        "depth": 4
+    },
+    {
+        "text": "GLOBAL INFRASTRUCTURE FUND",
+        "page": 14,
+        "id": 22,
+        "depth": 4
+    },
+    {
+        "text": "GLOBAL OPPORTUNITY FUND",
+        "page": 14,
+        "id": 23,
+        "depth": 4
+    },
+    {
+        "text": "GLOBAL PROPERTY FUND",
+        "page": 15,
+        "id": 24,
+        "depth": 4
+    },
+    {
+        "text": "INDIAN EQUITY FUND",
+        "page": 15,
+        "id": 25,
+        "depth": 4
+    },
+    {
+        "text": "JAPANESE EQUITY FUND",
+        "page": 15,
+        "id": 26,
+        "depth": 4
+    },
+    {
+        "text": "LATIN AMERICAN EQUITY FUND",
+        "page": 16,
+        "id": 27,
+        "depth": 4
+    },
+    {
+        "text": "US ADVANTAGE FUND",
+        "page": 16,
+        "id": 28,
+        "depth": 4
+    },
+    {
+        "text": "US GROWTH FUND",
+        "page": 17,
+        "id": 29,
+        "depth": 4
+    },
+    {
+        "text": "US PROPERTY FUND",
+        "page": 17,
+        "id": 30,
+        "depth": 4
+    },
+    {
+        "text": "BOND FUNDS",
+        "page": 17,
+        "id": 31,
+        "depth": 3
+    },
+    {
+        "text": "EMERGING MARKETS CORPORATE DEBT FUND",
+        "page": 18,
+        "id": 32,
+        "depth": 4
+    },
+    {
+        "text": "EMERGING MARKETS DEBT FUND",
+        "page": 18,
+        "id": 33,
+        "depth": 4
+    },
+    {
+        "text": "EMERGING MARKETS DOMESTIC DEBT FUND",
+        "page": 19,
+        "id": 34,
+        "depth": 4
+    },
+    {
+        "text": "EURO BOND FUND",
+        "page": 20,
+        "id": 35,
+        "depth": 4
+    },
+    {
+        "text": "EURO CORPORATE BOND FUND",
+        "page": 20,
+        "id": 36,
+        "depth": 4
+    },
+    {
+        "text": "EURO GOVERNMENT BOND FUND",
+        "page": 21,
+        "id": 37,
+        "depth": 4
+    },
+    {
+        "text": "EURO SELECT CREDIT FUND",
+        "page": 21,
+        "id": 38,
+        "depth": 4
+    },
+    {
+        "text": "EURO STRATEGIC BOND FUND",
+        "page": 21,
+        "id": 39,
+        "depth": 4
+    },
+    {
+        "text": "EUROPEAN CURRENCIES HIGH YIELD BOND FUND",
+        "page": 22,
+        "id": 40,
+        "depth": 4
+    },
+    {
+        "text": "GLOBAL BOND FUND",
+        "page": 22,
+        "id": 41,
+        "depth": 4
+    },
+    {
+        "text": "GLOBAL CONVERTIBLE BOND FUND",
+        "page": 23,
+        "id": 42,
+        "depth": 4
+    },
+    {
+        "text": "GLOBAL HIGH YIELD BOND FUND",
+        "page": 23,
+        "id": 43,
+        "depth": 4
+    },
+    {
+        "text": "SHORT MATURITY EURO BOND FUND",
+        "page": 24,
+        "id": 44,
+        "depth": 4
+    },
+    {
+        "text": "LIQUIDITY FUNDS",
+        "page": 20,
+        "id": 45,
+        "depth": 3
+    },
+    {
+        "text": "EURO GOVERNMENT LIQUIDITY FUND",
+        "page": 24,
+        "id": 46,
+        "depth": 4
+    },
+    {
+        "text": "EURO LIQUIDITY FUND",
+        "page": 25,
+        "id": 47,
+        "depth": 4
+    },
+    {
+        "text": "US DOLLAR LIQUIDITY FUND",
+        "page": 26,
+        "id": 48,
+        "depth": 4
+    },
+    {
+        "text": "ASSET ALLOCATION FUNDS",
+        "page": 26,
+        "id": 49,
+        "depth": 3
+    },
+    {
+        "text": "DIVERSIFIED ALPHA PLUS FUND",
+        "page": 26,
+        "id": 50,
+        "depth": 4
+    },
+    {
+        "text": "EMERGING MARKETS SECURITIES FUND",
+        "page": 27,
+        "id": 51,
+        "depth": 4
+    },
+    {
+        "text": "ALTERNATIVE INVESTMENT FUNDS",
+        "page": 28,
+        "id": 52,
+        "depth": 3
+    },
+    {
+        "text": "ABSOLUTE RETURN CURRENCY FUND",
+        "page": 28,
+        "id": 53,
+        "depth": 4
+    },
+    {
+        "text": "1.3 List of Sophisticated Funds",
+        "page": 30,
+        "id": 54,
+        "depth": 2
+    },
+    {
+        "text": "1.4 Risk Factors",
+        "page": 31,
+        "id": 55,
+        "depth": 2
+    },
+    {
+        "text": "EXCHANGE RATES",
+        "page": 31,
+        "id": 56,
+        "depth": 3
+    },
+    {
+        "text": "INTEREST RATES",
+        "page": 31,
+        "id": 57,
+        "depth": 3
+    },
+    {
+        "text": "REAL ESTATE INDUSTRY",
+        "page": 31,
+        "id": 58,
+        "depth": 3
+    },
+    {
+        "text": "INFRASTRUCTURE",
+        "page": 31,
+        "id": 59,
+        "depth": 3
+    },
+    {
+        "text": "EMERGING MARKETS",
+        "page": 31,
+        "id": 60,
+        "depth": 3
+    },
+    {
+        "text": "DEPOSITARY RECEIPTS",
+        "page": 32,
+        "id": 61,
+        "depth": 3
+    },
+    {
+        "text": "NON-INVESTMENT GRADE SECURITIES",
+        "page": 32,
+        "id": 62,
+        "depth": 3
+    },
+    {
+        "text": "USE OF DERIVATIVES",
+        "page": 32,
+        "id": 63,
+        "depth": 3
+    },
+    {
+        "text": "WARRANTS",
+        "page": 33,
+        "id": 64,
+        "depth": 3
+    },
+    {
+        "text": "COMMODITY FUTURES",
+        "page": 34,
+        "id": 65,
+        "depth": 3
+    },
+    {
+        "text": "REPURCHASE AGREEMENTS",
+        "page": 34,
+        "id": 66,
+        "depth": 3
+    },
+    {
+        "text": "SECURITIES LENDING TRANSACTIONS",
+        "page": 34,
+        "id": 67,
+        "depth": 3
+    },
+    {
+        "text": "CURRENCY HEDGED SHARE CLASSES",
+        "page": 34,
+        "id": 68,
+        "depth": 3
+    },
+    {
+        "text": "DURATION HEDGED SHARE CLASSES",
+        "page": 34,
+        "id": 69,
+        "depth": 3
+    },
+    {
+        "text": "TAXATION RISKS IN RELATION TO THE SUBSIDIARY",
+        "page": 35,
+        "id": 70,
+        "depth": 3
+    },
+    {
+        "text": "FOREIGN ACCOUNT TAX COMPLIANCE",
+        "page": 35,
+        "id": 71,
+        "depth": 3
+    },
+    {
+        "text": "Section 2",
+        "page": 36,
+        "id": 72,
+        "depth": 1
+    },
+    {
+        "text": "2.1 Share Class Description",
+        "page": 36,
+        "id": 73,
+        "depth": 2
+    },
+    {
+        "text": "CURRENCY HEDGED SHARE CLASSES",
+        "page": 36,
+        "id": 74,
+        "depth": 3
+    },
+    {
+        "text": "DURATION HEDGED SHARE CLASSES",
+        "page": 37,
+        "id": 75,
+        "depth": 3
+    },
+    {
+        "text": "SALES CHARGE",
+        "page": 37,
+        "id": 76,
+        "depth": 3
+    },
+    {
+        "text": "CONTINGENT DEFERRED SALES CHARGE",
+        "page": 38,
+        "id": 77,
+        "depth": 3
+    },
+    {
+        "text": "WAIVER OF CONTINGENT DEFERRED SALES CHARGE",
+        "page": 38,
+        "id": 78,
+        "depth": 3
+    },
+    {
+        "text": "2.2 Issue of Shares, Subscription and Payment Procedure",
+        "page": 39,
+        "id": 79,
+        "depth": 2
+    },
+    {
+        "text": "ISSUE OF SHARES",
+        "page": 39,
+        "id": 80,
+        "depth": 3
+    },
+    {
+        "text": "CONFIRMATION NOTES",
+        "page": 41,
+        "id": 81,
+        "depth": 3
+    },
+    {
+        "text": "GENERAL PROVISIONS",
+        "page": 41,
+        "id": 82,
+        "depth": 3
+    },
+    {
+        "text": "DIRECTORS’ POWERS AND ANTI-DILUTION MEASURES",
+        "page": 41,
+        "id": 83,
+        "depth": 3
+    },
+    {
+        "text": "2.3 Redemption of Shares",
+        "page": 43,
+        "id": 84,
+        "depth": 2
+    },
+    {
+        "text": "PROCEDURE FOR REDEMPTION",
+        "page": 43,
+        "id": 85,
+        "depth": 3
+    },
+    {
+        "text": "TEMPORARY SUSPENSION OF REDEMPTION",
+        "page": 44,
+        "id": 86,
+        "depth": 3
+    },
+    {
+        "text": "COMPULSORY REDEMPTION",
+        "page": 44,
+        "id": 87,
+        "depth": 3
+    },
+    {
+        "text": "PROCEDURES FOR REDEMPTIONS AND CONVERSIONS REPRESENTING TEN PERCENT OR MORE OF ANY FUND",
+        "page": 44,
+        "id": 88,
+        "depth": 3
+    },
+    {
+        "text": "ANTI-DILUTION MEASURES",
+        "page": 45,
+        "id": 89,
+        "depth": 3
+    },
+    {
+        "text": "2.4 Conversion of Shares",
+        "page": 46,
+        "id": 90,
+        "depth": 2
+    },
+    {
+        "text": "2.5 Charges and Expenses",
+        "page": 49,
+        "id": 91,
+        "depth": 2
+    },
+    {
+        "text": "2.6 Publication of Net Asset Value",
+        "page": 53,
+        "id": 92,
+        "depth": 2
+    },
+    {
+        "text": "2.7 Net Asset Value Determination",
+        "page": 54,
+        "id": 93,
+        "depth": 2
+    },
+    {
+        "text": "2.8 Conflicts of Interest and Soft Commission",
+        "page": 57,
+        "id": 94,
+        "depth": 2
+    },
+    {
+        "text": "2.9 Dividend Policy",
+        "page": 58,
+        "id": 95,
+        "depth": 2
+    },
+    {
+        "text": "2.10 Taxation",
+        "page": 60,
+        "id": 96,
+        "depth": 2
+    },
+    {
+        "text": "TAXATION OF THE COMPANY IN LUXEMBOURG",
+        "page": 60,
+        "id": 97,
+        "depth": 3
+    },
+    {
+        "text": "TAXATION OF SHAREHOLDERS IN LUXEMBOURG",
+        "page": 60,
+        "id": 98,
+        "depth": 3
+    },
+    {
+        "text": "GENERALLY",
+        "page": 60,
+        "id": 99,
+        "depth": 3
+    },
+    {
+        "text": "BELGIAN TAXATION",
+        "page": 60,
+        "id": 100,
+        "depth": 3
+    },
+    {
+        "text": "EUROPEAN UNION SAVINGS DIRECTIVE",
+        "page": 61,
+        "id": 101,
+        "depth": 3
+    },
+    {
+        "text": "TAXATION OF THE SUBSIDIARY",
+        "page": 61,
+        "id": 102,
+        "depth": 3
+    },
+    {
+        "text": "a. Mauritian Tax Considerations",
+        "page": 61,
+        "id": 103,
+        "depth": 4
+    },
+    {
+        "text": "b. Indian Tax Considerations",
+        "page": 62,
+        "id": 104,
+        "depth": 4
+    },
+    {
+        "text": "c. India-Mauritius Treaty",
+        "page": 62,
+        "id": 105,
+        "depth": 4
+    },
+    {
+        "text": "d. Securities Transaction Tax",
+        "page": 63,
+        "id": 106,
+        "depth": 4
+    },
+    {
+        "text": "2.11 Pooling",
+        "page": 64,
+        "id": 107,
+        "depth": 2
+    },
+    {
+        "text": "Section 3",
+        "page": 65,
+        "id": 108,
+        "depth": 1
+    },
+    {
+        "text": "3.1 General Information",
+        "page": 65,
+        "id": 109,
+        "depth": 2
+    },
+    {
+        "text": "THE SHARES",
+        "page": 65,
+        "id": 110,
+        "depth": 3
+    },
+    {
+        "text": "LUXEMBOURG STOCK EXCHANGE LISTING",
+        "page": 65,
+        "id": 111,
+        "depth": 3
+    },
+    {
+        "text": "ISIN CODES",
+        "page": 65,
+        "id": 112,
+        "depth": 3
+    },
+    {
+        "text": "EUROCLEAR AND CLEARSTREAM",
+        "page": 65,
+        "id": 113,
+        "depth": 3
+    },
+    {
+        "text": "THE COMPANY",
+        "page": 65,
+        "id": 114,
+        "depth": 3
+    },
+    {
+        "text": "THE DIRECTORS OF THE COMPANY",
+        "page": 65,
+        "id": 115,
+        "depth": 3
+    },
+    {
+        "text": "THE COMPANY’S DIRIGEANTS",
+        "page": 65,
+        "id": 116,
+        "depth": 3
+    },
+    {
+        "text": "THE SUBSIDIARY",
+        "page": 65,
+        "id": 117,
+        "depth": 3
+    },
+    {
+        "text": "THE INVESTMENT ADVISER",
+        "page": 67,
+        "id": 118,
+        "depth": 3
+    },
+    {
+        "text": "SUB-ADVISERS",
+        "page": 67,
+        "id": 119,
+        "depth": 3
+    },
+    {
+        "text": "THE CUSTODIAN, ADMINISTRATOR AND PAYING AGENT",
+        "page": 67,
+        "id": 120,
+        "depth": 3
+    },
+    {
+        "text": "THE DOMICILIARY AGENT",
+        "page": 68,
+        "id": 121,
+        "depth": 3
+    },
+    {
+        "text": "THE REGISTRAR AND TRANSFER AGENT",
+        "page": 68,
+        "id": 122,
+        "depth": 3
+    },
+    {
+        "text": "THE DISTRIBUTOR",
+        "page": 68,
+        "id": 123,
+        "depth": 3
+    },
+    {
+        "text": "DISSOLUTION",
+        "page": 68,
+        "id": 124,
+        "depth": 3
+    },
+    {
+        "text": "AMALGAMATION",
+        "page": 68,
+        "id": 125,
+        "depth": 3
+    },
+    {
+        "text": "GENERAL MEETINGS",
+        "page": 69,
+        "id": 126,
+        "depth": 3
+    },
+    {
+        "text": "ANNUAL AND SEMI-ANNUAL REPORTS",
+        "page": 69,
+        "id": 127,
+        "depth": 3
+    },
+    {
+        "text": "DOCUMENTS AVAILABLE FOR INSPECTION",
+        "page": 69,
+        "id": 128,
+        "depth": 3
+    },
+    {
+        "text": "PROBATE",
+        "page": 69,
+        "id": 129,
+        "depth": 3
+    },
+    {
+        "text": "Morgan Stanley Investment Funds",
+        "page": 70,
+        "id": 130,
+        "depth": 1
+    },
+    {
+        "text": "DIRECTORS OF THE COMPANY",
+        "page": 70,
+        "id": 131,
+        "depth": 2
+    },
+    {
+        "text": "DIRIGEANTS",
+        "page": 70,
+        "id": 132,
+        "depth": 2
+    },
+    {
+        "text": "DIRECTORS OF THE SUBSIDIARY",
+        "page": 70,
+        "id": 133,
+        "depth": 2
+    },
+    {
+        "text": "INVESTMENT ADVISER OF THE COMPANY",
+        "page": 71,
+        "id": 134,
+        "depth": 2
+    },
+    {
+        "text": "SUB-ADVISERS",
+        "page": 71,
+        "id": 135,
+        "depth": 2
+    },
+    {
+        "text": "DISTRIBUTOR",
+        "page": 71,
+        "id": 136,
+        "depth": 2
+    },
+    {
+        "text": "CUSTODIAN BANK OF THE COMPANY",
+        "page": 71,
+        "id": 137,
+        "depth": 2
+    },
+    {
+        "text": "ADMINISTRATOR AND PAYING AGENT OF THE COMPANY",
+        "page": 71,
+        "id": 138,
+        "depth": 2
+    },
+    {
+        "text": "DOMICILIARY AGENT OF THE COMPANY",
+        "page": 71,
+        "id": 139,
+        "depth": 2
+    },
+    {
+        "text": "REGISTRAR AND TRANSFER AGENT OF THE COMPANY",
+        "page": 71,
+        "id": 140,
+        "depth": 2
+    },
+    {
+        "text": "ADMINISTRATOR OF THE SUBSIDIARY",
+        "page": 71,
+        "id": 141,
+        "depth": 2
+    },
+    {
+        "text": "AUDITOR OF THE COMPANY",
+        "page": 71,
+        "id": 142,
+        "depth": 2
+    },
+    {
+        "text": "AUDITOR OF THE SUBSIDIARY",
+        "page": 71,
+        "id": 143,
+        "depth": 2
+    },
+    {
+        "text": "LEGAL ADVISER OF THE COMPANY AS TO LUXEMBOURG LAW",
+        "page": 71,
+        "id": 144,
+        "depth": 2
+    },
+    {
+        "text": "Appendix A Investment Powers and Restrictions",
+        "page": 72,
+        "id": 145,
+        "depth": 1
+    },
+    {
+        "text": "INVESTMENT AND BORROWING POWERS",
+        "page": 72,
+        "id": 146,
+        "depth": 2
+    },
+    {
+        "text": "INVESTMENT AND BORROWING RESTRICTIONS",
+        "page": 72,
+        "id": 147,
+        "depth": 2
+    },
+    {
+        "text": "3. DERIVATIVES AND FINANCIAL TECHNIQUES AND INSTRUMENTS",
+        "page": 76,
+        "id": 148,
+        "depth": 2
+    },
+    {
+        "text": "4. SECURITIES LENDING AND REPURCHASE (“REPO”) TRANSACTIONS",
+        "page": 76,
+        "id": 149,
+        "depth": 2
+    },
+    {
+        "text": "Appendix B Additional information for UK investors",
+        "page": 79,
+        "id": 150,
+        "depth": 1
+    },
+    {
+        "text": "MORGAN STANLEY INVESTMENT FUNDS",
+        "page": 79,
+        "id": 151,
+        "depth": 2
+    },
+    {
+        "text": "GENERAL",
+        "page": 79,
+        "id": 152,
+        "depth": 2
+    },
+    {
+        "text": "IMPORTANT",
+        "page": 79,
+        "id": 153,
+        "depth": 2
+    },
+    {
+        "text": "PUBLICATION OF INFORMATION",
+        "page": 79,
+        "id": 154,
+        "depth": 2
+    },
+    {
+        "text": "UK TAXATION",
+        "page": 79,
+        "id": 155,
+        "depth": 2
+    },
+    {
+        "text": "THE COMPANY",
+        "page": 79,
+        "id": 156,
+        "depth": 2
+    },
+    {
+        "text": "UK RESIDENT SHAREHOLDERS",
+        "page": 80,
+        "id": 157,
+        "depth": 2
+    },
+    {
+        "text": "TAXATION OF FUNDS OTHER THAN BOND FUNDS",
+        "page": 80,
+        "id": 158,
+        "depth": 2
+    },
+    {
+        "text": "TAXATION OF BOND FUNDS",
+        "page": 80,
+        "id": 159,
+        "depth": 2
+    },
+    {
+        "text": "“REPORTING FUND” STATUS",
+        "page": 80,
+        "id": 160,
+        "depth": 2
+    },
+    {
+        "text": "ANTI-AVOIDANCE PROVISIONS",
+        "page": 81,
+        "id": 161,
+        "depth": 2
+    },
+    {
+        "text": "STAMP DUTY",
+        "page": 81,
+        "id": 162,
+        "depth": 2
+    },
+    {
+        "text": "DOCUMENTS AVAILABLE FOR INSPECTION",
+        "page": 81,
+        "id": 163,
+        "depth": 2
+    },
+    {
+        "text": "Appendix C Additional information for Swiss investors",
+        "page": 82,
+        "id": 164,
+        "depth": 1
+    },
+    {
+        "text": "REPRESENTATIVE IN SWITZERLAND",
+        "page": 82,
+        "id": 165,
+        "depth": 2
+    },
+    {
+        "text": "PAYING AGENT IN SWITZERLAND",
+        "page": 82,
+        "id": 166,
+        "depth": 2
+    },
+    {
+        "text": "PLACE WHERE THE RELEVANT DOCUMENTS MAY BE OBTAINED",
+        "page": 82,
+        "id": 167,
+        "depth": 2
+    },
+    {
+        "text": "PUBLICATIONS",
+        "page": 82,
+        "id": 168,
+        "depth": 2
+    },
+    {
+        "text": "PAYMENT OF REMUNERATIONS AND DISTRIBUTION REMUNERATION",
+        "page": 82,
+        "id": 169,
+        "depth": 2
+    },
+    {
+        "text": "PLACE OF PERFORMANCE AND PLACE OF JURISDICTION",
+        "page": 82,
+        "id": 170,
+        "depth": 2
+    },
+    {
+        "text": "Appendix D Additional information for Irish investors",
+        "page": 83,
+        "id": 171,
+        "depth": 1
+    },
+    {
+        "text": "FACILITIES AGENT",
+        "page": 83,
+        "id": 172,
+        "depth": 2
+    },
+    {
+        "text": "ISSUE AND REDEMPTION OF SHARES, SUBSCRIPTION AND PAYMENT PROCEDURE",
+        "page": 83,
+        "id": 173,
+        "depth": 2
+    },
+    {
+        "text": "PUBLICATIONS",
+        "page": 83,
+        "id": 174,
+        "depth": 2
+    },
+    {
+        "text": "IRISH TAXATION",
+        "page": 83,
+        "id": 175,
+        "depth": 2
+    },
+    {
+        "text": "THE COMPANY",
+        "page": 83,
+        "id": 176,
+        "depth": 2
+    },
+    {
+        "text": "IRISH INVESTORS",
+        "page": 83,
+        "id": 177,
+        "depth": 2
+    },
+    {
+        "text": "a) Reporting of acquisition",
+        "page": 83,
+        "id": 178,
+        "depth": 3
+    },
+    {
+        "text": "b) Income and capital gains",
+        "page": 83,
+        "id": 179,
+        "depth": 3
+    },
+    {
+        "text": "ANTI-AVOIDANCE PROVISION",
+        "page": 84,
+        "id": 180,
+        "depth": 2
+    },
+    {
+        "text": "WITHHOLDING OBLIGATION ON PAYING AGENTS",
+        "page": 84,
+        "id": 181,
+        "depth": 2
+    },
+    {
+        "text": "STAMP DUTY",
+        "page": 84,
+        "id": 182,
+        "depth": 2
+    },
+    {
+        "text": "GIFT AND INHERITANCE TAX",
+        "page": 84,
+        "id": 183,
+        "depth": 2
+    },
+    {
+        "text": "TRANSFERS BETWEEN FUNDS",
+        "page": 84,
+        "id": 184,
+        "depth": 2
+    },
+    {
+        "text": "Appendix E Additional information for Chilean investors",
+        "page": 85,
+        "id": 185,
+        "depth": 1
+    },
+    {
+        "text": "CURRENCY HEDGED SHARE CLASSES, DURATION HEDGED SHARE CLASSES AND CURRENCY AND DURATION HEDGING SHARE CLASSES",
+        "page": 85,
+        "id": 186,
+        "depth": 2
+    },
+    {
+        "text": "TAXATION",
+        "page": 85,
+        "id": 187,
+        "depth": 2
+    }
+]

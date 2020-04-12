@@ -1,0 +1,4274 @@
+[
+    {
+        "text": "ROBECO CAPITAL GROWTH FUNDS",
+        "page": 1,
+        "id": 1,
+        "depth": 1
+    },
+    {
+        "text": "TABLE OF CONTENTS",
+        "page": 3,
+        "id": 2,
+        "depth": 2
+    },
+    {
+        "text": "Glossary of defined terms",
+        "page": 7,
+        "id": 3,
+        "depth": 2
+    },
+    {
+        "text": "DIRECTORS AND ADMINISTRATION ",
+        "page": 12,
+        "id": 4,
+        "depth": 1
+    },
+    {
+        "text": "Directors",
+        "page": 12,
+        "id": 5,
+        "depth": 2
+    },
+    {
+        "text": "Registered Office",
+        "page": 12,
+        "id": 6,
+        "depth": 2
+    },
+    {
+        "text": "Management Company",
+        "page": 12,
+        "id": 7,
+        "depth": 2
+    },
+    {
+        "text": "Auditor",
+        "page": 12,
+        "id": 8,
+        "depth": 2
+    },
+    {
+        "text": "Depositary, Paying Agent, Domiciliary Agent and Listing Agent",
+        "page": 12,
+        "id": 9,
+        "depth": 2
+    },
+    {
+        "text": "Administration Agent and Registrar",
+        "page": 12,
+        "id": 10,
+        "depth": 2
+    },
+    {
+        "text": "Investment Adviser",
+        "page": 12,
+        "id": 11,
+        "depth": 2
+    },
+    {
+        "text": "Investment Sub-Advisers",
+        "page": 12,
+        "id": 12,
+        "depth": 2
+    },
+    {
+        "text": "Representative in Switzerland",
+        "page": 12,
+        "id": 13,
+        "depth": 2
+    },
+    {
+        "text": "SECTION 1 - THE FUND",
+        "page": 13,
+        "id": 14,
+        "depth": 1
+    },
+    {
+        "text": "1.1 Summary",
+        "page": 13,
+        "id": 15,
+        "depth": 2
+    },
+    {
+        "text": "1.2 Legal entity",
+        "page": 14,
+        "id": 16,
+        "depth": 2
+    },
+    {
+        "text": "SECTION 2 - THE SHARES",
+        "page": 15,
+        "id": 17,
+        "depth": 1
+    },
+    {
+        "text": "2.1 Classes of Shares",
+        "page": 15,
+        "id": 18,
+        "depth": 2
+    },
+    {
+        "text": "Regular Share Classes",
+        "page": 15,
+        "id": 19,
+        "depth": 3
+    },
+    {
+        "text": "Privileged Share Classes",
+        "page": 15,
+        "id": 20,
+        "depth": 3
+    },
+    {
+        "text": "Institutional Share Classes",
+        "page": 16,
+        "id": 21,
+        "depth": 3
+    },
+    {
+        "text": "Hedging Transactions for certain Classes",
+        "page": 17,
+        "id": 22,
+        "depth": 3
+    },
+    {
+        "text": "Currency Hedged Classes:",
+        "page": 17,
+        "id": 23,
+        "depth": 4
+    },
+    {
+        "text": "Hedged Inflation Classes:",
+        "page": 18,
+        "id": 24,
+        "depth": 4
+    },
+    {
+        "text": "Hedged Duration Classes:",
+        "page": 18,
+        "id": 25,
+        "depth": 4
+    },
+    {
+        "text": "2.2 Dividend policy",
+        "page": 19,
+        "id": 26,
+        "depth": 2
+    },
+    {
+        "text": "2.3 Issue of Shares",
+        "page": 20,
+        "id": 27,
+        "depth": 2
+    },
+    {
+        "text": "2.4 Switch of Shares",
+        "page": 21,
+        "id": 28,
+        "depth": 2
+    },
+    {
+        "text": "2.5 Redemption of Shares",
+        "page": 22,
+        "id": 29,
+        "depth": 2
+    },
+    {
+        "text": "2.6 Calculation of the Net Asset Value",
+        "page": 23,
+        "id": 30,
+        "depth": 2
+    },
+    {
+        "text": "The assets of each Sub-fund of the Company will be valued as follows",
+        "page": 23,
+        "id": 31,
+        "depth": 3
+    },
+    {
+        "text": "Swing pricing",
+        "page": 24,
+        "id": 32,
+        "depth": 3
+    },
+    {
+        "text": "2.7 Temporary Suspension of the determination of the Net Asset Value",
+        "page": 25,
+        "id": 33,
+        "depth": 2
+    },
+    {
+        "text": "2.8 Taxation",
+        "page": 25,
+        "id": 34,
+        "depth": 2
+    },
+    {
+        "text": "A. Taxation of the Company",
+        "page": 25,
+        "id": 35,
+        "depth": 3
+    },
+    {
+        "text": "B. Taxation of the Shareholders",
+        "page": 26,
+        "id": 36,
+        "depth": 3
+    },
+    {
+        "text": "C. Taxation of Robeco Indian Equities (Mauritius) Ltd.",
+        "page": 28,
+        "id": 37,
+        "depth": 3
+    },
+    {
+        "text": "D. Foreign Account Tax Compliance Act (\"FATCA\")",
+        "page": 29,
+        "id": 38,
+        "depth": 3
+    },
+    {
+        "text": "SECTION 3 - GENERAL INFORMATION",
+        "page": 31,
+        "id": 39,
+        "depth": 1
+    },
+    {
+        "text": "3.1 Fees and Expenses",
+        "page": 31,
+        "id": 40,
+        "depth": 2
+    },
+    {
+        "text": "1. Expenses",
+        "page": 31,
+        "id": 41,
+        "depth": 3
+    },
+    {
+        "text": "2. Management fee",
+        "page": 31,
+        "id": 42,
+        "depth": 3
+    },
+    {
+        "text": "3. Service fee",
+        "page": 31,
+        "id": 43,
+        "depth": 3
+    },
+    {
+        "text": "4. Performance fee",
+        "page": 31,
+        "id": 44,
+        "depth": 3
+    },
+    {
+        "text": "5. Depositary fee",
+        "page": 34,
+        "id": 45,
+        "depth": 3
+    },
+    {
+        "text": "6. Brokers services",
+        "page": 34,
+        "id": 46,
+        "depth": 3
+    },
+    {
+        "text": "7. Robeco Indian Equities – Mauritian Subsidiary",
+        "page": 34,
+        "id": 47,
+        "depth": 3
+    },
+    {
+        "text": "8. Other information",
+        "page": 34,
+        "id": 48,
+        "depth": 3
+    },
+    {
+        "text": "3.2 Late Trading or Market Timing",
+        "page": 34,
+        "id": 49,
+        "depth": 2
+    },
+    {
+        "text": "3.3 Pooling and co-management",
+        "page": 35,
+        "id": 50,
+        "depth": 2
+    },
+    {
+        "text": "3.4 Management Company",
+        "page": 35,
+        "id": 51,
+        "depth": 2
+    },
+    {
+        "text": "3.5 Investment Adviser",
+        "page": 37,
+        "id": 52,
+        "depth": 2
+    },
+    {
+        "text": "3.6 Structure and purpose",
+        "page": 37,
+        "id": 53,
+        "depth": 2
+    },
+    {
+        "text": "3.7 Depositary, paying agent, listing agent and domiciliary agent",
+        "page": 37,
+        "id": 54,
+        "depth": 2
+    },
+    {
+        "text": "3.8 Administration Agent and Registrar",
+        "page": 38,
+        "id": 55,
+        "depth": 2
+    },
+    {
+        "text": "3.9 Meetings and reports",
+        "page": 38,
+        "id": 56,
+        "depth": 2
+    },
+    {
+        "text": "3.10 Liquidation and merger",
+        "page": 39,
+        "id": 57,
+        "depth": 2
+    },
+    {
+        "text": "Liquidation of the Company",
+        "page": 39,
+        "id": 58,
+        "depth": 3
+    },
+    {
+        "text": "Liquidation and merger of Sub-funds",
+        "page": 39,
+        "id": 59,
+        "depth": 3
+    },
+    {
+        "text": "3.11 Liquidation and merger of Classes of Shares",
+        "page": 40,
+        "id": 60,
+        "depth": 2
+    },
+    {
+        "text": "3.12 Transactions with connected persons",
+        "page": 40,
+        "id": 61,
+        "depth": 2
+    },
+    {
+        "text": "3.13 Data protection and voice recording",
+        "page": 40,
+        "id": 62,
+        "depth": 2
+    },
+    {
+        "text": "3.14 Documents available for inspection",
+        "page": 41,
+        "id": 63,
+        "depth": 2
+    },
+    {
+        "text": "SECTION 4 - RISK CONSIDERATIONS",
+        "page": 42,
+        "id": 64,
+        "depth": 1
+    },
+    {
+        "text": "a) General investment risk",
+        "page": 42,
+        "id": 65,
+        "depth": 2
+    },
+    {
+        "text": "Market risk",
+        "page": 42,
+        "id": 66,
+        "depth": 3
+    },
+    {
+        "text": "Concentration risk",
+        "page": 42,
+        "id": 67,
+        "depth": 3
+    },
+    {
+        "text": "Currency risk",
+        "page": 42,
+        "id": 68,
+        "depth": 3
+    },
+    {
+        "text": "Inflation risk",
+        "page": 42,
+        "id": 69,
+        "depth": 3
+    },
+    {
+        "text": "Risk relating to small / mid cap companies",
+        "page": 43,
+        "id": 70,
+        "depth": 3
+    },
+    {
+        "text": "Risk related to fixed income securities",
+        "page": 43,
+        "id": 71,
+        "depth": 3
+    },
+    {
+        "text": "Early termination risk",
+        "page": 44,
+        "id": 72,
+        "depth": 3
+    },
+    {
+        "text": "b) Counterparty risk",
+        "page": 44,
+        "id": 73,
+        "depth": 2
+    },
+    {
+        "text": "c) Liquidity risk",
+        "page": 45,
+        "id": 74,
+        "depth": 2
+    },
+    {
+        "text": "d) Risk of use of financial derivative instruments",
+        "page": 45,
+        "id": 75,
+        "depth": 2
+    },
+    {
+        "text": "e) Risk of lending financial instruments",
+        "page": 46,
+        "id": 76,
+        "depth": 2
+    },
+    {
+        "text": "f) Risk of (reverse) repurchase agreements",
+        "page": 46,
+        "id": 77,
+        "depth": 2
+    },
+    {
+        "text": "g) Sovereign risk (or Country risk)",
+        "page": 46,
+        "id": 78,
+        "depth": 2
+    },
+    {
+        "text": "Emerging and less developed markets risk",
+        "page": 46,
+        "id": 79,
+        "depth": 3
+    },
+    {
+        "text": "Chinese markets risks",
+        "page": 47,
+        "id": 80,
+        "depth": 3
+    },
+    {
+        "text": "China A-shares",
+        "page": 47,
+        "id": 81,
+        "depth": 4
+    },
+    {
+        "text": "General risks",
+        "page": 48,
+        "id": 82,
+        "depth": 4
+    },
+    {
+        "text": "Investments via the QFII Quota of the QFII Holder",
+        "page": 48,
+        "id": 83,
+        "depth": 4
+    },
+    {
+        "text": "Investments via Stock Connect",
+        "page": 48,
+        "id": 84,
+        "depth": 4
+    },
+    {
+        "text": "RMB Currency and Exchange risk",
+        "page": 50,
+        "id": 85,
+        "depth": 4
+    },
+    {
+        "text": "Fiscal risk",
+        "page": 50,
+        "id": 86,
+        "depth": 4
+    },
+    {
+        "text": "Indian market risks",
+        "page": 50,
+        "id": 87,
+        "depth": 3
+    },
+    {
+        "text": "Monetary limits for Indian debt",
+        "page": 51,
+        "id": 88,
+        "depth": 4
+    },
+    {
+        "text": "Risks relating to FPI registration",
+        "page": 51,
+        "id": 89,
+        "depth": 4
+    },
+    {
+        "text": "h) Valuation risk",
+        "page": 51,
+        "id": 90,
+        "depth": 2
+    },
+    {
+        "text": "i) Fiscal risk",
+        "page": 51,
+        "id": 91,
+        "depth": 2
+    },
+    {
+        "text": "j) Operational risk",
+        "page": 51,
+        "id": 92,
+        "depth": 2
+    },
+    {
+        "text": "k) Outsourcing risk",
+        "page": 51,
+        "id": 93,
+        "depth": 2
+    },
+    {
+        "text": "l) Model risk",
+        "page": 52,
+        "id": 94,
+        "depth": 2
+    },
+    {
+        "text": "m) FATCA related risks",
+        "page": 52,
+        "id": 95,
+        "depth": 2
+    },
+    {
+        "text": "APPENDIX I - INFORMATION PER SUB-FUND",
+        "page": 53,
+        "id": 96,
+        "depth": 1
+    },
+    {
+        "text": "1. Global Equity Sub-funds",
+        "page": 53,
+        "id": 97,
+        "depth": 2
+    },
+    {
+        "text": "a) Robeco BP Global Premium Equities",
+        "page": 53,
+        "id": 98,
+        "depth": 3
+    },
+    {
+        "text": "Investment policy",
+        "page": 53,
+        "id": 99,
+        "depth": 4
+    },
+    {
+        "text": "Profile of the typical Investor",
+        "page": 53,
+        "id": 100,
+        "depth": 4
+    },
+    {
+        "text": "Risk profile of the Sub-fund",
+        "page": 54,
+        "id": 101,
+        "depth": 4
+    },
+    {
+        "text": "Risk considerations for the Sub-fund",
+        "page": 54,
+        "id": 102,
+        "depth": 4
+    },
+    {
+        "text": "Investment Adviser",
+        "page": 54,
+        "id": 103,
+        "depth": 4
+    },
+    {
+        "text": "Investment Sub- Adviser",
+        "page": 54,
+        "id": 104,
+        "depth": 4
+    },
+    {
+        "text": "Base currency",
+        "page": 54,
+        "id": 105,
+        "depth": 4
+    },
+    {
+        "text": "Issue date",
+        "page": 54,
+        "id": 106,
+        "depth": 4
+    },
+    {
+        "text": "b) Robeco Global Conservative Equities",
+        "page": 56,
+        "id": 107,
+        "depth": 3
+    },
+    {
+        "text": "Investment policy",
+        "page": 56,
+        "id": 108,
+        "depth": 4
+    },
+    {
+        "text": "Profile of the typical Investor",
+        "page": 56,
+        "id": 109,
+        "depth": 4
+    },
+    {
+        "text": "Risk profile of the Sub- fund",
+        "page": 56,
+        "id": 110,
+        "depth": 4
+    },
+    {
+        "text": "Risk considerations for the Sub-fund",
+        "page": 57,
+        "id": 111,
+        "depth": 4
+    },
+    {
+        "text": "Investment Adviser",
+        "page": 57,
+        "id": 112,
+        "depth": 4
+    },
+    {
+        "text": "Base currency",
+        "page": 57,
+        "id": 113,
+        "depth": 4
+    },
+    {
+        "text": "Issue date",
+        "page": 57,
+        "id": 114,
+        "depth": 4
+    },
+    {
+        "text": "c) Robeco Global Stars Equities",
+        "page": 58,
+        "id": 115,
+        "depth": 3
+    },
+    {
+        "text": "Investment policy",
+        "page": 58,
+        "id": 116,
+        "depth": 4
+    },
+    {
+        "text": "Profile of the typical Investor",
+        "page": 58,
+        "id": 117,
+        "depth": 4
+    },
+    {
+        "text": "Risk profile of the Sub-fund",
+        "page": 58,
+        "id": 118,
+        "depth": 4
+    },
+    {
+        "text": "Risk considerations for the Sub-fund",
+        "page": 58,
+        "id": 119,
+        "depth": 4
+    },
+    {
+        "text": "Risk considerations for the Sub-fund",
+        "page": 59,
+        "id": 120,
+        "depth": 4
+    },
+    {
+        "text": "Base currency",
+        "page": 59,
+        "id": 121,
+        "depth": 4
+    },
+    {
+        "text": "Issue date",
+        "page": 59,
+        "id": 122,
+        "depth": 4
+    },
+    {
+        "text": "d) Robeco Emerging Stars Equities",
+        "page": 60,
+        "id": 123,
+        "depth": 3
+    },
+    {
+        "text": "Investment policy",
+        "page": 60,
+        "id": 124,
+        "depth": 4
+    },
+    {
+        "text": "Profile of the typical Investor",
+        "page": 60,
+        "id": 125,
+        "depth": 4
+    },
+    {
+        "text": "Risk profile of the Sub-fund",
+        "page": 61,
+        "id": 126,
+        "depth": 4
+    },
+    {
+        "text": "Risk considerations for the Sub-fund",
+        "page": 61,
+        "id": 127,
+        "depth": 4
+    },
+    {
+        "text": "Investment Adviser",
+        "page": 61,
+        "id": 128,
+        "depth": 4
+    },
+    {
+        "text": "Base currency",
+        "page": 61,
+        "id": 129,
+        "depth": 4
+    },
+    {
+        "text": "Issue date",
+        "page": 61,
+        "id": 130,
+        "depth": 4
+    },
+    {
+        "text": "e) Robeco Emerging Markets Equities",
+        "page": 63,
+        "id": 131,
+        "depth": 3
+    },
+    {
+        "text": "Investment policy",
+        "page": 63,
+        "id": 132,
+        "depth": 4
+    },
+    {
+        "text": "Profile of the typical Investor",
+        "page": 63,
+        "id": 133,
+        "depth": 4
+    },
+    {
+        "text": "Risk profile of the Sub-fund",
+        "page": 64,
+        "id": 134,
+        "depth": 4
+    },
+    {
+        "text": "Risk considerations for the Sub-fund",
+        "page": 64,
+        "id": 135,
+        "depth": 4
+    },
+    {
+        "text": "Investment Adviser",
+        "page": 64,
+        "id": 136,
+        "depth": 4
+    },
+    {
+        "text": "Base currency",
+        "page": 64,
+        "id": 137,
+        "depth": 4
+    },
+    {
+        "text": "Issue date",
+        "page": 64,
+        "id": 138,
+        "depth": 4
+    },
+    {
+        "text": "f) Robeco Active Quant Emerging Markets Equities",
+        "page": 66,
+        "id": 139,
+        "depth": 3
+    },
+    {
+        "text": "Investment policy",
+        "page": 66,
+        "id": 140,
+        "depth": 4
+    },
+    {
+        "text": "Profile of the typical Investor",
+        "page": 66,
+        "id": 141,
+        "depth": 4
+    },
+    {
+        "text": "Risk profile of the Sub-fund",
+        "page": 66,
+        "id": 142,
+        "depth": 4
+    },
+    {
+        "text": "Risk considerations for the Sub-fund",
+        "page": 67,
+        "id": 143,
+        "depth": 4
+    },
+    {
+        "text": "Investment Adviser",
+        "page": 67,
+        "id": 144,
+        "depth": 4
+    },
+    {
+        "text": "Base currency",
+        "page": 67,
+        "id": 145,
+        "depth": 4
+    },
+    {
+        "text": "Issue date",
+        "page": 67,
+        "id": 146,
+        "depth": 4
+    },
+    {
+        "text": "g) Robeco Momentum Equities",
+        "page": 68,
+        "id": 147,
+        "depth": 3
+    },
+    {
+        "text": "Investment policy",
+        "page": 68,
+        "id": 148,
+        "depth": 4
+    },
+    {
+        "text": "Profile of the typical Investor",
+        "page": 68,
+        "id": 149,
+        "depth": 4
+    },
+    {
+        "text": "Risk profile of the Sub-fund",
+        "page": 68,
+        "id": 150,
+        "depth": 4
+    },
+    {
+        "text": "Risk considerations for the Sub-fund",
+        "page": 69,
+        "id": 151,
+        "depth": 4
+    },
+    {
+        "text": "Investment Adviser",
+        "page": 69,
+        "id": 152,
+        "depth": 4
+    },
+    {
+        "text": "Base currency",
+        "page": 69,
+        "id": 153,
+        "depth": 4
+    },
+    {
+        "text": "Issue date",
+        "page": 69,
+        "id": 154,
+        "depth": 4
+    },
+    {
+        "text": "h) RobecoSAM Quant Sustainable Global Equities",
+        "page": 70,
+        "id": 155,
+        "depth": 3
+    },
+    {
+        "text": "Investment policy",
+        "page": 70,
+        "id": 156,
+        "depth": 4
+    },
+    {
+        "text": "Profile of the typical Investor",
+        "page": 70,
+        "id": 157,
+        "depth": 4
+    },
+    {
+        "text": "Risk profile of the Sub-fund",
+        "page": 70,
+        "id": 158,
+        "depth": 4
+    },
+    {
+        "text": "Risk considerations for the Sub-fund",
+        "page": 70,
+        "id": 159,
+        "depth": 4
+    },
+    {
+        "text": "Investment Adviser",
+        "page": 71,
+        "id": 160,
+        "depth": 4
+    },
+    {
+        "text": "Investment Sub- Adviser",
+        "page": 71,
+        "id": 161,
+        "depth": 4
+    },
+    {
+        "text": "Base currency",
+        "page": 71,
+        "id": 162,
+        "depth": 4
+    },
+    {
+        "text": "Issue date",
+        "page": 71,
+        "id": 163,
+        "depth": 4
+    },
+    {
+        "text": "i) Robeco Quant Emerging Markets Equities",
+        "page": 72,
+        "id": 164,
+        "depth": 3
+    },
+    {
+        "text": "Investment policy",
+        "page": 72,
+        "id": 165,
+        "depth": 4
+    },
+    {
+        "text": "Profile of the typical Investor",
+        "page": 72,
+        "id": 166,
+        "depth": 4
+    },
+    {
+        "text": "Risk profile of the Sub-fund",
+        "page": 72,
+        "id": 167,
+        "depth": 4
+    },
+    {
+        "text": "Risk considerations for the Sub-fund",
+        "page": 73,
+        "id": 168,
+        "depth": 4
+    },
+    {
+        "text": "Investment Adviser",
+        "page": 73,
+        "id": 169,
+        "depth": 4
+    },
+    {
+        "text": "Base currency",
+        "page": 73,
+        "id": 170,
+        "depth": 4
+    },
+    {
+        "text": "Issue date",
+        "page": 73,
+        "id": 171,
+        "depth": 4
+    },
+    {
+        "text": "j) Robeco Emerging Conservative Equities",
+        "page": 74,
+        "id": 172,
+        "depth": 3
+    },
+    {
+        "text": "Investment policy",
+        "page": 74,
+        "id": 173,
+        "depth": 4
+    },
+    {
+        "text": "Profile of the typical Investor",
+        "page": 74,
+        "id": 174,
+        "depth": 4
+    },
+    {
+        "text": "Risk profile of the Sub-fund",
+        "page": 75,
+        "id": 175,
+        "depth": 4
+    },
+    {
+        "text": "Risk considerations for the Sub-fund",
+        "page": 75,
+        "id": 176,
+        "depth": 4
+    },
+    {
+        "text": "Investment Adviser",
+        "page": 75,
+        "id": 177,
+        "depth": 4
+    },
+    {
+        "text": "Base currency",
+        "page": 75,
+        "id": 178,
+        "depth": 4
+    },
+    {
+        "text": "Issue date",
+        "page": 75,
+        "id": 179,
+        "depth": 4
+    },
+    {
+        "text": "k) Robeco Emerging Markets Smaller Companies Equities",
+        "page": 77,
+        "id": 180,
+        "depth": 3
+    },
+    {
+        "text": "Investment policy",
+        "page": 77,
+        "id": 181,
+        "depth": 4
+    },
+    {
+        "text": "Profile of the typical Investor",
+        "page": 77,
+        "id": 182,
+        "depth": 4
+    },
+    {
+        "text": "Risk profile of the Sub-fund",
+        "page": 77,
+        "id": 183,
+        "depth": 4
+    },
+    {
+        "text": "Risk considerations for the Sub-fund",
+        "page": 77,
+        "id": 184,
+        "depth": 4
+    },
+    {
+        "text": "Investment Adviser",
+        "page": 77,
+        "id": 185,
+        "depth": 4
+    },
+    {
+        "text": "Base currency",
+        "page": 77,
+        "id": 186,
+        "depth": 4
+    },
+    {
+        "text": "Issue date",
+        "page": 77,
+        "id": 187,
+        "depth": 4
+    },
+    {
+        "text": "l) Robeco Quant Value Equities",
+        "page": 79,
+        "id": 188,
+        "depth": 3
+    },
+    {
+        "text": "Investment policy",
+        "page": 79,
+        "id": 189,
+        "depth": 4
+    },
+    {
+        "text": "Profile of the typical Investor",
+        "page": 79,
+        "id": 190,
+        "depth": 4
+    },
+    {
+        "text": "Risk profile of the Sub-fund",
+        "page": 80,
+        "id": 191,
+        "depth": 4
+    },
+    {
+        "text": "Risk considerations for the Sub-fund",
+        "page": 80,
+        "id": 192,
+        "depth": 4
+    },
+    {
+        "text": "Investment Adviser",
+        "page": 80,
+        "id": 193,
+        "depth": 4
+    },
+    {
+        "text": "Base currency",
+        "page": 80,
+        "id": 194,
+        "depth": 4
+    },
+    {
+        "text": "Issue date",
+        "page": 80,
+        "id": 195,
+        "depth": 4
+    },
+    {
+        "text": "m) Robeco Global Developed Multi-Factor Equities",
+        "page": 81,
+        "id": 196,
+        "depth": 3
+    },
+    {
+        "text": "Investment policy",
+        "page": 81,
+        "id": 197,
+        "depth": 4
+    },
+    {
+        "text": "Profile of the typical Investor",
+        "page": 81,
+        "id": 198,
+        "depth": 4
+    },
+    {
+        "text": "Risk profile of the Sub-fund",
+        "page": 81,
+        "id": 199,
+        "depth": 4
+    },
+    {
+        "text": "Risk considerations for the Sub-fund",
+        "page": 82,
+        "id": 200,
+        "depth": 4
+    },
+    {
+        "text": "Investment Adviser",
+        "page": 82,
+        "id": 201,
+        "depth": 4
+    },
+    {
+        "text": "Base currency",
+        "page": 82,
+        "id": 202,
+        "depth": 4
+    },
+    {
+        "text": "Issue date",
+        "page": 82,
+        "id": 203,
+        "depth": 4
+    },
+    {
+        "text": "n) Robeco Global Conservative Equities ex Japan",
+        "page": 83,
+        "id": 204,
+        "depth": 3
+    },
+    {
+        "text": "Investment policy",
+        "page": 83,
+        "id": 205,
+        "depth": 4
+    },
+    {
+        "text": "Profile of the typical Investor",
+        "page": 83,
+        "id": 206,
+        "depth": 4
+    },
+    {
+        "text": "Risk profile of the Sub-fund",
+        "page": 83,
+        "id": 207,
+        "depth": 4
+    },
+    {
+        "text": "Risk considerations for the Sub-fund",
+        "page": 84,
+        "id": 208,
+        "depth": 4
+    },
+    {
+        "text": "Investment Adviser",
+        "page": 84,
+        "id": 209,
+        "depth": 4
+    },
+    {
+        "text": "Base currency",
+        "page": 84,
+        "id": 210,
+        "depth": 4
+    },
+    {
+        "text": "Issue date",
+        "page": 84,
+        "id": 211,
+        "depth": 4
+    },
+    {
+        "text": "o) Robeco Active Quant Emerging Large Cap Equities",
+        "page": 85,
+        "id": 212,
+        "depth": 3
+    },
+    {
+        "text": "Investment policy",
+        "page": 85,
+        "id": 213,
+        "depth": 4
+    },
+    {
+        "text": "Profile of the typical Investor",
+        "page": 85,
+        "id": 214,
+        "depth": 4
+    },
+    {
+        "text": "Risk profile of the Sub-fund",
+        "page": 85,
+        "id": 215,
+        "depth": 4
+    },
+    {
+        "text": "Risk considerations for the Sub-fund",
+        "page": 85,
+        "id": 216,
+        "depth": 4
+    },
+    {
+        "text": "Investment Adviser",
+        "page": 86,
+        "id": 217,
+        "depth": 4
+    },
+    {
+        "text": "Base currency",
+        "page": 86,
+        "id": 218,
+        "depth": 4
+    },
+    {
+        "text": "Issue date",
+        "page": 86,
+        "id": 219,
+        "depth": 4
+    },
+    {
+        "text": "p) Robeco Quant Emerging Large Cap Equities",
+        "page": 88,
+        "id": 220,
+        "depth": 3
+    },
+    {
+        "text": "Investment policy",
+        "page": 88,
+        "id": 221,
+        "depth": 4
+    },
+    {
+        "text": "Profile of the typical Investor",
+        "page": 88,
+        "id": 222,
+        "depth": 4
+    },
+    {
+        "text": "Risk profile of the Sub-fund",
+        "page": 88,
+        "id": 223,
+        "depth": 4
+    },
+    {
+        "text": "Risk considerations for the Sub-fund",
+        "page": 89,
+        "id": 224,
+        "depth": 4
+    },
+    {
+        "text": "Investment Adviser",
+        "page": 89,
+        "id": 225,
+        "depth": 4
+    },
+    {
+        "text": "Base currency",
+        "page": 89,
+        "id": 226,
+        "depth": 4
+    },
+    {
+        "text": "Issue date",
+        "page": 89,
+        "id": 227,
+        "depth": 4
+    },
+    {
+        "text": "q) Robeco Emerging Opportunities Equities",
+        "page": 90,
+        "id": 228,
+        "depth": 3
+    },
+    {
+        "text": "Investment policy",
+        "page": 90,
+        "id": 229,
+        "depth": 4
+    },
+    {
+        "text": "Profile of the typical Investor",
+        "page": 90,
+        "id": 230,
+        "depth": 4
+    },
+    {
+        "text": "Risk profile of the Sub-fund",
+        "page": 91,
+        "id": 231,
+        "depth": 4
+    },
+    {
+        "text": "Risk considerations for the Sub-fund",
+        "page": 91,
+        "id": 232,
+        "depth": 4
+    },
+    {
+        "text": "Investment Adviser",
+        "page": 91,
+        "id": 233,
+        "depth": 4
+    },
+    {
+        "text": "Base currency",
+        "page": 91,
+        "id": 234,
+        "depth": 4
+    },
+    {
+        "text": "Issue date",
+        "page": 91,
+        "id": 235,
+        "depth": 4
+    },
+    {
+        "text": "r) Robeco BP Global Long/Short Equities",
+        "page": 93,
+        "id": 236,
+        "depth": 3
+    },
+    {
+        "text": "Investment policy",
+        "page": 93,
+        "id": 237,
+        "depth": 4
+    },
+    {
+        "text": "Profile of the typical Investor",
+        "page": 93,
+        "id": 238,
+        "depth": 4
+    },
+    {
+        "text": "Risk profile of the Sub-fund",
+        "page": 93,
+        "id": 239,
+        "depth": 4
+    },
+    {
+        "text": "Risk considerations for the Sub-fund",
+        "page": 93,
+        "id": 240,
+        "depth": 4
+    },
+    {
+        "text": "Investment Adviser",
+        "page": 94,
+        "id": 241,
+        "depth": 4
+    },
+    {
+        "text": "Investment Sub- Adviser",
+        "page": 94,
+        "id": 242,
+        "depth": 4
+    },
+    {
+        "text": "Base currency",
+        "page": 94,
+        "id": 243,
+        "depth": 4
+    },
+    {
+        "text": "Issue date",
+        "page": 94,
+        "id": 244,
+        "depth": 4
+    },
+    {
+        "text": "s) Robeco Global Developed Conservative Equities",
+        "page": 95,
+        "id": 245,
+        "depth": 3
+    },
+    {
+        "text": "Investment policy",
+        "page": 95,
+        "id": 246,
+        "depth": 4
+    },
+    {
+        "text": "Profile of the typical Investor",
+        "page": 95,
+        "id": 247,
+        "depth": 4
+    },
+    {
+        "text": "Risk profile of the Sub-fund",
+        "page": 95,
+        "id": 248,
+        "depth": 4
+    },
+    {
+        "text": "Risk considerations for the Sub-fund",
+        "page": 95,
+        "id": 249,
+        "depth": 4
+    },
+    {
+        "text": "Investment Adviser",
+        "page": 96,
+        "id": 250,
+        "depth": 4
+    },
+    {
+        "text": "Base currency",
+        "page": 96,
+        "id": 251,
+        "depth": 4
+    },
+    {
+        "text": "Issue date",
+        "page": 96,
+        "id": 252,
+        "depth": 4
+    },
+    {
+        "text": "t) Robeco Global Developed Active Quant Equities",
+        "page": 97,
+        "id": 253,
+        "depth": 3
+    },
+    {
+        "text": "Investment policy",
+        "page": 97,
+        "id": 254,
+        "depth": 4
+    },
+    {
+        "text": "Profile of the typical Investor",
+        "page": 97,
+        "id": 255,
+        "depth": 4
+    },
+    {
+        "text": "Risk profile of the Sub-fund",
+        "page": 97,
+        "id": 256,
+        "depth": 4
+    },
+    {
+        "text": "Risk considerations for the Sub-fund",
+        "page": 97,
+        "id": 257,
+        "depth": 4
+    },
+    {
+        "text": "Investment Adviser",
+        "page": 98,
+        "id": 258,
+        "depth": 4
+    },
+    {
+        "text": "Base currency",
+        "page": 98,
+        "id": 259,
+        "depth": 4
+    },
+    {
+        "text": "Issue date",
+        "page": 98,
+        "id": 260,
+        "depth": 4
+    },
+    {
+        "text": "u) Robeco Global Active Quant Equities",
+        "page": 99,
+        "id": 261,
+        "depth": 3
+    },
+    {
+        "text": "Investment policy",
+        "page": 99,
+        "id": 262,
+        "depth": 4
+    },
+    {
+        "text": "Profile of the typical Investor",
+        "page": 99,
+        "id": 263,
+        "depth": 4
+    },
+    {
+        "text": "Risk profile of the Sub-",
+        "page": 99,
+        "id": 264,
+        "depth": 4
+    },
+    {
+        "text": "Risk considerations for the Sub-fund",
+        "page": 100,
+        "id": 265,
+        "depth": 4
+    },
+    {
+        "text": "Investment Adviser",
+        "page": 100,
+        "id": 266,
+        "depth": 4
+    },
+    {
+        "text": "Base currency",
+        "page": 100,
+        "id": 267,
+        "depth": 4
+    },
+    {
+        "text": "Issue date",
+        "page": 100,
+        "id": 268,
+        "depth": 4
+    },
+    {
+        "text": "v) Robeco Global Quality Equities",
+        "page": 101,
+        "id": 269,
+        "depth": 3
+    },
+    {
+        "text": "Investment policy",
+        "page": 101,
+        "id": 270,
+        "depth": 4
+    },
+    {
+        "text": "Profile of the typical Investor",
+        "page": 101,
+        "id": 271,
+        "depth": 4
+    },
+    {
+        "text": "Risk profile of the Sub-fund",
+        "page": 101,
+        "id": 272,
+        "depth": 4
+    },
+    {
+        "text": "Risk considerations for the Sub-fund",
+        "page": 102,
+        "id": 273,
+        "depth": 4
+    },
+    {
+        "text": "Investment Adviser",
+        "page": 102,
+        "id": 274,
+        "depth": 4
+    },
+    {
+        "text": "Base currency",
+        "page": 102,
+        "id": 275,
+        "depth": 4
+    },
+    {
+        "text": "Issue date",
+        "page": 102,
+        "id": 276,
+        "depth": 4
+    },
+    {
+        "text": "w) RobecoSAM Global Environmental Impact Equities",
+        "page": 103,
+        "id": 277,
+        "depth": 3
+    },
+    {
+        "text": "Investment policy",
+        "page": 103,
+        "id": 278,
+        "depth": 4
+    },
+    {
+        "text": "Profile of the typical Investor",
+        "page": 103,
+        "id": 279,
+        "depth": 4
+    },
+    {
+        "text": "Risk profile of the Sub- fund",
+        "page": 103,
+        "id": 280,
+        "depth": 4
+    },
+    {
+        "text": "Risk considerations for the Sub-fund",
+        "page": 103,
+        "id": 281,
+        "depth": 4
+    },
+    {
+        "text": "Investment Adviser",
+        "page": 104,
+        "id": 282,
+        "depth": 4
+    },
+    {
+        "text": "Investment Sub- Adviser",
+        "page": 104,
+        "id": 283,
+        "depth": 4
+    },
+    {
+        "text": "Base currency",
+        "page": 104,
+        "id": 284,
+        "depth": 4
+    },
+    {
+        "text": "Issue date",
+        "page": 104,
+        "id": 285,
+        "depth": 4
+    },
+    {
+        "text": "x) Robeco Emerging Markets Equities ex China",
+        "page": 105,
+        "id": 286,
+        "depth": 3
+    },
+    {
+        "text": "Investment policy",
+        "page": 105,
+        "id": 287,
+        "depth": 4
+    },
+    {
+        "text": "Profile of the typical Investo",
+        "page": 105,
+        "id": 288,
+        "depth": 4
+    },
+    {
+        "text": "Risk profile of the Sub-fund",
+        "page": 105,
+        "id": 289,
+        "depth": 4
+    },
+    {
+        "text": "Risk considerations for the Sub-fund",
+        "page": 106,
+        "id": 290,
+        "depth": 4
+    },
+    {
+        "text": "Investment Adviser",
+        "page": 106,
+        "id": 291,
+        "depth": 4
+    },
+    {
+        "text": "Base currency",
+        "page": 106,
+        "id": 292,
+        "depth": 4
+    },
+    {
+        "text": "Issue date",
+        "page": 106,
+        "id": 293,
+        "depth": 4
+    },
+    {
+        "text": "2. Regional & Country Equity Sub-funds",
+        "page": 107,
+        "id": 294,
+        "depth": 2
+    },
+    {
+        "text": "a) Robeco Asia-Pacific Equities",
+        "page": 107,
+        "id": 295,
+        "depth": 3
+    },
+    {
+        "text": "Investment policy",
+        "page": 107,
+        "id": 296,
+        "depth": 4
+    },
+    {
+        "text": "Profile of the typical Investor",
+        "page": 107,
+        "id": 297,
+        "depth": 4
+    },
+    {
+        "text": "Risk profile of the",
+        "page": 107,
+        "id": 298,
+        "depth": 4
+    },
+    {
+        "text": "Risk considerations for the Sub-fund",
+        "page": 108,
+        "id": 299,
+        "depth": 4
+    },
+    {
+        "text": "Investment Adviser",
+        "page": 108,
+        "id": 300,
+        "depth": 4
+    },
+    {
+        "text": "Investment Sub- Adviser",
+        "page": 108,
+        "id": 301,
+        "depth": 4
+    },
+    {
+        "text": "Base currency",
+        "page": 108,
+        "id": 302,
+        "depth": 4
+    },
+    {
+        "text": "Issue date",
+        "page": 108,
+        "id": 303,
+        "depth": 4
+    },
+    {
+        "text": "b) RobecoSAM Sustainable European Equities",
+        "page": 110,
+        "id": 304,
+        "depth": 3
+    },
+    {
+        "text": "Investment policy",
+        "page": 110,
+        "id": 305,
+        "depth": 4
+    },
+    {
+        "text": "Profile of the typical Investor",
+        "page": 110,
+        "id": 306,
+        "depth": 4
+    },
+    {
+        "text": "Risk profile of the Sub-fund",
+        "page": 110,
+        "id": 307,
+        "depth": 4
+    },
+    {
+        "text": "Risk considerations for the Sub-fund",
+        "page": 111,
+        "id": 308,
+        "depth": 4
+    },
+    {
+        "text": "Investment Adviser",
+        "page": 111,
+        "id": 309,
+        "depth": 4
+    },
+    {
+        "text": "Investment Sub- Adviser",
+        "page": 111,
+        "id": 310,
+        "depth": 4
+    },
+    {
+        "text": "Base currency",
+        "page": 111,
+        "id": 311,
+        "depth": 4
+    },
+    {
+        "text": "Issue date",
+        "page": 111,
+        "id": 312,
+        "depth": 4
+    },
+    {
+        "text": "c) Robeco European Conservative Equities",
+        "page": 112,
+        "id": 313,
+        "depth": 3
+    },
+    {
+        "text": "Investment policy",
+        "page": 112,
+        "id": 314,
+        "depth": 4
+    },
+    {
+        "text": "Profile of the typical Investor",
+        "page": 112,
+        "id": 315,
+        "depth": 4
+    },
+    {
+        "text": "Risk profile of the Sub-fund",
+        "page": 112,
+        "id": 316,
+        "depth": 4
+    },
+    {
+        "text": "Risk considerations for the Sub-fund",
+        "page": 112,
+        "id": 317,
+        "depth": 4
+    },
+    {
+        "text": "Investment Adviser",
+        "page": 113,
+        "id": 318,
+        "depth": 4
+    },
+    {
+        "text": "Base currency",
+        "page": 113,
+        "id": 319,
+        "depth": 4
+    },
+    {
+        "text": "Issue date",
+        "page": 113,
+        "id": 320,
+        "depth": 4
+    },
+    {
+        "text": "d) Robeco US Conservative Equities",
+        "page": 114,
+        "id": 321,
+        "depth": 3
+    },
+    {
+        "text": "Investment policy",
+        "page": 114,
+        "id": 322,
+        "depth": 4
+    },
+    {
+        "text": "Profile of the typical Investor",
+        "page": 114,
+        "id": 323,
+        "depth": 4
+    },
+    {
+        "text": "Risk profile of the Sub-fund",
+        "page": 114,
+        "id": 324,
+        "depth": 4
+    },
+    {
+        "text": "Risk considerations for the Sub-fund",
+        "page": 114,
+        "id": 325,
+        "depth": 4
+    },
+    {
+        "text": "Investment Adviser",
+        "page": 115,
+        "id": 326,
+        "depth": 4
+    },
+    {
+        "text": "Base currency",
+        "page": 115,
+        "id": 327,
+        "depth": 4
+    },
+    {
+        "text": "Issue date",
+        "page": 115,
+        "id": 328,
+        "depth": 4
+    },
+    {
+        "text": "e) Robeco US Premium Equities (until 30-08-2016) Robeco BP US Premium Equities (from 31-08-2016)",
+        "page": 116,
+        "id": 329,
+        "depth": 3
+    },
+    {
+        "text": "Investment policy",
+        "page": 116,
+        "id": 330,
+        "depth": 4
+    },
+    {
+        "text": "Profile of the typical Investor",
+        "page": 116,
+        "id": 331,
+        "depth": 4
+    },
+    {
+        "text": "Risk profile of the Sub-fund",
+        "page": 116,
+        "id": 332,
+        "depth": 4
+    },
+    {
+        "text": "Risk considerations for the Sub-fund",
+        "page": 116,
+        "id": 333,
+        "depth": 4
+    },
+    {
+        "text": "Investment Adviser",
+        "page": 117,
+        "id": 334,
+        "depth": 4
+    },
+    {
+        "text": "Investment Sub- Adviser",
+        "page": 117,
+        "id": 335,
+        "depth": 4
+    },
+    {
+        "text": "Base currency",
+        "page": 117,
+        "id": 336,
+        "depth": 4
+    },
+    {
+        "text": "Issue date",
+        "page": 117,
+        "id": 337,
+        "depth": 4
+    },
+    {
+        "text": "f) Robeco Chinese Equities",
+        "page": 118,
+        "id": 338,
+        "depth": 3
+    },
+    {
+        "text": "Investment policy",
+        "page": 118,
+        "id": 339,
+        "depth": 4
+    },
+    {
+        "text": "Profile of the typical Investor",
+        "page": 118,
+        "id": 340,
+        "depth": 4
+    },
+    {
+        "text": "Risk profile of the",
+        "page": 118,
+        "id": 341,
+        "depth": 4
+    },
+    {
+        "text": "Risk considerations for the Sub-fund",
+        "page": 119,
+        "id": 342,
+        "depth": 4
+    },
+    {
+        "text": "Investment Adviser",
+        "page": 119,
+        "id": 343,
+        "depth": 4
+    },
+    {
+        "text": "Investment Sub- Adviser",
+        "page": 119,
+        "id": 344,
+        "depth": 4
+    },
+    {
+        "text": "Base currency",
+        "page": 119,
+        "id": 345,
+        "depth": 4
+    },
+    {
+        "text": "Issue date",
+        "page": 119,
+        "id": 346,
+        "depth": 4
+    },
+    {
+        "text": "g) Robeco Indian Equities",
+        "page": 121,
+        "id": 347,
+        "depth": 3
+    },
+    {
+        "text": "Investment policy",
+        "page": 121,
+        "id": 348,
+        "depth": 4
+    },
+    {
+        "text": "Profile of the typical Investor",
+        "page": 121,
+        "id": 349,
+        "depth": 4
+    },
+    {
+        "text": "Risk profile of the Sub-fund",
+        "page": 121,
+        "id": 350,
+        "depth": 4
+    },
+    {
+        "text": "Risk considerations for the Sub-fund",
+        "page": 122,
+        "id": 351,
+        "depth": 4
+    },
+    {
+        "text": "Risk considerations for the Sub-fund structure",
+        "page": 122,
+        "id": 352,
+        "depth": 4
+    },
+    {
+        "text": "Investment Adviser",
+        "page": 122,
+        "id": 353,
+        "depth": 4
+    },
+    {
+        "text": "Investment Sub- Adviser",
+        "page": 122,
+        "id": 354,
+        "depth": 4
+    },
+    {
+        "text": "Base currency",
+        "page": 122,
+        "id": 355,
+        "depth": 4
+    },
+    {
+        "text": "Issue date",
+        "page": 122,
+        "id": 356,
+        "depth": 4
+    },
+    {
+        "text": "h) Robeco Asian Stars Equities",
+        "page": 124,
+        "id": 357,
+        "depth": 3
+    },
+    {
+        "text": "Investment policy",
+        "page": 124,
+        "id": 358,
+        "depth": 4
+    },
+    {
+        "text": "Profile of the typical Investor",
+        "page": 124,
+        "id": 359,
+        "depth": 4
+    },
+    {
+        "text": "Risk profile of the Sub-fund",
+        "page": 125,
+        "id": 360,
+        "depth": 4
+    },
+    {
+        "text": "Risk considerations for the Sub-fund",
+        "page": 125,
+        "id": 361,
+        "depth": 4
+    },
+    {
+        "text": "Investment Adviser",
+        "page": 125,
+        "id": 362,
+        "depth": 4
+    },
+    {
+        "text": "Investment Sub- Adviser",
+        "page": 125,
+        "id": 363,
+        "depth": 4
+    },
+    {
+        "text": "Base currency",
+        "page": 125,
+        "id": 364,
+        "depth": 4
+    },
+    {
+        "text": "Issue date",
+        "page": 125,
+        "id": 365,
+        "depth": 4
+    },
+    {
+        "text": "i) Robeco US Large Cap Equities (until 30-08-2016) Robeco BP US Large Cap Equities (from 31-08-2016)",
+        "page": 127,
+        "id": 366,
+        "depth": 3
+    },
+    {
+        "text": "Investment policy",
+        "page": 127,
+        "id": 367,
+        "depth": 4
+    },
+    {
+        "text": "Profile of the typical Investor",
+        "page": 127,
+        "id": 368,
+        "depth": 4
+    },
+    {
+        "text": "Risk profile of the Sub-fund",
+        "page": 127,
+        "id": 369,
+        "depth": 4
+    },
+    {
+        "text": "Risk considerations for the Sub-fund",
+        "page": 127,
+        "id": 370,
+        "depth": 4
+    },
+    {
+        "text": "Investment Adviser",
+        "page": 128,
+        "id": 371,
+        "depth": 4
+    },
+    {
+        "text": "Investment Sub- Adviser",
+        "page": 128,
+        "id": 372,
+        "depth": 4
+    },
+    {
+        "text": "Base currency",
+        "page": 128,
+        "id": 373,
+        "depth": 4
+    },
+    {
+        "text": "Issue date",
+        "page": 128,
+        "id": 374,
+        "depth": 4
+    },
+    {
+        "text": "j) Robeco US Select Opportunities Equities (until 30-08-2016) Robeco BP US Select Opportunities Equities (from 31-08-2016)",
+        "page": 129,
+        "id": 375,
+        "depth": 3
+    },
+    {
+        "text": "Investment policy",
+        "page": 129,
+        "id": 376,
+        "depth": 4
+    },
+    {
+        "text": "Profile of the typical Investor",
+        "page": 129,
+        "id": 377,
+        "depth": 4
+    },
+    {
+        "text": "Risk profile of the Sub-fund",
+        "page": 129,
+        "id": 378,
+        "depth": 4
+    },
+    {
+        "text": "Risk considerations for the Sub-fund",
+        "page": 129,
+        "id": 379,
+        "depth": 4
+    },
+    {
+        "text": "Investment Adviser",
+        "page": 130,
+        "id": 380,
+        "depth": 4
+    },
+    {
+        "text": "Investment Sub- Adviser",
+        "page": 130,
+        "id": 381,
+        "depth": 4
+    },
+    {
+        "text": "Base currency",
+        "page": 130,
+        "id": 382,
+        "depth": 4
+    },
+    {
+        "text": "Issue date",
+        "page": 130,
+        "id": 383,
+        "depth": 4
+    },
+    {
+        "text": "k) Robeco Asia-Pacific Developed Equities",
+        "page": 131,
+        "id": 384,
+        "depth": 3
+    },
+    {
+        "text": "Investment policy",
+        "page": 131,
+        "id": 385,
+        "depth": 4
+    },
+    {
+        "text": "Profile of the typical Investor",
+        "page": 131,
+        "id": 386,
+        "depth": 4
+    },
+    {
+        "text": "Risk profile of the Sub-fund",
+        "page": 131,
+        "id": 387,
+        "depth": 4
+    },
+    {
+        "text": "Risk considerations for the Sub-fund",
+        "page": 131,
+        "id": 388,
+        "depth": 4
+    },
+    {
+        "text": "Investment Adviser",
+        "page": 132,
+        "id": 389,
+        "depth": 4
+    },
+    {
+        "text": "Investment Sub- Adviser",
+        "page": 132,
+        "id": 390,
+        "depth": 4
+    },
+    {
+        "text": "Base currency",
+        "page": 132,
+        "id": 391,
+        "depth": 4
+    },
+    {
+        "text": "l) Robeco Asia-Pacific Conservative Equities",
+        "page": 133,
+        "id": 392,
+        "depth": 3
+    },
+    {
+        "text": "Investment policy",
+        "page": 133,
+        "id": 393,
+        "depth": 4
+    },
+    {
+        "text": "Profile of the typical Investor",
+        "page": 133,
+        "id": 394,
+        "depth": 4
+    },
+    {
+        "text": "Risk profile of the Sub-fund",
+        "page": 133,
+        "id": 395,
+        "depth": 4
+    },
+    {
+        "text": "Risk considerations for the Sub-fund",
+        "page": 134,
+        "id": 396,
+        "depth": 4
+    },
+    {
+        "text": "Investment Adviser",
+        "page": 134,
+        "id": 397,
+        "depth": 4
+    },
+    {
+        "text": "Base currency",
+        "page": 134,
+        "id": 398,
+        "depth": 4
+    },
+    {
+        "text": "Issue date",
+        "page": 134,
+        "id": 399,
+        "depth": 4
+    },
+    {
+        "text": "m) Robeco Asia-Pacific Active Quant Equities",
+        "page": 135,
+        "id": 400,
+        "depth": 3
+    },
+    {
+        "text": "Investment policy",
+        "page": 135,
+        "id": 401,
+        "depth": 4
+    },
+    {
+        "text": "Profile of the typical Investor",
+        "page": 135,
+        "id": 402,
+        "depth": 4
+    },
+    {
+        "text": "Risk profile of the Sub- fund",
+        "page": 136,
+        "id": 403,
+        "depth": 4
+    },
+    {
+        "text": "Risk considerations for the Sub-fund",
+        "page": 136,
+        "id": 404,
+        "depth": 4
+    },
+    {
+        "text": "Investment Adviser",
+        "page": 136,
+        "id": 405,
+        "depth": 4
+    },
+    {
+        "text": "Base currency",
+        "page": 136,
+        "id": 406,
+        "depth": 4
+    },
+    {
+        "text": "Issue date",
+        "page": 136,
+        "id": 407,
+        "depth": 4
+    },
+    {
+        "text": "n) Robeco US Active Quant Equities",
+        "page": 137,
+        "id": 408,
+        "depth": 3
+    },
+    {
+        "text": "Investment policy",
+        "page": 137,
+        "id": 409,
+        "depth": 4
+    },
+    {
+        "text": "Profile of the typical Investor",
+        "page": 137,
+        "id": 410,
+        "depth": 4
+    },
+    {
+        "text": "Risk profile of the Sub- fund",
+        "page": 137,
+        "id": 411,
+        "depth": 4
+    },
+    {
+        "text": "Risk considerations for the Sub-fund",
+        "page": 137,
+        "id": 412,
+        "depth": 4
+    },
+    {
+        "text": "Investment Adviser",
+        "page": 138,
+        "id": 413,
+        "depth": 4
+    },
+    {
+        "text": "Base currency",
+        "page": 138,
+        "id": 414,
+        "depth": 4
+    },
+    {
+        "text": "Issue date",
+        "page": 138,
+        "id": 415,
+        "depth": 4
+    },
+    {
+        "text": "o) Robeco European Active Quant Equities",
+        "page": 139,
+        "id": 416,
+        "depth": 3
+    },
+    {
+        "text": "Investment policy",
+        "page": 139,
+        "id": 417,
+        "depth": 4
+    },
+    {
+        "text": "Profile of the typical Investor",
+        "page": 139,
+        "id": 418,
+        "depth": 4
+    },
+    {
+        "text": "Risk profile of the Sub- fund",
+        "page": 139,
+        "id": 419,
+        "depth": 4
+    },
+    {
+        "text": "Risk considerations for",
+        "page": 139,
+        "id": 420,
+        "depth": 4
+    },
+    {
+        "text": "Investment Adviser",
+        "page": 140,
+        "id": 421,
+        "depth": 4
+    },
+    {
+        "text": "Base currency",
+        "page": 140,
+        "id": 422,
+        "depth": 4
+    },
+    {
+        "text": "Issue date",
+        "page": 140,
+        "id": 423,
+        "depth": 4
+    },
+    {
+        "text": "p) RobecoSAM Quant Sustainable US Equities",
+        "page": 141,
+        "id": 424,
+        "depth": 3
+    },
+    {
+        "text": "Investment policy",
+        "page": 141,
+        "id": 425,
+        "depth": 4
+    },
+    {
+        "text": "Profile of the typical Investor",
+        "page": 141,
+        "id": 426,
+        "depth": 4
+    },
+    {
+        "text": "Risk profile of the Sub- fund",
+        "page": 141,
+        "id": 427,
+        "depth": 4
+    },
+    {
+        "text": "Risk considerations for the Sub-fund",
+        "page": 142,
+        "id": 428,
+        "depth": 4
+    },
+    {
+        "text": "Investment Adviser",
+        "page": 142,
+        "id": 429,
+        "depth": 4
+    },
+    {
+        "text": "Investment Sub- Adviser",
+        "page": 142,
+        "id": 430,
+        "depth": 4
+    },
+    {
+        "text": "Base currency",
+        "page": 142,
+        "id": 431,
+        "depth": 4
+    },
+    {
+        "text": "q) Robeco European Premium Equities (until 30-08-2016) Robeco BP European Premium Equities (from 31-08-2016)",
+        "page": 143,
+        "id": 432,
+        "depth": 3
+    },
+    {
+        "text": "Investment Policy",
+        "page": 143,
+        "id": 433,
+        "depth": 4
+    },
+    {
+        "text": "Profile of the typical Investor",
+        "page": 143,
+        "id": 434,
+        "depth": 4
+    },
+    {
+        "text": "Risk profile of the Sub-fund",
+        "page": 143,
+        "id": 435,
+        "depth": 4
+    },
+    {
+        "text": "Risk considerations for the Sub-fund",
+        "page": 143,
+        "id": 436,
+        "depth": 4
+    },
+    {
+        "text": "Investment Adviser",
+        "page": 144,
+        "id": 437,
+        "depth": 4
+    },
+    {
+        "text": "Investment Sub- Adviser",
+        "page": 144,
+        "id": 438,
+        "depth": 4
+    },
+    {
+        "text": "Base currency",
+        "page": 144,
+        "id": 439,
+        "depth": 4
+    },
+    {
+        "text": "Issue date",
+        "page": 144,
+        "id": 440,
+        "depth": 4
+    },
+    {
+        "text": "r) Robeco Continental European Conservative Equities",
+        "page": 145,
+        "id": 441,
+        "depth": 3
+    },
+    {
+        "text": "Investment policy",
+        "page": 145,
+        "id": 442,
+        "depth": 4
+    },
+    {
+        "text": "Profile of the typical Investor",
+        "page": 145,
+        "id": 443,
+        "depth": 4
+    },
+    {
+        "text": "Risk profile of the Sub-fund",
+        "page": 145,
+        "id": 444,
+        "depth": 4
+    },
+    {
+        "text": "Risk considerations for the Sub-fund",
+        "page": 145,
+        "id": 445,
+        "depth": 4
+    },
+    {
+        "text": "Investment Adviser",
+        "page": 146,
+        "id": 446,
+        "depth": 4
+    },
+    {
+        "text": "Base currency",
+        "page": 146,
+        "id": 447,
+        "depth": 4
+    },
+    {
+        "text": "Issue date",
+        "page": 146,
+        "id": 448,
+        "depth": 4
+    },
+    {
+        "text": "3. Theme Equity Sub-funds",
+        "page": 147,
+        "id": 449,
+        "depth": 2
+    },
+    {
+        "text": "a) Robeco New World Financial Equities",
+        "page": 147,
+        "id": 450,
+        "depth": 3
+    },
+    {
+        "text": "Investment policy",
+        "page": 147,
+        "id": 451,
+        "depth": 4
+    },
+    {
+        "text": "Profile of the typical Investor",
+        "page": 147,
+        "id": 452,
+        "depth": 4
+    },
+    {
+        "text": "Risk profile of the Sub-fund",
+        "page": 147,
+        "id": 453,
+        "depth": 4
+    },
+    {
+        "text": "Risk considerations for the Sub-fund",
+        "page": 148,
+        "id": 454,
+        "depth": 4
+    },
+    {
+        "text": "Investment Adviser",
+        "page": 148,
+        "id": 455,
+        "depth": 4
+    },
+    {
+        "text": "Base currency",
+        "page": 148,
+        "id": 456,
+        "depth": 4
+    },
+    {
+        "text": "Issue date",
+        "page": 148,
+        "id": 457,
+        "depth": 4
+    },
+    {
+        "text": "b) Robeco Property Equities",
+        "page": 149,
+        "id": 458,
+        "depth": 3
+    },
+    {
+        "text": "Investment policy",
+        "page": 149,
+        "id": 459,
+        "depth": 4
+    },
+    {
+        "text": "Profile of the typical Investor",
+        "page": 149,
+        "id": 460,
+        "depth": 4
+    },
+    {
+        "text": "Risk profile of the Sub-fund",
+        "page": 149,
+        "id": 461,
+        "depth": 4
+    },
+    {
+        "text": "Risk considerations for the Sub-fund",
+        "page": 149,
+        "id": 462,
+        "depth": 4
+    },
+    {
+        "text": "Investment Adviser",
+        "page": 150,
+        "id": 463,
+        "depth": 4
+    },
+    {
+        "text": "Base currency",
+        "page": 150,
+        "id": 464,
+        "depth": 4
+    },
+    {
+        "text": "Issue date",
+        "page": 150,
+        "id": 465,
+        "depth": 4
+    },
+    {
+        "text": "c) Robeco Global Consumer Trends Equities",
+        "page": 151,
+        "id": 466,
+        "depth": 3
+    },
+    {
+        "text": "Investment policy",
+        "page": 151,
+        "id": 467,
+        "depth": 4
+    },
+    {
+        "text": "Profile of the typical Investor",
+        "page": 151,
+        "id": 468,
+        "depth": 4
+    },
+    {
+        "text": "Risk profile of the Sub-fund",
+        "page": 151,
+        "id": 469,
+        "depth": 4
+    },
+    {
+        "text": "Risk considerations for the Sub-fund",
+        "page": 152,
+        "id": 470,
+        "depth": 4
+    },
+    {
+        "text": "Investment Adviser",
+        "page": 152,
+        "id": 471,
+        "depth": 4
+    },
+    {
+        "text": "Base currency",
+        "page": 152,
+        "id": 472,
+        "depth": 4
+    },
+    {
+        "text": "Issue date",
+        "page": 152,
+        "id": 473,
+        "depth": 4
+    },
+    {
+        "text": "d) RobecoSAM Sustainable Agribusiness Equities",
+        "page": 153,
+        "id": 474,
+        "depth": 3
+    },
+    {
+        "text": "Investment policy",
+        "page": 153,
+        "id": 475,
+        "depth": 4
+    },
+    {
+        "text": "Profile of the typical Investor",
+        "page": 153,
+        "id": 476,
+        "depth": 4
+    },
+    {
+        "text": "Risk profile of the Sub-fund",
+        "page": 153,
+        "id": 477,
+        "depth": 4
+    },
+    {
+        "text": "Risk considerations for the Sub-fund",
+        "page": 154,
+        "id": 478,
+        "depth": 4
+    },
+    {
+        "text": "Investment Adviser",
+        "page": 154,
+        "id": 479,
+        "depth": 4
+    },
+    {
+        "text": "Investment Adviser Sub-",
+        "page": 154,
+        "id": 480,
+        "depth": 4
+    },
+    {
+        "text": "Base currency",
+        "page": 154,
+        "id": 481,
+        "depth": 4
+    },
+    {
+        "text": "Issue date",
+        "page": 154,
+        "id": 482,
+        "depth": 4
+    },
+    {
+        "text": "e) Robeco Global Growth Trends Equities",
+        "page": 155,
+        "id": 483,
+        "depth": 3
+    },
+    {
+        "text": "Investment policy",
+        "page": 155,
+        "id": 484,
+        "depth": 4
+    },
+    {
+        "text": "Profile of the typical Investor",
+        "page": 155,
+        "id": 485,
+        "depth": 4
+    },
+    {
+        "text": "Risk profile of the Sub-fund",
+        "page": 155,
+        "id": 486,
+        "depth": 4
+    },
+    {
+        "text": "Risk considerations for the Sub-fund",
+        "page": 156,
+        "id": 487,
+        "depth": 4
+    },
+    {
+        "text": "Investment Adviser",
+        "page": 156,
+        "id": 488,
+        "depth": 4
+    },
+    {
+        "text": "Base currency",
+        "page": 156,
+        "id": 489,
+        "depth": 4
+    },
+    {
+        "text": "Issue date",
+        "page": 156,
+        "id": 490,
+        "depth": 4
+    },
+    {
+        "text": "4. Global Bond Sub-funds",
+        "page": 157,
+        "id": 491,
+        "depth": 2
+    },
+    {
+        "text": "a) Robeco High Yield Bonds",
+        "page": 157,
+        "id": 492,
+        "depth": 3
+    },
+    {
+        "text": "Investment policy",
+        "page": 157,
+        "id": 493,
+        "depth": 4
+    },
+    {
+        "text": "Profile of the typical Investor",
+        "page": 157,
+        "id": 494,
+        "depth": 4
+    },
+    {
+        "text": "Risk profile of the Sub-fund",
+        "page": 158,
+        "id": 495,
+        "depth": 4
+    },
+    {
+        "text": "Risk considerations for the Sub-fund",
+        "page": 158,
+        "id": 496,
+        "depth": 4
+    },
+    {
+        "text": "Investment Adviser",
+        "page": 158,
+        "id": 497,
+        "depth": 4
+    },
+    {
+        "text": "Base currency",
+        "page": 158,
+        "id": 498,
+        "depth": 4
+    },
+    {
+        "text": "Issue date",
+        "page": 158,
+        "id": 499,
+        "depth": 4
+    },
+    {
+        "text": "b) Robeco Emerging Credits",
+        "page": 160,
+        "id": 500,
+        "depth": 3
+    },
+    {
+        "text": "Investment policy",
+        "page": 160,
+        "id": 501,
+        "depth": 4
+    },
+    {
+        "text": "Profile of the typical Investor",
+        "page": 160,
+        "id": 502,
+        "depth": 4
+    },
+    {
+        "text": "Risk profile of the Sub-fund",
+        "page": 161,
+        "id": 503,
+        "depth": 4
+    },
+    {
+        "text": "Risk considerations for the Sub-fund",
+        "page": 161,
+        "id": 504,
+        "depth": 4
+    },
+    {
+        "text": "Investment Adviser",
+        "page": 161,
+        "id": 505,
+        "depth": 4
+    },
+    {
+        "text": "Base currency",
+        "page": 161,
+        "id": 506,
+        "depth": 4
+    },
+    {
+        "text": "Issue date",
+        "page": 161,
+        "id": 507,
+        "depth": 4
+    },
+    {
+        "text": "c) Robeco Emerging Debt",
+        "page": 163,
+        "id": 508,
+        "depth": 3
+    },
+    {
+        "text": "Investment policy",
+        "page": 163,
+        "id": 509,
+        "depth": 4
+    },
+    {
+        "text": "Profile of the typical Investor",
+        "page": 164,
+        "id": 510,
+        "depth": 4
+    },
+    {
+        "text": "Risk profile of the Sub-fund",
+        "page": 164,
+        "id": 511,
+        "depth": 4
+    },
+    {
+        "text": "Risk considerations for the Sub-fund",
+        "page": 164,
+        "id": 512,
+        "depth": 4
+    },
+    {
+        "text": "Investment Adviser",
+        "page": 164,
+        "id": 513,
+        "depth": 4
+    },
+    {
+        "text": "Base currency",
+        "page": 164,
+        "id": 514,
+        "depth": 4
+    },
+    {
+        "text": "Issue date",
+        "page": 164,
+        "id": 515,
+        "depth": 4
+    },
+    {
+        "text": "d) Robeco Global Credits",
+        "page": 166,
+        "id": 516,
+        "depth": 3
+    },
+    {
+        "text": "Investment policy",
+        "page": 166,
+        "id": 517,
+        "depth": 4
+    },
+    {
+        "text": "Profile of the typical Investor",
+        "page": 166,
+        "id": 518,
+        "depth": 4
+    },
+    {
+        "text": "Risk profile of the Sub-fund",
+        "page": 167,
+        "id": 519,
+        "depth": 4
+    },
+    {
+        "text": "Risk considerations for the Sub-fund",
+        "page": 167,
+        "id": 520,
+        "depth": 4
+    },
+    {
+        "text": "Investment Adviser",
+        "page": 167,
+        "id": 521,
+        "depth": 4
+    },
+    {
+        "text": "Base currency",
+        "page": 167,
+        "id": 522,
+        "depth": 4
+    },
+    {
+        "text": "Issue date",
+        "page": 167,
+        "id": 523,
+        "depth": 4
+    },
+    {
+        "text": "e) Robeco Emerging Lux-o-rente Local Currency",
+        "page": 169,
+        "id": 524,
+        "depth": 3
+    },
+    {
+        "text": "Investment policy",
+        "page": 169,
+        "id": 525,
+        "depth": 4
+    },
+    {
+        "text": "Profile of the typical Investor",
+        "page": 169,
+        "id": 526,
+        "depth": 4
+    },
+    {
+        "text": "Risk profile of the Sub-fund",
+        "page": 169,
+        "id": 527,
+        "depth": 4
+    },
+    {
+        "text": "Risk considerations for the Sub-fund",
+        "page": 170,
+        "id": 528,
+        "depth": 4
+    },
+    {
+        "text": "Investment Adviser",
+        "page": 170,
+        "id": 529,
+        "depth": 4
+    },
+    {
+        "text": "Base currency",
+        "page": 170,
+        "id": 530,
+        "depth": 4
+    },
+    {
+        "text": "Issue date",
+        "page": 170,
+        "id": 531,
+        "depth": 4
+    },
+    {
+        "text": "f) Robeco Quant High Yield Fund",
+        "page": 172,
+        "id": 532,
+        "depth": 3
+    },
+    {
+        "text": "Investment policy",
+        "page": 172,
+        "id": 533,
+        "depth": 4
+    },
+    {
+        "text": "Profile of the typical Investor",
+        "page": 172,
+        "id": 534,
+        "depth": 4
+    },
+    {
+        "text": "Risk profile of the Sub-fund",
+        "page": 172,
+        "id": 535,
+        "depth": 4
+    },
+    {
+        "text": "Risk considerations for the Sub-fund",
+        "page": 173,
+        "id": 536,
+        "depth": 4
+    },
+    {
+        "text": "Investment Adviser",
+        "page": 173,
+        "id": 537,
+        "depth": 4
+    },
+    {
+        "text": "Base currency",
+        "page": 173,
+        "id": 538,
+        "depth": 4
+    },
+    {
+        "text": "Issue date",
+        "page": 173,
+        "id": 539,
+        "depth": 4
+    },
+    {
+        "text": "g) Robeco Global Multi-Factor Credits",
+        "page": 175,
+        "id": 540,
+        "depth": 3
+    },
+    {
+        "text": "Investment policy",
+        "page": 175,
+        "id": 541,
+        "depth": 4
+    },
+    {
+        "text": "Profile of the typical Investor",
+        "page": 175,
+        "id": 542,
+        "depth": 4
+    },
+    {
+        "text": "Risk profile of the Sub-fund",
+        "page": 176,
+        "id": 543,
+        "depth": 4
+    },
+    {
+        "text": "Risk considerations for the Sub-fund",
+        "page": 176,
+        "id": 544,
+        "depth": 4
+    },
+    {
+        "text": "Investment Adviser",
+        "page": 176,
+        "id": 545,
+        "depth": 4
+    },
+    {
+        "text": "Base currency",
+        "page": 176,
+        "id": 546,
+        "depth": 4
+    },
+    {
+        "text": "Issue date",
+        "page": 176,
+        "id": 547,
+        "depth": 4
+    },
+    {
+        "text": "h) Robeco Global Absolute Return Bond Fund",
+        "page": 178,
+        "id": 548,
+        "depth": 3
+    },
+    {
+        "text": "Investment Policy",
+        "page": 178,
+        "id": 549,
+        "depth": 4
+    },
+    {
+        "text": "Profile of the typical Investor",
+        "page": 179,
+        "id": 550,
+        "depth": 4
+    },
+    {
+        "text": "Risk profile of the Sub- fund",
+        "page": 179,
+        "id": 551,
+        "depth": 4
+    },
+    {
+        "text": "Risk considerations for the Sub-fund",
+        "page": 179,
+        "id": 552,
+        "depth": 4
+    },
+    {
+        "text": "Investment Adviser",
+        "page": 179,
+        "id": 553,
+        "depth": 4
+    },
+    {
+        "text": "Base currency",
+        "page": 179,
+        "id": 554,
+        "depth": 4
+    },
+    {
+        "text": "Issue date",
+        "page": 179,
+        "id": 555,
+        "depth": 4
+    },
+    {
+        "text": "i) Robeco Global Sustainable Government Bonds",
+        "page": 182,
+        "id": 556,
+        "depth": 3
+    },
+    {
+        "text": "Investment policy",
+        "page": 182,
+        "id": 557,
+        "depth": 4
+    },
+    {
+        "text": "Profile of the typical Investor",
+        "page": 182,
+        "id": 558,
+        "depth": 4
+    },
+    {
+        "text": "Risk profile of the Sub- fund",
+        "page": 183,
+        "id": 559,
+        "depth": 4
+    },
+    {
+        "text": "Risk considerations for the Sub-fund",
+        "page": 183,
+        "id": 560,
+        "depth": 4
+    },
+    {
+        "text": "Investment Adviser",
+        "page": 183,
+        "id": 561,
+        "depth": 4
+    },
+    {
+        "text": "Base currency",
+        "page": 183,
+        "id": 562,
+        "depth": 4
+    },
+    {
+        "text": "Issue date",
+        "page": 183,
+        "id": 563,
+        "depth": 4
+    },
+    {
+        "text": "5. Regional Bond Sub-funds",
+        "page": 182,
+        "id": 564,
+        "depth": 2
+    },
+    {
+        "text": "a) Robeco Euro Government Bonds",
+        "page": 182,
+        "id": 565,
+        "depth": 3
+    },
+    {
+        "text": "Investment policy",
+        "page": 185,
+        "id": 566,
+        "depth": 4
+    },
+    {
+        "text": "Profile of the typical Investor",
+        "page": 185,
+        "id": 567,
+        "depth": 4
+    },
+    {
+        "text": "Risk profile of the Sub-fund",
+        "page": 186,
+        "id": 568,
+        "depth": 4
+    },
+    {
+        "text": "Risk considerations for the Sub-fund",
+        "page": 186,
+        "id": 569,
+        "depth": 4
+    },
+    {
+        "text": "Investment Adviser",
+        "page": 186,
+        "id": 570,
+        "depth": 4
+    },
+    {
+        "text": "Base currency",
+        "page": 186,
+        "id": 571,
+        "depth": 4
+    },
+    {
+        "text": "Issue date",
+        "page": 186,
+        "id": 572,
+        "depth": 4
+    },
+    {
+        "text": "b) Robeco Euro Credit Bonds",
+        "page": 188,
+        "id": 573,
+        "depth": 3
+    },
+    {
+        "text": "Investment policy",
+        "page": 188,
+        "id": 574,
+        "depth": 4
+    },
+    {
+        "text": "Profile of the typical Investor",
+        "page": 188,
+        "id": 575,
+        "depth": 4
+    },
+    {
+        "text": "Risk profile of the",
+        "page": 188,
+        "id": 576,
+        "depth": 4
+    },
+    {
+        "text": "Risk considerations for the Sub-fund",
+        "page": 189,
+        "id": 577,
+        "depth": 4
+    },
+    {
+        "text": "Investment Adviser",
+        "page": 189,
+        "id": 578,
+        "depth": 4
+    },
+    {
+        "text": "Base currency",
+        "page": 189,
+        "id": 579,
+        "depth": 4
+    },
+    {
+        "text": "Issue date",
+        "page": 189,
+        "id": 580,
+        "depth": 4
+    },
+    {
+        "text": "c) Robeco All Strategy Euro Bonds",
+        "page": 191,
+        "id": 581,
+        "depth": 3
+    },
+    {
+        "text": "Investment policy",
+        "page": 191,
+        "id": 582,
+        "depth": 4
+    },
+    {
+        "text": "Profile of the typical Investor",
+        "page": 191,
+        "id": 583,
+        "depth": 4
+    },
+    {
+        "text": "Risk profile of the Sub-fund",
+        "page": 192,
+        "id": 584,
+        "depth": 4
+    },
+    {
+        "text": "Risk considerations for the Sub-fund",
+        "page": 192,
+        "id": 585,
+        "depth": 4
+    },
+    {
+        "text": "Investment Adviser",
+        "page": 192,
+        "id": 586,
+        "depth": 4
+    },
+    {
+        "text": "Base currency",
+        "page": 192,
+        "id": 587,
+        "depth": 4
+    },
+    {
+        "text": "Issue date",
+        "page": 192,
+        "id": 588,
+        "depth": 4
+    },
+    {
+        "text": "d) Robeco European High Yield Bonds",
+        "page": 194,
+        "id": 589,
+        "depth": 3
+    },
+    {
+        "text": "Investment policy",
+        "page": 194,
+        "id": 590,
+        "depth": 4
+    },
+    {
+        "text": "Profile of the typical Investor",
+        "page": 195,
+        "id": 591,
+        "depth": 4
+    },
+    {
+        "text": "Risk profile of the Sub- fund",
+        "page": 195,
+        "id": 592,
+        "depth": 4
+    },
+    {
+        "text": "Risk considerations for the Sub-fund",
+        "page": 195,
+        "id": 593,
+        "depth": 4
+    },
+    {
+        "text": "Investment Adviser",
+        "page": 195,
+        "id": 594,
+        "depth": 4
+    },
+    {
+        "text": "Base currency",
+        "page": 195,
+        "id": 595,
+        "depth": 4
+    },
+    {
+        "text": "Issue date",
+        "page": 195,
+        "id": 596,
+        "depth": 4
+    },
+    {
+        "text": "e) Robeco Euro Sustainable Credits",
+        "page": 197,
+        "id": 597,
+        "depth": 3
+    },
+    {
+        "text": "Investment policy",
+        "page": 197,
+        "id": 598,
+        "depth": 4
+    },
+    {
+        "text": "Profile of the typical Investor",
+        "page": 197,
+        "id": 599,
+        "depth": 4
+    },
+    {
+        "text": "Risk profile of the Sub-fund",
+        "page": 197,
+        "id": 600,
+        "depth": 4
+    },
+    {
+        "text": "Risk considerations for the Sub-fund",
+        "page": 198,
+        "id": 601,
+        "depth": 4
+    },
+    {
+        "text": "Investment Adviser",
+        "page": 198,
+        "id": 602,
+        "depth": 4
+    },
+    {
+        "text": "Base currency",
+        "page": 198,
+        "id": 603,
+        "depth": 4
+    },
+    {
+        "text": "Issue date",
+        "page": 198,
+        "id": 604,
+        "depth": 4
+    },
+    {
+        "text": "f) Robeco Financial Institutions Bonds",
+        "page": 200,
+        "id": 605,
+        "depth": 3
+    },
+    {
+        "text": "Investment policy",
+        "page": 200,
+        "id": 606,
+        "depth": 4
+    },
+    {
+        "text": "Profile of the typical Investor",
+        "page": 200,
+        "id": 607,
+        "depth": 4
+    },
+    {
+        "text": "Risk profile of the Sub-fund",
+        "page": 200,
+        "id": 608,
+        "depth": 4
+    },
+    {
+        "text": "Risk considerations for the Sub-fund",
+        "page": 201,
+        "id": 609,
+        "depth": 4
+    },
+    {
+        "text": "Investment Adviser",
+        "page": 201,
+        "id": 610,
+        "depth": 4
+    },
+    {
+        "text": "Base currency",
+        "page": 201,
+        "id": 611,
+        "depth": 4
+    },
+    {
+        "text": "Issue date",
+        "page": 201,
+        "id": 612,
+        "depth": 4
+    },
+    {
+        "text": "g) Robeco Investment Grade Corporate Bonds",
+        "page": 203,
+        "id": 613,
+        "depth": 3
+    },
+    {
+        "text": "Investment policy",
+        "page": 203,
+        "id": 614,
+        "depth": 4
+    },
+    {
+        "text": "Profile of the typical Investor",
+        "page": 203,
+        "id": 615,
+        "depth": 4
+    },
+    {
+        "text": "Risk profile of the",
+        "page": 203,
+        "id": 616,
+        "depth": 4
+    },
+    {
+        "text": "Risk considerations for the Sub-fund",
+        "page": 204,
+        "id": 617,
+        "depth": 4
+    },
+    {
+        "text": "Investment Adviser",
+        "page": 204,
+        "id": 618,
+        "depth": 4
+    },
+    {
+        "text": "Base currency",
+        "page": 204,
+        "id": 619,
+        "depth": 4
+    },
+    {
+        "text": "Issue date",
+        "page": 204,
+        "id": 620,
+        "depth": 4
+    },
+    {
+        "text": "h) Robeco Asian Debt",
+        "page": 206,
+        "id": 621,
+        "depth": 3
+    },
+    {
+        "text": "Investment policy",
+        "page": 206,
+        "id": 622,
+        "depth": 4
+    },
+    {
+        "text": "Profile of the typical Investor",
+        "page": 206,
+        "id": 623,
+        "depth": 4
+    },
+    {
+        "text": "Risk profile of the Sub-fund",
+        "page": 206,
+        "id": 624,
+        "depth": 4
+    },
+    {
+        "text": "Risk considerations for the Sub-fund",
+        "page": 207,
+        "id": 625,
+        "depth": 4
+    },
+    {
+        "text": "Investment Adviser",
+        "page": 207,
+        "id": 626,
+        "depth": 4
+    },
+    {
+        "text": "Base currency",
+        "page": 207,
+        "id": 627,
+        "depth": 4
+    },
+    {
+        "text": "Issue date",
+        "page": 207,
+        "id": 628,
+        "depth": 4
+    },
+    {
+        "text": "i) Robeco Asian Credits",
+        "page": 209,
+        "id": 629,
+        "depth": 3
+    },
+    {
+        "text": "Investment policy",
+        "page": 209,
+        "id": 630,
+        "depth": 4
+    },
+    {
+        "text": "Profile of the typical Investor",
+        "page": 209,
+        "id": 631,
+        "depth": 4
+    },
+    {
+        "text": "Risk profile of the Sub-fund",
+        "page": 209,
+        "id": 632,
+        "depth": 4
+    },
+    {
+        "text": "Risk considerations for the Sub-fund",
+        "page": 210,
+        "id": 633,
+        "depth": 4
+    },
+    {
+        "text": "Investment Adviser",
+        "page": 210,
+        "id": 634,
+        "depth": 4
+    },
+    {
+        "text": "Investment Sub- Adviser",
+        "page": 210,
+        "id": 635,
+        "depth": 4
+    },
+    {
+        "text": "Base currency",
+        "page": 210,
+        "id": 636,
+        "depth": 4
+    },
+    {
+        "text": "Issue date",
+        "page": 210,
+        "id": 637,
+        "depth": 4
+    },
+    {
+        "text": "j) Robeco Indian Debt",
+        "page": 212,
+        "id": 638,
+        "depth": 3
+    },
+    {
+        "text": "Investment policy",
+        "page": 212,
+        "id": 639,
+        "depth": 4
+    },
+    {
+        "text": "Profile of the typical Investor",
+        "page": 212,
+        "id": 640,
+        "depth": 4
+    },
+    {
+        "text": "Risk profile of the",
+        "page": 212,
+        "id": 641,
+        "depth": 4
+    },
+    {
+        "text": "Risk considerations for the Sub-fund",
+        "page": 213,
+        "id": 642,
+        "depth": 4
+    },
+    {
+        "text": "Investment Adviser",
+        "page": 213,
+        "id": 643,
+        "depth": 4
+    },
+    {
+        "text": "Base currency",
+        "page": 213,
+        "id": 644,
+        "depth": 4
+    },
+    {
+        "text": "Issue date",
+        "page": 213,
+        "id": 645,
+        "depth": 4
+    },
+    {
+        "text": "6. Asset Allocation Sub-funds",
+        "page": 215,
+        "id": 646,
+        "depth": 2
+    },
+    {
+        "text": "a) Robeco GTAA Fund (until 14-08-2016) Robeco QI GTAA Plus (from 15-08-2016)",
+        "page": 215,
+        "id": 647,
+        "depth": 3
+    },
+    {
+        "text": "Investment policy",
+        "page": 215,
+        "id": 648,
+        "depth": 4
+    },
+    {
+        "text": "Profile of the typical Investor",
+        "page": 215,
+        "id": 649,
+        "depth": 4
+    },
+    {
+        "text": "Risk profile of the Sub- fund",
+        "page": 216,
+        "id": 650,
+        "depth": 4
+    },
+    {
+        "text": "Risk considerations for the Sub-fund",
+        "page": 216,
+        "id": 651,
+        "depth": 4
+    },
+    {
+        "text": "Investment Adviser",
+        "page": 216,
+        "id": 652,
+        "depth": 4
+    },
+    {
+        "text": "Base currency",
+        "page": 216,
+        "id": 653,
+        "depth": 4
+    },
+    {
+        "text": "Issue date",
+        "page": 216,
+        "id": 654,
+        "depth": 4
+    },
+    {
+        "text": "b) Robeco GTAA Medium (until 14-08-2016) Robeco QI GTAA (from 15-08-2016)",
+        "page": 218,
+        "id": 655,
+        "depth": 3
+    },
+    {
+        "text": "Investment policy",
+        "page": 218,
+        "id": 656,
+        "depth": 4
+    },
+    {
+        "text": "Profile of the typical Investor",
+        "page": 218,
+        "id": 657,
+        "depth": 4
+    },
+    {
+        "text": "Risk profile of the Sub- fund",
+        "page": 218,
+        "id": 658,
+        "depth": 4
+    },
+    {
+        "text": "Risk considerations for the Sub-fund",
+        "page": 219,
+        "id": 659,
+        "depth": 4
+    },
+    {
+        "text": "Investment Adviser",
+        "page": 219,
+        "id": 660,
+        "depth": 4
+    },
+    {
+        "text": "Base currency",
+        "page": 219,
+        "id": 661,
+        "depth": 4
+    },
+    {
+        "text": "Issue date",
+        "page": 219,
+        "id": 662,
+        "depth": 4
+    },
+    {
+        "text": "c) Robeco Global Diversified Carry Fund",
+        "page": 220,
+        "id": 663,
+        "depth": 3
+    },
+    {
+        "text": "Investment policy",
+        "page": 220,
+        "id": 664,
+        "depth": 4
+    },
+    {
+        "text": "Profile of the typical Investor",
+        "page": 220,
+        "id": 665,
+        "depth": 4
+    },
+    {
+        "text": "Risk profile of the Sub-fund",
+        "page": 220,
+        "id": 666,
+        "depth": 4
+    },
+    {
+        "text": "Risk considerations for the Sub-fund",
+        "page": 221,
+        "id": 667,
+        "depth": 4
+    },
+    {
+        "text": "Risk considerations for the Sub-fund",
+        "page": 221,
+        "id": 668,
+        "depth": 4
+    },
+    {
+        "text": "Base currency",
+        "page": 221,
+        "id": 669,
+        "depth": 4
+    },
+    {
+        "text": "Issue date",
+        "page": 221,
+        "id": 670,
+        "depth": 4
+    },
+    {
+        "text": "APPENDIX II - INVESTMENT RESTRICTIONS",
+        "page": 222,
+        "id": 671,
+        "depth": 1
+    },
+    {
+        "text": "Definitions",
+        "page": 222,
+        "id": 672,
+        "depth": 2
+    },
+    {
+        "text": "Additional investment restrictions",
+        "page": 228,
+        "id": 673,
+        "depth": 2
+    },
+    {
+        "text": "Additional investment restrictions for Taiwan",
+        "page": 228,
+        "id": 674,
+        "depth": 2
+    },
+    {
+        "text": "APPENDIX III - FINANCIAL RISK MANAGEMENT",
+        "page": 229,
+        "id": 675,
+        "depth": 1
+    },
+    {
+        "text": "Market risk",
+        "page": 229,
+        "id": 676,
+        "depth": 2
+    },
+    {
+        "text": "Counterparty risk",
+        "page": 229,
+        "id": 677,
+        "depth": 2
+    },
+    {
+        "text": "Liquidity risk",
+        "page": 230,
+        "id": 678,
+        "depth": 2
+    },
+    {
+        "text": "Global exposure calculation",
+        "page": 230,
+        "id": 679,
+        "depth": 2
+    },
+    {
+        "text": "APPENDIX IV - FINANCIAL DERIVATIVE INSTRUMENTS, EFFICIENT PORTFOLIO MANAGEMENT TECHNIQUES AND INSTRUMENTS",
+        "page": 232,
+        "id": 680,
+        "depth": 1
+    },
+    {
+        "text": "SECURITIES LENDING AND REPURCHASE AGREEMENTS",
+        "page": 232,
+        "id": 681,
+        "depth": 2
+    },
+    {
+        "text": "Specific risks linked to securities lending and repurchase agreements",
+        "page": 233,
+        "id": 682,
+        "depth": 2
+    },
+    {
+        "text": "FINANCIAL DERIVATIVE INSTRUMENTS",
+        "page": 233,
+        "id": 683,
+        "depth": 2
+    },
+    {
+        "text": "Conflict of interest",
+        "page": 234,
+        "id": 684,
+        "depth": 2
+    },
+    {
+        "text": "Credit Default Swaps",
+        "page": 234,
+        "id": 685,
+        "depth": 2
+    },
+    {
+        "text": "Interest rate Swaps",
+        "page": 234,
+        "id": 686,
+        "depth": 2
+    },
+    {
+        "text": "Details on the use of certain derivatives",
+        "page": 234,
+        "id": 687,
+        "depth": 2
+    },
+    {
+        "text": "Specific risks linked to financial derivatives instruments",
+        "page": 235,
+        "id": 688,
+        "depth": 2
+    },
+    {
+        "text": "COLLATERAL MANAGEMENT FOR SECURITIES LENDING, REPURCHASE AGREEMENTS AND FINANCIAL DERIVATIVE TRANSACTIONS",
+        "page": 235,
+        "id": 689,
+        "depth": 2
+    },
+    {
+        "text": "APPENDIX V - PERFORMANCE FEE",
+        "page": 237,
+        "id": 690,
+        "depth": 1
+    },
+    {
+        "text": "Detailed description of Calculation method category A",
+        "page": 237,
+        "id": 691,
+        "depth": 2
+    },
+    {
+        "text": "Detailed description of Calculation method – category B",
+        "page": 237,
+        "id": 692,
+        "depth": 2
+    },
+    {
+        "text": "APPENDIX VI - INVESTMENT THROUGH THE MAURITIAN SUBSIDIARY",
+        "page": 239,
+        "id": 693,
+        "depth": 1
+    },
+    {
+        "text": "I. Investment through the Mauritian Subsidiary",
+        "page": 239,
+        "id": 694,
+        "depth": 2
+    },
+    {
+        "text": "II. Mauritian Subsidiary",
+        "page": 239,
+        "id": 695,
+        "depth": 2
+    },
+    {
+        "text": "III. Mauritian Administrator",
+        "page": 240,
+        "id": 696,
+        "depth": 2
+    },
+    {
+        "text": "IV. Directors of Mauritian Subsidiary",
+        "page": 240,
+        "id": 697,
+        "depth": 2
+    },
+    {
+        "text": "V. Auditor of the Mauritian Subsidiary",
+        "page": 240,
+        "id": 698,
+        "depth": 2
+    },
+    {
+        "text": "VI. Custodian and Administrator of the Mauritian Subsidiary in India and Mauritius",
+        "page": 241,
+        "id": 699,
+        "depth": 2
+    },
+    {
+        "text": "APPENDIX VII - OVERVIEW PAYING AGENTS, REPRESENTATIVE OFFICES, FACILITY AGENTS",
+        "page": 242,
+        "id": 700,
+        "depth": 1
+    },
+    {
+        "text": "AUSTRIA - Paying Agent",
+        "page": 242,
+        "id": 701,
+        "depth": 2
+    },
+    {
+        "text": "BELGIUM - Paying Agent",
+        "page": 242,
+        "id": 702,
+        "depth": 2
+    },
+    {
+        "text": "DENMARK – Paying agent",
+        "page": 242,
+        "id": 703,
+        "depth": 2
+    },
+    {
+        "text": "GERMANY – Information agent",
+        "page": 242,
+        "id": 704,
+        "depth": 2
+    },
+    {
+        "text": "FRANCE - Centralising and Financial agent",
+        "page": 242,
+        "id": 705,
+        "depth": 2
+    },
+    {
+        "text": "IRELAND - Facility agent",
+        "page": 242,
+        "id": 706,
+        "depth": 2
+    },
+    {
+        "text": "ITALY – Paying agent",
+        "page": 242,
+        "id": 707,
+        "depth": 2
+    },
+    {
+        "text": "POLAND – Paying agent",
+        "page": 242,
+        "id": 708,
+        "depth": 2
+    },
+    {
+        "text": "SPAIN – Information office",
+        "page": 242,
+        "id": 709,
+        "depth": 2
+    },
+    {
+        "text": "SWEDEN – Paying agent",
+        "page": 242,
+        "id": 710,
+        "depth": 2
+    },
+    {
+        "text": "UNITED KINGDOM - Representative agent",
+        "page": 243,
+        "id": 711,
+        "depth": 2
+    },
+    {
+        "text": "APPENDIX VII – SUPPLEMENTARY INFORMATION FOR INVESTORS IN AUSTRIA",
+        "page": 244,
+        "id": 712,
+        "depth": 1
+    }
+]

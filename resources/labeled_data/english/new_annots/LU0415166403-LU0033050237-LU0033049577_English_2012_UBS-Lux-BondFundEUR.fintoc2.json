@@ -1,0 +1,482 @@
+[
+    {
+        "text": "Sales prospectus",
+        "page": 1,
+        "id": 1,
+        "depth": 1
+    },
+    {
+        "text": "Management and administration",
+        "page": 1,
+        "id": 2,
+        "depth": 2
+    },
+    {
+        "text": "Management Company",
+        "page": 1,
+        "id": 3,
+        "depth": 3
+    },
+    {
+        "text": "Board of Directors",
+        "page": 1,
+        "id": 4,
+        "depth": 3
+    },
+    {
+        "text": "Executive Board of the Management Company",
+        "page": 1,
+        "id": 5,
+        "depth": 3
+    },
+    {
+        "text": "Portfolio Manager",
+        "page": 1,
+        "id": 6,
+        "depth": 3
+    },
+    {
+        "text": "Merging assets",
+        "page": 1,
+        "id": 7,
+        "depth": 3
+    },
+    {
+        "text": "Pooling",
+        "page": 1,
+        "id": 8,
+        "depth": 3
+    },
+    {
+        "text": "Joint management",
+        "page": 1,
+        "id": 9,
+        "depth": 3
+    },
+    {
+        "text": "Custodian Bank and main paying agent",
+        "page": 2,
+        "id": 10,
+        "depth": 3
+    },
+    {
+        "text": "Administrative Agent",
+        "page": 2,
+        "id": 11,
+        "depth": 3
+    },
+    {
+        "text": "Auditor of the Fund",
+        "page": 2,
+        "id": 12,
+        "depth": 3
+    },
+    {
+        "text": "Auditor of the Management Company",
+        "page": 2,
+        "id": 13,
+        "depth": 3
+    },
+    {
+        "text": "Paying agents",
+        "page": 2,
+        "id": 14,
+        "depth": 3
+    },
+    {
+        "text": "Sales agencies and Distributors, sales agencies listed in the sales prospectus",
+        "page": 2,
+        "id": 15,
+        "depth": 3
+    },
+    {
+        "text": "Profile of the typical investor",
+        "page": 2,
+        "id": 16,
+        "depth": 3
+    },
+    {
+        "text": "UBS (Lux) Bond Fund – AUD UBS (Lux) Bond Fund – CAD UBS (Lux) Bond Fund – CHF UBS (Lux) Bond Fund – EUR UBS (Lux) Bond Fund – GBP UBS (Lux) Bond Fund – JPY UBS (Lux) Bond Fund – USD",
+        "page": 2,
+        "id": 17,
+        "depth": 4
+    },
+    {
+        "text": "UBS (Lux) Bond Fund – Convert Europe",
+        "page": 2,
+        "id": 18,
+        "depth": 4
+    },
+    {
+        "text": "UBS (Lux) Bond Fund – Euro High Yield",
+        "page": 2,
+        "id": 19,
+        "depth": 4
+    },
+    {
+        "text": "UBS (Lux) Bond Fund – Global (CHF)",
+        "page": 2,
+        "id": 20,
+        "depth": 4
+    },
+    {
+        "text": "UBS (Lux) Bond Fund – Full Cycle Asian Bond",
+        "page": 2,
+        "id": 21,
+        "depth": 4
+    },
+    {
+        "text": "Historical performance",
+        "page": 2,
+        "id": 22,
+        "depth": 3
+    },
+    {
+        "text": "Risk profile",
+        "page": 2,
+        "id": 23,
+        "depth": 3
+    },
+    {
+        "text": "The Fund",
+        "page": 2,
+        "id": 24,
+        "depth": 2
+    },
+    {
+        "text": "Fund structure",
+        "page": 2,
+        "id": 25,
+        "depth": 3
+    },
+    {
+        "text": "An overview of the unit classes",
+        "page": 3,
+        "id": 26,
+        "depth": 4
+    },
+    {
+        "text": "UBS (Lux) Bond Fund – AUD",
+        "page": 3,
+        "id": 27,
+        "depth": 5
+    },
+    {
+        "text": "UBS (Lux) Bond Fund – CAD",
+        "page": 3,
+        "id": 28,
+        "depth": 5
+    },
+    {
+        "text": "UBS (Lux) Bond Fund – CHF",
+        "page": 3,
+        "id": 29,
+        "depth": 5
+    },
+    {
+        "text": "UBS (Lux) Bond Fund – EUR",
+        "page": 3,
+        "id": 30,
+        "depth": 5
+    },
+    {
+        "text": "UBS (Lux) Bond Fund – GBP",
+        "page": 4,
+        "id": 31,
+        "depth": 5
+    },
+    {
+        "text": "UBS (Lux) Bond Fund – JPY",
+        "page": 4,
+        "id": 32,
+        "depth": 5
+    },
+    {
+        "text": "UBS (Lux) Bond Fund – USD",
+        "page": 4,
+        "id": 33,
+        "depth": 5
+    },
+    {
+        "text": "UBS (Lux) Bond Fund – Convert Europe",
+        "page": 4,
+        "id": 34,
+        "depth": 5
+    },
+    {
+        "text": "UBS (Lux) Bond Fund – Euro High Yield",
+        "page": 5,
+        "id": 35,
+        "depth": 5
+    },
+    {
+        "text": "UBS (Lux) Bond Fund – Global (CHF)",
+        "page": 6,
+        "id": 36,
+        "depth": 5
+    },
+    {
+        "text": "UBS (Lux) Bond Fund – Full Cycle Asian Bond",
+        "page": 8,
+        "id": 37,
+        "depth": 5
+    },
+    {
+        "text": "Footnotes",
+        "page": 9,
+        "id": 38,
+        "depth": 5
+    },
+    {
+        "text": "Description of unit class types",
+        "page": 10,
+        "id": 39,
+        "depth": 2
+    },
+    {
+        "text": "Legal aspects",
+        "page": 10,
+        "id": 40,
+        "depth": 2
+    },
+    {
+        "text": "Investment objective and investment policy of the Subfunds",
+        "page": 10,
+        "id": 41,
+        "depth": 2
+    },
+    {
+        "text": "Investment objective",
+        "page": 10,
+        "id": 42,
+        "depth": 3
+    },
+    {
+        "text": "General investment policy",
+        "page": 10,
+        "id": 43,
+        "depth": 3
+    },
+    {
+        "text": "Special investment policies of the Subfunds",
+        "page": 11,
+        "id": 44,
+        "depth": 3
+    },
+    {
+        "text": "UBS (Lux) Bond Fund – AUD UBS (Lux) Bond Fund – CAD UBS (Lux) Bond Fund – CHF UBS (Lux) Bond Fund – EUR UBS (Lux) Bond Fund – GBP UBS (Lux) Bond Fund – JPY UBS (Lux) Bond Fund – USD",
+        "page": 11,
+        "id": 45,
+        "depth": 4
+    },
+    {
+        "text": "UBS (Lux) Bond Fund – Convert Europe",
+        "page": 11,
+        "id": 46,
+        "depth": 4
+    },
+    {
+        "text": "UBS (Lux) Bond Fund – Euro High Yield",
+        "page": 11,
+        "id": 47,
+        "depth": 4
+    },
+    {
+        "text": "UBS (Lux) Bond Fund – Global (CHF)",
+        "page": 11,
+        "id": 48,
+        "depth": 4
+    },
+    {
+        "text": "UBS (Lux) Bond Fund – Full Cycle Asian Bond",
+        "page": 11,
+        "id": 49,
+        "depth": 4
+    },
+    {
+        "text": "Investments in UCI and UCITS",
+        "page": 11,
+        "id": 50,
+        "depth": 3
+    },
+    {
+        "text": "Use of futures and options",
+        "page": 12,
+        "id": 51,
+        "depth": 3
+    },
+    {
+        "text": "Risks connected with the use of derivatives",
+        "page": 12,
+        "id": 52,
+        "depth": 3
+    },
+    {
+        "text": "Risk management",
+        "page": 12,
+        "id": 53,
+        "depth": 3
+    },
+    {
+        "text": "Leverage",
+        "page": 12,
+        "id": 54,
+        "depth": 3
+    },
+    {
+        "text": "Collateral Management",
+        "page": 12,
+        "id": 55,
+        "depth": 3
+    },
+    {
+        "text": "Investments in UBS (Lux) Bond Fund",
+        "page": 12,
+        "id": 56,
+        "depth": 2
+    },
+    {
+        "text": "Conditions for the issue and redemption of units",
+        "page": 12,
+        "id": 57,
+        "depth": 3
+    },
+    {
+        "text": "Net asset value, issue, redemption and conversion price",
+        "page": 12,
+        "id": 58,
+        "depth": 3
+    },
+    {
+        "text": "Issue of units",
+        "page": 13,
+        "id": 59,
+        "depth": 3
+    },
+    {
+        "text": "Redemption of units",
+        "page": 13,
+        "id": 60,
+        "depth": 3
+    },
+    {
+        "text": "Conversion of units",
+        "page": 13,
+        "id": 61,
+        "depth": 3
+    },
+    {
+        "text": "Prevention of money laundering and terrorist financing",
+        "page": 13,
+        "id": 62,
+        "depth": 3
+    },
+    {
+        "text": "Suspension of the net asset value calculation and of the issue, redemption and conversion of units",
+        "page": 14,
+        "id": 63,
+        "depth": 3
+    },
+    {
+        "text": "Distribution of income",
+        "page": 14,
+        "id": 64,
+        "depth": 3
+    },
+    {
+        "text": "Taxes and expenses",
+        "page": 14,
+        "id": 65,
+        "depth": 2
+    },
+    {
+        "text": "Taxation",
+        "page": 14,
+        "id": 66,
+        "depth": 3
+    },
+    {
+        "text": "Investors in the United Kingdom",
+        "page": 14,
+        "id": 67,
+        "depth": 3
+    },
+    {
+        "text": "Expenses paid by the Fund",
+        "page": 14,
+        "id": 68,
+        "depth": 3
+    },
+    {
+        "text": "Information to unitholders",
+        "page": 15,
+        "id": 69,
+        "depth": 2
+    },
+    {
+        "text": "Regular reports and publications",
+        "page": 15,
+        "id": 70,
+        "depth": 3
+    },
+    {
+        "text": "Depositing of documents",
+        "page": 15,
+        "id": 71,
+        "depth": 3
+    },
+    {
+        "text": "Liquidation and merger of the Fund and its Subfunds or unit classes",
+        "page": 15,
+        "id": 72,
+        "depth": 2
+    },
+    {
+        "text": "Liquidation of the Fund and its Subfunds or unit classes",
+        "page": 15,
+        "id": 73,
+        "depth": 3
+    },
+    {
+        "text": "Merger of the Fund or of Subfunds with another undertaking for collective investment (“UCI”) or with its Subfunds; merger of Subfunds",
+        "page": 15,
+        "id": 74,
+        "depth": 3
+    },
+    {
+        "text": "Applicable law, place of performance and authoritative language",
+        "page": 15,
+        "id": 75,
+        "depth": 2
+    },
+    {
+        "text": "Investment principles",
+        "page": 16,
+        "id": 76,
+        "depth": 2
+    },
+    {
+        "text": "1\t Investment instruments",
+        "page": 16,
+        "id": 77,
+        "depth": 3
+    },
+    {
+        "text": "2\t Risk diversification",
+        "page": 16,
+        "id": 78,
+        "depth": 3
+    },
+    {
+        "text": "3\t Investment restrictions",
+        "page": 17,
+        "id": 79,
+        "depth": 3
+    },
+    {
+        "text": "4\t\u0007Special techniques and instruments that have securities and money market instruments as underlying assets",
+        "page": 17,
+        "id": 80,
+        "depth": 3
+    }
+]

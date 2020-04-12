@@ -1,0 +1,962 @@
+[
+    {
+        "text": "CANDRIAM GF",
+        "page": 1,
+        "id": 1,
+        "depth": 1
+    },
+    {
+        "text": "PROSPECTUS",
+        "page": 1,
+        "id": 2,
+        "depth": 2
+    },
+    {
+        "text": "INTRODUCTION",
+        "page": 2,
+        "id": 3,
+        "depth": 3
+    },
+    {
+        "text": "Contents",
+        "page": 4,
+        "id": 4,
+        "depth": 3
+    },
+    {
+        "text": "1.   Managing and administrative bodies for the SICAV",
+        "page": 5,
+        "id": 5,
+        "depth": 3
+    },
+    {
+        "text": "Board of Directors of the SICAV",
+        "page": 5,
+        "id": 6,
+        "depth": 4
+    },
+    {
+        "text": "Registered Office:",
+        "page": 5,
+        "id": 7,
+        "depth": 4
+    },
+    {
+        "text": "Custodian Bank:",
+        "page": 5,
+        "id": 8,
+        "depth": 4
+    },
+    {
+        "text": "Management Company:",
+        "page": 5,
+        "id": 9,
+        "depth": 4
+    },
+    {
+        "text": "Portfolio Managers",
+        "page": 5,
+        "id": 10,
+        "depth": 4
+    },
+    {
+        "text": "The securities lending activity is delegated to:",
+        "page": 5,
+        "id": 11,
+        "depth": 4
+    },
+    {
+        "text": "Administrative Agent and Domiciliary Agent:",
+        "page": 5,
+        "id": 12,
+        "depth": 4
+    },
+    {
+        "text": "Transfer Agent and Registrar:",
+        "page": 5,
+        "id": 13,
+        "depth": 4
+    },
+    {
+        "text": "Certified Auditors:",
+        "page": 5,
+        "id": 14,
+        "depth": 4
+    },
+    {
+        "text": "2.  General description of the SICAV",
+        "page": 6,
+        "id": 15,
+        "depth": 3
+    },
+    {
+        "text": "3.    Management and administration",
+        "page": 7,
+        "id": 16,
+        "depth": 3
+    },
+    {
+        "text": "3.1. Board of Directors",
+        "page": 7,
+        "id": 17,
+        "depth": 4
+    },
+    {
+        "text": "3.2. Management Company",
+        "page": 7,
+        "id": 18,
+        "depth": 4
+    },
+    {
+        "text": "3.2.1. Portfolio management duties",
+        "page": 7,
+        "id": 19,
+        "depth": 4
+    },
+    {
+        "text": "3.2.2. Central Administration",
+        "page": 8,
+        "id": 20,
+        "depth": 4
+    },
+    {
+        "text": "3.2.3. Marketing",
+        "page": 8,
+        "id": 21,
+        "depth": 4
+    },
+    {
+        "text": "4.   Custodian Bank and principal paying agent",
+        "page": 9,
+        "id": 22,
+        "depth": 3
+    },
+    {
+        "text": "5.   Investment objectives",
+        "page": 9,
+        "id": 23,
+        "depth": 3
+    },
+    {
+        "text": "6.     Investment policy",
+        "page": 9,
+        "id": 24,
+        "depth": 3
+    },
+    {
+        "text": "6.4.   Efficient portfolio management techniques",
+        "page": 11,
+        "id": 25,
+        "depth": 4
+    },
+    {
+        "text": "6.4.1. Securities lending transactions",
+        "page": 11,
+        "id": 26,
+        "depth": 5
+    },
+    {
+        "text": "6.4.2. Repurchase transactions and reverse repurchase transactions",
+        "page": 11,
+        "id": 27,
+        "depth": 5
+    },
+    {
+        "text": "a)  Reverse repurchase transactions",
+        "page": 11,
+        "id": 28,
+        "depth": 6
+    },
+    {
+        "text": "b)  Repurchase transactions",
+        "page": 12,
+        "id": 29,
+        "depth": 6
+    },
+    {
+        "text": "6.4.3. Measures to limit the risks associated with efficient portfolio management techniques",
+        "page": 12,
+        "id": 30,
+        "depth": 5
+    },
+    {
+        "text": "a)  Measures to limit counterparty and delivery risks",
+        "page": 12,
+        "id": 31,
+        "depth": 6
+    },
+    {
+        "text": "b)  Measures taken to reduce the risk of conflicts of interest",
+        "page": 12,
+        "id": 32,
+        "depth": 6
+    },
+    {
+        "text": "6.4.4. Earnings on securities lending",
+        "page": 12,
+        "id": 33,
+        "depth": 5
+    },
+    {
+        "text": "6.4.5. Periodic investor information",
+        "page": 12,
+        "id": 34,
+        "depth": 5
+    },
+    {
+        "text": "7.     Investment restrictions",
+        "page": 12,
+        "id": 35,
+        "depth": 3
+    },
+    {
+        "text": "7.10.  Management  of  financial  guarantees  for  OTC  derivative  products  and  efficient  portfolio  management techniques",
+        "page": 15,
+        "id": 36,
+        "depth": 4
+    },
+    {
+        "text": "a)  General criteria",
+        "page": 15,
+        "id": 37,
+        "depth": 5
+    },
+    {
+        "text": "b)  Types of authorized financial guarantee",
+        "page": 15,
+        "id": 38,
+        "depth": 5
+    },
+    {
+        "text": "c)  Level of financial guarantee",
+        "page": 16,
+        "id": 39,
+        "depth": 5
+    },
+    {
+        "text": "d)  Discounting policy",
+        "page": 16,
+        "id": 40,
+        "depth": 5
+    },
+    {
+        "text": "e)  Reinvestment of cash",
+        "page": 16,
+        "id": 41,
+        "depth": 5
+    },
+    {
+        "text": "8.    Risk factors",
+        "page": 16,
+        "id": 42,
+        "depth": 3
+    },
+    {
+        "text": "Risk of loss of capital:",
+        "page": 16,
+        "id": 43,
+        "depth": 4
+    },
+    {
+        "text": "Liquidity risk:",
+        "page": 16,
+        "id": 44,
+        "depth": 4
+    },
+    {
+        "text": "Interest rate risk:",
+        "page": 16,
+        "id": 45,
+        "depth": 4
+    },
+    {
+        "text": "Credit  risk:",
+        "page": 17,
+        "id": 46,
+        "depth": 4
+    },
+    {
+        "text": "Equity  risk:",
+        "page": 17,
+        "id": 47,
+        "depth": 4
+    },
+    {
+        "text": "Concentration  risk:",
+        "page": 17,
+        "id": 48,
+        "depth": 4
+    },
+    {
+        "text": "Foreign exchange risk:",
+        "page": 17,
+        "id": 49,
+        "depth": 4
+    },
+    {
+        "text": "Counterparty  risk:",
+        "page": 17,
+        "id": 50,
+        "depth": 4
+    },
+    {
+        "text": "Emerging countries risk:",
+        "page": 17,
+        "id": 51,
+        "depth": 4
+    },
+    {
+        "text": "Derivatives  risk:",
+        "page": 17,
+        "id": 52,
+        "depth": 4
+    },
+    {
+        "text": "Delivery  risk:",
+        "page": 17,
+        "id": 53,
+        "depth": 4
+    },
+    {
+        "text": "Model  risk:",
+        "page": 17,
+        "id": 54,
+        "depth": 4
+    },
+    {
+        "text": "Risk  of  conflicts  of  interest:",
+        "page": 17,
+        "id": 55,
+        "depth": 4
+    },
+    {
+        "text": "Hedging  risk:",
+        "page": 17,
+        "id": 56,
+        "depth": 4
+    },
+    {
+        "text": "Inflation risk:",
+        "page": 17,
+        "id": 57,
+        "depth": 4
+    },
+    {
+        "text": "Risk  associated  with  external  factors:",
+        "page": 17,
+        "id": 58,
+        "depth": 4
+    },
+    {
+        "text": "9.       Risk Management",
+        "page": 18,
+        "id": 59,
+        "depth": 3
+    },
+    {
+        "text": "a)  Commitment method",
+        "page": 18,
+        "id": 60,
+        "depth": 4
+    },
+    {
+        "text": "b)  Value at risk (VaR) method",
+        "page": 18,
+        "id": 61,
+        "depth": 4
+    },
+    {
+        "text": "Relative VaR limit",
+        "page": 18,
+        "id": 62,
+        "depth": 5
+    },
+    {
+        "text": "Absolute VaR limit",
+        "page": 18,
+        "id": 63,
+        "depth": 5
+    },
+    {
+        "text": "10.   The shares",
+        "page": 18,
+        "id": 64,
+        "depth": 3
+    },
+    {
+        "text": "11.   Listing of shares",
+        "page": 19,
+        "id": 65,
+        "depth": 3
+    },
+    {
+        "text": "12.   Issue of shares and subscription and payment procedures",
+        "page": 19,
+        "id": 66,
+        "depth": 3
+    },
+    {
+        "text": "13.   Conversion of shares",
+        "page": 20,
+        "id": 67,
+        "depth": 3
+    },
+    {
+        "text": "14.   Redemption of shares",
+        "page": 20,
+        "id": 68,
+        "depth": 3
+    },
+    {
+        "text": "14.1. Redemption procedure",
+        "page": 20,
+        "id": 69,
+        "depth": 4
+    },
+    {
+        "text": "14.2. Temporary suspension of redemptions",
+        "page": 21,
+        "id": 70,
+        "depth": 4
+    },
+    {
+        "text": "15.   Market Timing and Late Trading",
+        "page": 21,
+        "id": 71,
+        "depth": 3
+    },
+    {
+        "text": "16.  Net asset value",
+        "page": 21,
+        "id": 72,
+        "depth": 3
+    },
+    {
+        "text": "17.  Temporary  suspension  of  the  calculation  of  the  net  asset  value  and  of  the  issue, redemption and conversion of shares",
+        "page": 23,
+        "id": 73,
+        "depth": 3
+    },
+    {
+        "text": "18.   Dividend distribution policy",
+        "page": 24,
+        "id": 74,
+        "depth": 3
+    },
+    {
+        "text": "18.1 General principles",
+        "page": 24,
+        "id": 75,
+        "depth": 4
+    },
+    {
+        "text": "18.2 Dividend distribution policy",
+        "page": 24,
+        "id": 76,
+        "depth": 4
+    },
+    {
+        "text": "19.   Separation of the liabilities of the sub-funds",
+        "page": 25,
+        "id": 77,
+        "depth": 3
+    },
+    {
+        "text": "20.  Taxation",
+        "page": 25,
+        "id": 78,
+        "depth": 3
+    },
+    {
+        "text": "20.1. Taxation of the SICAV",
+        "page": 25,
+        "id": 79,
+        "depth": 4
+    },
+    {
+        "text": "20.2. Taxation of shareholders",
+        "page": 25,
+        "id": 80,
+        "depth": 4
+    },
+    {
+        "text": "21.   General meetings of shareholders",
+        "page": 26,
+        "id": 81,
+        "depth": 3
+    },
+    {
+        "text": "22.   Closure, merger and demerger of a sub-fund, class or type of share – Liquidation of the SICAV",
+        "page": 26,
+        "id": 82,
+        "depth": 3
+    },
+    {
+        "text": "22.1. Closure, cancellation and liquidation of sub-funds, share classes or share types",
+        "page": 26,
+        "id": 83,
+        "depth": 4
+    },
+    {
+        "text": "22.2. Merger of sub-funds, share classes or share types",
+        "page": 27,
+        "id": 84,
+        "depth": 4
+    },
+    {
+        "text": "22.2.1. Merger of a class or type of share",
+        "page": 27,
+        "id": 85,
+        "depth": 5
+    },
+    {
+        "text": "22.2.2. Merger of a sub-fund",
+        "page": 27,
+        "id": 86,
+        "depth": 5
+    },
+    {
+        "text": "22.3 Demerger of sub-funds, share classes or share types",
+        "page": 27,
+        "id": 87,
+        "depth": 4
+    },
+    {
+        "text": "22.4 Liquidation / merger of the SICAV",
+        "page": 27,
+        "id": 88,
+        "depth": 4
+    },
+    {
+        "text": "23.   Fees and charges",
+        "page": 28,
+        "id": 89,
+        "depth": 3
+    },
+    {
+        "text": "23.1. Portfolio Management fee",
+        "page": 28,
+        "id": 90,
+        "depth": 4
+    },
+    {
+        "text": "23.2. Performance fee",
+        "page": 28,
+        "id": 91,
+        "depth": 4
+    },
+    {
+        "text": "23.3 Distribution fee",
+        "page": 28,
+        "id": 92,
+        "depth": 4
+    },
+    {
+        "text": "23.4. Operational and administrative charges",
+        "page": 28,
+        "id": 93,
+        "depth": 4
+    },
+    {
+        "text": "24.   Information to shareholders",
+        "page": 29,
+        "id": 94,
+        "depth": 3
+    },
+    {
+        "text": "24.1. Publication of the net asset value",
+        "page": 29,
+        "id": 95,
+        "depth": 4
+    },
+    {
+        "text": "24.2. Notices to shareholders",
+        "page": 29,
+        "id": 96,
+        "depth": 4
+    },
+    {
+        "text": "24.3. Documents available for inspection",
+        "page": 30,
+        "id": 97,
+        "depth": 4
+    },
+    {
+        "text": "24.4. Auditors",
+        "page": 30,
+        "id": 98,
+        "depth": 4
+    },
+    {
+        "text": "25.  Information for investors in the Federal Republic of Germany",
+        "page": 30,
+        "id": 99,
+        "depth": 3
+    },
+    {
+        "text": "Appendix I - Fact sheets",
+        "page": 31,
+        "id": 100,
+        "depth": 1
+    },
+    {
+        "text": "Candriam GF US High Yield Corporate Bonds",
+        "page": 31,
+        "id": 101,
+        "depth": 2
+    },
+    {
+        "text": "1.  Investment objectives:",
+        "page": 31,
+        "id": 102,
+        "depth": 3
+    },
+    {
+        "text": "2.  Investment policy:",
+        "page": 31,
+        "id": 103,
+        "depth": 3
+    },
+    {
+        "text": "3.  Investor  profile:",
+        "page": 31,
+        "id": 104,
+        "depth": 3
+    },
+    {
+        "text": "4.  Benchmark:",
+        "page": 31,
+        "id": 105,
+        "depth": 3
+    },
+    {
+        "text": "5.   Risk factors specific to the sub-fund and risk management",
+        "page": 31,
+        "id": 106,
+        "depth": 3
+    },
+    {
+        "text": "5.1.   Risk factors specific to the sub-fund",
+        "page": 31,
+        "id": 107,
+        "depth": 4
+    },
+    {
+        "text": "5.2.   Risk Management",
+        "page": 32,
+        "id": 108,
+        "depth": 4
+    },
+    {
+        "text": "6.  Base currency:",
+        "page": 32,
+        "id": 109,
+        "depth": 3
+    },
+    {
+        "text": "7.  Form of the shares:",
+        "page": 32,
+        "id": 110,
+        "depth": 3
+    },
+    {
+        "text": "8.   Share classes",
+        "page": 32,
+        "id": 111,
+        "depth": 3
+    },
+    {
+        "text": "9.  Minimum initial subscription",
+        "page": 32,
+        "id": 112,
+        "depth": 3
+    },
+    {
+        "text": "10.  Fees and charges",
+        "page": 33,
+        "id": 113,
+        "depth": 3
+    },
+    {
+        "text": "11.  Applicable cut-off times for the subscription, redemption and exchange of shares",
+        "page": 33,
+        "id": 114,
+        "depth": 3
+    },
+    {
+        "text": "12.   Listing on an official stock exchange:",
+        "page": 33,
+        "id": 115,
+        "depth": 3
+    },
+    {
+        "text": "Candriam GF Institutional Capital Focused US Equity",
+        "page": 34,
+        "id": 116,
+        "depth": 2
+    },
+    {
+        "text": "1.  Investment  objectives:",
+        "page": 34,
+        "id": 117,
+        "depth": 3
+    },
+    {
+        "text": "2.  Investment policy:",
+        "page": 34,
+        "id": 118,
+        "depth": 3
+    },
+    {
+        "text": "3.  Investor profile:",
+        "page": 34,
+        "id": 119,
+        "depth": 3
+    },
+    {
+        "text": "4.  Benchmark:",
+        "page": 34,
+        "id": 120,
+        "depth": 3
+    },
+    {
+        "text": "5.   Risk factors specific to the sub-fund and risk management",
+        "page": 34,
+        "id": 121,
+        "depth": 3
+    },
+    {
+        "text": "5.1.   Risk factors specific to the sub-fund",
+        "page": 34,
+        "id": 122,
+        "depth": 4
+    },
+    {
+        "text": "5.2.   Risk Management",
+        "page": 34,
+        "id": 123,
+        "depth": 4
+    },
+    {
+        "text": "6.  Base currency:",
+        "page": 34,
+        "id": 124,
+        "depth": 3
+    },
+    {
+        "text": "7.  Form of the shares:",
+        "page": 34,
+        "id": 125,
+        "depth": 3
+    },
+    {
+        "text": "8.   Share classes",
+        "page": 34,
+        "id": 126,
+        "depth": 3
+    },
+    {
+        "text": "9.  Minimum initial subscription",
+        "page": 35,
+        "id": 127,
+        "depth": 3
+    },
+    {
+        "text": "10.  Fees and charges",
+        "page": 35,
+        "id": 128,
+        "depth": 3
+    },
+    {
+        "text": "11.  Applicable cut-off times for the subscription, redemption and exchange of shares",
+        "page": 36,
+        "id": 129,
+        "depth": 3
+    },
+    {
+        "text": "12.   Listing on an official stock exchange:",
+        "page": 36,
+        "id": 130,
+        "depth": 3
+    },
+    {
+        "text": "Candriam GF Global Equity Opportunities",
+        "page": 37,
+        "id": 131,
+        "depth": 2
+    },
+    {
+        "text": "1.  Investment objectives:",
+        "page": 37,
+        "id": 132,
+        "depth": 3
+    },
+    {
+        "text": "2.  Investment policy:",
+        "page": 37,
+        "id": 133,
+        "depth": 3
+    },
+    {
+        "text": "3.  Investor profile:",
+        "page": 37,
+        "id": 134,
+        "depth": 3
+    },
+    {
+        "text": "4.  Benchmark:",
+        "page": 37,
+        "id": 135,
+        "depth": 3
+    },
+    {
+        "text": "5.   Risk factors specific to the sub-fund and risk management",
+        "page": 37,
+        "id": 136,
+        "depth": 3
+    },
+    {
+        "text": "5.1.   Risk factors specific to the sub-fund",
+        "page": 37,
+        "id": 137,
+        "depth": 4
+    },
+    {
+        "text": "5.2.   Risk Management",
+        "page": 38,
+        "id": 138,
+        "depth": 4
+    },
+    {
+        "text": "6.  Base currency:",
+        "page": 38,
+        "id": 139,
+        "depth": 3
+    },
+    {
+        "text": "7.  Form of the shares:",
+        "page": 38,
+        "id": 140,
+        "depth": 3
+    },
+    {
+        "text": "8.   Share classes",
+        "page": 38,
+        "id": 141,
+        "depth": 3
+    },
+    {
+        "text": "9.  Minimum initial subscription",
+        "page": 38,
+        "id": 142,
+        "depth": 3
+    },
+    {
+        "text": "10.  Fees and charges",
+        "page": 38,
+        "id": 143,
+        "depth": 3
+    },
+    {
+        "text": "11.  Applicable cut-off times for the subscription, redemption and exchange of shares",
+        "page": 39,
+        "id": 144,
+        "depth": 3
+    },
+    {
+        "text": "12.   Listing on an official stock exchange:",
+        "page": 39,
+        "id": 145,
+        "depth": 3
+    },
+    {
+        "text": "Candriam GF U.S. Equity Opportunities",
+        "page": 40,
+        "id": 146,
+        "depth": 2
+    },
+    {
+        "text": "1.  Investment  objectives:",
+        "page": 40,
+        "id": 147,
+        "depth": 3
+    },
+    {
+        "text": "2.  Investment policy:",
+        "page": 40,
+        "id": 148,
+        "depth": 3
+    },
+    {
+        "text": "3.  Investor profile:",
+        "page": 40,
+        "id": 149,
+        "depth": 3
+    },
+    {
+        "text": "4.  Benchmark:",
+        "page": 40,
+        "id": 150,
+        "depth": 3
+    },
+    {
+        "text": "5.   Risk factors specific to the sub-fund and risk management",
+        "page": 40,
+        "id": 151,
+        "depth": 3
+    },
+    {
+        "text": "5.1.   Risk factors specific to the sub-fund",
+        "page": 40,
+        "id": 152,
+        "depth": 4
+    },
+    {
+        "text": "5.2.   Risk Management",
+        "page": 41,
+        "id": 153,
+        "depth": 4
+    },
+    {
+        "text": "6.  Base currency:",
+        "page": 41,
+        "id": 154,
+        "depth": 3
+    },
+    {
+        "text": "7.  Form of the shares:",
+        "page": 41,
+        "id": 155,
+        "depth": 3
+    },
+    {
+        "text": "8.   Share classes",
+        "page": 41,
+        "id": 156,
+        "depth": 3
+    },
+    {
+        "text": "9.  Minimum initial subscription",
+        "page": 41,
+        "id": 157,
+        "depth": 3
+    },
+    {
+        "text": "10.  Fees and charges",
+        "page": 42,
+        "id": 158,
+        "depth": 3
+    },
+    {
+        "text": "11.  Applicable cut-off times for the subscription, redemption and exchange of shares",
+        "page": 42,
+        "id": 159,
+        "depth": 3
+    },
+    {
+        "text": "12.   Listing on an official stock exchange:",
+        "page": 42,
+        "id": 160,
+        "depth": 3
+    }
+]

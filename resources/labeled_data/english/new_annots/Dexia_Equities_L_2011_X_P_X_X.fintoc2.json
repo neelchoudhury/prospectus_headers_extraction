@@ -1,0 +1,2588 @@
+[
+    {
+        "text": "Dexia Equities L",
+        "page": 1,
+        "id": 1,
+        "depth": 1
+    },
+    {
+        "text": "PROSPECTUS",
+        "page": 1,
+        "id": 2,
+        "depth": 2
+    },
+    {
+        "text": "INTRODUCTION",
+        "page": 2,
+        "id": 3,
+        "depth": 3
+    },
+    {
+        "text": "CONTENTS",
+        "page": 3,
+        "id": 4,
+        "depth": 3
+    },
+    {
+        "text": "1. MANAGEMENT OF THE SICAV",
+        "page": 5,
+        "id": 5,
+        "depth": 3
+    },
+    {
+        "text": "Promoter",
+        "page": 5,
+        "id": 6,
+        "depth": 4
+    },
+    {
+        "text": "Board of Directors",
+        "page": 5,
+        "id": 7,
+        "depth": 4
+    },
+    {
+        "text": "Registered Office",
+        "page": 5,
+        "id": 8,
+        "depth": 4
+    },
+    {
+        "text": "Custodian bank",
+        "page": 5,
+        "id": 9,
+        "depth": 4
+    },
+    {
+        "text": "Management Company:",
+        "page": 6,
+        "id": 10,
+        "depth": 4
+    },
+    {
+        "text": "The SICAV’s auditors",
+        "page": 7,
+        "id": 11,
+        "depth": 4
+    },
+    {
+        "text": "Management Company’s auditors:",
+        "page": 7,
+        "id": 12,
+        "depth": 4
+    },
+    {
+        "text": "2. GENERAL CHARACTERISTICS OF THE SICAV",
+        "page": 8,
+        "id": 13,
+        "depth": 3
+    },
+    {
+        "text": "3. MANAGEMENT & ADMINISTRATION",
+        "page": 10,
+        "id": 14,
+        "depth": 3
+    },
+    {
+        "text": "3.1. The Board of Directors",
+        "page": 10,
+        "id": 15,
+        "depth": 4
+    },
+    {
+        "text": "3.2. Management company",
+        "page": 10,
+        "id": 16,
+        "depth": 4
+    },
+    {
+        "text": "3.2.1. Portfolio management duties",
+        "page": 12,
+        "id": 17,
+        "depth": 5
+    },
+    {
+        "text": "3.2.2. Administrative agent and domiciliary agent duties",
+        "page": 13,
+        "id": 18,
+        "depth": 5
+    },
+    {
+        "text": "3.2.3. Delegation of transfer agent duties (including registrar activity)",
+        "page": 14,
+        "id": 19,
+        "depth": 5
+    },
+    {
+        "text": "3.2.4. The Marketing function",
+        "page": 14,
+        "id": 20,
+        "depth": 5
+    },
+    {
+        "text": "4. THE CUSTODIAN BANK",
+        "page": 15,
+        "id": 21,
+        "depth": 3
+    },
+    {
+        "text": "5. INVESTMENT OBJECTIVES",
+        "page": 16,
+        "id": 22,
+        "depth": 3
+    },
+    {
+        "text": "6. SECURITIES LENDING TRANSACTIONS",
+        "page": 16,
+        "id": 23,
+        "depth": 3
+    },
+    {
+        "text": "1. Securities lending transactions",
+        "page": 16,
+        "id": 24,
+        "depth": 4
+    },
+    {
+        "text": "2. Repurchase transactions",
+        "page": 17,
+        "id": 25,
+        "depth": 4
+    },
+    {
+        "text": "2.1 Purchase of securities with repurchase option",
+        "page": 17,
+        "id": 26,
+        "depth": 5
+    },
+    {
+        "text": "2.2 Sale of securities with repurchase option",
+        "page": 17,
+        "id": 27,
+        "depth": 5
+    },
+    {
+        "text": "3. Repurchase agreements and reverse repurchase agreements",
+        "page": 17,
+        "id": 28,
+        "depth": 4
+    },
+    {
+        "text": "3.1 Reverse repurchase transactions",
+        "page": 17,
+        "id": 29,
+        "depth": 5
+    },
+    {
+        "text": "3.2 Repurchase transactions",
+        "page": 18,
+        "id": 30,
+        "depth": 5
+    },
+    {
+        "text": "4. Counterparty risk and guarantees received",
+        "page": 18,
+        "id": 31,
+        "depth": 4
+    },
+    {
+        "text": "5. Reinvestment of guarantees received",
+        "page": 18,
+        "id": 32,
+        "depth": 4
+    },
+    {
+        "text": "7. INVESTMENT POLICY",
+        "page": 18,
+        "id": 33,
+        "depth": 3
+    },
+    {
+        "text": "8. INVESTMENT RESTRICTIONS",
+        "page": 20,
+        "id": 34,
+        "depth": 3
+    },
+    {
+        "text": "9. RISK MANAGEMENT",
+        "page": 23,
+        "id": 35,
+        "depth": 3
+    },
+    {
+        "text": "a)  Limits",
+        "page": 23,
+        "id": 36,
+        "depth": 4
+    },
+    {
+        "text": "Unsophisticated sub-funds",
+        "page": 23,
+        "id": 37,
+        "depth": 5
+    },
+    {
+        "text": "Sophisticated sub-funds",
+        "page": 23,
+        "id": 38,
+        "depth": 5
+    },
+    {
+        "text": "Limit in relative VaR:",
+        "page": 23,
+        "id": 39,
+        "depth": 6
+    },
+    {
+        "text": "Limit in absolute VaR:",
+        "page": 24,
+        "id": 40,
+        "depth": 6
+    },
+    {
+        "text": "b)  Trading on currency markets",
+        "page": 24,
+        "id": 41,
+        "depth": 4
+    },
+    {
+        "text": "c) Counterparty risk in respect of over-the-counter derivatives",
+        "page": 24,
+        "id": 42,
+        "depth": 4
+    },
+    {
+        "text": "d) Specific risks associated with emerging markets",
+        "page": 24,
+        "id": 43,
+        "depth": 4
+    },
+    {
+        "text": "10. SHARES",
+        "page": 25,
+        "id": 44,
+        "depth": 3
+    },
+    {
+        "text": "11. STOCK EXCHANGE LISTING",
+        "page": 26,
+        "id": 45,
+        "depth": 3
+    },
+    {
+        "text": "12. ISSUING OF SHARES AND SUBSCRIPTION AND PAYMENT PROCEDURES",
+        "page": 26,
+        "id": 46,
+        "depth": 3
+    },
+    {
+        "text": "Current subscription",
+        "page": 26,
+        "id": 47,
+        "depth": 4
+    },
+    {
+        "text": "Procedure",
+        "page": 26,
+        "id": 48,
+        "depth": 4
+    },
+    {
+        "text": "General provisions",
+        "page": 27,
+        "id": 49,
+        "depth": 4
+    },
+    {
+        "text": "13. CONVERSION OF SHARES",
+        "page": 28,
+        "id": 50,
+        "depth": 3
+    },
+    {
+        "text": "14. REDEMPTION OF SHARES",
+        "page": 29,
+        "id": 51,
+        "depth": 3
+    },
+    {
+        "text": "15. MARKET TIMING AND LATE TRADING",
+        "page": 30,
+        "id": 52,
+        "depth": 3
+    },
+    {
+        "text": "Market timing",
+        "page": 30,
+        "id": 53,
+        "depth": 4
+    },
+    {
+        "text": "Late trading",
+        "page": 30,
+        "id": 54,
+        "depth": 4
+    },
+    {
+        "text": "16. NET ASSET VALUE",
+        "page": 30,
+        "id": 55,
+        "depth": 3
+    },
+    {
+        "text": "17. SUSPENSION OF NET ASSET VALUE CALCULATION AND ISSUE, REDEMPTION AND CONVERSION OF SHARES",
+        "page": 31,
+        "id": 56,
+        "depth": 3
+    },
+    {
+        "text": "18. APPROPRIATION OF INCOME",
+        "page": 32,
+        "id": 57,
+        "depth": 3
+    },
+    {
+        "text": "19. SEPARATION OF THE LIABILITIES OF THE SUB-FUNDS",
+        "page": 32,
+        "id": 58,
+        "depth": 3
+    },
+    {
+        "text": "20. TAXATION",
+        "page": 33,
+        "id": 59,
+        "depth": 3
+    },
+    {
+        "text": "Taxation of the SICAV",
+        "page": 33,
+        "id": 60,
+        "depth": 4
+    },
+    {
+        "text": "Taxation of shareholders",
+        "page": 33,
+        "id": 61,
+        "depth": 4
+    },
+    {
+        "text": "21. SHAREHOLDERS’ GENERAL MEETINGS",
+        "page": 34,
+        "id": 62,
+        "depth": 3
+    },
+    {
+        "text": "22. LIQUIDATION – MERGER OF SUB-FUNDS",
+        "page": 34,
+        "id": 63,
+        "depth": 3
+    },
+    {
+        "text": "Liquidation and winding-up of the SICAV",
+        "page": 34,
+        "id": 64,
+        "depth": 4
+    },
+    {
+        "text": "Liquidation and merger of sub-funds",
+        "page": 35,
+        "id": 65,
+        "depth": 4
+    },
+    {
+        "text": "23. FEES AND EXPENSES",
+        "page": 36,
+        "id": 66,
+        "depth": 3
+    },
+    {
+        "text": "24. DISCLOSURES TO SHAREHOLDERS",
+        "page": 37,
+        "id": 67,
+        "depth": 3
+    },
+    {
+        "text": "1.  Publication of the net asset value",
+        "page": 37,
+        "id": 68,
+        "depth": 4
+    },
+    {
+        "text": "2.  Financial announcements",
+        "page": 37,
+        "id": 69,
+        "depth": 4
+    },
+    {
+        "text": "3.  Financial year and reports to shareholders",
+        "page": 37,
+        "id": 70,
+        "depth": 4
+    },
+    {
+        "text": "4.  Auditors",
+        "page": 37,
+        "id": 71,
+        "depth": 4
+    },
+    {
+        "text": "5.  Publicly available documents",
+        "page": 37,
+        "id": 72,
+        "depth": 4
+    },
+    {
+        "text": "FACT SHEET",
+        "page": 38,
+        "id": 73,
+        "depth": 3
+    },
+    {
+        "text": "DEXIA EQUITIES L ASIA PREMIER",
+        "page": 38,
+        "id": 74,
+        "depth": 4
+    },
+    {
+        "text": "1.  Investment policy",
+        "page": 38,
+        "id": 75,
+        "depth": 5
+    },
+    {
+        "text": "2.  Risk Management:",
+        "page": 38,
+        "id": 76,
+        "depth": 5
+    },
+    {
+        "text": "3.  Valuation currency of the sub-fund:",
+        "page": 38,
+        "id": 77,
+        "depth": 5
+    },
+    {
+        "text": "4.  Payment currency for subscriptions, conversions and redemptions:",
+        "page": 38,
+        "id": 78,
+        "depth": 5
+    },
+    {
+        "text": "5.  Form of the shares:",
+        "page": 38,
+        "id": 79,
+        "depth": 5
+    },
+    {
+        "text": "6.   Share classes:",
+        "page": 39,
+        "id": 80,
+        "depth": 5
+    },
+    {
+        "text": "7.   Denominations:",
+        "page": 39,
+        "id": 81,
+        "depth": 5
+    },
+    {
+        "text": "8.   Minimum subscription:",
+        "page": 39,
+        "id": 82,
+        "depth": 5
+    },
+    {
+        "text": "9.   Issue fee:",
+        "page": 39,
+        "id": 83,
+        "depth": 5
+    },
+    {
+        "text": "10.   Exit fee:",
+        "page": 39,
+        "id": 84,
+        "depth": 5
+    },
+    {
+        "text": "11.  Fees relating to the management company’s activities:",
+        "page": 39,
+        "id": 85,
+        "depth": 5
+    },
+    {
+        "text": "12.    Custodian bank fee:",
+        "page": 40,
+        "id": 86,
+        "depth": 5
+    },
+    {
+        "text": "13.   Specific  fees  linked  to  the  LOCK  class  mechanism:",
+        "page": 40,
+        "id": 87,
+        "depth": 5
+    },
+    {
+        "text": "14.  Frequency of net asset value calculation:",
+        "page": 40,
+        "id": 88,
+        "depth": 5
+    },
+    {
+        "text": "15.  Listing  on  the  Luxembourg  Stock  Exchange:",
+        "page": 40,
+        "id": 89,
+        "depth": 5
+    },
+    {
+        "text": "DEXIA EQUITIES L AUSTRALIA",
+        "page": 41,
+        "id": 90,
+        "depth": 4
+    },
+    {
+        "text": "1.  Investment policy",
+        "page": 41,
+        "id": 91,
+        "depth": 5
+    },
+    {
+        "text": "2.  Risk Management:",
+        "page": 41,
+        "id": 92,
+        "depth": 5
+    },
+    {
+        "text": "3.  Valuation currency of the sub-fund:",
+        "page": 41,
+        "id": 93,
+        "depth": 5
+    },
+    {
+        "text": "4.  Form of the shares:",
+        "page": 41,
+        "id": 94,
+        "depth": 5
+    },
+    {
+        "text": "5.  Share classes:",
+        "page": 41,
+        "id": 95,
+        "depth": 5
+    },
+    {
+        "text": "6.  Denominations:",
+        "page": 42,
+        "id": 96,
+        "depth": 5
+    },
+    {
+        "text": "7.  Minimum subscription:",
+        "page": 42,
+        "id": 97,
+        "depth": 5
+    },
+    {
+        "text": "8.  Issue fee:",
+        "page": 42,
+        "id": 98,
+        "depth": 5
+    },
+    {
+        "text": "9.  Exit fee:",
+        "page": 42,
+        "id": 99,
+        "depth": 5
+    },
+    {
+        "text": "10.  Fees relating to the management company’s activities:",
+        "page": 42,
+        "id": 100,
+        "depth": 5
+    },
+    {
+        "text": "11.   Custodian bank fee:",
+        "page": 42,
+        "id": 101,
+        "depth": 5
+    },
+    {
+        "text": "12.  Specific  fees  linked  to  the  LOCK  class  mechanism:",
+        "page": 43,
+        "id": 102,
+        "depth": 5
+    },
+    {
+        "text": "13.  Frequency of net asset value calculation:",
+        "page": 43,
+        "id": 103,
+        "depth": 5
+    },
+    {
+        "text": "14.  Listing  on  the  Luxembourg  Stock  Exchange:",
+        "page": 43,
+        "id": 104,
+        "depth": 5
+    },
+    {
+        "text": "DEXIA EQUITIES L BIOTECHNOLOGY",
+        "page": 44,
+        "id": 105,
+        "depth": 4
+    },
+    {
+        "text": "1.  Investment policy",
+        "page": 44,
+        "id": 106,
+        "depth": 5
+    },
+    {
+        "text": "2.  Risk Management:",
+        "page": 44,
+        "id": 107,
+        "depth": 5
+    },
+    {
+        "text": "3.  Valuation currency of the sub-fund:",
+        "page": 44,
+        "id": 108,
+        "depth": 5
+    },
+    {
+        "text": "4.  Payment currency for subscriptions, conversions and redemptions:",
+        "page": 44,
+        "id": 109,
+        "depth": 5
+    },
+    {
+        "text": "5.  Form of the shares:",
+        "page": 44,
+        "id": 110,
+        "depth": 5
+    },
+    {
+        "text": "6.  Share classes:",
+        "page": 45,
+        "id": 111,
+        "depth": 5
+    },
+    {
+        "text": "7.  Denominations:",
+        "page": 45,
+        "id": 112,
+        "depth": 5
+    },
+    {
+        "text": "8.  Minimum subscription:",
+        "page": 45,
+        "id": 113,
+        "depth": 5
+    },
+    {
+        "text": "9.  Issue fee:",
+        "page": 45,
+        "id": 114,
+        "depth": 5
+    },
+    {
+        "text": "10.  Exit fee:",
+        "page": 45,
+        "id": 115,
+        "depth": 5
+    },
+    {
+        "text": "11.   Fees relating to the management company’s activities:",
+        "page": 45,
+        "id": 116,
+        "depth": 5
+    },
+    {
+        "text": "12.   Custodian bank fee:",
+        "page": 45,
+        "id": 117,
+        "depth": 5
+    },
+    {
+        "text": "13.  Specific  fees  linked  to  the  LOCK  class  mechanism:",
+        "page": 45,
+        "id": 118,
+        "depth": 5
+    },
+    {
+        "text": "14.  Frequency of net asset value calculation:",
+        "page": 46,
+        "id": 119,
+        "depth": 5
+    },
+    {
+        "text": "15.  Listing  on  the  Luxembourg  Stock  Exchange:",
+        "page": 46,
+        "id": 120,
+        "depth": 5
+    },
+    {
+        "text": "DEXIA EQUITIES L EMU",
+        "page": 47,
+        "id": 121,
+        "depth": 4
+    },
+    {
+        "text": "1.  Investment policy",
+        "page": 47,
+        "id": 122,
+        "depth": 5
+    },
+    {
+        "text": "2.  Risk Management:",
+        "page": 47,
+        "id": 123,
+        "depth": 5
+    },
+    {
+        "text": "3.  Valuation currency of the sub-fund:",
+        "page": 47,
+        "id": 124,
+        "depth": 5
+    },
+    {
+        "text": "4.  Payment currency for subscriptions, conversions and redemptions:",
+        "page": 47,
+        "id": 125,
+        "depth": 5
+    },
+    {
+        "text": "5.  Form of the shares:",
+        "page": 47,
+        "id": 126,
+        "depth": 5
+    },
+    {
+        "text": "6.   Share classes:",
+        "page": 47,
+        "id": 127,
+        "depth": 5
+    },
+    {
+        "text": "7.   Denominations:",
+        "page": 48,
+        "id": 128,
+        "depth": 5
+    },
+    {
+        "text": "8.   Minimum subscription:",
+        "page": 48,
+        "id": 129,
+        "depth": 5
+    },
+    {
+        "text": "9.   Issue fee:",
+        "page": 48,
+        "id": 130,
+        "depth": 5
+    },
+    {
+        "text": "10.   Exit fee:",
+        "page": 48,
+        "id": 131,
+        "depth": 5
+    },
+    {
+        "text": "11.  Fees relating to the management company’s activities:",
+        "page": 48,
+        "id": 132,
+        "depth": 5
+    },
+    {
+        "text": "12.  Custodian bank fee:",
+        "page": 48,
+        "id": 133,
+        "depth": 5
+    },
+    {
+        "text": "13. Frequency of net asset value calculation:",
+        "page": 48,
+        "id": 134,
+        "depth": 5
+    },
+    {
+        "text": "14.  Listing  on  the  Luxembourg  Stock  Exchange:",
+        "page": 48,
+        "id": 135,
+        "depth": 5
+    },
+    {
+        "text": "DEXIA EQUITIES L EURO 50",
+        "page": 49,
+        "id": 136,
+        "depth": 4
+    },
+    {
+        "text": "1.  Investment policy",
+        "page": 49,
+        "id": 137,
+        "depth": 5
+    },
+    {
+        "text": "2.  Risk Management:",
+        "page": 49,
+        "id": 138,
+        "depth": 5
+    },
+    {
+        "text": "3.  Valuation currency of the sub-fund:",
+        "page": 49,
+        "id": 139,
+        "depth": 5
+    },
+    {
+        "text": "4.  Form of the shares:",
+        "page": 49,
+        "id": 140,
+        "depth": 5
+    },
+    {
+        "text": "5.  Share classes:",
+        "page": 50,
+        "id": 141,
+        "depth": 5
+    },
+    {
+        "text": "6.  Denominations:",
+        "page": 50,
+        "id": 142,
+        "depth": 5
+    },
+    {
+        "text": "7.  Minimum subscription:",
+        "page": 50,
+        "id": 143,
+        "depth": 5
+    },
+    {
+        "text": "8.  Issue fee:",
+        "page": 50,
+        "id": 144,
+        "depth": 5
+    },
+    {
+        "text": "9.  Exit fee:",
+        "page": 50,
+        "id": 145,
+        "depth": 5
+    },
+    {
+        "text": "10.  Fees relating to the management company’s activities:",
+        "page": 50,
+        "id": 146,
+        "depth": 5
+    },
+    {
+        "text": "11.   Custodian bank fee:",
+        "page": 50,
+        "id": 147,
+        "depth": 5
+    },
+    {
+        "text": "12.  Frequency of net asset value calculation:",
+        "page": 50,
+        "id": 148,
+        "depth": 5
+    },
+    {
+        "text": "13.  Listing  on  the  Luxembourg  Stock  Exchange:",
+        "page": 50,
+        "id": 149,
+        "depth": 5
+    },
+    {
+        "text": "DEXIA EQUITIES L EUROPE",
+        "page": 51,
+        "id": 150,
+        "depth": 4
+    },
+    {
+        "text": "1.  Investment policy",
+        "page": 51,
+        "id": 151,
+        "depth": 5
+    },
+    {
+        "text": "2.  Risk Management:",
+        "page": 51,
+        "id": 152,
+        "depth": 5
+    },
+    {
+        "text": "3.  Valuation currency of the sub-fund:",
+        "page": 51,
+        "id": 153,
+        "depth": 5
+    },
+    {
+        "text": "4.  Form of the shares:",
+        "page": 51,
+        "id": 154,
+        "depth": 5
+    },
+    {
+        "text": "5.  Share classes:",
+        "page": 52,
+        "id": 155,
+        "depth": 5
+    },
+    {
+        "text": "6.  Denominations:",
+        "page": 52,
+        "id": 156,
+        "depth": 5
+    },
+    {
+        "text": "7.  Minimum subscription:",
+        "page": 52,
+        "id": 157,
+        "depth": 5
+    },
+    {
+        "text": "8.  Issue fee:",
+        "page": 52,
+        "id": 158,
+        "depth": 5
+    },
+    {
+        "text": "9.  Exit fee:",
+        "page": 52,
+        "id": 159,
+        "depth": 5
+    },
+    {
+        "text": "10.  Fees relating to the management company’s activities:",
+        "page": 52,
+        "id": 160,
+        "depth": 5
+    },
+    {
+        "text": "11.  Custodian bank fee:",
+        "page": 52,
+        "id": 161,
+        "depth": 5
+    },
+    {
+        "text": "12.   Performance fee:",
+        "page": 53,
+        "id": 162,
+        "depth": 5
+    },
+    {
+        "text": "13.  Specific  fees  linked  to  the  LOCK  class  mechanism:",
+        "page": 53,
+        "id": 163,
+        "depth": 5
+    },
+    {
+        "text": "14.  Frequency of net asset value calculation:",
+        "page": 53,
+        "id": 164,
+        "depth": 5
+    },
+    {
+        "text": "15.  Listing  on  the  Luxembourg  Stock  Exchange:",
+        "page": 53,
+        "id": 165,
+        "depth": 5
+    },
+    {
+        "text": "DEXIA EQUITIES L EUROPE CONVICTION",
+        "page": 54,
+        "id": 166,
+        "depth": 4
+    },
+    {
+        "text": "1.  Investment policy",
+        "page": 54,
+        "id": 167,
+        "depth": 5
+    },
+    {
+        "text": "2.  Risk Management:",
+        "page": 54,
+        "id": 168,
+        "depth": 5
+    },
+    {
+        "text": "3.  Valuation currency of the sub-fund:",
+        "page": 54,
+        "id": 169,
+        "depth": 5
+    },
+    {
+        "text": "4.  Form of the shares:",
+        "page": 54,
+        "id": 170,
+        "depth": 5
+    },
+    {
+        "text": "5.  Share classes:",
+        "page": 54,
+        "id": 171,
+        "depth": 5
+    },
+    {
+        "text": "6.  Denominations:",
+        "page": 55,
+        "id": 172,
+        "depth": 5
+    },
+    {
+        "text": "7.  Minimum subscription:",
+        "page": 55,
+        "id": 173,
+        "depth": 5
+    },
+    {
+        "text": "8.  Issue fee:",
+        "page": 55,
+        "id": 174,
+        "depth": 5
+    },
+    {
+        "text": "9.  Exit fee:",
+        "page": 55,
+        "id": 175,
+        "depth": 5
+    },
+    {
+        "text": "10.  Fees relating to the management company’s activities:",
+        "page": 55,
+        "id": 176,
+        "depth": 5
+    },
+    {
+        "text": "11.  Custodian bank fee:",
+        "page": 55,
+        "id": 177,
+        "depth": 5
+    },
+    {
+        "text": "12.  Frequency of net asset value calculation:",
+        "page": 55,
+        "id": 178,
+        "depth": 5
+    },
+    {
+        "text": "13.  Listing on the Luxembourg Stock Exchange:",
+        "page": 55,
+        "id": 179,
+        "depth": 5
+    },
+    {
+        "text": "DEXIA EQUITIES L EUROPE ENERGY SECTOR",
+        "page": 56,
+        "id": 180,
+        "depth": 4
+    },
+    {
+        "text": "1.  Investment policy",
+        "page": 56,
+        "id": 181,
+        "depth": 5
+    },
+    {
+        "text": "2.  Risk Management:",
+        "page": 56,
+        "id": 182,
+        "depth": 5
+    },
+    {
+        "text": "3.  Valuation currency of the sub-fund:",
+        "page": 56,
+        "id": 183,
+        "depth": 5
+    },
+    {
+        "text": "4.  Form of the shares:",
+        "page": 56,
+        "id": 184,
+        "depth": 5
+    },
+    {
+        "text": "5.  Share classes:",
+        "page": 56,
+        "id": 185,
+        "depth": 5
+    },
+    {
+        "text": "6.  Denominations:",
+        "page": 57,
+        "id": 186,
+        "depth": 5
+    },
+    {
+        "text": "7.  Minimum subscription:",
+        "page": 57,
+        "id": 187,
+        "depth": 5
+    },
+    {
+        "text": "8.  Issue fee:",
+        "page": 57,
+        "id": 188,
+        "depth": 5
+    },
+    {
+        "text": "9.  Exit fee:",
+        "page": 57,
+        "id": 189,
+        "depth": 5
+    },
+    {
+        "text": "10.  Fees relating to the management company’s activities:",
+        "page": 57,
+        "id": 190,
+        "depth": 5
+    },
+    {
+        "text": "11.   Custodian bank fee:",
+        "page": 57,
+        "id": 191,
+        "depth": 5
+    },
+    {
+        "text": "12.  Frequency of net asset value calculation:",
+        "page": 57,
+        "id": 192,
+        "depth": 5
+    },
+    {
+        "text": "13.  Listing  on  the  Luxembourg  Stock  Exchange:",
+        "page": 57,
+        "id": 193,
+        "depth": 5
+    },
+    {
+        "text": "DEXIA EQUITIES L EUROPE FINANCE SECTOR",
+        "page": 58,
+        "id": 194,
+        "depth": 4
+    },
+    {
+        "text": "1.  Investment policy",
+        "page": 58,
+        "id": 195,
+        "depth": 5
+    },
+    {
+        "text": "2.  Risk Management:",
+        "page": 58,
+        "id": 196,
+        "depth": 5
+    },
+    {
+        "text": "3.  Valuation currency of the sub-fund:",
+        "page": 58,
+        "id": 197,
+        "depth": 5
+    },
+    {
+        "text": "4.  Form of the shares:",
+        "page": 58,
+        "id": 198,
+        "depth": 5
+    },
+    {
+        "text": "5.  Share classes:",
+        "page": 58,
+        "id": 199,
+        "depth": 5
+    },
+    {
+        "text": "6.  Denominations:",
+        "page": 59,
+        "id": 200,
+        "depth": 5
+    },
+    {
+        "text": "7.  Minimum subscription:",
+        "page": 59,
+        "id": 201,
+        "depth": 5
+    },
+    {
+        "text": "8.  Issue fee:",
+        "page": 59,
+        "id": 202,
+        "depth": 5
+    },
+    {
+        "text": "9.  Exit fee:",
+        "page": 59,
+        "id": 203,
+        "depth": 5
+    },
+    {
+        "text": "10.  Fees relating to the management company’s activities:",
+        "page": 59,
+        "id": 204,
+        "depth": 5
+    },
+    {
+        "text": "11.   Custodian bank fee:",
+        "page": 59,
+        "id": 205,
+        "depth": 5
+    },
+    {
+        "text": "12.  Frequency of net asset value calculation:",
+        "page": 59,
+        "id": 206,
+        "depth": 5
+    },
+    {
+        "text": "13.  Listing  on  the  Luxembourg  Stock  Exchange:",
+        "page": 59,
+        "id": 207,
+        "depth": 5
+    },
+    {
+        "text": "DEXIA EQUITIES L EUROPE HIGH DIVIDEND",
+        "page": 60,
+        "id": 208,
+        "depth": 4
+    },
+    {
+        "text": "1.  Investment policy",
+        "page": 60,
+        "id": 209,
+        "depth": 5
+    },
+    {
+        "text": "2.  Risk Management:",
+        "page": 60,
+        "id": 210,
+        "depth": 5
+    },
+    {
+        "text": "3.  Valuation currency of the sub-fund:",
+        "page": 60,
+        "id": 211,
+        "depth": 5
+    },
+    {
+        "text": "4.  Payment currency for subscriptions, conversions and redemptions:",
+        "page": 61,
+        "id": 212,
+        "depth": 5
+    },
+    {
+        "text": "5.  Form of the shares:",
+        "page": 61,
+        "id": 213,
+        "depth": 5
+    },
+    {
+        "text": "6.   Share classes:",
+        "page": 61,
+        "id": 214,
+        "depth": 5
+    },
+    {
+        "text": "7.   Denominations:",
+        "page": 61,
+        "id": 215,
+        "depth": 5
+    },
+    {
+        "text": "8.   Minimum subscription:",
+        "page": 61,
+        "id": 216,
+        "depth": 5
+    },
+    {
+        "text": "9.   Issue fee:",
+        "page": 61,
+        "id": 217,
+        "depth": 5
+    },
+    {
+        "text": "10.   Exit fee:",
+        "page": 61,
+        "id": 218,
+        "depth": 5
+    },
+    {
+        "text": "11.  Fees relating to the management company’s activities:",
+        "page": 61,
+        "id": 219,
+        "depth": 5
+    },
+    {
+        "text": "12.  Custodian bank fee:",
+        "page": 62,
+        "id": 220,
+        "depth": 5
+    },
+    {
+        "text": "13. Specific fees linked to the LOCK class mechanism:",
+        "page": 62,
+        "id": 221,
+        "depth": 5
+    },
+    {
+        "text": "14.  Frequency of net asset value calculation:",
+        "page": 62,
+        "id": 222,
+        "depth": 5
+    },
+    {
+        "text": "15.  Listing  on  the  Luxembourg  Stock  Exchange:",
+        "page": 62,
+        "id": 223,
+        "depth": 5
+    },
+    {
+        "text": "DEXIA EQUITIES L EUROPE INNOVATION",
+        "page": 63,
+        "id": 224,
+        "depth": 4
+    },
+    {
+        "text": "1.  Investment policy",
+        "page": 63,
+        "id": 225,
+        "depth": 5
+    },
+    {
+        "text": "2.  Risk Management:",
+        "page": 63,
+        "id": 226,
+        "depth": 5
+    },
+    {
+        "text": "3.  Valuation currency of the sub-fund:",
+        "page": 63,
+        "id": 227,
+        "depth": 5
+    },
+    {
+        "text": "4.  Form of the shares:",
+        "page": 63,
+        "id": 228,
+        "depth": 5
+    },
+    {
+        "text": "5.  Share classes:",
+        "page": 63,
+        "id": 229,
+        "depth": 5
+    },
+    {
+        "text": "6.  Denominations:",
+        "page": 63,
+        "id": 230,
+        "depth": 5
+    },
+    {
+        "text": "7.  Minimum subscription:",
+        "page": 64,
+        "id": 231,
+        "depth": 5
+    },
+    {
+        "text": "8.  Issue fee:",
+        "page": 64,
+        "id": 232,
+        "depth": 5
+    },
+    {
+        "text": "9.  Exit fee:",
+        "page": 64,
+        "id": 233,
+        "depth": 5
+    },
+    {
+        "text": "10.  Fees relating to the management company’s activities:",
+        "page": 64,
+        "id": 234,
+        "depth": 5
+    },
+    {
+        "text": "11.   Custodian bank fee:",
+        "page": 64,
+        "id": 235,
+        "depth": 5
+    },
+    {
+        "text": "12.  Frequency of net asset value calculation:",
+        "page": 64,
+        "id": 236,
+        "depth": 5
+    },
+    {
+        "text": "13.  Listing  on  the  Luxembourg  Stock  Exchange:",
+        "page": 64,
+        "id": 237,
+        "depth": 5
+    },
+    {
+        "text": "DEXIA EQUITIES L EMERGING EUROPE",
+        "page": 65,
+        "id": 238,
+        "depth": 4
+    },
+    {
+        "text": "1.  Investment policy",
+        "page": 65,
+        "id": 239,
+        "depth": 5
+    },
+    {
+        "text": "2.  Risk Management:",
+        "page": 65,
+        "id": 240,
+        "depth": 5
+    },
+    {
+        "text": "3.  Valuation currency of the sub-fund:",
+        "page": 65,
+        "id": 241,
+        "depth": 5
+    },
+    {
+        "text": "4.  Payment currency for subscriptions, conversions and redemptions:",
+        "page": 65,
+        "id": 242,
+        "depth": 5
+    },
+    {
+        "text": "5.  Form of the shares:",
+        "page": 65,
+        "id": 243,
+        "depth": 5
+    },
+    {
+        "text": "6.   Share classes:",
+        "page": 66,
+        "id": 244,
+        "depth": 5
+    },
+    {
+        "text": "7.   Denominations:",
+        "page": 66,
+        "id": 245,
+        "depth": 5
+    },
+    {
+        "text": "8.   Minimum subscription:",
+        "page": 66,
+        "id": 246,
+        "depth": 5
+    },
+    {
+        "text": "9.   Issue fee:",
+        "page": 66,
+        "id": 247,
+        "depth": 5
+    },
+    {
+        "text": "10.   Exit fee:",
+        "page": 66,
+        "id": 248,
+        "depth": 5
+    },
+    {
+        "text": "11.  Fees relating to the management company’s activities:",
+        "page": 66,
+        "id": 249,
+        "depth": 5
+    },
+    {
+        "text": "12.  Custodian bank fee:",
+        "page": 66,
+        "id": 250,
+        "depth": 5
+    },
+    {
+        "text": "13. Frequency of net asset value calculation:",
+        "page": 66,
+        "id": 251,
+        "depth": 5
+    },
+    {
+        "text": "14.  Listing  on  the  Luxembourg  Stock  Exchange:",
+        "page": 67,
+        "id": 252,
+        "depth": 5
+    },
+    {
+        "text": "DEXIA EQUITIES L EMERGING MARKETS",
+        "page": 68,
+        "id": 253,
+        "depth": 4
+    },
+    {
+        "text": "1.  Investment policy",
+        "page": 68,
+        "id": 254,
+        "depth": 5
+    },
+    {
+        "text": "2.  Risk Management:",
+        "page": 69,
+        "id": 255,
+        "depth": 5
+    },
+    {
+        "text": "3.  Valuation currency of the sub-fund:",
+        "page": 69,
+        "id": 256,
+        "depth": 5
+    },
+    {
+        "text": "4.  Form of the shares:",
+        "page": 69,
+        "id": 257,
+        "depth": 5
+    },
+    {
+        "text": "5.  Share classes:",
+        "page": 69,
+        "id": 258,
+        "depth": 5
+    },
+    {
+        "text": "6.  Denominations:",
+        "page": 69,
+        "id": 259,
+        "depth": 5
+    },
+    {
+        "text": "7.  Minimum subscription:",
+        "page": 69,
+        "id": 260,
+        "depth": 5
+    },
+    {
+        "text": "8.  Issue fee:",
+        "page": 69,
+        "id": 261,
+        "depth": 5
+    },
+    {
+        "text": "9.  Exit fee:",
+        "page": 69,
+        "id": 262,
+        "depth": 5
+    },
+    {
+        "text": "10.  Fees relating to the management company’s activities:",
+        "page": 70,
+        "id": 263,
+        "depth": 5
+    },
+    {
+        "text": "11.   Custodian bank fee:",
+        "page": 70,
+        "id": 264,
+        "depth": 5
+    },
+    {
+        "text": "12.  Specific  fees  linked  to  the  LOCK  class  mechanism:",
+        "page": 70,
+        "id": 265,
+        "depth": 5
+    },
+    {
+        "text": "13.  Frequency of net asset value calculation:",
+        "page": 70,
+        "id": 266,
+        "depth": 5
+    },
+    {
+        "text": "14.  Listing  on  the  Luxembourg  Stock  Exchange:",
+        "page": 70,
+        "id": 267,
+        "depth": 5
+    },
+    {
+        "text": "DEXIA EQUITIES L FRANCE",
+        "page": 71,
+        "id": 268,
+        "depth": 4
+    },
+    {
+        "text": "1.  Investment policy",
+        "page": 71,
+        "id": 269,
+        "depth": 5
+    },
+    {
+        "text": "2.  Risk Management:",
+        "page": 71,
+        "id": 270,
+        "depth": 5
+    },
+    {
+        "text": "3.  Valuation currency of the sub-fund:",
+        "page": 71,
+        "id": 271,
+        "depth": 5
+    },
+    {
+        "text": "4.  Form of the shares:",
+        "page": 71,
+        "id": 272,
+        "depth": 5
+    },
+    {
+        "text": "5.  Share classes:",
+        "page": 72,
+        "id": 273,
+        "depth": 5
+    },
+    {
+        "text": "6.  Denominations:",
+        "page": 72,
+        "id": 274,
+        "depth": 5
+    },
+    {
+        "text": "7.  Minimum subscription:",
+        "page": 72,
+        "id": 275,
+        "depth": 5
+    },
+    {
+        "text": "8.  Issue fee:",
+        "page": 72,
+        "id": 276,
+        "depth": 5
+    },
+    {
+        "text": "9.  Exit fee:",
+        "page": 72,
+        "id": 277,
+        "depth": 5
+    },
+    {
+        "text": "10.  Fees relating to the management company’s activities:",
+        "page": 72,
+        "id": 278,
+        "depth": 5
+    },
+    {
+        "text": "11.   Custodian bank fee:",
+        "page": 72,
+        "id": 279,
+        "depth": 5
+    },
+    {
+        "text": "12.  Specific  fees  linked  to  the  LOCK  class  mechanism:",
+        "page": 73,
+        "id": 280,
+        "depth": 5
+    },
+    {
+        "text": "13.  Frequency of net asset value calculation:",
+        "page": 73,
+        "id": 281,
+        "depth": 5
+    },
+    {
+        "text": "14.  Listing  on  the  Luxembourg  Stock  Exchange:",
+        "page": 73,
+        "id": 282,
+        "depth": 5
+    },
+    {
+        "text": "DEXIA EQUITIES L GERMANY",
+        "page": 74,
+        "id": 283,
+        "depth": 4
+    },
+    {
+        "text": "1.  Investment policy",
+        "page": 74,
+        "id": 284,
+        "depth": 5
+    },
+    {
+        "text": "2.  Risk Management:",
+        "page": 74,
+        "id": 285,
+        "depth": 5
+    },
+    {
+        "text": "3.  Valuation currency of the sub-fund:",
+        "page": 74,
+        "id": 286,
+        "depth": 5
+    },
+    {
+        "text": "4.  Form of the shares:",
+        "page": 74,
+        "id": 287,
+        "depth": 5
+    },
+    {
+        "text": "5.  Share classes:",
+        "page": 74,
+        "id": 288,
+        "depth": 5
+    },
+    {
+        "text": "6.  Denominations:",
+        "page": 75,
+        "id": 289,
+        "depth": 5
+    },
+    {
+        "text": "7.  Minimum subscription:",
+        "page": 75,
+        "id": 290,
+        "depth": 5
+    },
+    {
+        "text": "8.  Issue fee:",
+        "page": 75,
+        "id": 291,
+        "depth": 5
+    },
+    {
+        "text": "9.  Exit fee:",
+        "page": 75,
+        "id": 292,
+        "depth": 5
+    },
+    {
+        "text": "10.  Fees relating to the management company’s activities:",
+        "page": 75,
+        "id": 293,
+        "depth": 5
+    },
+    {
+        "text": "11.   Custodian bank fee:",
+        "page": 75,
+        "id": 294,
+        "depth": 5
+    },
+    {
+        "text": "12.  Specific  fees  linked  to  the  LOCK  class  mechanism:",
+        "page": 75,
+        "id": 295,
+        "depth": 5
+    },
+    {
+        "text": "13.  Frequency of net asset value calculation:",
+        "page": 75,
+        "id": 296,
+        "depth": 5
+    },
+    {
+        "text": "14.  Listing  on  the  Luxembourg  Stock  Exchange:",
+        "page": 75,
+        "id": 297,
+        "depth": 5
+    },
+    {
+        "text": "DEXIA EQUITIES L JAPAN",
+        "page": 76,
+        "id": 298,
+        "depth": 4
+    },
+    {
+        "text": "1.  Investment policy",
+        "page": 76,
+        "id": 299,
+        "depth": 5
+    },
+    {
+        "text": "2.  Risk Management:",
+        "page": 76,
+        "id": 300,
+        "depth": 5
+    },
+    {
+        "text": "3.  Valuation currency of the sub-fund:",
+        "page": 76,
+        "id": 301,
+        "depth": 5
+    },
+    {
+        "text": "4.  Payment  currency  for  subscriptions,  conversions  and  redemptions:",
+        "page": 76,
+        "id": 302,
+        "depth": 5
+    },
+    {
+        "text": "5.  Form of the shares:",
+        "page": 77,
+        "id": 303,
+        "depth": 5
+    },
+    {
+        "text": "6.  Share classes:",
+        "page": 77,
+        "id": 304,
+        "depth": 5
+    },
+    {
+        "text": "7.  Denominations:",
+        "page": 77,
+        "id": 305,
+        "depth": 5
+    },
+    {
+        "text": "8.  Minimum subscription:",
+        "page": 77,
+        "id": 306,
+        "depth": 5
+    },
+    {
+        "text": "9.  Issue fee:",
+        "page": 77,
+        "id": 307,
+        "depth": 5
+    },
+    {
+        "text": "10.  Exit fee:",
+        "page": 77,
+        "id": 308,
+        "depth": 5
+    },
+    {
+        "text": "11.   Fees relating to the management company’s activities:",
+        "page": 77,
+        "id": 309,
+        "depth": 5
+    },
+    {
+        "text": "12.  Custodian bank fee:",
+        "page": 78,
+        "id": 310,
+        "depth": 5
+    },
+    {
+        "text": "13.  Specific  fees  linked  to  the  LOCK  class  mechanism:",
+        "page": 78,
+        "id": 311,
+        "depth": 5
+    },
+    {
+        "text": "14.  Frequency of net asset value calculation:",
+        "page": 78,
+        "id": 312,
+        "depth": 5
+    },
+    {
+        "text": "15.  Listing  on  the  Luxembourg  Stock  Exchange:",
+        "page": 78,
+        "id": 313,
+        "depth": 5
+    },
+    {
+        "text": "DEXIA EQUITIES L NETHERLANDS",
+        "page": 79,
+        "id": 314,
+        "depth": 4
+    },
+    {
+        "text": "1.   Investment policy",
+        "page": 79,
+        "id": 315,
+        "depth": 5
+    },
+    {
+        "text": "2.  Risk Management:",
+        "page": 79,
+        "id": 316,
+        "depth": 5
+    },
+    {
+        "text": "3.  Valuation currency of the sub-fund:",
+        "page": 79,
+        "id": 317,
+        "depth": 5
+    },
+    {
+        "text": "4.  Form of the shares:",
+        "page": 79,
+        "id": 318,
+        "depth": 5
+    },
+    {
+        "text": "5.  Share classes:",
+        "page": 79,
+        "id": 319,
+        "depth": 5
+    },
+    {
+        "text": "6.  Denominations:",
+        "page": 80,
+        "id": 320,
+        "depth": 5
+    },
+    {
+        "text": "7.  Minimum subscription:",
+        "page": 80,
+        "id": 321,
+        "depth": 5
+    },
+    {
+        "text": "8.  Issue fee:",
+        "page": 80,
+        "id": 322,
+        "depth": 5
+    },
+    {
+        "text": "9.  Exit fee:",
+        "page": 80,
+        "id": 323,
+        "depth": 5
+    },
+    {
+        "text": "10.  Fees relating to the management company’s activities:",
+        "page": 80,
+        "id": 324,
+        "depth": 5
+    },
+    {
+        "text": "11.  Custodian bank fee:",
+        "page": 80,
+        "id": 325,
+        "depth": 5
+    },
+    {
+        "text": "12.  Specific  fees  linked  to  the  LOCK  class  mechanism:",
+        "page": 80,
+        "id": 326,
+        "depth": 5
+    },
+    {
+        "text": "13.  Frequency of net asset value calculation:",
+        "page": 80,
+        "id": 327,
+        "depth": 5
+    },
+    {
+        "text": "14.  Listing  on  the  Luxembourg  Stock  Exchange:",
+        "page": 80,
+        "id": 328,
+        "depth": 5
+    },
+    {
+        "text": "DEXIA EQUITIES L SUSTAINABLE EMERGING MARKETS",
+        "page": 81,
+        "id": 329,
+        "depth": 4
+    },
+    {
+        "text": "1.  Investment policy",
+        "page": 81,
+        "id": 330,
+        "depth": 5
+    },
+    {
+        "text": "2.  Risk Management:",
+        "page": 82,
+        "id": 331,
+        "depth": 5
+    },
+    {
+        "text": "3.  Valuation currency of the sub-fund:",
+        "page": 82,
+        "id": 332,
+        "depth": 5
+    },
+    {
+        "text": "4.  Form of the shares:",
+        "page": 82,
+        "id": 333,
+        "depth": 5
+    },
+    {
+        "text": "5.  Share classes:",
+        "page": 82,
+        "id": 334,
+        "depth": 5
+    },
+    {
+        "text": "6.  Denominations:",
+        "page": 82,
+        "id": 335,
+        "depth": 5
+    },
+    {
+        "text": "7.  Minimum subscription:",
+        "page": 82,
+        "id": 336,
+        "depth": 5
+    },
+    {
+        "text": "8.  Issue fee:",
+        "page": 82,
+        "id": 337,
+        "depth": 5
+    },
+    {
+        "text": "9.  Exit fee:",
+        "page": 82,
+        "id": 338,
+        "depth": 5
+    },
+    {
+        "text": "10.  Fees relating to the management company’s activities:",
+        "page": 83,
+        "id": 339,
+        "depth": 5
+    },
+    {
+        "text": "11.  Custodian bank fee:",
+        "page": 83,
+        "id": 340,
+        "depth": 5
+    },
+    {
+        "text": "12.   Frequency of net asset value calculation:",
+        "page": 83,
+        "id": 341,
+        "depth": 5
+    },
+    {
+        "text": "13.  Listing  on  the  Luxembourg  Stock  Exchange:",
+        "page": 83,
+        "id": 342,
+        "depth": 5
+    },
+    {
+        "text": "DEXIA EQUITIES L SUSTAINABLE EMU",
+        "page": 84,
+        "id": 343,
+        "depth": 4
+    },
+    {
+        "text": "1.  Investment policy",
+        "page": 84,
+        "id": 344,
+        "depth": 5
+    },
+    {
+        "text": "2.  Risk Management:",
+        "page": 84,
+        "id": 345,
+        "depth": 5
+    },
+    {
+        "text": "3.  Valuation currency of the sub-fund:",
+        "page": 84,
+        "id": 346,
+        "depth": 5
+    },
+    {
+        "text": "4.  Form of the shares:",
+        "page": 85,
+        "id": 347,
+        "depth": 5
+    },
+    {
+        "text": "5.  Share classes:",
+        "page": 85,
+        "id": 348,
+        "depth": 5
+    },
+    {
+        "text": "6.  Denominations:",
+        "page": 85,
+        "id": 349,
+        "depth": 5
+    },
+    {
+        "text": "7.  Minimum subscription:",
+        "page": 85,
+        "id": 350,
+        "depth": 5
+    },
+    {
+        "text": "8.  Issue fee:",
+        "page": 85,
+        "id": 351,
+        "depth": 5
+    },
+    {
+        "text": "9.  Exit fee:",
+        "page": 85,
+        "id": 352,
+        "depth": 5
+    },
+    {
+        "text": "10.  Fees relating to the management company’s activities:",
+        "page": 85,
+        "id": 353,
+        "depth": 5
+    },
+    {
+        "text": "11.  Custodian bank fee:",
+        "page": 85,
+        "id": 354,
+        "depth": 5
+    },
+    {
+        "text": "12.   Frequency of net asset value calculation:",
+        "page": 85,
+        "id": 355,
+        "depth": 5
+    },
+    {
+        "text": "13.  Listing  on  the  Luxembourg  Stock  Exchange:",
+        "page": 86,
+        "id": 356,
+        "depth": 5
+    },
+    {
+        "text": "DEXIA EQUITIES L SUSTAINABLE GREEN PLANET",
+        "page": 87,
+        "id": 357,
+        "depth": 4
+    },
+    {
+        "text": "1.  Investment policy",
+        "page": 87,
+        "id": 358,
+        "depth": 5
+    },
+    {
+        "text": "2.  Risk Management:",
+        "page": 87,
+        "id": 359,
+        "depth": 5
+    },
+    {
+        "text": "3.  Valuation currency of the sub-fund:",
+        "page": 87,
+        "id": 360,
+        "depth": 5
+    },
+    {
+        "text": "4.  Payment currency for subscriptions, conversions and redemptions:",
+        "page": 87,
+        "id": 361,
+        "depth": 5
+    },
+    {
+        "text": "5.  Form of the shares:",
+        "page": 87,
+        "id": 362,
+        "depth": 5
+    },
+    {
+        "text": "6.   Share classes:",
+        "page": 88,
+        "id": 363,
+        "depth": 5
+    },
+    {
+        "text": "7.   Denominations:",
+        "page": 88,
+        "id": 364,
+        "depth": 5
+    },
+    {
+        "text": "8.   Minimum subscription:",
+        "page": 88,
+        "id": 365,
+        "depth": 5
+    },
+    {
+        "text": "9.   Issue fee:",
+        "page": 88,
+        "id": 366,
+        "depth": 5
+    },
+    {
+        "text": "10.   Exit fee:",
+        "page": 88,
+        "id": 367,
+        "depth": 5
+    },
+    {
+        "text": "11.    Fees relating to the management company’s activities:",
+        "page": 88,
+        "id": 368,
+        "depth": 5
+    },
+    {
+        "text": "12.    Custodian bank fee:",
+        "page": 88,
+        "id": 369,
+        "depth": 5
+    },
+    {
+        "text": "13.   Frequency of net asset value calculation:",
+        "page": 88,
+        "id": 370,
+        "depth": 5
+    },
+    {
+        "text": "14.  Listing  on  the  Luxembourg  Stock  Exchange:",
+        "page": 89,
+        "id": 371,
+        "depth": 5
+    },
+    {
+        "text": "DEXIA EQUITIES L SUSTAINABLE WORLD",
+        "page": 90,
+        "id": 372,
+        "depth": 4
+    },
+    {
+        "text": "1.  Investment policy",
+        "page": 90,
+        "id": 373,
+        "depth": 5
+    },
+    {
+        "text": "2.  Risk Management:",
+        "page": 90,
+        "id": 374,
+        "depth": 5
+    },
+    {
+        "text": "3.  Valuation currency of the sub-fund:",
+        "page": 90,
+        "id": 375,
+        "depth": 5
+    },
+    {
+        "text": "4.  Form of the shares:",
+        "page": 91,
+        "id": 376,
+        "depth": 5
+    },
+    {
+        "text": "5.  Share classes:",
+        "page": 91,
+        "id": 377,
+        "depth": 5
+    },
+    {
+        "text": "6.  Denominations:",
+        "page": 91,
+        "id": 378,
+        "depth": 5
+    },
+    {
+        "text": "7.  Minimum subscription:",
+        "page": 91,
+        "id": 379,
+        "depth": 5
+    },
+    {
+        "text": "8.  Issue fee:",
+        "page": 91,
+        "id": 380,
+        "depth": 5
+    },
+    {
+        "text": "9.  Exit fee:",
+        "page": 91,
+        "id": 381,
+        "depth": 5
+    },
+    {
+        "text": "10.  Fees relating to the management company’s activities:",
+        "page": 91,
+        "id": 382,
+        "depth": 5
+    },
+    {
+        "text": "11.  Custodian bank fee:",
+        "page": 92,
+        "id": 383,
+        "depth": 5
+    },
+    {
+        "text": "12.  Frequency of net asset value calculation:",
+        "page": 92,
+        "id": 384,
+        "depth": 5
+    },
+    {
+        "text": "13.  Listing  on  the  Luxembourg  Stock  Exchange:",
+        "page": 92,
+        "id": 385,
+        "depth": 5
+    },
+    {
+        "text": "DEXIA EQUITIES L SWITZERLAND",
+        "page": 93,
+        "id": 386,
+        "depth": 4
+    },
+    {
+        "text": "1.  Investment policy",
+        "page": 93,
+        "id": 387,
+        "depth": 5
+    },
+    {
+        "text": "2.  Risk Management:",
+        "page": 93,
+        "id": 388,
+        "depth": 5
+    },
+    {
+        "text": "3.  Valuation currency of the sub-fund:",
+        "page": 93,
+        "id": 389,
+        "depth": 5
+    },
+    {
+        "text": "4.  Payment currency for subscriptions, conversions and redemptions:",
+        "page": 93,
+        "id": 390,
+        "depth": 5
+    },
+    {
+        "text": "5.  Form of the shares:",
+        "page": 93,
+        "id": 391,
+        "depth": 5
+    },
+    {
+        "text": "6.  Share classes:",
+        "page": 94,
+        "id": 392,
+        "depth": 5
+    },
+    {
+        "text": "7.  Denominations:",
+        "page": 94,
+        "id": 393,
+        "depth": 5
+    },
+    {
+        "text": "8.  Minimum subscription:",
+        "page": 94,
+        "id": 394,
+        "depth": 5
+    },
+    {
+        "text": "9.  Issue fee:",
+        "page": 94,
+        "id": 395,
+        "depth": 5
+    },
+    {
+        "text": "10.  Exit fee:",
+        "page": 94,
+        "id": 396,
+        "depth": 5
+    },
+    {
+        "text": "11.  Fees relating to the management company’s activities:",
+        "page": 94,
+        "id": 397,
+        "depth": 5
+    },
+    {
+        "text": "12.  Custodian bank fee:",
+        "page": 94,
+        "id": 398,
+        "depth": 5
+    },
+    {
+        "text": "13.  Specific  fees  linked  to  the  LOCK  class  mechanism:",
+        "page": 94,
+        "id": 399,
+        "depth": 5
+    },
+    {
+        "text": "14.  Frequency of net asset value calculation:",
+        "page": 95,
+        "id": 400,
+        "depth": 5
+    },
+    {
+        "text": "15.  Listing  on  the  Luxembourg  Stock  Exchange:",
+        "page": 95,
+        "id": 401,
+        "depth": 5
+    },
+    {
+        "text": "DEXIA EQUITIES L TURKEY",
+        "page": 96,
+        "id": 402,
+        "depth": 4
+    },
+    {
+        "text": "1.  Investment policy",
+        "page": 96,
+        "id": 403,
+        "depth": 5
+    },
+    {
+        "text": "2.  Risk Management:",
+        "page": 96,
+        "id": 404,
+        "depth": 5
+    },
+    {
+        "text": "3.  Valuation currency of the sub-fund:",
+        "page": 96,
+        "id": 405,
+        "depth": 5
+    },
+    {
+        "text": "4.  Form of the shares:",
+        "page": 97,
+        "id": 406,
+        "depth": 5
+    },
+    {
+        "text": "5.  Share classes:",
+        "page": 97,
+        "id": 407,
+        "depth": 5
+    },
+    {
+        "text": "6.  Denominations:",
+        "page": 97,
+        "id": 408,
+        "depth": 5
+    },
+    {
+        "text": "7.  Minimum subscription:",
+        "page": 97,
+        "id": 409,
+        "depth": 5
+    },
+    {
+        "text": "8.  Issue fee:",
+        "page": 97,
+        "id": 410,
+        "depth": 5
+    },
+    {
+        "text": "9.  Exit fee:",
+        "page": 97,
+        "id": 411,
+        "depth": 5
+    },
+    {
+        "text": "10.  Fees relating to the management company’s activities:",
+        "page": 97,
+        "id": 412,
+        "depth": 5
+    },
+    {
+        "text": "11.  Custodian bank fee:",
+        "page": 97,
+        "id": 413,
+        "depth": 5
+    },
+    {
+        "text": "12.   Frequency of net asset value calculation:",
+        "page": 97,
+        "id": 414,
+        "depth": 5
+    },
+    {
+        "text": "13.  Listing  on  the  Luxembourg  Stock  Exchange:",
+        "page": 97,
+        "id": 415,
+        "depth": 5
+    },
+    {
+        "text": "DEXIA EQUITIES L UNITED KINGDOM",
+        "page": 98,
+        "id": 416,
+        "depth": 4
+    },
+    {
+        "text": "1.  Investment policy",
+        "page": 98,
+        "id": 417,
+        "depth": 5
+    },
+    {
+        "text": "2.  Risk Management:",
+        "page": 98,
+        "id": 418,
+        "depth": 5
+    },
+    {
+        "text": "3.  Valuation currency of the sub-fund:",
+        "page": 98,
+        "id": 419,
+        "depth": 5
+    },
+    {
+        "text": "4.  Payment currency for subscriptions, conversions and redemptions:",
+        "page": 98,
+        "id": 420,
+        "depth": 5
+    },
+    {
+        "text": "5.  Form of the shares:",
+        "page": 98,
+        "id": 421,
+        "depth": 5
+    },
+    {
+        "text": "6.  Share classes:",
+        "page": 99,
+        "id": 422,
+        "depth": 5
+    },
+    {
+        "text": "7.  Denominations:",
+        "page": 99,
+        "id": 423,
+        "depth": 5
+    },
+    {
+        "text": "8.  Minimum subscription:",
+        "page": 99,
+        "id": 424,
+        "depth": 5
+    },
+    {
+        "text": "9.  Issue fee:",
+        "page": 99,
+        "id": 425,
+        "depth": 5
+    },
+    {
+        "text": "10.  Exit fee:",
+        "page": 99,
+        "id": 426,
+        "depth": 5
+    },
+    {
+        "text": "11.  Fees relating to the management company’s activities:",
+        "page": 99,
+        "id": 427,
+        "depth": 5
+    },
+    {
+        "text": "12.  Custodian bank fee:",
+        "page": 99,
+        "id": 428,
+        "depth": 5
+    },
+    {
+        "text": "13.  Specific  fees  linked  to  the  LOCK  class  mechanism:",
+        "page": 100,
+        "id": 429,
+        "depth": 5
+    },
+    {
+        "text": "14.  Frequency of net asset value calculation:",
+        "page": 100,
+        "id": 430,
+        "depth": 5
+    },
+    {
+        "text": "15.  Listing  on  the  Luxembourg  Stock  Exchange:",
+        "page": 100,
+        "id": 431,
+        "depth": 5
+    }
+]

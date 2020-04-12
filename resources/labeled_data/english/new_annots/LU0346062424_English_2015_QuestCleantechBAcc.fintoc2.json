@@ -1,0 +1,416 @@
+[
+    {
+        "text": "QUEST MANAGEMENT, SICAV",
+        "page": 1,
+        "id": 1,
+        "depth": 1
+    },
+    {
+        "text": "QUEST MANAGEMENT, SICAV Société d'Investissement à Capital Variable à Compartiments Multiples",
+        "page": 1,
+        "id": 2,
+        "depth": 2
+    },
+    {
+        "text": "TABLE OF CONTENTS",
+        "page": 4,
+        "id": 3,
+        "depth": 2
+    },
+    {
+        "text": "MANAGEMENT",
+        "page": 5,
+        "id": 4,
+        "depth": 1
+    },
+    {
+        "text": "BOARD OF DIRECTORS OF THE COMPANY",
+        "page": 5,
+        "id": 5,
+        "depth": 2
+    },
+    {
+        "text": "BOARD OF DIRECTORS OF THE MANAGEMENT COMPANY",
+        "page": 5,
+        "id": 6,
+        "depth": 2
+    },
+    {
+        "text": "DAY-TO-DAY MANAGERS OF THE MANAGEMENT COMPANY",
+        "page": 6,
+        "id": 7,
+        "depth": 2
+    },
+    {
+        "text": "ADMINISTRATION",
+        "page": 6,
+        "id": 8,
+        "depth": 1
+    },
+    {
+        "text": "REGISTERED OFFICE",
+        "page": 6,
+        "id": 9,
+        "depth": 2
+    },
+    {
+        "text": "MANAGEMENT COMPANY– CENTRAL ADMINISTRATION AGENT – CORPORATE AND DOMICILIARY AGENT – REGISTRAR AND TRANSFER AGENT",
+        "page": 6,
+        "id": 10,
+        "depth": 2
+    },
+    {
+        "text": "INVESTMENT MANAGER",
+        "page": 6,
+        "id": 11,
+        "depth": 2
+    },
+    {
+        "text": "CUSTODIAN BANK PAYING AGENT",
+        "page": 6,
+        "id": 12,
+        "depth": 2
+    },
+    {
+        "text": "MARKETING AGENT",
+        "page": 7,
+        "id": 13,
+        "depth": 2
+    },
+    {
+        "text": "FINANCIAL AGENT BELGIUM",
+        "page": 7,
+        "id": 14,
+        "depth": 2
+    },
+    {
+        "text": "AUDITOR",
+        "page": 7,
+        "id": 15,
+        "depth": 2
+    },
+    {
+        "text": "LEGAL ADVISORS",
+        "page": 7,
+        "id": 16,
+        "depth": 2
+    },
+    {
+        "text": "INTRODUCTION",
+        "page": 8,
+        "id": 17,
+        "depth": 1
+    },
+    {
+        "text": "THE COMPANY",
+        "page": 8,
+        "id": 18,
+        "depth": 1
+    },
+    {
+        "text": "CAPITAL STOCK",
+        "page": 10,
+        "id": 19,
+        "depth": 1
+    },
+    {
+        "text": "INVESTMENT OBJECTIVE AND POLICY",
+        "page": 11,
+        "id": 20,
+        "depth": 1
+    },
+    {
+        "text": "TECHNIQUES AND INSTRUMENTS",
+        "page": 13,
+        "id": 21,
+        "depth": 1
+    },
+    {
+        "text": "GENERAL PROVISIONS",
+        "page": 13,
+        "id": 22,
+        "depth": 2
+    },
+    {
+        "text": "USE OF DERIVATIVE INSTRUMENTS",
+        "page": 13,
+        "id": 23,
+        "depth": 2
+    },
+    {
+        "text": "Limits",
+        "page": 13,
+        "id": 24,
+        "depth": 3
+    },
+    {
+        "text": "Special limits relating to credit derivatives",
+        "page": 14,
+        "id": 25,
+        "depth": 3
+    },
+    {
+        "text": "Special limits relating to equity swaps and index swaps",
+        "page": 15,
+        "id": 26,
+        "depth": 3
+    },
+    {
+        "text": "Conclusion of \"Contracts for Difference\" (\"CFD\")",
+        "page": 15,
+        "id": 27,
+        "depth": 3
+    },
+    {
+        "text": "Intervention on currency markets",
+        "page": 15,
+        "id": 28,
+        "depth": 3
+    },
+    {
+        "text": "2. EFFICIENT PORTFOLIO MANAGEMENT TECHNIQUES (EMT)",
+        "page": 16,
+        "id": 29,
+        "depth": 2
+    },
+    {
+        "text": "Securities lending transactions",
+        "page": 16,
+        "id": 30,
+        "depth": 3
+    },
+    {
+        "text": "Sale with right of repurchase transactions / Reverse repurchase and Repurchase agreement transactions",
+        "page": 16,
+        "id": 31,
+        "depth": 3
+    },
+    {
+        "text": "Common provisions to EMT",
+        "page": 17,
+        "id": 32,
+        "depth": 3
+    },
+    {
+        "text": "Management of collateral for OTC financial derivatives transactions and EMT",
+        "page": 18,
+        "id": 33,
+        "depth": 3
+    },
+    {
+        "text": "INVESTMENT POSSIBILITIES",
+        "page": 19,
+        "id": 34,
+        "depth": 1
+    },
+    {
+        "text": "INVESTMENT RESTRICTIONS",
+        "page": 21,
+        "id": 35,
+        "depth": 1
+    },
+    {
+        "text": "RISK FACTORS",
+        "page": 26,
+        "id": 36,
+        "depth": 1
+    },
+    {
+        "text": "MARKET RISK",
+        "page": 26,
+        "id": 37,
+        "depth": 2
+    },
+    {
+        "text": "COUNTRY AND CURRENCY RISK",
+        "page": 26,
+        "id": 38,
+        "depth": 2
+    },
+    {
+        "text": "LESS DEVELOPED MARKETS",
+        "page": 27,
+        "id": 39,
+        "depth": 2
+    },
+    {
+        "text": "SECTOR RISK",
+        "page": 27,
+        "id": 40,
+        "depth": 2
+    },
+    {
+        "text": "LIQUIDITY RISK",
+        "page": 27,
+        "id": 41,
+        "depth": 2
+    },
+    {
+        "text": "COMPANY RISK",
+        "page": 28,
+        "id": 42,
+        "depth": 2
+    },
+    {
+        "text": "COUNTERPARTY RISK",
+        "page": 28,
+        "id": 43,
+        "depth": 2
+    },
+    {
+        "text": "DISTRIBUTION POLICY",
+        "page": 28,
+        "id": 44,
+        "depth": 1
+    },
+    {
+        "text": "NET ASSET VALUE",
+        "page": 28,
+        "id": 45,
+        "depth": 1
+    },
+    {
+        "text": "ISSUE OF SHARES",
+        "page": 33,
+        "id": 46,
+        "depth": 1
+    },
+    {
+        "text": "ANTI-MONEY LAUNDERING AND FIGHT AGAINST TERRORISM FINANCING PROCEDURES",
+        "page": 34,
+        "id": 47,
+        "depth": 1
+    },
+    {
+        "text": "REDEMPTION OF SHARES",
+        "page": 35,
+        "id": 48,
+        "depth": 1
+    },
+    {
+        "text": "CONVERSION AND SWITCHING BETWEEN SUB-FUNDS",
+        "page": 36,
+        "id": 49,
+        "depth": 1
+    },
+    {
+        "text": "RESTRICTION ON OWNERSHIP OF SHARES",
+        "page": 37,
+        "id": 50,
+        "depth": 1
+    },
+    {
+        "text": "TAXATION",
+        "page": 37,
+        "id": 51,
+        "depth": 1
+    },
+    {
+        "text": "The Company",
+        "page": 37,
+        "id": 52,
+        "depth": 2
+    },
+    {
+        "text": "Shareholders",
+        "page": 38,
+        "id": 53,
+        "depth": 2
+    },
+    {
+        "text": "EU tax considerations",
+        "page": 38,
+        "id": 54,
+        "depth": 2
+    },
+    {
+        "text": "US Foreign Account Tax Compliance Act (\"FATCA\")",
+        "page": 39,
+        "id": 55,
+        "depth": 2
+    },
+    {
+        "text": "General",
+        "page": 40,
+        "id": 56,
+        "depth": 2
+    },
+    {
+        "text": "MANAGEMENT COMPANY",
+        "page": 40,
+        "id": 57,
+        "depth": 1
+    },
+    {
+        "text": "Appointment",
+        "page": 40,
+        "id": 58,
+        "depth": 2
+    },
+    {
+        "text": "Central administration, corporate and domiciliary services",
+        "page": 41,
+        "id": 59,
+        "depth": 2
+    },
+    {
+        "text": "Registrar and transfer agent",
+        "page": 41,
+        "id": 60,
+        "depth": 2
+    },
+    {
+        "text": "Delegated Functions",
+        "page": 41,
+        "id": 61,
+        "depth": 2
+    },
+    {
+        "text": "INVESTMENT MANAGER",
+        "page": 42,
+        "id": 62,
+        "depth": 1
+    },
+    {
+        "text": "CUSTODIAN BANK",
+        "page": 44,
+        "id": 63,
+        "depth": 1
+    },
+    {
+        "text": "MARKETING AGENT",
+        "page": 45,
+        "id": 64,
+        "depth": 1
+    },
+    {
+        "text": "DISTRIBUTORS",
+        "page": 45,
+        "id": 65,
+        "depth": 1
+    },
+    {
+        "text": "EXPENSES",
+        "page": 45,
+        "id": 66,
+        "depth": 1
+    },
+    {
+        "text": "NOTICES",
+        "page": 46,
+        "id": 67,
+        "depth": 1
+    },
+    {
+        "text": "LIQUIDATION AND MERGER",
+        "page": 47,
+        "id": 68,
+        "depth": 1
+    },
+    {
+        "text": "DOCUMENTS",
+        "page": 48,
+        "id": 69,
+        "depth": 1
+    }
+]
