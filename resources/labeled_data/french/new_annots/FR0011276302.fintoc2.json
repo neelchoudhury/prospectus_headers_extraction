@@ -1,0 +1,566 @@
+[
+    {
+        "text": "INFORMATIONS CLES POUR L’INVESTISSEUR",
+        "page": 1,
+        "id": 1,
+        "depth": 1
+    },
+    {
+        "text": "Objectifs et politique d’investissement",
+        "page": 1,
+        "id": 2,
+        "depth": 2
+    },
+    {
+        "text": "Profil de risque et de rendement",
+        "page": 1,
+        "id": 3,
+        "depth": 2
+    },
+    {
+        "text": "Frais",
+        "page": 2,
+        "id": 4,
+        "depth": 2
+    },
+    {
+        "text": "Performances passées",
+        "page": 2,
+        "id": 5,
+        "depth": 2
+    },
+    {
+        "text": "Informations pratiques",
+        "page": 2,
+        "id": 6,
+        "depth": 2
+    },
+    {
+        "text": "Prospectus",
+        "page": 3,
+        "id": 7,
+        "depth": 1
+    },
+    {
+        "text": "PARTIE 1 : CARACTERISTIQUES GENERALES",
+        "page": 3,
+        "id": 8,
+        "depth": 2
+    },
+    {
+        "text": "Forme de l’OPCVM",
+        "page": 3,
+        "id": 9,
+        "depth": 3
+    },
+    {
+        "text": "Dénomination",
+        "page": 3,
+        "id": 10,
+        "depth": 4
+    },
+    {
+        "text": "Forme juridique et Etat membre dans lequel l’OPCVM a été constitué",
+        "page": 3,
+        "id": 11,
+        "depth": 4
+    },
+    {
+        "text": "Date de création et durée d’existence prévue",
+        "page": 3,
+        "id": 12,
+        "depth": 4
+    },
+    {
+        "text": "Synthèse de l’offre de gestion",
+        "page": 3,
+        "id": 13,
+        "depth": 4
+    },
+    {
+        "text": "Indication du lieu où l’on peut se procurer le dernier rapport annuel et le dernier état périodique",
+        "page": 3,
+        "id": 14,
+        "depth": 4
+    },
+    {
+        "text": "PARTIE 2 : ACTEURS",
+        "page": 3,
+        "id": 15,
+        "depth": 2
+    },
+    {
+        "text": "Acteurs",
+        "page": 3,
+        "id": 16,
+        "depth": 3
+    },
+    {
+        "text": "Société de gestion",
+        "page": 3,
+        "id": 17,
+        "depth": 4
+    },
+    {
+        "text": "Dépositaire et conservateur",
+        "page": 3,
+        "id": 18,
+        "depth": 4
+    },
+    {
+        "text": "Description des responsabilités du Dépositaire et des conflits d’intérêts potentiels",
+        "page": 3,
+        "id": 19,
+        "depth": 5
+    },
+    {
+        "text": "Description des éventuelles fonctions de garde déléguées par le Dépositaire, liste des délégataires et sous- délégataires et identification des conflits d’intérêts susceptibles de résulter d’une telle délégation",
+        "page": 4,
+        "id": 20,
+        "depth": 5
+    },
+    {
+        "text": "Etablissement en charge de la centralisation des ordres de souscription et de rachat par délégation",
+        "page": 4,
+        "id": 21,
+        "depth": 4
+    },
+    {
+        "text": "Etablissement en charge de la tenue des registres des parts par délégation de la société de gestion",
+        "page": 4,
+        "id": 22,
+        "depth": 4
+    },
+    {
+        "text": "Commissaire aux comptes",
+        "page": 4,
+        "id": 23,
+        "depth": 4
+    },
+    {
+        "text": "Conseil",
+        "page": 4,
+        "id": 24,
+        "depth": 4
+    },
+    {
+        "text": "Commercialisateurs",
+        "page": 4,
+        "id": 25,
+        "depth": 4
+    },
+    {
+        "text": "Délégataire de gestion comptable",
+        "page": 5,
+        "id": 26,
+        "depth": 4
+    },
+    {
+        "text": "PARTIE 3 : MODALITES DE FONCTIONNEMENT ET DE GESTION",
+        "page": 5,
+        "id": 27,
+        "depth": 2
+    },
+    {
+        "text": "Caractéristiques générales",
+        "page": 5,
+        "id": 28,
+        "depth": 3
+    },
+    {
+        "text": "Caractéristiques des parts",
+        "page": 5,
+        "id": 29,
+        "depth": 4
+    },
+    {
+        "text": "Nature du droit attaché aux parts",
+        "page": 5,
+        "id": 30,
+        "depth": 5
+    },
+    {
+        "text": "Modalités de tenue du passif",
+        "page": 5,
+        "id": 31,
+        "depth": 5
+    },
+    {
+        "text": "Droits de vote",
+        "page": 5,
+        "id": 32,
+        "depth": 5
+    },
+    {
+        "text": "Forme des parts",
+        "page": 5,
+        "id": 33,
+        "depth": 5
+    },
+    {
+        "text": "Décimalisation / Fractionnement",
+        "page": 5,
+        "id": 34,
+        "depth": 5
+    },
+    {
+        "text": "Date de clôture de l’exercice comptable",
+        "page": 5,
+        "id": 35,
+        "depth": 4
+    },
+    {
+        "text": "Régime fiscal",
+        "page": 5,
+        "id": 36,
+        "depth": 4
+    },
+    {
+        "text": "Eligibilité au PEA",
+        "page": 5,
+        "id": 37,
+        "depth": 4
+    },
+    {
+        "text": "Dispositions particulières",
+        "page": 5,
+        "id": 38,
+        "depth": 3
+    },
+    {
+        "text": "Codes ISIN",
+        "page": 5,
+        "id": 39,
+        "depth": 4
+    },
+    {
+        "text": "Classification",
+        "page": 5,
+        "id": 40,
+        "depth": 4
+    },
+    {
+        "text": "OPCVM d’OPCVM",
+        "page": 5,
+        "id": 41,
+        "depth": 4
+    },
+    {
+        "text": "Objectif de gestion",
+        "page": 5,
+        "id": 42,
+        "depth": 4
+    },
+    {
+        "text": "Indicateur de référence",
+        "page": 5,
+        "id": 43,
+        "depth": 4
+    },
+    {
+        "text": "Stratégie d’investissement",
+        "page": 5,
+        "id": 44,
+        "depth": 4
+    },
+    {
+        "text": "Catégories d’actifs et instruments financiers à terme utilisés",
+        "page": 7,
+        "id": 45,
+        "depth": 4
+    },
+    {
+        "text": "Actions cotées sur les marchés internationaux",
+        "page": 7,
+        "id": 46,
+        "depth": 5
+    },
+    {
+        "text": "Obligations et titres de créances français ou étrangers et instruments du marché monétaire",
+        "page": 7,
+        "id": 47,
+        "depth": 5
+    },
+    {
+        "text": "Parts ou actions d’OPCVM",
+        "page": 7,
+        "id": 48,
+        "depth": 5
+    },
+    {
+        "text": "Instruments dérivés",
+        "page": 8,
+        "id": 49,
+        "depth": 5
+    },
+    {
+        "text": "Titres intégrant des dérivés",
+        "page": 8,
+        "id": 50,
+        "depth": 5
+    },
+    {
+        "text": "Recours aux dépôts",
+        "page": 8,
+        "id": 51,
+        "depth": 5
+    },
+    {
+        "text": "Recours aux emprunts d’espèces",
+        "page": 8,
+        "id": 52,
+        "depth": 5
+    },
+    {
+        "text": "Recours aux acquisitions et cessions temporaires de titres",
+        "page": 8,
+        "id": 53,
+        "depth": 5
+    },
+    {
+        "text": "Contrats constituant des garanties financières",
+        "page": 8,
+        "id": 54,
+        "depth": 5
+    },
+    {
+        "text": "Profil de risque",
+        "page": 8,
+        "id": 55,
+        "depth": 4
+    },
+    {
+        "text": "Souscripteurs concernés et profil de l’investisseur type",
+        "page": 9,
+        "id": 56,
+        "depth": 4
+    },
+    {
+        "text": "Modalité de détermination et d’affectation des sommes distribuables",
+        "page": 10,
+        "id": 57,
+        "depth": 4
+    },
+    {
+        "text": "Caractéristiques des parts",
+        "page": 10,
+        "id": 58,
+        "depth": 4
+    },
+    {
+        "text": "Modalités de souscription et de rachat",
+        "page": 10,
+        "id": 59,
+        "depth": 4
+    },
+    {
+        "text": "Date et périodicité de calcul de la valeur liquidative",
+        "page": 10,
+        "id": 60,
+        "depth": 4
+    },
+    {
+        "text": "Lieu et modalités de publication ou de communication de la valeur liquidative",
+        "page": 10,
+        "id": 61,
+        "depth": 4
+    },
+    {
+        "text": "Frais et commissions",
+        "page": 10,
+        "id": 62,
+        "depth": 4
+    },
+    {
+        "text": "Commissions de souscription et de rachat",
+        "page": 10,
+        "id": 63,
+        "depth": 5
+    },
+    {
+        "text": "Frais de fonctionnement et de gestion",
+        "page": 11,
+        "id": 64,
+        "depth": 5
+    },
+    {
+        "text": "Commission de surperformance",
+        "page": 11,
+        "id": 65,
+        "depth": 5
+    },
+    {
+        "text": "Sélection des intermédiaires",
+        "page": 12,
+        "id": 66,
+        "depth": 5
+    },
+    {
+        "text": "PARTIE 4 : INFORMATIONS D’ORDRE COMMERCIAL",
+        "page": 12,
+        "id": 67,
+        "depth": 2
+    },
+    {
+        "text": "PARTIE 5 : REGLES D’INVESTISSEMENT",
+        "page": 12,
+        "id": 68,
+        "depth": 2
+    },
+    {
+        "text": "PARTIE 6 : RISQUE GLOBAL",
+        "page": 12,
+        "id": 69,
+        "depth": 2
+    },
+    {
+        "text": "PARTIE 7 : REGLES D’EVALUATION DES ACTIFS",
+        "page": 12,
+        "id": 70,
+        "depth": 2
+    },
+    {
+        "text": "Règles d’évaluation des actifs",
+        "page": 13,
+        "id": 71,
+        "depth": 3
+    },
+    {
+        "text": "Modalités alternatives d’évaluation en cas d’indisponibilité des données financières",
+        "page": 13,
+        "id": 72,
+        "depth": 3
+    },
+    {
+        "text": "Méthode de comptabilisation",
+        "page": 13,
+        "id": 73,
+        "depth": 3
+    },
+    {
+        "text": "Règlement",
+        "page": 14,
+        "id": 74,
+        "depth": 1
+    },
+    {
+        "text": "TITRE 1 : ACTIFS ET PARTS",
+        "page": 14,
+        "id": 75,
+        "depth": 2
+    },
+    {
+        "text": "Article 1 - Parts de copropriété",
+        "page": 14,
+        "id": 76,
+        "depth": 3
+    },
+    {
+        "text": "Article 2 - Montant minimal de l’actif",
+        "page": 14,
+        "id": 77,
+        "depth": 3
+    },
+    {
+        "text": "Article 3 - Emission et rachat des parts",
+        "page": 15,
+        "id": 78,
+        "depth": 3
+    },
+    {
+        "text": "Article 4 - Calcul de la valeur liquidative",
+        "page": 15,
+        "id": 79,
+        "depth": 3
+    },
+    {
+        "text": "TITRE 2 : FONCTIONNEMENT DU FONDS",
+        "page": 15,
+        "id": 80,
+        "depth": 2
+    },
+    {
+        "text": "Article 5 - La société de gestion",
+        "page": 15,
+        "id": 81,
+        "depth": 3
+    },
+    {
+        "text": "Article 5bis - Règles de fonctionnement",
+        "page": 15,
+        "id": 82,
+        "depth": 3
+    },
+    {
+        "text": "Article 5 ter - Admission à la négociation sur un marché réglementé et/ou un système multilatéral de négociation",
+        "page": 16,
+        "id": 83,
+        "depth": 3
+    },
+    {
+        "text": "Article 6 - Le dépositaire",
+        "page": 16,
+        "id": 84,
+        "depth": 3
+    },
+    {
+        "text": "Article 7 - Le commissaire aux comptes",
+        "page": 16,
+        "id": 85,
+        "depth": 3
+    },
+    {
+        "text": "Article 8 - Les comptes et le rapport de gestion",
+        "page": 16,
+        "id": 86,
+        "depth": 3
+    },
+    {
+        "text": "TITRE 3 : MODALITES D’AFFECTATION DES SOMMES DISTRIBUABLES",
+        "page": 16,
+        "id": 87,
+        "depth": 2
+    },
+    {
+        "text": "Article 9 – Modalités d’affectation des sommes distribuables",
+        "page": 17,
+        "id": 88,
+        "depth": 3
+    },
+    {
+        "text": "TITRE 4 : FUSION – SCISSION – DISSOLUTION – LIQUIDATION",
+        "page": 17,
+        "id": 89,
+        "depth": 2
+    },
+    {
+        "text": "Article 10 - Fusion & scission",
+        "page": 17,
+        "id": 90,
+        "depth": 3
+    },
+    {
+        "text": "Article 11 - Dissolution & prorogation",
+        "page": 17,
+        "id": 91,
+        "depth": 3
+    },
+    {
+        "text": "Article 12 - Liquidation",
+        "page": 17,
+        "id": 92,
+        "depth": 3
+    },
+    {
+        "text": "TITRE 5 : CONTESTATION",
+        "page": 18,
+        "id": 93,
+        "depth": 2
+    },
+    {
+        "text": "Article 13 - Compétence & élection de domicile",
+        "page": 18,
+        "id": 94,
+        "depth": 3
+    }
+]

@@ -1,0 +1,680 @@
+[
+    {
+        "text": "Informations Clés pour L’Investisseur",
+        "page": 1,
+        "id": 1,
+        "depth": 1
+    },
+    {
+        "text": "Objectifs et politique d’investissement",
+        "page": 1,
+        "id": 2,
+        "depth": 2
+    },
+    {
+        "text": "Objectif de gestion",
+        "page": 1,
+        "id": 3,
+        "depth": 3
+    },
+    {
+        "text": "Caractéristiques essentielles du FCP",
+        "page": 1,
+        "id": 4,
+        "depth": 3
+    },
+    {
+        "text": "Profil de risque et de rendement",
+        "page": 1,
+        "id": 5,
+        "depth": 2
+    },
+    {
+        "text": "Frais",
+        "page": 2,
+        "id": 6,
+        "depth": 2
+    },
+    {
+        "text": "Performances Passées",
+        "page": 2,
+        "id": 7,
+        "depth": 2
+    },
+    {
+        "text": "Informations pratiques",
+        "page": 2,
+        "id": 8,
+        "depth": 2
+    },
+    {
+        "text": "PROSPECTUS FONDS COMMUN DE PLACEMENT",
+        "page": 3,
+        "id": 9,
+        "depth": 1
+    },
+    {
+        "text": "I. Caractéristiques générales",
+        "page": 3,
+        "id": 10,
+        "depth": 2
+    },
+    {
+        "text": "Forme de l’OPC",
+        "page": 3,
+        "id": 11,
+        "depth": 3
+    },
+    {
+        "text": "Dénomination",
+        "page": 3,
+        "id": 12,
+        "depth": 3
+    },
+    {
+        "text": "Forme juridique et état membre dans lequel le fonds a été constitué",
+        "page": 3,
+        "id": 13,
+        "depth": 3
+    },
+    {
+        "text": "Nourricier",
+        "page": 3,
+        "id": 14,
+        "depth": 3
+    },
+    {
+        "text": "Date de création et durée d’existence prévue",
+        "page": 3,
+        "id": 15,
+        "depth": 3
+    },
+    {
+        "text": "Synthèse de l'offre de gestion",
+        "page": 3,
+        "id": 16,
+        "depth": 3
+    },
+    {
+        "text": "Indication du lieu où l'on peut se procurer le dernier rapport annuel et le dernier état périodique",
+        "page": 3,
+        "id": 17,
+        "depth": 3
+    },
+    {
+        "text": "II. Acteurs",
+        "page": 4,
+        "id": 18,
+        "depth": 2
+    },
+    {
+        "text": "Société de gestion",
+        "page": 4,
+        "id": 19,
+        "depth": 3
+    },
+    {
+        "text": "Dépositaire et conservateur - Etablissement en charge de la tenue des registres des parts ou actions (passif de l’OPC)",
+        "page": 4,
+        "id": 20,
+        "depth": 3
+    },
+    {
+        "text": "Centralisateur",
+        "page": 4,
+        "id": 21,
+        "depth": 3
+    },
+    {
+        "text": "Commissaire aux comptes",
+        "page": 4,
+        "id": 22,
+        "depth": 3
+    },
+    {
+        "text": "Commercialisateur",
+        "page": 4,
+        "id": 23,
+        "depth": 3
+    },
+    {
+        "text": "Délégataires",
+        "page": 4,
+        "id": 24,
+        "depth": 3
+    },
+    {
+        "text": "Conseillers",
+        "page": 4,
+        "id": 25,
+        "depth": 3
+    },
+    {
+        "text": "III. Modalités de Fonctionnement et de Gestion",
+        "page": 5,
+        "id": 26,
+        "depth": 2
+    },
+    {
+        "text": "Caractéristiques générales",
+        "page": 5,
+        "id": 27,
+        "depth": 3
+    },
+    {
+        "text": "Caractéristiques des parts et actions",
+        "page": 5,
+        "id": 28,
+        "depth": 4
+    },
+    {
+        "text": "Code ISIN",
+        "page": 5,
+        "id": 29,
+        "depth": 5
+    },
+    {
+        "text": "Nature du droit attaché à la catégorie de parts",
+        "page": 5,
+        "id": 30,
+        "depth": 5
+    },
+    {
+        "text": "Inscription à un registre, ou précisions des modalités de gestion du passif",
+        "page": 5,
+        "id": 31,
+        "depth": 5
+    },
+    {
+        "text": "Droits de vote",
+        "page": 5,
+        "id": 32,
+        "depth": 5
+    },
+    {
+        "text": "Forme des parts",
+        "page": 5,
+        "id": 33,
+        "depth": 5
+    },
+    {
+        "text": "Décimalisation éventuellement prévue (fractionnement)",
+        "page": 5,
+        "id": 34,
+        "depth": 5
+    },
+    {
+        "text": "Date de clôture",
+        "page": 5,
+        "id": 35,
+        "depth": 4
+    },
+    {
+        "text": "Dispositions Particulières",
+        "page": 5,
+        "id": 36,
+        "depth": 3
+    },
+    {
+        "text": "Code Isin",
+        "page": 5,
+        "id": 37,
+        "depth": 4
+    },
+    {
+        "text": "Classification",
+        "page": 5,
+        "id": 38,
+        "depth": 4
+    },
+    {
+        "text": "Objectif de gestion",
+        "page": 6,
+        "id": 39,
+        "depth": 4
+    },
+    {
+        "text": "L’indicateur de référence",
+        "page": 6,
+        "id": 40,
+        "depth": 4
+    },
+    {
+        "text": "Stratégie d’investissement",
+        "page": 6,
+        "id": 41,
+        "depth": 4
+    },
+    {
+        "text": "Stratégie utilisée",
+        "page": 6,
+        "id": 42,
+        "depth": 5
+    },
+    {
+        "text": "Actifs utilisés",
+        "page": 8,
+        "id": 43,
+        "depth": 5
+    },
+    {
+        "text": "Actifs utilisés (hors dérivés intégrés)",
+        "page": 8,
+        "id": 44,
+        "depth": 6
+    },
+    {
+        "text": "Actifs dérivés utilisés",
+        "page": 8,
+        "id": 45,
+        "depth": 6
+    },
+    {
+        "text": "Dépôts",
+        "page": 9,
+        "id": 46,
+        "depth": 6
+    },
+    {
+        "text": "Emprunts d’espèces",
+        "page": 9,
+        "id": 47,
+        "depth": 6
+    },
+    {
+        "text": "Opérations d’acquisition et de cession temporaire de titres",
+        "page": 9,
+        "id": 48,
+        "depth": 6
+    },
+    {
+        "text": "Profil de risque",
+        "page": 9,
+        "id": 49,
+        "depth": 4
+    },
+    {
+        "text": "Rappel du profil de risque du maître",
+        "page": 9,
+        "id": 50,
+        "depth": 5
+    },
+    {
+        "text": "Risque de perte en capital",
+        "page": 9,
+        "id": 51,
+        "depth": 6
+    },
+    {
+        "text": "Risque lié à la gestion discrétionnaire",
+        "page": 10,
+        "id": 52,
+        "depth": 6
+    },
+    {
+        "text": "Risque de taux",
+        "page": 10,
+        "id": 53,
+        "depth": 6
+    },
+    {
+        "text": "Risque de crédit",
+        "page": 10,
+        "id": 54,
+        "depth": 6
+    },
+    {
+        "text": "Risque pays émergents",
+        "page": 10,
+        "id": 55,
+        "depth": 6
+    },
+    {
+        "text": "Risque actions",
+        "page": 10,
+        "id": 56,
+        "depth": 6
+    },
+    {
+        "text": "Risque de change",
+        "page": 10,
+        "id": 57,
+        "depth": 6
+    },
+    {
+        "text": "Risque lié à l’utilisation des instruments dérivés",
+        "page": 10,
+        "id": 58,
+        "depth": 6
+    },
+    {
+        "text": "Risque de contrepartie",
+        "page": 10,
+        "id": 59,
+        "depth": 6
+    },
+    {
+        "text": "Risque small caps",
+        "page": 11,
+        "id": 60,
+        "depth": 6
+    },
+    {
+        "text": "Garantie ou protection",
+        "page": 11,
+        "id": 61,
+        "depth": 4
+    },
+    {
+        "text": "Souscripteurs concernés et profil de l'investisseur type",
+        "page": 11,
+        "id": 62,
+        "depth": 4
+    },
+    {
+        "text": "Modalité de détermination des revenues",
+        "page": 11,
+        "id": 63,
+        "depth": 4
+    },
+    {
+        "text": "Caractéristiques des parts",
+        "page": 11,
+        "id": 64,
+        "depth": 4
+    },
+    {
+        "text": "Modalités de souscription et de rachat",
+        "page": 12,
+        "id": 65,
+        "depth": 4
+    },
+    {
+        "text": "Date et périodicité de calcul de la valeur liquidative",
+        "page": 12,
+        "id": 66,
+        "depth": 4
+    },
+    {
+        "text": "Lieu et modalités de publication ou de communication de la valeur liquidative",
+        "page": 12,
+        "id": 67,
+        "depth": 4
+    },
+    {
+        "text": "Frais et commissions",
+        "page": 12,
+        "id": 68,
+        "depth": 4
+    },
+    {
+        "text": "Rappel des frais du fonds maître",
+        "page": 13,
+        "id": 69,
+        "depth": 5
+    },
+    {
+        "text": "Frais et commissions",
+        "page": 13,
+        "id": 70,
+        "depth": 6
+    },
+    {
+        "text": "Rappel des Frais de fonctionnement et de gestion du Fonds Maître",
+        "page": 14,
+        "id": 71,
+        "depth": 5
+    },
+    {
+        "text": "Frais de fonctionnement et de gestion",
+        "page": 14,
+        "id": 72,
+        "depth": 6
+    },
+    {
+        "text": "Commissions en nature",
+        "page": 15,
+        "id": 73,
+        "depth": 6
+    },
+    {
+        "text": "Choix des intermédiaires",
+        "page": 15,
+        "id": 74,
+        "depth": 6
+    },
+    {
+        "text": "IV. Informations d’ordre commercial",
+        "page": 15,
+        "id": 75,
+        "depth": 2
+    },
+    {
+        "text": "Rappel des Informations d’ordre Commercial sur le fonds Maître",
+        "page": 16,
+        "id": 76,
+        "depth": 3
+    },
+    {
+        "text": "Critères ESG",
+        "page": 16,
+        "id": 77,
+        "depth": 3
+    },
+    {
+        "text": "V. Règles d’investissement",
+        "page": 16,
+        "id": 78,
+        "depth": 2
+    },
+    {
+        "text": "VI. Risque Global",
+        "page": 16,
+        "id": 79,
+        "depth": 2
+    },
+    {
+        "text": "VII. Règles d'évaluation et de comptabilisation des actifs",
+        "page": 16,
+        "id": 80,
+        "depth": 2
+    },
+    {
+        "text": "Règles d’évaluation des actifs",
+        "page": 17,
+        "id": 81,
+        "depth": 3
+    },
+    {
+        "text": "Méthode de calcul des frais de gestion",
+        "page": 17,
+        "id": 82,
+        "depth": 3
+    },
+    {
+        "text": "Méthode de comptabilisation des intérêts",
+        "page": 17,
+        "id": 83,
+        "depth": 3
+    },
+    {
+        "text": "Frais indirects",
+        "page": 17,
+        "id": 84,
+        "depth": 3
+    },
+    {
+        "text": "Politique de distribution",
+        "page": 17,
+        "id": 85,
+        "depth": 3
+    },
+    {
+        "text": "Rappel des Règles d’évaluation et de comptabilisation des actifs du fonds Maitre",
+        "page": 17,
+        "id": 86,
+        "depth": 3
+    },
+    {
+        "text": "Règles d'évaluation et de comptabilisation des actifs",
+        "page": 17,
+        "id": 87,
+        "depth": 4
+    },
+    {
+        "text": "Portefeuille Titres",
+        "page": 17,
+        "id": 88,
+        "depth": 4
+    },
+    {
+        "text": "Méthode de calcul des frais de gestion",
+        "page": 18,
+        "id": 89,
+        "depth": 4
+    },
+    {
+        "text": "Méthode de comptabilisation des intérêts",
+        "page": 18,
+        "id": 90,
+        "depth": 4
+    },
+    {
+        "text": "Frais indirects",
+        "page": 18,
+        "id": 91,
+        "depth": 4
+    },
+    {
+        "text": "Politique de distribution",
+        "page": 18,
+        "id": 92,
+        "depth": 4
+    },
+    {
+        "text": "REGLEMENT DU FONDS COMMUN DE PLACEMENT",
+        "page": 19,
+        "id": 93,
+        "depth": 1
+    },
+    {
+        "text": "TITRE 1 ACTIF ET PARTS",
+        "page": 19,
+        "id": 94,
+        "depth": 2
+    },
+    {
+        "text": "Article 1 -Parts de copropriété",
+        "page": 19,
+        "id": 95,
+        "depth": 3
+    },
+    {
+        "text": "Article 2 -Montant minimal de l'actif",
+        "page": 20,
+        "id": 96,
+        "depth": 3
+    },
+    {
+        "text": "Article 3 -Emission et rachat des parts",
+        "page": 20,
+        "id": 97,
+        "depth": 3
+    },
+    {
+        "text": "Article 4 -Calcul de la valeur liquidative",
+        "page": 20,
+        "id": 98,
+        "depth": 3
+    },
+    {
+        "text": "TITRE 2 FONCTIONNEMENT DU FONDS",
+        "page": 21,
+        "id": 99,
+        "depth": 2
+    },
+    {
+        "text": "Article 5- La société de gestion de portefeuille",
+        "page": 21,
+        "id": 100,
+        "depth": 3
+    },
+    {
+        "text": "Article 5 bis - Règles de fonctionnement",
+        "page": 21,
+        "id": 101,
+        "depth": 3
+    },
+    {
+        "text": "Article 5 ter - Admission à la négociation sur un marché réglementé et/ou un système multilatéral de négociation",
+        "page": 21,
+        "id": 102,
+        "depth": 3
+    },
+    {
+        "text": "Article 6 -Le dépositaire",
+        "page": 21,
+        "id": 103,
+        "depth": 3
+    },
+    {
+        "text": "Article 7 -Le commissaire aux comptes",
+        "page": 21,
+        "id": 104,
+        "depth": 3
+    },
+    {
+        "text": "Article 8 -Les comptes et le rapport de gestion",
+        "page": 22,
+        "id": 105,
+        "depth": 3
+    },
+    {
+        "text": "TITRE 3 MODALITES D’AFFECTATION DES SOMMES DISTRIBUABLES",
+        "page": 23,
+        "id": 106,
+        "depth": 2
+    },
+    {
+        "text": "Article 9- Modalités d’affectation du résultat et des sommes distribuables",
+        "page": 23,
+        "id": 107,
+        "depth": 3
+    },
+    {
+        "text": "TITRE 4 FUSION -SCISSION -DISSOLUTION –LIQUIDATION",
+        "page": 23,
+        "id": 108,
+        "depth": 2
+    },
+    {
+        "text": "Article 10 -Fusion –Scission",
+        "page": 23,
+        "id": 109,
+        "depth": 3
+    },
+    {
+        "text": "Article 11 -Dissolution –Prorogation",
+        "page": 23,
+        "id": 110,
+        "depth": 3
+    },
+    {
+        "text": "Article 12 –Liquidation",
+        "page": 24,
+        "id": 111,
+        "depth": 3
+    },
+    {
+        "text": "TITRE 5 CONTESTATION",
+        "page": 24,
+        "id": 112,
+        "depth": 2
+    },
+    {
+        "text": "Article 13 -Compétence -Election de Domicile",
+        "page": 24,
+        "id": 113,
+        "depth": 3
+    }
+]

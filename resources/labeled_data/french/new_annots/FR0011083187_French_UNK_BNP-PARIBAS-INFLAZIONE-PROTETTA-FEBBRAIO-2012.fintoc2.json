@@ -1,0 +1,716 @@
+[
+    {
+        "text": "Informations clés pour l'investisseur",
+        "page": 1,
+        "id": 1,
+        "depth": 1
+    },
+    {
+        "text": "Objectifs et politique d'investissement",
+        "page": 1,
+        "id": 2,
+        "depth": 2
+    },
+    {
+        "text": "Objectif de gestion",
+        "page": 1,
+        "id": 3,
+        "depth": 3
+    },
+    {
+        "text": "Caractéristiques essentielles du FCP",
+        "page": 1,
+        "id": 4,
+        "depth": 3
+    },
+    {
+        "text": "Autres informations",
+        "page": 1,
+        "id": 5,
+        "depth": 3
+    },
+    {
+        "text": "Profil de risque et de rendement",
+        "page": 1,
+        "id": 6,
+        "depth": 2
+    },
+    {
+        "text": "Frais",
+        "page": 2,
+        "id": 7,
+        "depth": 2
+    },
+    {
+        "text": "Performances passées",
+        "page": 2,
+        "id": 8,
+        "depth": 2
+    },
+    {
+        "text": "Informations pratiques",
+        "page": 2,
+        "id": 9,
+        "depth": 2
+    },
+    {
+        "text": "PROSPECTUS DU FCP",
+        "page": 3,
+        "id": 10,
+        "depth": 1
+    },
+    {
+        "text": "I. CARACTERISTIQUES GENERALES",
+        "page": 4,
+        "id": 11,
+        "depth": 2
+    },
+    {
+        "text": "I.1 - FORME DE L'OPCVM",
+        "page": 4,
+        "id": 12,
+        "depth": 3
+    },
+    {
+        "text": "D ENOMINATION",
+        "page": 4,
+        "id": 13,
+        "depth": 4
+    },
+    {
+        "text": "F ORME JURIDIQUE ET constitué en France. D ATE ans ETAT MEMBRE DANS LEQUEL L ’ OPCVM A ETE CONSTITUE",
+        "page": 4,
+        "id": 14,
+        "depth": 4
+    },
+    {
+        "text": "D ATE ans ETAT MEMBRE DANS LEQUEL L ’ OPCVM A ETE CONSTITUE DE CREATION ET DUREE D ' EXISTENCE PREVUE",
+        "page": 4,
+        "id": 15,
+        "depth": 4
+    },
+    {
+        "text": "S YNTHESE DE L ' OFFRE DE GESTION",
+        "page": 4,
+        "id": 16,
+        "depth": 4
+    },
+    {
+        "text": "LIEU OU L ' ON PEUT SE PROCURER LE DERNIER RAPPORT ANNUEL ET LE DERNIER ETAT PERIODIQUE",
+        "page": 4,
+        "id": 17,
+        "depth": 4
+    },
+    {
+        "text": "I. 2 - ACTEURS",
+        "page": 4,
+        "id": 18,
+        "depth": 3
+    },
+    {
+        "text": "SOCIETE DE GESTION",
+        "page": 4,
+        "id": 19,
+        "depth": 4
+    },
+    {
+        "text": "DEPOSITAIRE ET CONSERVATEUR",
+        "page": 4,
+        "id": 20,
+        "depth": 4
+    },
+    {
+        "text": "COMMISSAIRE AUX COMPTES",
+        "page": 5,
+        "id": 21,
+        "depth": 4
+    },
+    {
+        "text": "COMMERCIALISATEUR ( S )",
+        "page": 5,
+        "id": 22,
+        "depth": 4
+    },
+    {
+        "text": "D ELEGATAIRE DE LA GESTION FINANCIERE",
+        "page": 5,
+        "id": 23,
+        "depth": 4
+    },
+    {
+        "text": "DELEGATAIRE DE LA GESTION COMPTABLE",
+        "page": 5,
+        "id": 24,
+        "depth": 4
+    },
+    {
+        "text": "CONSEILLER",
+        "page": 5,
+        "id": 25,
+        "depth": 4
+    },
+    {
+        "text": "II. MODALITES DE FONCTIONNEMENT ET DE GESTION",
+        "page": 6,
+        "id": 26,
+        "depth": 2
+    },
+    {
+        "text": "II.1 - CARACTERISTIQUES GENERALES",
+        "page": 6,
+        "id": 27,
+        "depth": 3
+    },
+    {
+        "text": "CARACTERISTIQUES DES PARTS",
+        "page": 6,
+        "id": 28,
+        "depth": 4
+    },
+    {
+        "text": "NATURE DU DROIT ATTACHE A LA CATEGORIE DE PARTS",
+        "page": 6,
+        "id": 29,
+        "depth": 5
+    },
+    {
+        "text": "PRECISIONS SUR LES MODALITES DE GESTION DU PASSIF",
+        "page": 6,
+        "id": 30,
+        "depth": 5
+    },
+    {
+        "text": "FORME DES PARTS",
+        "page": 6,
+        "id": 31,
+        "depth": 5
+    },
+    {
+        "text": "DECIMALISATION",
+        "page": 6,
+        "id": 32,
+        "depth": 5
+    },
+    {
+        "text": "DROITS DE VOTE",
+        "page": 6,
+        "id": 33,
+        "depth": 5
+    },
+    {
+        "text": "D ATE DE CLOTURE DE L ’ EXERCICE",
+        "page": 6,
+        "id": 34,
+        "depth": 4
+    },
+    {
+        "text": "R EGIME FISCAL",
+        "page": 6,
+        "id": 35,
+        "depth": 4
+    },
+    {
+        "text": "II.2 - DISPOSITIONS PARTICULIERES",
+        "page": 6,
+        "id": 36,
+        "depth": 3
+    },
+    {
+        "text": "C ODE ISIN",
+        "page": 6,
+        "id": 37,
+        "depth": 4
+    },
+    {
+        "text": "C LASSIFICATION",
+        "page": 6,
+        "id": 38,
+        "depth": 4
+    },
+    {
+        "text": "G ARANTIE",
+        "page": 6,
+        "id": 39,
+        "depth": 4
+    },
+    {
+        "text": "O BJECTIF DE GESTION",
+        "page": 7,
+        "id": 40,
+        "depth": 4
+    },
+    {
+        "text": "ANTICIPATIONS DU PORTEUR DU FCP",
+        "page": 7,
+        "id": 41,
+        "depth": 4
+    },
+    {
+        "text": "A VANTAGES – I NCONVENIENTS DU FCP",
+        "page": 7,
+        "id": 42,
+        "depth": 4
+    },
+    {
+        "text": "I NDICATEUR DE REFERENCE",
+        "page": 7,
+        "id": 43,
+        "depth": 4
+    },
+    {
+        "text": "S TRATEGIE D ' INVESTISSEMENT",
+        "page": 8,
+        "id": 44,
+        "depth": 4
+    },
+    {
+        "text": "1. S TRATEGIE UTILISEE POUR ATTEINDRE L ’ OBJECTIF DE GESTION",
+        "page": 8,
+        "id": 45,
+        "depth": 5
+    },
+    {
+        "text": "2. P RINCIPALES CATEGORIES D ’ ACTIFS UTILISES ( HORS DERIVES INTEGRES )",
+        "page": 8,
+        "id": 46,
+        "depth": 5
+    },
+    {
+        "text": "Actions",
+        "page": 8,
+        "id": 47,
+        "depth": 6
+    },
+    {
+        "text": "Titres de créance et instruments du marché monétaire",
+        "page": 8,
+        "id": 48,
+        "depth": 6
+    },
+    {
+        "text": "Parts ou actions d’OPCVM, de FIA ou de fonds d’investissement",
+        "page": 9,
+        "id": 49,
+        "depth": 6
+    },
+    {
+        "text": "3. I NSTRUMENTS DERIVES",
+        "page": 9,
+        "id": 50,
+        "depth": 5
+    },
+    {
+        "text": "4. I NSTRUMENTS INTEGRANT DES DERIVES",
+        "page": 9,
+        "id": 51,
+        "depth": 5
+    },
+    {
+        "text": "5. D EPOTS",
+        "page": 9,
+        "id": 52,
+        "depth": 5
+    },
+    {
+        "text": "6. E MPRUNTS D ’ ESPECES",
+        "page": 9,
+        "id": 53,
+        "depth": 5
+    },
+    {
+        "text": "7. O PERATIONS D ’ ACQUISITION ET DE CESSION TEMPORAIRE DE TITRES",
+        "page": 9,
+        "id": 54,
+        "depth": 5
+    },
+    {
+        "text": "P ROFIL DE RISQUE ET DE RENDEMENT",
+        "page": 10,
+        "id": 55,
+        "depth": 4
+    },
+    {
+        "text": "un risque de perte en capital avant l’échéance de la garantie",
+        "page": 10,
+        "id": 56,
+        "depth": 5
+    },
+    {
+        "text": "un risque de monétarisation du FCP",
+        "page": 10,
+        "id": 57,
+        "depth": 5
+    },
+    {
+        "text": "un risque lié à la gestion discrétionnaire",
+        "page": 10,
+        "id": 58,
+        "depth": 5
+    },
+    {
+        "text": "un risque de taux",
+        "page": 10,
+        "id": 59,
+        "depth": 5
+    },
+    {
+        "text": "un risque de crédit",
+        "page": 10,
+        "id": 60,
+        "depth": 5
+    },
+    {
+        "text": "un risque de contrepartie",
+        "page": 10,
+        "id": 61,
+        "depth": 5
+    },
+    {
+        "text": "un risque de conflits d’intérêts potentiels",
+        "page": 10,
+        "id": 62,
+        "depth": 5
+    },
+    {
+        "text": "un risque de change",
+        "page": 10,
+        "id": 63,
+        "depth": 5
+    },
+    {
+        "text": "G ARANTIE",
+        "page": 10,
+        "id": 64,
+        "depth": 4
+    },
+    {
+        "text": "1. Modalités de la Garantie",
+        "page": 10,
+        "id": 65,
+        "depth": 5
+    },
+    {
+        "text": "2. Fiscalité",
+        "page": 11,
+        "id": 66,
+        "depth": 5
+    },
+    {
+        "text": "S OUSCRIPTEURS CONCERNES ET PROFIL DE L ' INVESTISSEUR TYPE",
+        "page": 12,
+        "id": 67,
+        "depth": 4
+    },
+    {
+        "text": "INFORMATIONS RELATIVES AUX INVESTISSEURS AMERICAINS",
+        "page": 12,
+        "id": 68,
+        "depth": 5
+    },
+    {
+        "text": "FATCA",
+        "page": 12,
+        "id": 69,
+        "depth": 5
+    },
+    {
+        "text": "DUREE MINIMUM DE PLACEMENT RECOMMANDEE",
+        "page": 12,
+        "id": 70,
+        "depth": 5
+    },
+    {
+        "text": "M ODALITES DE DETERMINATION ET D ’ AFFECTATION DES SOMMES DISTRIBUABLES",
+        "page": 12,
+        "id": 71,
+        "depth": 5
+    },
+    {
+        "text": "C ARACTERISTIQUES DES PARTS",
+        "page": 13,
+        "id": 72,
+        "depth": 4
+    },
+    {
+        "text": "M ODALITES DE SOUSCRIPTION ET DE RACHAT",
+        "page": 13,
+        "id": 73,
+        "depth": 4
+    },
+    {
+        "text": "M ONTANT MINIMUM une part DES SOUSCRIPTIONS INITIALES",
+        "page": 13,
+        "id": 74,
+        "depth": 5
+    },
+    {
+        "text": "M ONTANT MINIMUM DES SOUSCRIPTIONS ULTERIEURES",
+        "page": 13,
+        "id": 75,
+        "depth": 5
+    },
+    {
+        "text": "O RGANISME DESIGNE SERVICES. POUR CENTRALISER LES SOUSCRIPTIONS ET LES RACHATS",
+        "page": 13,
+        "id": 76,
+        "depth": 5
+    },
+    {
+        "text": "V ALEUR LIQUIDATIVE D ' ORIGINE",
+        "page": 14,
+        "id": 77,
+        "depth": 5
+    },
+    {
+        "text": "D ATE ET PERIODICITE DE CALCUL DE LA VALEUR LIQUIDATIVE",
+        "page": 14,
+        "id": 78,
+        "depth": 5
+    },
+    {
+        "text": "COMMISSIONS ET FRAIS",
+        "page": 14,
+        "id": 79,
+        "depth": 4
+    },
+    {
+        "text": "C OMMISSIONS DE SOUSCRIPTION ET DE RACHAT",
+        "page": 14,
+        "id": 80,
+        "depth": 5
+    },
+    {
+        "text": "F RAIS DE FONCTIONNEMENT ET DE GESTION",
+        "page": 14,
+        "id": 81,
+        "depth": 5
+    },
+    {
+        "text": "Avertissement pour les investisseurs étrangers",
+        "page": 15,
+        "id": 82,
+        "depth": 5
+    },
+    {
+        "text": "I NFORMATIONS TITRES : COMPLEMENTAIRES CONCERNANT LES OPERATIONS D ’ ACQUISITION ET DE CESSION TEMPORAIRE DE",
+        "page": 15,
+        "id": 83,
+        "depth": 5
+    },
+    {
+        "text": "D ESCRIPTION SUCCINCTE DE LA PROCEDURE DE CHOIX DES INTERMEDIAIRES",
+        "page": 16,
+        "id": 84,
+        "depth": 5
+    },
+    {
+        "text": "III. INFORMATIONS D’ORDRE COMMERCIAL",
+        "page": 16,
+        "id": 85,
+        "depth": 2
+    },
+    {
+        "text": "III.1 - MODALITES DE SOUSCRIPTION ET DE RACHAT DES PARTS",
+        "page": 16,
+        "id": 86,
+        "depth": 3
+    },
+    {
+        "text": "III.2 - MODALITES D’INFORMATION DES PORTEURS",
+        "page": 16,
+        "id": 87,
+        "depth": 3
+    },
+    {
+        "text": "C OMMUNICATION DU DICI , DU PROSPECTUS , DES DERNIERS DOCUMENTS ANNUEL ET PERIODIQUE",
+        "page": 16,
+        "id": 88,
+        "depth": 4
+    },
+    {
+        "text": "M ODALITES DE COMMUNICATION DE LA VALEUR LIQUIDATIVE",
+        "page": 16,
+        "id": 89,
+        "depth": 4
+    },
+    {
+        "text": "M ISE A DISPOSITION DE LA DOCUMENTATION COMMERCIALE DU FCP",
+        "page": 16,
+        "id": 90,
+        "depth": 4
+    },
+    {
+        "text": "I NFORMATION EN CAS DE MODIFICATION DES MODALITES DE FONCTIONNEMENT DU FCP",
+        "page": 16,
+        "id": 91,
+        "depth": 4
+    },
+    {
+        "text": "S UPPORTS SUR LESQUELS L ’ INVESTISSEUR PEUT TROUVER L ’ INFORMATION SUR LES CRITERES ESG",
+        "page": 17,
+        "id": 92,
+        "depth": 4
+    },
+    {
+        "text": "I NFORMATIONS DISPONIBLES AUPRES DE L ’A UTORITE DES M ARCHES F INANCIERS",
+        "page": 17,
+        "id": 93,
+        "depth": 4
+    },
+    {
+        "text": "IV. REGLES D’INVESTISSEMENT",
+        "page": 17,
+        "id": 94,
+        "depth": 2
+    },
+    {
+        "text": "V. RISQUE GLOBAL",
+        "page": 17,
+        "id": 95,
+        "depth": 2
+    },
+    {
+        "text": "VI. REGLES D'EVALUATION ET METHODE DE COMPTABILISATION DES ACTIFS",
+        "page": 17,
+        "id": 96,
+        "depth": 2
+    },
+    {
+        "text": "VI.1 - REGLES D’EVALUATION DES ACTIFS",
+        "page": 17,
+        "id": 97,
+        "depth": 3
+    },
+    {
+        "text": "VI.2 - METHODE DE COMPTABILISATION",
+        "page": 18,
+        "id": 98,
+        "depth": 3
+    },
+    {
+        "text": "VII - REMUNERATION",
+        "page": 23,
+        "id": 99,
+        "depth": 2
+    },
+    {
+        "text": "REGLEMENT DU FONDS COMMUN DE PLACEMENT",
+        "page": 19,
+        "id": 100,
+        "depth": 1
+    },
+    {
+        "text": "TITRE I ACTIF ET PARTS",
+        "page": 19,
+        "id": 101,
+        "depth": 2
+    },
+    {
+        "text": "ARTICLE 1 - Parts de copropriété",
+        "page": 19,
+        "id": 102,
+        "depth": 3
+    },
+    {
+        "text": "ARTICLE 2 - Montant minimal de l'actif",
+        "page": 20,
+        "id": 103,
+        "depth": 3
+    },
+    {
+        "text": "ARTICLE 3 - Emission et rachat des parts",
+        "page": 20,
+        "id": 104,
+        "depth": 3
+    },
+    {
+        "text": "ARTICLE 4 - Calcul de la valeur liquidative",
+        "page": 20,
+        "id": 105,
+        "depth": 3
+    },
+    {
+        "text": "TITRE II FONCTIONNEMENT DU FCP",
+        "page": 21,
+        "id": 106,
+        "depth": 2
+    },
+    {
+        "text": "ARTICLE 5 - La société de gestion",
+        "page": 21,
+        "id": 107,
+        "depth": 3
+    },
+    {
+        "text": "ARTICLE 5 bis - Règles de fonctionnement",
+        "page": 21,
+        "id": 108,
+        "depth": 3
+    },
+    {
+        "text": "ARTICLE 6 - Le dépositaire",
+        "page": 21,
+        "id": 109,
+        "depth": 3
+    },
+    {
+        "text": "ARTICLE 7 - Le commissaire aux comptes",
+        "page": 21,
+        "id": 110,
+        "depth": 3
+    },
+    {
+        "text": "ARTICLE 8 - Les comptes et le rapport de gestion",
+        "page": 22,
+        "id": 111,
+        "depth": 3
+    },
+    {
+        "text": "TITRE III MODALITES D'AFFECTATION DES SOMMES DISTRIBUABLES",
+        "page": 22,
+        "id": 112,
+        "depth": 2
+    },
+    {
+        "text": "Article 9 - Modalités d’affectation des sommes distribuables",
+        "page": 22,
+        "id": 113,
+        "depth": 3
+    },
+    {
+        "text": "TITRE IV FUSION - SCISSION - DISSOLUTION – LIQUIDATION",
+        "page": 22,
+        "id": 114,
+        "depth": 2
+    },
+    {
+        "text": "ARTICLE 10 - Fusion - Scission",
+        "page": 22,
+        "id": 115,
+        "depth": 3
+    },
+    {
+        "text": "ARTICLE 11 - Dissolution - Prorogation",
+        "page": 23,
+        "id": 116,
+        "depth": 3
+    },
+    {
+        "text": "ARTICLE 12 - Liquidation",
+        "page": 23,
+        "id": 117,
+        "depth": 3
+    },
+    {
+        "text": "TITRE V CONTESTATION",
+        "page": 23,
+        "id": 118,
+        "depth": 2
+    },
+    {
+        "text": "ARTICLE 13 - Compétence - Election de Domicile",
+        "page": 23,
+        "id": 119,
+        "depth": 3
+    }
+]

@@ -1,0 +1,782 @@
+[
+    {
+        "text": "INFORMATIONS CLES POUR L’INVESTISSEUR",
+        "page": 1,
+        "id": 1,
+        "depth": 1
+    },
+    {
+        "text": "OBJECTIFS ET POLITIQUE D’INVESTISSEMENT",
+        "page": 1,
+        "id": 2,
+        "depth": 2
+    },
+    {
+        "text": "PROFIL DE RISQUE ET DE RENDEMENT",
+        "page": 1,
+        "id": 3,
+        "depth": 2
+    },
+    {
+        "text": "SIGNIFICATION DE CET INDICATEUR",
+        "page": 1,
+        "id": 4,
+        "depth": 3
+    },
+    {
+        "text": "RISQUES IMPORTANTS NON PRIS EN COMPTE DANS L’INDICATEUR",
+        "page": 1,
+        "id": 5,
+        "depth": 3
+    },
+    {
+        "text": "Risque de crédit",
+        "page": 1,
+        "id": 6,
+        "depth": 4
+    },
+    {
+        "text": "FRAIS",
+        "page": 2,
+        "id": 7,
+        "depth": 2
+    },
+    {
+        "text": "PERFORMANCES PASSEES",
+        "page": 2,
+        "id": 8,
+        "depth": 2
+    },
+    {
+        "text": "AVERTISSEMENT",
+        "page": 2,
+        "id": 9,
+        "depth": 3
+    },
+    {
+        "text": "DATE DE CREATION DE L’OPCVM",
+        "page": 2,
+        "id": 10,
+        "depth": 3
+    },
+    {
+        "text": "DEVISE DE LIBELLE",
+        "page": 2,
+        "id": 11,
+        "depth": 3
+    },
+    {
+        "text": "CHANGEMENTS IMPORTANTS AU COURS DE LA PERIODE",
+        "page": 2,
+        "id": 12,
+        "depth": 3
+    },
+    {
+        "text": "INFORMATIONS PRATIQUES",
+        "page": 2,
+        "id": 13,
+        "depth": 2
+    },
+    {
+        "text": "NOM DU DEPOSITAIRE",
+        "page": 2,
+        "id": 14,
+        "depth": 3
+    },
+    {
+        "text": "LIEU ET MODALITES D’OBTENTION D’INFORMATIONS SUR L’OPCVM (prospectus/rapport annuel/document semestriel)",
+        "page": 2,
+        "id": 15,
+        "depth": 3
+    },
+    {
+        "text": "ADRESSE WEB",
+        "page": 2,
+        "id": 16,
+        "depth": 3
+    },
+    {
+        "text": "LIEU ET MODALITES D’OBTENTION D’AUTRES INFORMATIONS PRATIQUES NOTAMMENT LA VALEUR LIQUIDATIVE",
+        "page": 2,
+        "id": 17,
+        "depth": 3
+    },
+    {
+        "text": "REGIME FISCAL",
+        "page": 2,
+        "id": 18,
+        "depth": 3
+    },
+    {
+        "text": "PROSPECTUS",
+        "page": 3,
+        "id": 19,
+        "depth": 1
+    },
+    {
+        "text": "A - CARACTERISTIQUES GENERALES",
+        "page": 3,
+        "id": 20,
+        "depth": 2
+    },
+    {
+        "text": "1. FORME OPCVM",
+        "page": 3,
+        "id": 21,
+        "depth": 3
+    },
+    {
+        "text": "Dénomination",
+        "page": 3,
+        "id": 22,
+        "depth": 4
+    },
+    {
+        "text": "Forme juridique et état membre dans lequel le fonds a été constitué",
+        "page": 3,
+        "id": 23,
+        "depth": 4
+    },
+    {
+        "text": "Durée d’existence prévue",
+        "page": 3,
+        "id": 24,
+        "depth": 4
+    },
+    {
+        "text": "Synthèse de l’offre de gestion",
+        "page": 3,
+        "id": 25,
+        "depth": 4
+    },
+    {
+        "text": "Indication du lieu où l’on peut se procurer le dernier rapport annuel et le dernier état périodique",
+        "page": 3,
+        "id": 26,
+        "depth": 4
+    },
+    {
+        "text": "2. LES ACTEURS",
+        "page": 3,
+        "id": 27,
+        "depth": 3
+    },
+    {
+        "text": "a. Société de gestion",
+        "page": 3,
+        "id": 28,
+        "depth": 4
+    },
+    {
+        "text": "b. Dépositaires et conservateurs et établissement en charge de la centralisation des ordres de souscription et de rachat",
+        "page": 3,
+        "id": 29,
+        "depth": 4
+    },
+    {
+        "text": "Dépositaire",
+        "page": 3,
+        "id": 30,
+        "depth": 5
+    },
+    {
+        "text": "Etablissement en charge de la centralisation",
+        "page": 3,
+        "id": 31,
+        "depth": 5
+    },
+    {
+        "text": "Etablissement en charge de la tenue des registres",
+        "page": 3,
+        "id": 32,
+        "depth": 5
+    },
+    {
+        "text": "c. Commissaire aux comptes",
+        "page": 3,
+        "id": 33,
+        "depth": 4
+    },
+    {
+        "text": "d. Le(s) commercialisateur(s)",
+        "page": 3,
+        "id": 34,
+        "depth": 4
+    },
+    {
+        "text": "e. Délégataire de gestion administrative et comptable",
+        "page": 3,
+        "id": 35,
+        "depth": 4
+    },
+    {
+        "text": "f. Autres délégataires",
+        "page": 3,
+        "id": 36,
+        "depth": 4
+    },
+    {
+        "text": "g. Conseillers",
+        "page": 3,
+        "id": 37,
+        "depth": 4
+    },
+    {
+        "text": "B - MODALITE DE FONCTIONNEMENT ET GESTION",
+        "page": 3,
+        "id": 38,
+        "depth": 2
+    },
+    {
+        "text": "1. CARACTERISTIQUES GENERALES",
+        "page": 3,
+        "id": 39,
+        "depth": 3
+    },
+    {
+        "text": "a. Caractéristiques des parts et actions",
+        "page": 3,
+        "id": 40,
+        "depth": 4
+    },
+    {
+        "text": "Cde ISIN",
+        "page": 3,
+        "id": 41,
+        "depth": 5
+    },
+    {
+        "text": "Nature du droit attaché à la catégorie de parts",
+        "page": 3,
+        "id": 42,
+        "depth": 5
+    },
+    {
+        "text": "Inscription à un registre, ou précision des modalités de tenue du passif",
+        "page": 4,
+        "id": 43,
+        "depth": 5
+    },
+    {
+        "text": "Droits de vote",
+        "page": 4,
+        "id": 44,
+        "depth": 5
+    },
+    {
+        "text": "Forme des parts",
+        "page": 4,
+        "id": 45,
+        "depth": 5
+    },
+    {
+        "text": "b. Date de clôture",
+        "page": 4,
+        "id": 46,
+        "depth": 4
+    },
+    {
+        "text": "c. Indications sur le régime fiscal",
+        "page": 4,
+        "id": 47,
+        "depth": 4
+    },
+    {
+        "text": "2. DISPOSITIONS PARTICULIERES",
+        "page": 4,
+        "id": 48,
+        "depth": 3
+    },
+    {
+        "text": "Classification",
+        "page": 4,
+        "id": 49,
+        "depth": 4
+    },
+    {
+        "text": "OPCVM d’OPCVM",
+        "page": 4,
+        "id": 50,
+        "depth": 4
+    },
+    {
+        "text": "Objectif de gestion",
+        "page": 4,
+        "id": 51,
+        "depth": 4
+    },
+    {
+        "text": "Indicateur de référence",
+        "page": 4,
+        "id": 52,
+        "depth": 4
+    },
+    {
+        "text": "STRATEGIE D’INVESTISSEMENT",
+        "page": 4,
+        "id": 53,
+        "depth": 4
+    },
+    {
+        "text": "1- Stratégie utilisée",
+        "page": 4,
+        "id": 54,
+        "depth": 5
+    },
+    {
+        "text": "a. Présentation générale",
+        "page": 4,
+        "id": 55,
+        "depth": 6
+    },
+    {
+        "text": "b. L’allocation d’actifs",
+        "page": 4,
+        "id": 56,
+        "depth": 6
+    },
+    {
+        "text": "2- Actifs (hors dérivés intégrés)",
+        "page": 5,
+        "id": 57,
+        "depth": 5
+    },
+    {
+        "text": "1) Actions",
+        "page": 5,
+        "id": 58,
+        "depth": 6
+    },
+    {
+        "text": "2) Actions ou parts d’OPCVM ou d’autres OPC",
+        "page": 5,
+        "id": 59,
+        "depth": 6
+    },
+    {
+        "text": "c) Actifs dérogatoires",
+        "page": 5,
+        "id": 60,
+        "depth": 6
+    },
+    {
+        "text": "3- Instruments financiers dérivés",
+        "page": 5,
+        "id": 61,
+        "depth": 5
+    },
+    {
+        "text": "4- Titres intégrant des dérivés et stratégie d'utilisation",
+        "page": 5,
+        "id": 62,
+        "depth": 5
+    },
+    {
+        "text": "5- Dépôts",
+        "page": 5,
+        "id": 63,
+        "depth": 5
+    },
+    {
+        "text": "6- Emprunts d'espèces",
+        "page": 5,
+        "id": 64,
+        "depth": 5
+    },
+    {
+        "text": "7- Acquisition et cession temporaire de titres",
+        "page": 5,
+        "id": 65,
+        "depth": 5
+    },
+    {
+        "text": "4. Profil de risque",
+        "page": 5,
+        "id": 66,
+        "depth": 4
+    },
+    {
+        "text": "- Risque de perte en capital",
+        "page": 6,
+        "id": 67,
+        "depth": 5
+    },
+    {
+        "text": "- Risque lié à la gestion discrétionnaire",
+        "page": 6,
+        "id": 68,
+        "depth": 5
+    },
+    {
+        "text": "- Risque de marché actions",
+        "page": 6,
+        "id": 69,
+        "depth": 5
+    },
+    {
+        "text": "- Risque lié à l’investissement sur les actions de petite capitalisation",
+        "page": 6,
+        "id": 70,
+        "depth": 5
+    },
+    {
+        "text": "- Risque d’investissement sur les marchés émergents",
+        "page": 6,
+        "id": 71,
+        "depth": 5
+    },
+    {
+        "text": "- Risque de taux",
+        "page": 6,
+        "id": 72,
+        "depth": 5
+    },
+    {
+        "text": "- Risque de crédit",
+        "page": 6,
+        "id": 73,
+        "depth": 5
+    },
+    {
+        "text": "- Risque de change",
+        "page": 6,
+        "id": 74,
+        "depth": 5
+    },
+    {
+        "text": "Garantie ou protection",
+        "page": 6,
+        "id": 75,
+        "depth": 4
+    },
+    {
+        "text": "5. SOUSCRIPTEURS CONCERNES",
+        "page": 6,
+        "id": 76,
+        "depth": 4
+    },
+    {
+        "text": "6. DUREE DE PLACEMENT RECOMMANDEE",
+        "page": 6,
+        "id": 77,
+        "depth": 4
+    },
+    {
+        "text": "7. MODALITES DE DETERMINATION ET D’AFFECTATION DES REVENUS",
+        "page": 6,
+        "id": 78,
+        "depth": 4
+    },
+    {
+        "text": "8. CARACTERISTIQUES DES PARTS",
+        "page": 6,
+        "id": 79,
+        "depth": 4
+    },
+    {
+        "text": "9. MODALITE DE SOUSCRIPTION ET DE RACHAT",
+        "page": 7,
+        "id": 80,
+        "depth": 4
+    },
+    {
+        "text": "10. DATE ET PERIODICITE DE CALCUL DE LA VALEUR LIQUIDATIVE",
+        "page": 7,
+        "id": 81,
+        "depth": 4
+    },
+    {
+        "text": "Lieu et modalités de publication ou de communication de la valeur liquidative",
+        "page": 7,
+        "id": 82,
+        "depth": 4
+    },
+    {
+        "text": "10. FRAIS ET COMMISSIONS",
+        "page": 7,
+        "id": 83,
+        "depth": 4
+    },
+    {
+        "text": "Commission de souscription et de rachat",
+        "page": 7,
+        "id": 84,
+        "depth": 5
+    },
+    {
+        "text": "Frais de fonctionnement et de gestion",
+        "page": 7,
+        "id": 85,
+        "depth": 5
+    },
+    {
+        "text": "Commission de surperformance",
+        "page": 9,
+        "id": 86,
+        "depth": 5
+    },
+    {
+        "text": "Régime fiscal",
+        "page": 9,
+        "id": 87,
+        "depth": 5
+    },
+    {
+        "text": "C-INFORMATION D’ORDRE COMMERCIAL",
+        "page": 9,
+        "id": 88,
+        "depth": 2
+    },
+    {
+        "text": "IV. REGLES D’INVESTISSEMENT",
+        "page": 9,
+        "id": 89,
+        "depth": 2
+    },
+    {
+        "text": "V. RISQUE GLOBAL",
+        "page": 9,
+        "id": 90,
+        "depth": 2
+    },
+    {
+        "text": "COMPTABILISATION DES REVENUS",
+        "page": 9,
+        "id": 91,
+        "depth": 3
+    },
+    {
+        "text": "COMPTABILISATION DES ENTREES ET SORTIES EN PORTEFEUILE",
+        "page": 9,
+        "id": 92,
+        "depth": 3
+    },
+    {
+        "text": "METHODES DE VALORISATION",
+        "page": 9,
+        "id": 93,
+        "depth": 3
+    },
+    {
+        "text": "Actions et titres assimilés cotés (valeurs françaises et étrangères)",
+        "page": 9,
+        "id": 94,
+        "depth": 4
+    },
+    {
+        "text": "Obligations et titres de créance assimilés (valeurs françaises et étrangères) et EMTN",
+        "page": 9,
+        "id": 95,
+        "depth": 4
+    },
+    {
+        "text": "Titres d’OPCVM en portefeuille",
+        "page": 10,
+        "id": 96,
+        "depth": 4
+    },
+    {
+        "text": "Parts de FCT",
+        "page": 10,
+        "id": 97,
+        "depth": 4
+    },
+    {
+        "text": "Acquisitions temporaires de titres",
+        "page": 10,
+        "id": 98,
+        "depth": 4
+    },
+    {
+        "text": "Valeurs mobilières non-cotées",
+        "page": 10,
+        "id": 99,
+        "depth": 4
+    },
+    {
+        "text": "Titres de créances négociables",
+        "page": 10,
+        "id": 100,
+        "depth": 4
+    },
+    {
+        "text": "Contrats à terme fermes",
+        "page": 10,
+        "id": 101,
+        "depth": 4
+    },
+    {
+        "text": "Options",
+        "page": 10,
+        "id": 102,
+        "depth": 4
+    },
+    {
+        "text": "Opérations d’échange (swaps)",
+        "page": 11,
+        "id": 103,
+        "depth": 4
+    },
+    {
+        "text": "Contrats de change à terme",
+        "page": 11,
+        "id": 104,
+        "depth": 4
+    },
+    {
+        "text": "METHODE D’EVALUATION DES ENGAGEMENTS HORS-BILAN",
+        "page": 11,
+        "id": 105,
+        "depth": 3
+    },
+    {
+        "text": "VI. REGLES D'EVALUATION ET DE COMPTABILISATION DES ACTIFS",
+        "page": 9,
+        "id": 106,
+        "depth": 2
+    },
+    {
+        "text": "COMPTABILISATION DES REVENUS",
+        "page": 9,
+        "id": 107,
+        "depth": 3
+    },
+    {
+        "text": "COMPTABILISATION DES REVENUS",
+        "page": 9,
+        "id": 108,
+        "depth": 3
+    },
+    {
+        "text": "METHODES DE VALORISATION",
+        "page": 9,
+        "id": 109,
+        "depth": 3
+    },
+    {
+        "text": "METHODE D’EVALUATION DES ENGAGEMENTS HORS-BILAN",
+        "page": 11,
+        "id": 110,
+        "depth": 3
+    },
+    {
+        "text": "REGLEMENT",
+        "page": 12,
+        "id": 111,
+        "depth": 1
+    },
+    {
+        "text": "TITRE I - ACTIFS ET PARTS",
+        "page": 12,
+        "id": 112,
+        "depth": 2
+    },
+    {
+        "text": "Article 1 - Parts de copropriété",
+        "page": 12,
+        "id": 113,
+        "depth": 3
+    },
+    {
+        "text": "Article 2 - Montant minimal de l’actif",
+        "page": 12,
+        "id": 114,
+        "depth": 3
+    },
+    {
+        "text": "Article 3 - Émission et rachat des parts",
+        "page": 12,
+        "id": 115,
+        "depth": 3
+    },
+    {
+        "text": "Article 4 - Calcul de la valeur liquidative",
+        "page": 12,
+        "id": 116,
+        "depth": 3
+    },
+    {
+        "text": "TITRE 2 - FONCTIONNEMENT DU FONDS",
+        "page": 12,
+        "id": 117,
+        "depth": 2
+    },
+    {
+        "text": "Article 5 - La société de gestion",
+        "page": 12,
+        "id": 118,
+        "depth": 3
+    },
+    {
+        "text": "Article 5 bis - Règles de fonctionnement",
+        "page": 12,
+        "id": 119,
+        "depth": 3
+    },
+    {
+        "text": "Article 6 - Le dépositaire",
+        "page": 12,
+        "id": 120,
+        "depth": 3
+    },
+    {
+        "text": "Article 7 - Le commissaire aux comptes",
+        "page": 12,
+        "id": 121,
+        "depth": 3
+    },
+    {
+        "text": "Article 8 - Les comptes et le rapport de gestion",
+        "page": 13,
+        "id": 122,
+        "depth": 3
+    },
+    {
+        "text": "TITRE 3 - MODALITÉS D’AFFECTATION DES RÉSULTATS",
+        "page": 13,
+        "id": 123,
+        "depth": 2
+    },
+    {
+        "text": "Article 9 – Capitalisation et distribution des revenus",
+        "page": 13,
+        "id": 124,
+        "depth": 3
+    },
+    {
+        "text": "TITRE 4 - FUSION - SCISSION - DISSOLUTION – LIQUIDATION",
+        "page": 13,
+        "id": 125,
+        "depth": 2
+    },
+    {
+        "text": "Article 10 - Fusion – Scission",
+        "page": 13,
+        "id": 126,
+        "depth": 3
+    },
+    {
+        "text": "Article 11 - Dissolution – Prorogation",
+        "page": 13,
+        "id": 127,
+        "depth": 3
+    },
+    {
+        "text": "Article 12 – Liquidation",
+        "page": 13,
+        "id": 128,
+        "depth": 3
+    },
+    {
+        "text": "TITRE 5 – CONTESTATION",
+        "page": 13,
+        "id": 129,
+        "depth": 2
+    },
+    {
+        "text": "Article 13 - Compétence - Élection de domicile",
+        "page": 13,
+        "id": 130,
+        "depth": 3
+    }
+]

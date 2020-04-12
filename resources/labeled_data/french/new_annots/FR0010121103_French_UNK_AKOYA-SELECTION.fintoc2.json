@@ -1,0 +1,620 @@
+[
+    {
+        "text": "INFORMATIONS CLES POUR L'INVESTISSEUR",
+        "page": 1,
+        "id": 1,
+        "depth": 1
+    },
+    {
+        "text": "Objectifs et politique d'investissement",
+        "page": 1,
+        "id": 2,
+        "depth": 2
+    },
+    {
+        "text": "Instruments financiers investis",
+        "page": 1,
+        "id": 3,
+        "depth": 3
+    },
+    {
+        "text": "Période d'investissement recommandée",
+        "page": 1,
+        "id": 4,
+        "depth": 3
+    },
+    {
+        "text": "Classification",
+        "page": 1,
+        "id": 5,
+        "depth": 3
+    },
+    {
+        "text": "Politique de dividendes",
+        "page": 1,
+        "id": 6,
+        "depth": 3
+    },
+    {
+        "text": "Valeur liquidative",
+        "page": 1,
+        "id": 7,
+        "depth": 3
+    },
+    {
+        "text": "Rachats",
+        "page": 1,
+        "id": 8,
+        "depth": 3
+    },
+    {
+        "text": "Profil de risque et de rendement",
+        "page": 1,
+        "id": 9,
+        "depth": 2
+    },
+    {
+        "text": "Risque de contrepartie",
+        "page": 1,
+        "id": 10,
+        "depth": 3
+    },
+    {
+        "text": "Risque de Crédit",
+        "page": 1,
+        "id": 11,
+        "depth": 3
+    },
+    {
+        "text": "Risque lié au recours à des instruments dérivés",
+        "page": 1,
+        "id": 12,
+        "depth": 3
+    },
+    {
+        "text": "Frais",
+        "page": 2,
+        "id": 13,
+        "depth": 2
+    },
+    {
+        "text": "Performances passées",
+        "page": 2,
+        "id": 14,
+        "depth": 2
+    },
+    {
+        "text": "Informations pratiques",
+        "page": 2,
+        "id": 15,
+        "depth": 2
+    },
+    {
+        "text": "Dépositaire",
+        "page": 2,
+        "id": 16,
+        "depth": 3
+    },
+    {
+        "text": "Fiscalité",
+        "page": 2,
+        "id": 17,
+        "depth": 3
+    },
+    {
+        "text": "Informations supplémentaires",
+        "page": 2,
+        "id": 18,
+        "depth": 3
+    },
+    {
+        "text": "AKOYA SELECTION PROSPECTUS",
+        "page": 3,
+        "id": 19,
+        "depth": 1
+    },
+    {
+        "text": "I. CARACTERISTIQUES GENERALES",
+        "page": 4,
+        "id": 20,
+        "depth": 2
+    },
+    {
+        "text": "1. FORME DE L'OPCVM",
+        "page": 4,
+        "id": 21,
+        "depth": 3
+    },
+    {
+        "text": "DENOMINATION",
+        "page": 4,
+        "id": 22,
+        "depth": 4
+    },
+    {
+        "text": "FORME JURIDIQUE ET ETAT MEMBRE DANS LEQUEL L’OPCVM A ETE CONSTITUE",
+        "page": 4,
+        "id": 23,
+        "depth": 4
+    },
+    {
+        "text": "DATE DE CREATION ET DUREE D'EXISTENCE PREVUE",
+        "page": 4,
+        "id": 24,
+        "depth": 4
+    },
+    {
+        "text": "SYNTHESE DE L'OFFRE DE GESTION",
+        "page": 4,
+        "id": 25,
+        "depth": 4
+    },
+    {
+        "text": "INDICATION DU LIEU OU L'ON PEUT SE PROCURER LE DERNIER RAPPORT ANNUEL ET LE DERNIER ETAT PERIODIQUE",
+        "page": 4,
+        "id": 26,
+        "depth": 4
+    },
+    {
+        "text": "2. ACTEURS",
+        "page": 4,
+        "id": 27,
+        "depth": 3
+    },
+    {
+        "text": "SOCIETE DE GESTION",
+        "page": 4,
+        "id": 28,
+        "depth": 4
+    },
+    {
+        "text": "DEPOSITAIRE/CONSERVATEUR",
+        "page": 4,
+        "id": 29,
+        "depth": 4
+    },
+    {
+        "text": "ETABLISSEMENT EN CHARGE DE LA CENTRALISATION DES ORDRES DE SOUSCRIPTION ET DE RACHAT PAR DELEGATION DE LA SOCIETE DE GESTION ET ETABLISSEMENT EN CHARGE DE LA TENUE DES REGISTRES DE PARTS",
+        "page": 4,
+        "id": 30,
+        "depth": 4
+    },
+    {
+        "text": "COMMISSAIRE AUX COMPTES",
+        "page": 4,
+        "id": 31,
+        "depth": 4
+    },
+    {
+        "text": "COMMERCIALISATEUR",
+        "page": 4,
+        "id": 32,
+        "depth": 4
+    },
+    {
+        "text": "DELEGATAIRE DE LA GESTION ADMINISTRATIVE ET COMPTABLE",
+        "page": 5,
+        "id": 33,
+        "depth": 4
+    },
+    {
+        "text": "CONSEILLER",
+        "page": 5,
+        "id": 34,
+        "depth": 4
+    },
+    {
+        "text": "II. MODALITES DE FONCTIONNEMENT ET DE GESTION",
+        "page": 5,
+        "id": 35,
+        "depth": 2
+    },
+    {
+        "text": "1. CARACTERISTIQUES GENERALES",
+        "page": 5,
+        "id": 36,
+        "depth": 3
+    },
+    {
+        "text": "CARACTERISTIQUES DES PARTS",
+        "page": 5,
+        "id": 37,
+        "depth": 4
+    },
+    {
+        "text": "Code ISIN",
+        "page": 5,
+        "id": 38,
+        "depth": 4
+    },
+    {
+        "text": "DATE DE CLOTURE",
+        "page": 5,
+        "id": 39,
+        "depth": 4
+    },
+    {
+        "text": "Indication sur le régime fiscal",
+        "page": 5,
+        "id": 40,
+        "depth": 4
+    },
+    {
+        "text": "2. DISPOSITIONS PARTICULIERES",
+        "page": 5,
+        "id": 41,
+        "depth": 3
+    },
+    {
+        "text": "CLASSIFICATION",
+        "page": 5,
+        "id": 42,
+        "depth": 4
+    },
+    {
+        "text": "OPCVM d’OPCVM",
+        "page": 5,
+        "id": 43,
+        "depth": 4
+    },
+    {
+        "text": "OBJECTIF DE GESTION",
+        "page": 5,
+        "id": 44,
+        "depth": 4
+    },
+    {
+        "text": "INDICATEUR DE REFERENCE",
+        "page": 5,
+        "id": 45,
+        "depth": 4
+    },
+    {
+        "text": "STRATEGIE D’INVESTISSEMENT",
+        "page": 5,
+        "id": 46,
+        "depth": 4
+    },
+    {
+        "text": "Principales catégories d’actifs utilisés (hors dérivés intégrés)",
+        "page": 8,
+        "id": 47,
+        "depth": 5
+    },
+    {
+        "text": "Actions",
+        "page": 8,
+        "id": 48,
+        "depth": 6
+    },
+    {
+        "text": "Parts ou actions d’OPCVM et FIA",
+        "page": 8,
+        "id": 49,
+        "depth": 6
+    },
+    {
+        "text": "Obligations",
+        "page": 8,
+        "id": 50,
+        "depth": 6
+    },
+    {
+        "text": "Instruments dérivés",
+        "page": 8,
+        "id": 51,
+        "depth": 5
+    },
+    {
+        "text": "Nature des marchés d’intervention",
+        "page": 8,
+        "id": 52,
+        "depth": 6
+    },
+    {
+        "text": "Nature des instruments financiers à terme utilisés",
+        "page": 9,
+        "id": 53,
+        "depth": 6
+    },
+    {
+        "text": "Dépôts",
+        "page": 9,
+        "id": 54,
+        "depth": 5
+    },
+    {
+        "text": "Emprunt d’espèces",
+        "page": 9,
+        "id": 55,
+        "depth": 5
+    },
+    {
+        "text": "Opérations d’acquisitions et cessions temporaires de titres",
+        "page": 9,
+        "id": 56,
+        "depth": 5
+    },
+    {
+        "text": "Information relatives aux garanties financières du FCP",
+        "page": 9,
+        "id": 57,
+        "depth": 5
+    },
+    {
+        "text": "Processus de Sélection du Panier",
+        "page": 5,
+        "id": 58,
+        "depth": 5
+    },
+    {
+        "text": "Les contraintes de Sélection du Panier",
+        "page": 5,
+        "id": 59,
+        "depth": 5
+    },
+    {
+        "text": "Règles de présélection des OPCVM et FIA par le conseiller SG Private Banking",
+        "page": 6,
+        "id": 60,
+        "depth": 5
+    },
+    {
+        "text": "Règles de validation par la Société de Gestion des OPCVM et FIA présélectionnés",
+        "page": 6,
+        "id": 61,
+        "depth": 5
+    },
+    {
+        "text": "Le Panier d’OPCVM et FIA",
+        "page": 6,
+        "id": 62,
+        "depth": 5
+    },
+    {
+        "text": "PROFIL DE RISQUE",
+        "page": 10,
+        "id": 63,
+        "depth": 4
+    },
+    {
+        "text": "Risque de Marché",
+        "page": 10,
+        "id": 64,
+        "depth": 5
+    },
+    {
+        "text": "Risque de change",
+        "page": 10,
+        "id": 65,
+        "depth": 5
+    },
+    {
+        "text": "Risque de crédit",
+        "page": 10,
+        "id": 66,
+        "depth": 5
+    },
+    {
+        "text": "Risque de contrepartie",
+        "page": 10,
+        "id": 67,
+        "depth": 5
+    },
+    {
+        "text": "Risque de perte en capital",
+        "page": 10,
+        "id": 68,
+        "depth": 5
+    },
+    {
+        "text": "SOUSCRIPTEURS CONCERNES ET PROFIL DE L'INVESTISSEUR TYPE",
+        "page": 10,
+        "id": 69,
+        "depth": 4
+    },
+    {
+        "text": "MODALITES DE DETERMINATION ET D’AFFECTATION DES REVENUS",
+        "page": 10,
+        "id": 70,
+        "depth": 4
+    },
+    {
+        "text": "CARACTERISTIQUES DES PARTS",
+        "page": 10,
+        "id": 71,
+        "depth": 4
+    },
+    {
+        "text": "MODALITES DE SOUSCRIPTION ET DE RACHAT",
+        "page": 10,
+        "id": 72,
+        "depth": 4
+    },
+    {
+        "text": "DATE D’ETABLISSEMENT DE LA VALEUR LIQUIDATIVE",
+        "page": 11,
+        "id": 73,
+        "depth": 4
+    },
+    {
+        "text": "LIEU ET MODALITES DE PUBLICATION OU DE COMMUNICATION DE LA VALEUR LIQUIDATIVE",
+        "page": 11,
+        "id": 74,
+        "depth": 4
+    },
+    {
+        "text": "FRAIS ET COMMISSIONS",
+        "page": 11,
+        "id": 75,
+        "depth": 4
+    },
+    {
+        "text": "Commissions de souscription et de rachat",
+        "page": 11,
+        "id": 76,
+        "depth": 5
+    },
+    {
+        "text": "Les frais de fonctionnement et de gestion",
+        "page": 11,
+        "id": 77,
+        "depth": 5
+    },
+    {
+        "text": "Description succincte de la procédure de choix des intermédiaires",
+        "page": 12,
+        "id": 78,
+        "depth": 5
+    },
+    {
+        "text": "III. INFORMATIONS D’ORDRE COMMERCIAL",
+        "page": 12,
+        "id": 79,
+        "depth": 2
+    },
+    {
+        "text": "IV. REGLES D’INVESTISSEMENT",
+        "page": 12,
+        "id": 80,
+        "depth": 2
+    },
+    {
+        "text": "V.RISQUE GLOBAL",
+        "page": 12,
+        "id": 81,
+        "depth": 2
+    },
+    {
+        "text": "VI. REGLES D’EVALUATION ET DE COMPTABILISATION DES ACTIFS",
+        "page": 13,
+        "id": 82,
+        "depth": 2
+    },
+    {
+        "text": "Règles d’évaluation des actifs",
+        "page": 13,
+        "id": 83,
+        "depth": 3
+    },
+    {
+        "text": "Règles de comptabilisation",
+        "page": 13,
+        "id": 84,
+        "depth": 3
+    },
+    {
+        "text": "Akoya Sélection REGLEMENT DU FCP",
+        "page": 14,
+        "id": 85,
+        "depth": 1
+    },
+    {
+        "text": "TITRE I ACTIFS ET PARTS",
+        "page": 14,
+        "id": 86,
+        "depth": 2
+    },
+    {
+        "text": "ARTICLE 1 - PARTS DE COPROPRIETE",
+        "page": 14,
+        "id": 87,
+        "depth": 3
+    },
+    {
+        "text": "ARTICLE 2 - MONTANT MINIMAL DE L’ACTIF",
+        "page": 14,
+        "id": 88,
+        "depth": 3
+    },
+    {
+        "text": "ARTICLE 3 - EMISSION ET RACHAT DES PARTS",
+        "page": 14,
+        "id": 89,
+        "depth": 3
+    },
+    {
+        "text": "ARTICLE 4 - CALCUL DE LA VALEUR LIQUIDATIVE",
+        "page": 14,
+        "id": 90,
+        "depth": 3
+    },
+    {
+        "text": "TITRE II FONCTIONNEMENT DU FONDS",
+        "page": 15,
+        "id": 91,
+        "depth": 2
+    },
+    {
+        "text": "ARTICLE 5 - LA SOCIETE DE GESTION",
+        "page": 15,
+        "id": 92,
+        "depth": 3
+    },
+    {
+        "text": "ARTICLE 6 - LE DEPOSITAIRE",
+        "page": 15,
+        "id": 93,
+        "depth": 3
+    },
+    {
+        "text": "ARTICLE 7 - LE COMMISSAIRE AUX COMPTES",
+        "page": 15,
+        "id": 94,
+        "depth": 3
+    },
+    {
+        "text": "ARTICLE 8 - LES COMPTES ET LE RAPPORT DE GESTION",
+        "page": 15,
+        "id": 95,
+        "depth": 3
+    },
+    {
+        "text": "TITRE III MODALITES D’AFFECTATION DES RESULTATS",
+        "page": 16,
+        "id": 96,
+        "depth": 2
+    },
+    {
+        "text": "ARTICLE 9 - MODALITES D’AFFECTATION DU RESULTAT ET DES SOMMES DISTRIBUABLES",
+        "page": 16,
+        "id": 97,
+        "depth": 3
+    },
+    {
+        "text": "TITRE IV FUSION - SCISSION - DISSOLUTION - LIQUIDATION",
+        "page": 16,
+        "id": 98,
+        "depth": 2
+    },
+    {
+        "text": "ARTICLE 10 - FUSION – SCISSION",
+        "page": 16,
+        "id": 99,
+        "depth": 3
+    },
+    {
+        "text": "ARTICLE 11 - DISSOLUTION – PROROGATION",
+        "page": 16,
+        "id": 100,
+        "depth": 3
+    },
+    {
+        "text": "ARTICLE 12 – LIQUIDATION",
+        "page": 16,
+        "id": 101,
+        "depth": 3
+    },
+    {
+        "text": "TITRE V CONTESTATION",
+        "page": 16,
+        "id": 102,
+        "depth": 2
+    },
+    {
+        "text": "ARTICLE 13 - COMPETENCE - ELECTION DE DOMICILE",
+        "page": 16,
+        "id": 103,
+        "depth": 3
+    }
+]

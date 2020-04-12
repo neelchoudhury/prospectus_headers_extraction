@@ -1,0 +1,926 @@
+[
+    {
+        "text": "Informations clés pour l’investisseur",
+        "page": 1,
+        "id": 1,
+        "depth": 1
+    },
+    {
+        "text": "Code ISIN part IC : FR0007021324",
+        "page": 1,
+        "id": 2,
+        "depth": 2
+    },
+    {
+        "text": "Objectifs et politique d’investissement",
+        "page": 1,
+        "id": 3,
+        "depth": 3
+    },
+    {
+        "text": "Profil de risque et de rendement",
+        "page": 1,
+        "id": 4,
+        "depth": 3
+    },
+    {
+        "text": "Frais",
+        "page": 2,
+        "id": 5,
+        "depth": 3
+    },
+    {
+        "text": "Performances passées",
+        "page": 2,
+        "id": 6,
+        "depth": 3
+    },
+    {
+        "text": "Informations pratiques",
+        "page": 2,
+        "id": 7,
+        "depth": 3
+    },
+    {
+        "text": "Dépositaire",
+        "page": 2,
+        "id": 8,
+        "depth": 4
+    },
+    {
+        "text": "Souscripteurs",
+        "page": 2,
+        "id": 9,
+        "depth": 4
+    },
+    {
+        "text": "Lieu et modalités d’obtention d’information sur l’OPCVM (prospectus /rapport annuel/document semestriel)",
+        "page": 2,
+        "id": 10,
+        "depth": 4
+    },
+    {
+        "text": "Lieu et modalités d’obtention d’autres informations pratiques notamment la valeur liquidative",
+        "page": 2,
+        "id": 11,
+        "depth": 4
+    },
+    {
+        "text": "Fiscalité",
+        "page": 2,
+        "id": 12,
+        "depth": 4
+    },
+    {
+        "text": "Catégories de parts",
+        "page": 2,
+        "id": 13,
+        "depth": 4
+    },
+    {
+        "text": "Lieu et modalités d’obtention d’information sur les autres catégories de parts",
+        "page": 2,
+        "id": 14,
+        "depth": 4
+    },
+    {
+        "text": "Code ISIN part ID : FR0011516731",
+        "page": 3,
+        "id": 15,
+        "depth": 2
+    },
+    {
+        "text": "Objectifs et politique d’investissement",
+        "page": 3,
+        "id": 16,
+        "depth": 3
+    },
+    {
+        "text": "Profil de risque et de rendement",
+        "page": 3,
+        "id": 17,
+        "depth": 3
+    },
+    {
+        "text": "Frais",
+        "page": 4,
+        "id": 18,
+        "depth": 3
+    },
+    {
+        "text": "Performances passées",
+        "page": 4,
+        "id": 19,
+        "depth": 3
+    },
+    {
+        "text": "Informations pratiques",
+        "page": 4,
+        "id": 20,
+        "depth": 3
+    },
+    {
+        "text": "Dépositaire",
+        "page": 4,
+        "id": 21,
+        "depth": 4
+    },
+    {
+        "text": "Souscripteurs",
+        "page": 4,
+        "id": 22,
+        "depth": 4
+    },
+    {
+        "text": "Lieu et modalités d’obtention d’information sur l’OPCVM (prospectus /rapport annuel/document semestriel)",
+        "page": 4,
+        "id": 23,
+        "depth": 4
+    },
+    {
+        "text": "Lieu et modalités d’obtention d’autres informations pratiques notamment la valeur liquidative",
+        "page": 4,
+        "id": 24,
+        "depth": 4
+    },
+    {
+        "text": "Fiscalité",
+        "page": 4,
+        "id": 25,
+        "depth": 4
+    },
+    {
+        "text": "Catégories de parts",
+        "page": 4,
+        "id": 26,
+        "depth": 4
+    },
+    {
+        "text": "Lieu et modalités d’obtention d’information sur les autres catégories de parts",
+        "page": 4,
+        "id": 27,
+        "depth": 4
+    },
+    {
+        "text": "Code ISIN part RA : FR0011516756",
+        "page": 5,
+        "id": 28,
+        "depth": 2
+    },
+    {
+        "text": "Objectifs et politique d’investissement",
+        "page": 5,
+        "id": 29,
+        "depth": 3
+    },
+    {
+        "text": "Profil de risque et de rendement",
+        "page": 5,
+        "id": 30,
+        "depth": 3
+    },
+    {
+        "text": "Frais",
+        "page": 6,
+        "id": 31,
+        "depth": 3
+    },
+    {
+        "text": "Performances passées",
+        "page": 6,
+        "id": 32,
+        "depth": 3
+    },
+    {
+        "text": "Informations pratiques",
+        "page": 6,
+        "id": 33,
+        "depth": 3
+    },
+    {
+        "text": "Dépositaire",
+        "page": 6,
+        "id": 34,
+        "depth": 4
+    },
+    {
+        "text": "Souscripteurs",
+        "page": 6,
+        "id": 35,
+        "depth": 4
+    },
+    {
+        "text": "Lieu et modalités d’obtention d’information sur l’OPCVM (prospectus /rapport annuel/document semestriel)",
+        "page": 6,
+        "id": 36,
+        "depth": 4
+    },
+    {
+        "text": "Lieu et modalités d’obtention d’autres informations pratiques notamment la valeur liquidative",
+        "page": 6,
+        "id": 37,
+        "depth": 4
+    },
+    {
+        "text": "Fiscalité",
+        "page": 6,
+        "id": 38,
+        "depth": 4
+    },
+    {
+        "text": "Catégories de parts",
+        "page": 6,
+        "id": 39,
+        "depth": 4
+    },
+    {
+        "text": "Lieu et modalités d’obtention d’information sur les autres catégories de parts",
+        "page": 6,
+        "id": 40,
+        "depth": 4
+    },
+    {
+        "text": "Code ISIN part RB : FR0011516772",
+        "page": 7,
+        "id": 41,
+        "depth": 2
+    },
+    {
+        "text": "Objectifs et politique d’investissement",
+        "page": 7,
+        "id": 42,
+        "depth": 3
+    },
+    {
+        "text": "Profil de risque et de rendement",
+        "page": 7,
+        "id": 43,
+        "depth": 3
+    },
+    {
+        "text": "Frais",
+        "page": 8,
+        "id": 44,
+        "depth": 3
+    },
+    {
+        "text": "Performances passées",
+        "page": 8,
+        "id": 45,
+        "depth": 3
+    },
+    {
+        "text": "Informations pratiques",
+        "page": 8,
+        "id": 46,
+        "depth": 3
+    },
+    {
+        "text": "Dépositaire",
+        "page": 8,
+        "id": 47,
+        "depth": 4
+    },
+    {
+        "text": "Souscripteurs",
+        "page": 8,
+        "id": 48,
+        "depth": 4
+    },
+    {
+        "text": "Lieu et modalités d’obtention d’information sur l’OPCVM (prospectus /rapport annuel/document semestriel)",
+        "page": 8,
+        "id": 49,
+        "depth": 4
+    },
+    {
+        "text": "Lieu et modalités d’obtention d’autres informations pratiques notamment la valeur liquidative",
+        "page": 8,
+        "id": 50,
+        "depth": 4
+    },
+    {
+        "text": "Fiscalité",
+        "page": 8,
+        "id": 51,
+        "depth": 4
+    },
+    {
+        "text": "Catégories de parts",
+        "page": 8,
+        "id": 52,
+        "depth": 4
+    },
+    {
+        "text": "Lieu et modalités d’obtention d’information sur les autres catégories de parts",
+        "page": 8,
+        "id": 53,
+        "depth": 4
+    },
+    {
+        "text": "PROSPECTUS",
+        "page": 9,
+        "id": 54,
+        "depth": 1
+    },
+    {
+        "text": "I. CARACTERISTIQUES GENERALES",
+        "page": 9,
+        "id": 55,
+        "depth": 2
+    },
+    {
+        "text": "1. Forme de l’OPCVM",
+        "page": 9,
+        "id": 56,
+        "depth": 3
+    },
+    {
+        "text": "2. Dénomination",
+        "page": 9,
+        "id": 57,
+        "depth": 3
+    },
+    {
+        "text": "3. Forme juridique et état membre dans lequel l’OPCVM a été constitué",
+        "page": 9,
+        "id": 58,
+        "depth": 3
+    },
+    {
+        "text": "4. Date de création et durée d’existence prévue",
+        "page": 9,
+        "id": 59,
+        "depth": 3
+    },
+    {
+        "text": "5. Synthèse de l'offre de gestion",
+        "page": 9,
+        "id": 60,
+        "depth": 3
+    },
+    {
+        "text": "6. Indication du lieu où l'on peut se procurer le dernier rapport annuel, le dernier état périodique ainsi que la composition des actifs",
+        "page": 9,
+        "id": 61,
+        "depth": 3
+    },
+    {
+        "text": "II. ACTEURS",
+        "page": 9,
+        "id": 62,
+        "depth": 2
+    },
+    {
+        "text": "1. Société de Gestion",
+        "page": 9,
+        "id": 63,
+        "depth": 3
+    },
+    {
+        "text": "2. Dépositaire et conservateur",
+        "page": 10,
+        "id": 64,
+        "depth": 3
+    },
+    {
+        "text": "3. Centralisateur des ordres",
+        "page": 10,
+        "id": 65,
+        "depth": 3
+    },
+    {
+        "text": "4. Organisme assurant la réception des ordres de souscription ou de rachat par délégation de la société de gestion",
+        "page": 10,
+        "id": 66,
+        "depth": 3
+    },
+    {
+        "text": "5. Teneur de compte émetteur par délégation",
+        "page": 10,
+        "id": 67,
+        "depth": 3
+    },
+    {
+        "text": "6. Commissaire aux comptes",
+        "page": 10,
+        "id": 68,
+        "depth": 3
+    },
+    {
+        "text": "7. Délégataire comptable",
+        "page": 10,
+        "id": 69,
+        "depth": 3
+    },
+    {
+        "text": "8. Commercialisateur",
+        "page": 10,
+        "id": 70,
+        "depth": 3
+    },
+    {
+        "text": "9. Conseiller d’investissement",
+        "page": 10,
+        "id": 71,
+        "depth": 3
+    },
+    {
+        "text": "III. MODALITES DE FONCTIONNEMENT DE LA GESTION",
+        "page": 10,
+        "id": 72,
+        "depth": 2
+    },
+    {
+        "text": "Caractéristiques générales",
+        "page": 10,
+        "id": 73,
+        "depth": 3
+    },
+    {
+        "text": "1. Caractéristiques des parts ou actions",
+        "page": 10,
+        "id": 74,
+        "depth": 4
+    },
+    {
+        "text": "2. Date de clôture de l’exercice",
+        "page": 11,
+        "id": 75,
+        "depth": 4
+    },
+    {
+        "text": "3. Indications sur le régime fiscal",
+        "page": 11,
+        "id": 76,
+        "depth": 4
+    },
+    {
+        "text": "Fiscalité Américaine",
+        "page": 11,
+        "id": 77,
+        "depth": 5
+    },
+    {
+        "text": "Dispositions particulières",
+        "page": 11,
+        "id": 78,
+        "depth": 3
+    },
+    {
+        "text": "1. Codes ISIN",
+        "page": 11,
+        "id": 79,
+        "depth": 4
+    },
+    {
+        "text": "2. Classification",
+        "page": 11,
+        "id": 80,
+        "depth": 4
+    },
+    {
+        "text": "3. OPC d’OPC",
+        "page": 12,
+        "id": 81,
+        "depth": 4
+    },
+    {
+        "text": "4. Objectif de gestion",
+        "page": 12,
+        "id": 82,
+        "depth": 4
+    },
+    {
+        "text": "5. Indicateur de référence",
+        "page": 12,
+        "id": 83,
+        "depth": 4
+    },
+    {
+        "text": "6. Stratégies d'investissements",
+        "page": 12,
+        "id": 84,
+        "depth": 4
+    },
+    {
+        "text": "1. Stratégies utilisées",
+        "page": 12,
+        "id": 85,
+        "depth": 5
+    },
+    {
+        "text": "I/ Critères extra-financiers",
+        "page": 12,
+        "id": 86,
+        "depth": 6
+    },
+    {
+        "text": "II/ Critères financiers",
+        "page": 13,
+        "id": 87,
+        "depth": 6
+    },
+    {
+        "text": "2. Actifs (hors dérivés)",
+        "page": 13,
+        "id": 88,
+        "depth": 5
+    },
+    {
+        "text": "Actions",
+        "page": 13,
+        "id": 89,
+        "depth": 6
+    },
+    {
+        "text": "Instruments du marché monétaire et titres de créances",
+        "page": 13,
+        "id": 90,
+        "depth": 6
+    },
+    {
+        "text": "Parts ou actions d’OPC de droit français ou de droit étranger",
+        "page": 14,
+        "id": 91,
+        "depth": 6
+    },
+    {
+        "text": "3. Instruments financiers négociés sur les marchés à terme et de dérivés",
+        "page": 14,
+        "id": 92,
+        "depth": 5
+    },
+    {
+        "text": "Nature des marchés d’intervention",
+        "page": 14,
+        "id": 93,
+        "depth": 6
+    },
+    {
+        "text": "Risques sur lesquels le gérant pourra intervenir",
+        "page": 14,
+        "id": 94,
+        "depth": 6
+    },
+    {
+        "text": "Natures des interventions, de l’ensemble des opérations devant être limitées à la réalisation de l’objectif de gestion",
+        "page": 14,
+        "id": 95,
+        "depth": 6
+    },
+    {
+        "text": "Nature des instruments utilisés",
+        "page": 14,
+        "id": 96,
+        "depth": 6
+    },
+    {
+        "text": "4. Titres intégrant des dérivés",
+        "page": 15,
+        "id": 97,
+        "depth": 5
+    },
+    {
+        "text": "5. Dépôts",
+        "page": 15,
+        "id": 98,
+        "depth": 5
+    },
+    {
+        "text": "6. Emprunts d’espèces",
+        "page": 15,
+        "id": 99,
+        "depth": 5
+    },
+    {
+        "text": "7. Opérations d’acquisition et cession temporaire de titres",
+        "page": 15,
+        "id": 100,
+        "depth": 5
+    },
+    {
+        "text": "7. Profil de risque",
+        "page": 15,
+        "id": 101,
+        "depth": 4
+    },
+    {
+        "text": "Risque de perte en capital",
+        "page": 15,
+        "id": 102,
+        "depth": 5
+    },
+    {
+        "text": "Risque lié à la sélection ISR (Investissement Socialement Responsable)",
+        "page": 15,
+        "id": 103,
+        "depth": 5
+    },
+    {
+        "text": "Risque de taux",
+        "page": 15,
+        "id": 104,
+        "depth": 5
+    },
+    {
+        "text": "Risque de crédit",
+        "page": 15,
+        "id": 105,
+        "depth": 5
+    },
+    {
+        "text": "Risque de contrepartie",
+        "page": 16,
+        "id": 106,
+        "depth": 5
+    },
+    {
+        "text": "Risque Actions (maximum 10%)",
+        "page": 16,
+        "id": 107,
+        "depth": 5
+    },
+    {
+        "text": "Risque lié à l’investissement dans des titres spéculatifs à haut rendement (maximum 10%)",
+        "page": 16,
+        "id": 108,
+        "depth": 5
+    },
+    {
+        "text": "Risque lié à l’utilisation d’Asset Backed Securities (maximum 10%)",
+        "page": 16,
+        "id": 109,
+        "depth": 5
+    },
+    {
+        "text": "Risque lié à l’investissement dans des obligations convertibles (maximum 10%)",
+        "page": 16,
+        "id": 110,
+        "depth": 5
+    },
+    {
+        "text": "Risque de Change (maximum 5%)",
+        "page": 16,
+        "id": 111,
+        "depth": 5
+    },
+    {
+        "text": "Souscripteurs concernés et profil type de l’investisseur",
+        "page": 16,
+        "id": 112,
+        "depth": 4
+    },
+    {
+        "text": "INFORMATIONS RELATIVES AUX INVESTISSEURS AMERICAINS",
+        "page": 17,
+        "id": 113,
+        "depth": 5
+    },
+    {
+        "text": "Définition US Person",
+        "page": 17,
+        "id": 114,
+        "depth": 5
+    },
+    {
+        "text": "Définition du bénéficiaire effectif",
+        "page": 18,
+        "id": 115,
+        "depth": 5
+    },
+    {
+        "text": "Durée des placements recommandée ",
+        "page": 18,
+        "id": 116,
+        "depth": 5
+    },
+    {
+        "text": "8. Modalités de détermination et d’affectation des sommes distribuables",
+        "page": 18,
+        "id": 117,
+        "depth": 4
+    },
+    {
+        "text": "9. Caractéristiques des parts",
+        "page": 18,
+        "id": 118,
+        "depth": 4
+    },
+    {
+        "text": "10. Modalités de souscription et rachat",
+        "page": 18,
+        "id": 119,
+        "depth": 4
+    },
+    {
+        "text": "11. Date et périodicité de calcul de la valeur liquidative",
+        "page": 18,
+        "id": 120,
+        "depth": 4
+    },
+    {
+        "text": "12. Frais et commissions",
+        "page": 19,
+        "id": 121,
+        "depth": 4
+    },
+    {
+        "text": "Commissions",
+        "page": 19,
+        "id": 122,
+        "depth": 5
+    },
+    {
+        "text": "Frais",
+        "page": 19,
+        "id": 123,
+        "depth": 5
+    },
+    {
+        "text": "Description succincte de choix des intermédiaires",
+        "page": 19,
+        "id": 124,
+        "depth": 5
+    },
+    {
+        "text": "IV. INFORMATIONS D’ORDRE COMMERCIAL",
+        "page": 20,
+        "id": 125,
+        "depth": 2
+    },
+    {
+        "text": "COMMUNICATION DU PROSPECTUS/DICI, DES DERNIERS DOCUMENTS ANNUELS ET PERIODIQUES",
+        "page": 20,
+        "id": 126,
+        "depth": 3
+    },
+    {
+        "text": "MODALITES DES SOUSCRIPTIONS ET DES RACHATS",
+        "page": 20,
+        "id": 127,
+        "depth": 3
+    },
+    {
+        "text": "SUPPORT SUR LEQUEL L’INVESTISSEUR PEUT TROUVER L’INFORMATION SUR LES CRITERES ESG",
+        "page": 20,
+        "id": 128,
+        "depth": 3
+    },
+    {
+        "text": "SUPPORT SUR LEQUEL L’INVESTISSEUR PEUT TROUVER L’INFORMATION SUR LES DROITS DE VOTE",
+        "page": 20,
+        "id": 129,
+        "depth": 3
+    },
+    {
+        "text": "INFORMATIONS CONCERNANT L’OPCVM",
+        "page": 20,
+        "id": 130,
+        "depth": 3
+    },
+    {
+        "text": "INFORMATIONS A DESTINATION DES INVESTISSEURS AMERICAINS",
+        "page": 20,
+        "id": 131,
+        "depth": 3
+    },
+    {
+        "text": "V REGLES D’INVESTISSEMENT",
+        "page": 20,
+        "id": 132,
+        "depth": 2
+    },
+    {
+        "text": "VI. RISQUE GLOBAL",
+        "page": 20,
+        "id": 133,
+        "depth": 2
+    },
+    {
+        "text": "VII. REGLES D’EVALUATION DES ACTIFS",
+        "page": 20,
+        "id": 134,
+        "depth": 2
+    },
+    {
+        "text": "REGLEMENT DE L’OPCVM",
+        "page": 22,
+        "id": 135,
+        "depth": 1
+    },
+    {
+        "text": "TITRE I : ACTIFS ET PARTS",
+        "page": 22,
+        "id": 136,
+        "depth": 2
+    },
+    {
+        "text": "Article 1 - Parts de copropriété",
+        "page": 22,
+        "id": 137,
+        "depth": 3
+    },
+    {
+        "text": "Article 2 - Montant minimal de l’actif",
+        "page": 22,
+        "id": 138,
+        "depth": 3
+    },
+    {
+        "text": "Article 3 - Émission et rachat des parts",
+        "page": 22,
+        "id": 139,
+        "depth": 3
+    },
+    {
+        "text": "Article 4 - Calcul de la valeur liquidative",
+        "page": 22,
+        "id": 140,
+        "depth": 3
+    },
+    {
+        "text": "TITRE II : FONCTIONNEMENT DU FONDS",
+        "page": 22,
+        "id": 141,
+        "depth": 2
+    },
+    {
+        "text": "Article 5 - La société de gestion",
+        "page": 22,
+        "id": 142,
+        "depth": 3
+    },
+    {
+        "text": "Article 5 bis - Règles de fonctionnement",
+        "page": 23,
+        "id": 143,
+        "depth": 3
+    },
+    {
+        "text": "Article 6 - Le dépositaire",
+        "page": 23,
+        "id": 144,
+        "depth": 3
+    },
+    {
+        "text": "Article 7 - Le commissaire aux comptes",
+        "page": 23,
+        "id": 145,
+        "depth": 3
+    },
+    {
+        "text": "Article 8 - Les comptes et le rapport de gestion",
+        "page": 23,
+        "id": 146,
+        "depth": 3
+    },
+    {
+        "text": "TITRE III : MODALITES D'AFFECTATION DES REVENUS",
+        "page": 23,
+        "id": 147,
+        "depth": 2
+    },
+    {
+        "text": "Article 9 - Modalités d’affectation des sommes distribuables",
+        "page": 23,
+        "id": 148,
+        "depth": 3
+    },
+    {
+        "text": "TITRE IV : FUSION - SCISSION - DISSOLUTION - LIQUIDATION",
+        "page": 24,
+        "id": 149,
+        "depth": 2
+    },
+    {
+        "text": "Article 10 - Fusion - Scission",
+        "page": 24,
+        "id": 150,
+        "depth": 3
+    },
+    {
+        "text": "Article 11 - Dissolution – Prorogation",
+        "page": 24,
+        "id": 151,
+        "depth": 3
+    },
+    {
+        "text": "Article 12 – Liquidation",
+        "page": 24,
+        "id": 152,
+        "depth": 3
+    },
+    {
+        "text": "TITRE V : CONTESTATION",
+        "page": 24,
+        "id": 153,
+        "depth": 2
+    },
+    {
+        "text": "Article 13 - Compétence - Élection de domicile",
+        "page": 24,
+        "id": 154,
+        "depth": 3
+    }
+]

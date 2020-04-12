@@ -1,0 +1,860 @@
+[
+    {
+        "text": "Informations clés pour l’Investisseur",
+        "page": 1,
+        "id": 1,
+        "depth": 1
+    },
+    {
+        "text": "Action C : Code ISIN : FR0000286312",
+        "page": 1,
+        "id": 2,
+        "depth": 2
+    },
+    {
+        "text": "Objectifs et politique d’investissement",
+        "page": 1,
+        "id": 3,
+        "depth": 3
+    },
+    {
+        "text": "Description des objectifs et de la politique d'investissement",
+        "page": 1,
+        "id": 4,
+        "depth": 4
+    },
+    {
+        "text": "Caractéristiques essentielles de la SICAV",
+        "page": 1,
+        "id": 5,
+        "depth": 4
+    },
+    {
+        "text": "Profil de risque et de rendement",
+        "page": 1,
+        "id": 6,
+        "depth": 3
+    },
+    {
+        "text": "Frais",
+        "page": 2,
+        "id": 7,
+        "depth": 3
+    },
+    {
+        "text": "Performances passées",
+        "page": 2,
+        "id": 8,
+        "depth": 3
+    },
+    {
+        "text": "Informations pratiques",
+        "page": 2,
+        "id": 9,
+        "depth": 3
+    },
+    {
+        "text": "Action D : Code ISIN : FR0000095028",
+        "page": 3,
+        "id": 10,
+        "depth": 2
+    },
+    {
+        "text": "Objectifs et politique d’investissement",
+        "page": 3,
+        "id": 11,
+        "depth": 3
+    },
+    {
+        "text": "Description des objectifs et de la politique de l'investissement ",
+        "page": 3,
+        "id": 12,
+        "depth": 4
+    },
+    {
+        "text": "Caractéristiques essentielles de la SICAV",
+        "page": 3,
+        "id": 13,
+        "depth": 4
+    },
+    {
+        "text": "Profil de risque et de rendement",
+        "page": 3,
+        "id": 14,
+        "depth": 3
+    },
+    {
+        "text": "Frais",
+        "page": 4,
+        "id": 15,
+        "depth": 3
+    },
+    {
+        "text": "Performances passées",
+        "page": 4,
+        "id": 16,
+        "depth": 3
+    },
+    {
+        "text": "Informations pratiques",
+        "page": 4,
+        "id": 17,
+        "depth": 3
+    },
+    {
+        "text": "Action ZC: Code ISIN: FR0013079142",
+        "page": 5,
+        "id": 18,
+        "depth": 2
+    },
+    {
+        "text": "Objectifs et politique d’investissement",
+        "page": 5,
+        "id": 19,
+        "depth": 3
+    },
+    {
+        "text": "Description des objectifs et de la politique d'investisssement ",
+        "page": 5,
+        "id": 20,
+        "depth": 4
+    },
+    {
+        "text": "Caractéristiques essentielles de la SICAV :",
+        "page": 5,
+        "id": 21,
+        "depth": 4
+    },
+    {
+        "text": "Profil de risque et de rendement",
+        "page": 5,
+        "id": 22,
+        "depth": 3
+    },
+    {
+        "text": "Frais",
+        "page": 6,
+        "id": 23,
+        "depth": 3
+    },
+    {
+        "text": "Performances passées",
+        "page": 6,
+        "id": 24,
+        "depth": 3
+    },
+    {
+        "text": "Informations pratiques",
+        "page": 6,
+        "id": 25,
+        "depth": 3
+    },
+    {
+        "text": "PROSPECTUS",
+        "page": 7,
+        "id": 26,
+        "depth": 1
+    },
+    {
+        "text": "I Caractéristiques générales",
+        "page": 7,
+        "id": 27,
+        "depth": 2
+    },
+    {
+        "text": "Forme de l'OPCVM",
+        "page": 7,
+        "id": 28,
+        "depth": 3
+    },
+    {
+        "text": "Dénomination",
+        "page": 7,
+        "id": 29,
+        "depth": 4
+    },
+    {
+        "text": "Forme juridique et état membre dans lequel l’OPCVM a été constitué",
+        "page": 7,
+        "id": 30,
+        "depth": 4
+    },
+    {
+        "text": "Date de création et durée d'existence prévue",
+        "page": 7,
+        "id": 31,
+        "depth": 4
+    },
+    {
+        "text": "Synthèse de l'offre de gestion",
+        "page": 7,
+        "id": 32,
+        "depth": 4
+    },
+    {
+        "text": "Indication du lieu où l'on peut se procurer le dernier rapport annuel et le dernier état périodique",
+        "page": 7,
+        "id": 33,
+        "depth": 4
+    },
+    {
+        "text": "II- Acteurs",
+        "page": 7,
+        "id": 34,
+        "depth": 2
+    },
+    {
+        "text": "SICAV",
+        "page": 7,
+        "id": 35,
+        "depth": 3
+    },
+    {
+        "text": "Composition du Conseil d’Administration",
+        "page": 8,
+        "id": 36,
+        "depth": 4
+    },
+    {
+        "text": "Dépositaire et conservateur",
+        "page": 8,
+        "id": 37,
+        "depth": 3
+    },
+    {
+        "text": "Centralisateurs des ordres de souscriptions et rachats par délégation de la société de gestion",
+        "page": 8,
+        "id": 38,
+        "depth": 3
+    },
+    {
+        "text": "Commissaire aux comptes",
+        "page": 8,
+        "id": 39,
+        "depth": 3
+    },
+    {
+        "text": "Commercialisateurs",
+        "page": 8,
+        "id": 40,
+        "depth": 3
+    },
+    {
+        "text": "Délégataires",
+        "page": 8,
+        "id": 41,
+        "depth": 3
+    },
+    {
+        "text": "Gestionnaire Financier",
+        "page": 8,
+        "id": 42,
+        "depth": 4
+    },
+    {
+        "text": "Gestionnaire Administratif et Comptable",
+        "page": 9,
+        "id": 43,
+        "depth": 4
+    },
+    {
+        "text": "III Modalités de fonctionnement et de gestion",
+        "page": 9,
+        "id": 44,
+        "depth": 2
+    },
+    {
+        "text": "III-1 Caractéristiques générales",
+        "page": 9,
+        "id": 45,
+        "depth": 3
+    },
+    {
+        "text": "Caractéristiques des parts ou actions",
+        "page": 9,
+        "id": 46,
+        "depth": 4
+    },
+    {
+        "text": "Date de clôture",
+        "page": 9,
+        "id": 47,
+        "depth": 4
+    },
+    {
+        "text": "Indications sur le régime fiscal",
+        "page": 9,
+        "id": 48,
+        "depth": 4
+    },
+    {
+        "text": "III-2 Dispositions particulières",
+        "page": 9,
+        "id": 49,
+        "depth": 3
+    },
+    {
+        "text": "Code Isin",
+        "page": 9,
+        "id": 50,
+        "depth": 4
+    },
+    {
+        "text": "Classification",
+        "page": 9,
+        "id": 51,
+        "depth": 4
+    },
+    {
+        "text": "Objectif de gestion",
+        "page": 9,
+        "id": 52,
+        "depth": 4
+    },
+    {
+        "text": "Indicateur de référence",
+        "page": 10,
+        "id": 53,
+        "depth": 4
+    },
+    {
+        "text": "Stratégie d'investissement",
+        "page": 10,
+        "id": 54,
+        "depth": 4
+    },
+    {
+        "text": "1 Sur les stratégies utilisées",
+        "page": 10,
+        "id": 55,
+        "depth": 5
+    },
+    {
+        "text": "2 Les actifs (hors dérivés intégrés)",
+        "page": 11,
+        "id": 56,
+        "depth": 5
+    },
+    {
+        "text": "Actions",
+        "page": 11,
+        "id": 57,
+        "depth": 6
+    },
+    {
+        "text": "Titres de créances et instruments du marché monétaire",
+        "page": 11,
+        "id": 58,
+        "depth": 6
+    },
+    {
+        "text": "OPC et fonds d’investissement (jusqu’à 10% de son actif)",
+        "page": 11,
+        "id": 59,
+        "depth": 6
+    },
+    {
+        "text": "3 Sur les instruments dérivés",
+        "page": 12,
+        "id": 60,
+        "depth": 5
+    },
+    {
+        "text": "Nature des marchés d’intervention",
+        "page": 12,
+        "id": 61,
+        "depth": 6
+    },
+    {
+        "text": "Risques sur lesquels le gérant désire intervenir",
+        "page": 12,
+        "id": 62,
+        "depth": 6
+    },
+    {
+        "text": "Risques sur lesquels le gérant désire intervenir",
+        "page": 12,
+        "id": 63,
+        "depth": 6
+    },
+    {
+        "text": "Risques sur lesquels le gérant désire intervenir",
+        "page": 12,
+        "id": 64,
+        "depth": 6
+    },
+    {
+        "text": "La stratégie d’utilisation des dérivés pour atteindre l’objectif de gestion",
+        "page": 13,
+        "id": 65,
+        "depth": 6
+    },
+    {
+        "text": "4 Pour les titres intégrant des dérivés (warrants, credit link note, EMTN, bon de souscription, etc.)",
+        "page": 13,
+        "id": 66,
+        "depth": 5
+    },
+    {
+        "text": "Risques sur lesquels le gérant désire intervenir",
+        "page": 13,
+        "id": 67,
+        "depth": 6
+    },
+    {
+        "text": "Nature des interventions, l’ensemble des opérations devant être limitées à la réalisation de l’objectif de gestion",
+        "page": 13,
+        "id": 68,
+        "depth": 6
+    },
+    {
+        "text": "Nature des instruments utilisés",
+        "page": 13,
+        "id": 69,
+        "depth": 6
+    },
+    {
+        "text": "5 Pour les dépôts",
+        "page": 13,
+        "id": 70,
+        "depth": 5
+    },
+    {
+        "text": "6 Pour les emprunts d’espèces",
+        "page": 13,
+        "id": 71,
+        "depth": 5
+    },
+    {
+        "text": "7 Pour les opérations d’acquisition et cession temporaires de titres",
+        "page": 14,
+        "id": 72,
+        "depth": 5
+    },
+    {
+        "text": "Profil de risque",
+        "page": 14,
+        "id": 73,
+        "depth": 4
+    },
+    {
+        "text": "Les risques auxquels sera exposé la SICAV HSBC Oblig Euro sont",
+        "page": 14,
+        "id": 74,
+        "depth": 5
+    },
+    {
+        "text": "Risque de crédit",
+        "page": 14,
+        "id": 75,
+        "depth": 6
+    },
+    {
+        "text": "Risque de taux d’intérêt",
+        "page": 15,
+        "id": 76,
+        "depth": 6
+    },
+    {
+        "text": "Risque de titrisation",
+        "page": 15,
+        "id": 77,
+        "depth": 6
+    },
+    {
+        "text": "Risques annexes",
+        "page": 15,
+        "id": 78,
+        "depth": 5
+    },
+    {
+        "text": "Risque de change",
+        "page": 15,
+        "id": 79,
+        "depth": 6
+    },
+    {
+        "text": "Risque de liquidité",
+        "page": 15,
+        "id": 80,
+        "depth": 6
+    },
+    {
+        "text": "Risque lié aux interventions sur les marchés à terme",
+        "page": 15,
+        "id": 81,
+        "depth": 6
+    },
+    {
+        "text": "Risque de contrepartie",
+        "page": 15,
+        "id": 82,
+        "depth": 6
+    },
+    {
+        "text": "Risque lié à l’inflation",
+        "page": 15,
+        "id": 83,
+        "depth": 6
+    },
+    {
+        "text": "Risque de conflits d’intérêt potentiels",
+        "page": 15,
+        "id": 84,
+        "depth": 6
+    },
+    {
+        "text": "Garantie ou protection",
+        "page": 16,
+        "id": 85,
+        "depth": 4
+    },
+    {
+        "text": "Souscripteurs concernés et profil de l'investisseur type",
+        "page": 16,
+        "id": 86,
+        "depth": 4
+    },
+    {
+        "text": "FATCA",
+        "page": 16,
+        "id": 87,
+        "depth": 5
+    },
+    {
+        "text": "RESTRICTIONS À L’EMISSION ET AU RACHAT D’ACTIONS POUR LES US PERSONS",
+        "page": 17,
+        "id": 88,
+        "depth": 5
+    },
+    {
+        "text": "Modalités de détermination et d'affectation des sommes distribuables",
+        "page": 18,
+        "id": 89,
+        "depth": 4
+    },
+    {
+        "text": "Fréquence de distribution",
+        "page": 18,
+        "id": 90,
+        "depth": 4
+    },
+    {
+        "text": "Caractéristiques des parts ou actions",
+        "page": 18,
+        "id": 91,
+        "depth": 4
+    },
+    {
+        "text": "Modalités de souscription et de rachat",
+        "page": 18,
+        "id": 92,
+        "depth": 4
+    },
+    {
+        "text": "Périodicité de calcul de la valeur liquidative",
+        "page": 19,
+        "id": 93,
+        "depth": 4
+    },
+    {
+        "text": "Frais et commissions",
+        "page": 19,
+        "id": 94,
+        "depth": 4
+    },
+    {
+        "text": "Commissions de souscription et de rachat",
+        "page": 19,
+        "id": 95,
+        "depth": 5
+    },
+    {
+        "text": "Frais de fonctionnement et de gestion",
+        "page": 19,
+        "id": 96,
+        "depth": 5
+    },
+    {
+        "text": "Informations complémentaires sur les opérations d’acquisitions et de cessions temporaires de titres",
+        "page": 20,
+        "id": 97,
+        "depth": 5
+    },
+    {
+        "text": "Description succincte de la procédure de choix des intermédiaires",
+        "page": 20,
+        "id": 98,
+        "depth": 5
+    },
+    {
+        "text": "IV Informations d’ordre commercial",
+        "page": 20,
+        "id": 99,
+        "depth": 2
+    },
+    {
+        "text": "V Règles d’investissement",
+        "page": 21,
+        "id": 100,
+        "depth": 2
+    },
+    {
+        "text": "VI Risque global",
+        "page": 21,
+        "id": 101,
+        "depth": 2
+    },
+    {
+        "text": "VII Règles d'évaluation et de comptabilisation des actifs",
+        "page": 21,
+        "id": 102,
+        "depth": 2
+    },
+    {
+        "text": "Mécanisme de Swing Pricing",
+        "page": 22,
+        "id": 103,
+        "depth": 3
+    },
+    {
+        "text": "\"Modalités pratiques alternatives en cas de circonstances exceptionnelles",
+        "page": 22,
+        "id": 104,
+        "depth": 3
+    },
+    {
+        "text": "Statuts",
+        "page": 24,
+        "id": 105,
+        "depth": 1
+    },
+    {
+        "text": "TITRE I FORME - OBJET - DENOMINATION - SIEGE SOCIAL - DUREE DE LA SOCIETE",
+        "page": 26,
+        "id": 106,
+        "depth": 2
+    },
+    {
+        "text": "ARTICLE 1 - FORME",
+        "page": 26,
+        "id": 107,
+        "depth": 3
+    },
+    {
+        "text": "ARTICLE 2 - OBJET",
+        "page": 26,
+        "id": 108,
+        "depth": 3
+    },
+    {
+        "text": "ARTICLE 3 - DENOMINATION",
+        "page": 26,
+        "id": 109,
+        "depth": 3
+    },
+    {
+        "text": "ARTICLE 4 - SIEGE SOCIAL",
+        "page": 26,
+        "id": 110,
+        "depth": 3
+    },
+    {
+        "text": "ARTICLE 5 - DUREE",
+        "page": 26,
+        "id": 111,
+        "depth": 3
+    },
+    {
+        "text": "TITRE II CAPITAL - VARIATIONS DU CAPITAL - CARACTERISTIQUES DES ACTIONS",
+        "page": 26,
+        "id": 112,
+        "depth": 2
+    },
+    {
+        "text": "ARTICLE 6 - CAPITAL SOCIAL",
+        "page": 26,
+        "id": 113,
+        "depth": 3
+    },
+    {
+        "text": "ARTICLE 7 - VARIATIONS DU CAPITAL",
+        "page": 27,
+        "id": 114,
+        "depth": 3
+    },
+    {
+        "text": "ARTICLE 8 - EMISSIONS, RACHATS DES ACTIONS, CLAUSES US PERSON OU INVESTISSEURS CANADIENS",
+        "page": 27,
+        "id": 115,
+        "depth": 3
+    },
+    {
+        "text": "ARTICLE 9 - CALCUL DE LA VALEUR LIQUIDATIVE",
+        "page": 29,
+        "id": 116,
+        "depth": 3
+    },
+    {
+        "text": " ARTICLE 10 - FORME DES ACTIONS",
+        "page": 29,
+        "id": 117,
+        "depth": 3
+    },
+    {
+        "text": "ARTICLE 11 – ADMISSION A LA NEGOCIATION SUR UN MARCHE REGLEMENTE ET/OU SYSTEME MULTILATERAL DE NEGOCIATION",
+        "page": 29,
+        "id": 118,
+        "depth": 3
+    },
+    {
+        "text": " ARTICLE 12 - DROITS ET OBLIGATIONS ATTACHES AUX ACTIONS",
+        "page": 29,
+        "id": 119,
+        "depth": 3
+    },
+    {
+        "text": "ARTICLE 13 - INDIVISIBILITE DES ACTIONS",
+        "page": 29,
+        "id": 120,
+        "depth": 3
+    },
+    {
+        "text": "TITRE III ADMINISTRATION ET DIRECTION DE LA SOCIETE",
+        "page": 30,
+        "id": 121,
+        "depth": 2
+    },
+    {
+        "text": "ARTICLE 14 - ADMINISTRATION",
+        "page": 30,
+        "id": 122,
+        "depth": 3
+    },
+    {
+        "text": " ARTICLE 15 - DUREE DES FONCTIONS DES ADMINISTRATEURS - RENOUVELLEMENT DU CONSEIL",
+        "page": 30,
+        "id": 123,
+        "depth": 3
+    },
+    {
+        "text": " ARTICLE 16 - BUREAU DU CONSEIL",
+        "page": 31,
+        "id": 124,
+        "depth": 3
+    },
+    {
+        "text": " ARTICLE 17 - REUNIONS ET DELIBERATIONS DU CONSEIL",
+        "page": 31,
+        "id": 125,
+        "depth": 3
+    },
+    {
+        "text": "ARTICLE 18 - PROCES-VERBAUX",
+        "page": 32,
+        "id": 126,
+        "depth": 3
+    },
+    {
+        "text": " ARTICLE 19 - POUVOIRS DU CONSEIL D'ADMINISTRATION",
+        "page": 32,
+        "id": 127,
+        "depth": 3
+    },
+    {
+        "text": "ARTICLE 20 - DIRECTION GENERALE - CENSEURS",
+        "page": 32,
+        "id": 128,
+        "depth": 3
+    },
+    {
+        "text": "ARTICLE 21 - ALLOCATIONS ET REMUNERATIONS DU CONSEIL (OU DES CENSEURS)",
+        "page": 33,
+        "id": 129,
+        "depth": 3
+    },
+    {
+        "text": "ARTICLE 22 - DEPOSITAIRE",
+        "page": 34,
+        "id": 130,
+        "depth": 3
+    },
+    {
+        "text": "ARTICLE 23 – LE PROSPECTUS",
+        "page": 34,
+        "id": 131,
+        "depth": 3
+    },
+    {
+        "text": "TITRE IV COMMISSAIRE AUX COMPTES",
+        "page": 34,
+        "id": 132,
+        "depth": 2
+    },
+    {
+        "text": " ARTICLE 24 - NOMINATION - POUVOIRS - REMUNERATION",
+        "page": 34,
+        "id": 133,
+        "depth": 3
+    },
+    {
+        "text": " TITRE V ASSEMBLEES GENERALES",
+        "page": 35,
+        "id": 134,
+        "depth": 2
+    },
+    {
+        "text": "ARTICLE 25 - ASSEMBLEES GENERALES",
+        "page": 35,
+        "id": 135,
+        "depth": 3
+    },
+    {
+        "text": "TITRE VI COMPTES ANNUELS",
+        "page": 36,
+        "id": 136,
+        "depth": 2
+    },
+    {
+        "text": "ARTICLE 26 - EXERCICE SOCIAL",
+        "page": 36,
+        "id": 137,
+        "depth": 3
+    },
+    {
+        "text": " ARTICLE 27 - MODALITES D’AFFECTATION DES SOMMES DISTRIBUABLES",
+        "page": 36,
+        "id": 138,
+        "depth": 3
+    },
+    {
+        "text": "TITRE VII PROROGATION - DISSOLUTION - LIQUIDATION",
+        "page": 36,
+        "id": 139,
+        "depth": 2
+    },
+    {
+        "text": "ARTICLE 28 - PROROGATION OU DISSOLUTION ANTICIPEE",
+        "page": 36,
+        "id": 140,
+        "depth": 3
+    },
+    {
+        "text": "ARTICLE 29 - LIQUIDATION",
+        "page": 37,
+        "id": 141,
+        "depth": 3
+    },
+    {
+        "text": "TITRE VIII CONTESTATIONS",
+        "page": 37,
+        "id": 142,
+        "depth": 2
+    },
+    {
+        "text": "ARTICLE 30 - COMPETENCE - ELECTION DE DOMICILE",
+        "page": 37,
+        "id": 143,
+        "depth": 3
+    }
+]

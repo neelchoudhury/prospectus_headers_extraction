@@ -1,0 +1,518 @@
+[
+    {
+        "text": "Informations clés pour l’investisseur",
+        "page": 1,
+        "id": 1,
+        "depth": 1
+    },
+    {
+        "text": "OBJECTIFS ET POLITIQUE D'INVESTISSEMENT",
+        "page": 1,
+        "id": 2,
+        "depth": 2
+    },
+    {
+        "text": "PROFIL DE RISQUE ET DE RENDEMENT",
+        "page": 1,
+        "id": 3,
+        "depth": 2
+    },
+    {
+        "text": "FRAIS",
+        "page": 2,
+        "id": 4,
+        "depth": 2
+    },
+    {
+        "text": "PERFORMANCES PASSEES",
+        "page": 2,
+        "id": 5,
+        "depth": 2
+    },
+    {
+        "text": "INFORMATIONS PRATIQUES",
+        "page": 2,
+        "id": 6,
+        "depth": 2
+    },
+    {
+        "text": "Prospectus",
+        "page": 3,
+        "id": 7,
+        "depth": 1
+    },
+    {
+        "text": "CARACTÉRISTIQUES GÉNÉRALES",
+        "page": 3,
+        "id": 8,
+        "depth": 2
+    },
+    {
+        "text": "Forme de l’OPCVM",
+        "page": 3,
+        "id": 9,
+        "depth": 3
+    },
+    {
+        "text": "Dénomination",
+        "page": 3,
+        "id": 10,
+        "depth": 4
+    },
+    {
+        "text": "Forme juridique",
+        "page": 3,
+        "id": 11,
+        "depth": 4
+    },
+    {
+        "text": "Date de création",
+        "page": 3,
+        "id": 12,
+        "depth": 4
+    },
+    {
+        "text": "Synthèse de l’offre de gestion",
+        "page": 3,
+        "id": 13,
+        "depth": 4
+    },
+    {
+        "text": "Indication du lieu où l’on peut se procurer le dernier rapport annuel et le dernier état périodique",
+        "page": 3,
+        "id": 14,
+        "depth": 4
+    },
+    {
+        "text": "Contact commercial direct",
+        "page": 3,
+        "id": 15,
+        "depth": 4
+    },
+    {
+        "text": "Contact commercial direct",
+        "page": 3,
+        "id": 16,
+        "depth": 4
+    },
+    {
+        "text": "Ac teurs",
+        "page": 4,
+        "id": 17,
+        "depth": 3
+    },
+    {
+        "text": "Société de Gestion",
+        "page": 4,
+        "id": 18,
+        "depth": 4
+    },
+    {
+        "text": "Dépositaire, conservateur",
+        "page": 4,
+        "id": 19,
+        "depth": 4
+    },
+    {
+        "text": "Prime Broker",
+        "page": 4,
+        "id": 20,
+        "depth": 4
+    },
+    {
+        "text": "Commissaire aux comptes",
+        "page": 4,
+        "id": 21,
+        "depth": 4
+    },
+    {
+        "text": "Commercialisateurs",
+        "page": 4,
+        "id": 22,
+        "depth": 4
+    },
+    {
+        "text": "Délégataire de gestion comptable",
+        "page": 4,
+        "id": 23,
+        "depth": 4
+    },
+    {
+        "text": "Conseiller",
+        "page": 4,
+        "id": 24,
+        "depth": 4
+    },
+    {
+        "text": "MODALITÉS DE FONCTIONNEMENT ET DE GESTION",
+        "page": 4,
+        "id": 25,
+        "depth": 2
+    },
+    {
+        "text": "Caractéristiques Générales",
+        "page": 4,
+        "id": 26,
+        "depth": 3
+    },
+    {
+        "text": "Caractéristiques des parts de l’OPCVM",
+        "page": 4,
+        "id": 27,
+        "depth": 4
+    },
+    {
+        "text": "Parts C",
+        "page": 4,
+        "id": 28,
+        "depth": 5
+    },
+    {
+        "text": "Nature du droit attaché à la catégorie de parts",
+        "page": 4,
+        "id": 29,
+        "depth": 5
+    },
+    {
+        "text": "Droits de vote",
+        "page": 4,
+        "id": 30,
+        "depth": 5
+    },
+    {
+        "text": "Forme des parts",
+        "page": 4,
+        "id": 31,
+        "depth": 5
+    },
+    {
+        "text": "Décimalisation (fractionnement)",
+        "page": 5,
+        "id": 32,
+        "depth": 5
+    },
+    {
+        "text": "Inscription des parts en Euroclear France",
+        "page": 5,
+        "id": 33,
+        "depth": 5
+    },
+    {
+        "text": "Date de clôture de l'exercice",
+        "page": 5,
+        "id": 34,
+        "depth": 4
+    },
+    {
+        "text": "Indications sur le régime fiscal",
+        "page": 5,
+        "id": 35,
+        "depth": 4
+    },
+    {
+        "text": "i) Description du régime fiscal applicable au FCP",
+        "page": 5,
+        "id": 36,
+        "depth": 5
+    },
+    {
+        "text": "ii) Eligibilité à un dispositif fiscal spécifique",
+        "page": 5,
+        "id": 37,
+        "depth": 5
+    },
+    {
+        "text": "Dispositions particulières",
+        "page": 5,
+        "id": 38,
+        "depth": 3
+    },
+    {
+        "text": "Code ISIN",
+        "page": 5,
+        "id": 39,
+        "depth": 4
+    },
+    {
+        "text": "Classification",
+        "page": 5,
+        "id": 40,
+        "depth": 4
+    },
+    {
+        "text": "Détention d’actions ou parts d’autres OPCVM, FIA ou Fonds d’investissement de droit étranger",
+        "page": 5,
+        "id": 41,
+        "depth": 4
+    },
+    {
+        "text": "Objectif de gestion",
+        "page": 5,
+        "id": 42,
+        "depth": 4
+    },
+    {
+        "text": "Indicateur de référence",
+        "page": 6,
+        "id": 43,
+        "depth": 4
+    },
+    {
+        "text": "Stratégie d'investissement",
+        "page": 6,
+        "id": 44,
+        "depth": 4
+    },
+    {
+        "text": "Profil de risque de l‘OPCVM maître",
+        "page": 11,
+        "id": 45,
+        "depth": 4
+    },
+    {
+        "text": "Garanties ou protection",
+        "page": 12,
+        "id": 46,
+        "depth": 4
+    },
+    {
+        "text": "Souscripteurs concernés et profil de l'investisseur type (du nourricier)",
+        "page": 12,
+        "id": 47,
+        "depth": 4
+    },
+    {
+        "text": "Durée de placement recommandée",
+        "page": 12,
+        "id": 48,
+        "depth": 4
+    },
+    {
+        "text": "Modalités de détermination et d'affectation des sommes distribuables",
+        "page": 12,
+        "id": 49,
+        "depth": 4
+    },
+    {
+        "text": "Caractéristiques des parts (du nourricier)",
+        "page": 12,
+        "id": 50,
+        "depth": 4
+    },
+    {
+        "text": "Modalités de souscription et de rachat (du nourricier)",
+        "page": 12,
+        "id": 51,
+        "depth": 4
+    },
+    {
+        "text": "Frais et commissions",
+        "page": 13,
+        "id": 52,
+        "depth": 4
+    },
+    {
+        "text": "Commissions de souscription et de rachat (du nourricier)",
+        "page": 13,
+        "id": 53,
+        "depth": 5
+    },
+    {
+        "text": "Rappel des commissions et frais de l’OPCVM maître",
+        "page": 14,
+        "id": 54,
+        "depth": 5
+    },
+    {
+        "text": "Frais et commissions",
+        "page": 14,
+        "id": 55,
+        "depth": 6
+    },
+    {
+        "text": "Description succincte de la procédure de choix des intermédiaires",
+        "page": 15,
+        "id": 56,
+        "depth": 5
+    },
+    {
+        "text": "INFORMATIONS D’ORDRE COMMERCIAL",
+        "page": 16,
+        "id": 57,
+        "depth": 2
+    },
+    {
+        "text": "DIFFUSION DES INFORMATIONS CONCERNANT L'OPCVM – MODALITES D’INFORMATION DES PORTEURS",
+        "page": 16,
+        "id": 58,
+        "depth": 3
+    },
+    {
+        "text": "COMMUNICATION DE LA VALEUR LIQUIDATIVE",
+        "page": 16,
+        "id": 59,
+        "depth": 3
+    },
+    {
+        "text": "REGLES DE CONDUITE INTERNES D’INFORMATION DU FONDS MAITRE ET DE SON NOURRICIER",
+        "page": 16,
+        "id": 60,
+        "depth": 3
+    },
+    {
+        "text": "DOCUMENTATION COMMERCIALE",
+        "page": 16,
+        "id": 61,
+        "depth": 3
+    },
+    {
+        "text": "INFORMATIONS EN CAS DE MODIFICATION DES MODALITES DE FONCTIONNEMENT DE L’OPCVM",
+        "page": 16,
+        "id": 62,
+        "depth": 3
+    },
+    {
+        "text": "Critères Environnementaux, Sociaux et de Gouvernance (ESG)",
+        "page": 16,
+        "id": 63,
+        "depth": 3
+    },
+    {
+        "text": "RÈGLES D’INVESTISSEMENTS DU FCP NOURRICIER",
+        "page": 17,
+        "id": 64,
+        "depth": 2
+    },
+    {
+        "text": "RISQUE GLOBAL",
+        "page": 17,
+        "id": 65,
+        "depth": 2
+    },
+    {
+        "text": "RÈGLES D’ÉVALUATION ET DE COMPTABILISATION DES ACTIFS DU FCP NOURRICIER",
+        "page": 17,
+        "id": 66,
+        "depth": 2
+    },
+    {
+        "text": "REGLEMENT",
+        "page": 18,
+        "id": 67,
+        "depth": 1
+    },
+    {
+        "text": "TITRE 1 - ACTIF ET PARTS",
+        "page": 18,
+        "id": 68,
+        "depth": 2
+    },
+    {
+        "text": "Article 1 - Parts de copropriété",
+        "page": 18,
+        "id": 69,
+        "depth": 3
+    },
+    {
+        "text": "Article 2 - Montant minimal de l’actif",
+        "page": 18,
+        "id": 70,
+        "depth": 3
+    },
+    {
+        "text": "Article 3 - Emission et rachat des parts",
+        "page": 18,
+        "id": 71,
+        "depth": 3
+    },
+    {
+        "text": "Article 4 - Calcul de la valeur liquidative",
+        "page": 19,
+        "id": 72,
+        "depth": 3
+    },
+    {
+        "text": "TITRE 2 - FONCTIONNEMENT DU FONDS",
+        "page": 19,
+        "id": 73,
+        "depth": 2
+    },
+    {
+        "text": "Article 5 - La société de gestion de portefeuille",
+        "page": 19,
+        "id": 74,
+        "depth": 3
+    },
+    {
+        "text": "Article 5 bis - Règles de fonctionnement",
+        "page": 19,
+        "id": 75,
+        "depth": 3
+    },
+    {
+        "text": "Article 6 - Le dépositaire",
+        "page": 19,
+        "id": 76,
+        "depth": 3
+    },
+    {
+        "text": "Article 7 - Le commissaire aux comptes",
+        "page": 19,
+        "id": 77,
+        "depth": 3
+    },
+    {
+        "text": "Article 8 - Les comptes et le rapport de gestion",
+        "page": 20,
+        "id": 78,
+        "depth": 3
+    },
+    {
+        "text": "TITRE 3 - MODALITES D’AFFECTATION DES SOMMES DISTRIBUABLES",
+        "page": 20,
+        "id": 79,
+        "depth": 2
+    },
+    {
+        "text": "Article 9",
+        "page": 20,
+        "id": 80,
+        "depth": 3
+    },
+    {
+        "text": "TITRE 4 - FUSION - SCISSION - DISSOLUTION – LIQUIDATION",
+        "page": 20,
+        "id": 81,
+        "depth": 2
+    },
+    {
+        "text": "Article 10 - Fusion – Scission",
+        "page": 20,
+        "id": 82,
+        "depth": 3
+    },
+    {
+        "text": "Article 11 - Dissolution – Prorogation",
+        "page": 20,
+        "id": 83,
+        "depth": 3
+    },
+    {
+        "text": "Article 12 – Liquidation",
+        "page": 21,
+        "id": 84,
+        "depth": 3
+    },
+    {
+        "text": "TITRE 5 – CONTESTATION",
+        "page": 21,
+        "id": 85,
+        "depth": 2
+    },
+    {
+        "text": "Article 13 - Compétence - Election de domicile",
+        "page": 21,
+        "id": 86,
+        "depth": 3
+    }
+]

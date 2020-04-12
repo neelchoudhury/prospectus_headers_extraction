@@ -1,0 +1,746 @@
+[
+    {
+        "text": "FIP MEZZANO III",
+        "page": 1,
+        "id": 1,
+        "depth": 1
+    },
+    {
+        "text": "SOMMAIRE",
+        "page": 2,
+        "id": 2,
+        "depth": 2
+    },
+    {
+        "text": "1. JE DÉFISCALISE",
+        "page": 3,
+        "id": 3,
+        "depth": 2
+    },
+    {
+        "text": "A l’entrée",
+        "page": 3,
+        "id": 4,
+        "depth": 3
+    },
+    {
+        "text": "A la sortie",
+        "page": 3,
+        "id": 5,
+        "depth": 3
+    },
+    {
+        "text": "BON A SAVOIR",
+        "page": 3,
+        "id": 6,
+        "depth": 3
+    },
+    {
+        "text": "2. J’INVESTIS UN FONDS MAJORITAIREMENT COMPOSé DE TITRES OBLIGATAIRES",
+        "page": 4,
+        "id": 7,
+        "depth": 2
+    },
+    {
+        "text": "Stratégie d’investissement",
+        "page": 4,
+        "id": 8,
+        "depth": 3
+    },
+    {
+        "text": "Zoom sur les caractéristiques d’une obligation convertible en action",
+        "page": 4,
+        "id": 9,
+        "depth": 3
+    },
+    {
+        "text": "1. Un intérêt annuel perçu par le Fonds",
+        "page": 4,
+        "id": 10,
+        "depth": 4
+    },
+    {
+        "text": "2. A l’échéance, la faculté de convertir l’obligation en action(s) de la société émettrice OU d’opter pour son remboursement",
+        "page": 4,
+        "id": 11,
+        "depth": 4
+    },
+    {
+        "text": "3. J’OPTE",
+        "page": 5,
+        "id": 12,
+        "depth": 2
+    },
+    {
+        "text": "Une autre ID du Capital Investissement",
+        "page": 6,
+        "id": 13,
+        "depth": 3
+    },
+    {
+        "text": "Proximité et nouveaux territoires d’investissement",
+        "page": 6,
+        "id": 14,
+        "depth": 4
+    },
+    {
+        "text": "Expertise et conviction",
+        "page": 6,
+        "id": 15,
+        "depth": 4
+    },
+    {
+        "text": "Gouvernance et pilotage de la performance",
+        "page": 6,
+        "id": 16,
+        "depth": 4
+    },
+    {
+        "text": "DOCUMENT D’INFORMATION CLÉ POUR L’INVESTISSEUR (DICI)",
+        "page": 9,
+        "id": 17,
+        "depth": 1
+    },
+    {
+        "text": "1. Objectif et politique d’investissement",
+        "page": 9,
+        "id": 18,
+        "depth": 2
+    },
+    {
+        "text": "Caractéristiques essentielles du Fonds",
+        "page": 9,
+        "id": 19,
+        "depth": 3
+    },
+    {
+        "text": "a) Principales catégories d’instruments financiers dans lesquelles le Fonds peut investir",
+        "page": 9,
+        "id": 20,
+        "depth": 4
+    },
+    {
+        "text": "b) Objectif particulier",
+        "page": 9,
+        "id": 21,
+        "depth": 4
+    },
+    {
+        "text": "c) Type de gestion",
+        "page": 10,
+        "id": 22,
+        "depth": 4
+    },
+    {
+        "text": "d) Affectation des résultats",
+        "page": 10,
+        "id": 23,
+        "depth": 4
+    },
+    {
+        "text": "2. Profil de risque et de rendement",
+        "page": 10,
+        "id": 24,
+        "depth": 2
+    },
+    {
+        "text": "a. Indicateur de risque du Fonds",
+        "page": 10,
+        "id": 25,
+        "depth": 3
+    },
+    {
+        "text": "b. Risques importants pour l’OPCVM non pris en compte dans cet indicateur",
+        "page": 10,
+        "id": 26,
+        "depth": 3
+    },
+    {
+        "text": "3. Frais et commissions",
+        "page": 10,
+        "id": 27,
+        "depth": 2
+    },
+    {
+        "text": "a. Encadrement des frais et commissions de commercialisation, de placement et de gestion",
+        "page": 10,
+        "id": 28,
+        "depth": 3
+    },
+    {
+        "text": "b. Répartition des Taux de Frais Annuels Moyens (TFAM) maximums gestionnaire et distributeur par catégorie agrégée de frais",
+        "page": 11,
+        "id": 29,
+        "depth": 3
+    },
+    {
+        "text": "4. Informations pratiques",
+        "page": 12,
+        "id": 30,
+        "depth": 2
+    },
+    {
+        "text": "Nom du dépositaire",
+        "page": 12,
+        "id": 31,
+        "depth": 3
+    },
+    {
+        "text": "Lieu et modalités d’obtention d’informations sur le Fonds",
+        "page": 12,
+        "id": 32,
+        "depth": 3
+    },
+    {
+        "text": "Lieu et modalités d’obtention de la valeur liquidative",
+        "page": 12,
+        "id": 33,
+        "depth": 3
+    },
+    {
+        "text": "Fiscalité",
+        "page": 12,
+        "id": 34,
+        "depth": 3
+    },
+    {
+        "text": "Informations contenues dans le DICI",
+        "page": 12,
+        "id": 35,
+        "depth": 3
+    },
+    {
+        "text": "NOTE SUR LA FISCALITE",
+        "page": 14,
+        "id": 36,
+        "depth": 1
+    },
+    {
+        "text": "I. Dispositions fiscales de composition de l’actif du Fonds",
+        "page": 14,
+        "id": 37,
+        "depth": 2
+    },
+    {
+        "text": "1. Composition de l’actif du Fonds pour bénéficier de la réduction d’IR et/ou de la réduction d’ISF",
+        "page": 14,
+        "id": 38,
+        "depth": 3
+    },
+    {
+        "text": "2. Composition de l’actif du Fonds pour bénéficier de l’eXonération d’IR",
+        "page": 15,
+        "id": 39,
+        "depth": 3
+    },
+    {
+        "text": "II. Aspect fiscaux concernant les investisseurs personnes physiques",
+        "page": 15,
+        "id": 40,
+        "depth": 2
+    },
+    {
+        "text": "1. Avantages fiscaux liés à la souscription des parts du Fonds",
+        "page": 15,
+        "id": 41,
+        "depth": 3
+    },
+    {
+        "text": "A/ Avantages IR liés à la souscription des parts de catégorie « A » du Fonds",
+        "page": 15,
+        "id": 42,
+        "depth": 4
+    },
+    {
+        "text": "B/ Avantages ISF liés à la souscription des parts « B » du Fonds",
+        "page": 16,
+        "id": 43,
+        "depth": 4
+    },
+    {
+        "text": "C/ Articulation des réductions d’IR et d’ISF",
+        "page": 16,
+        "id": 44,
+        "depth": 4
+    },
+    {
+        "text": "2. Avantages fiscaux liés aux revenus du Fonds",
+        "page": 17,
+        "id": 45,
+        "depth": 3
+    },
+    {
+        "text": "Présentation ",
+        "page": 18,
+        "id": 46,
+        "depth": 1
+    },
+    {
+        "text": "Tableau récapitulatif des frais de fonctionnement du Fonds",
+        "page": 18,
+        "id": 47,
+        "depth": 2
+    },
+    {
+        "text": "Autres FIP gérés par Midi Capital au 30/06/2011",
+        "page": 18,
+        "id": 48,
+        "depth": 2
+    },
+    {
+        "text": "RÈGLEMENT",
+        "page": 20,
+        "id": 49,
+        "depth": 1
+    },
+    {
+        "text": "Titre I. - Présentation générale",
+        "page": 22,
+        "id": 50,
+        "depth": 2
+    },
+    {
+        "text": "Article 1 - Dénomination",
+        "page": 22,
+        "id": 51,
+        "depth": 3
+    },
+    {
+        "text": "Article 2 - Forme juridique et constitution du Fonds",
+        "page": 22,
+        "id": 52,
+        "depth": 3
+    },
+    {
+        "text": "Article 3 - Orientation de gestion",
+        "page": 22,
+        "id": 53,
+        "depth": 3
+    },
+    {
+        "text": "3.1 - Objectif et stratégie d'investissement",
+        "page": 22,
+        "id": 54,
+        "depth": 4
+    },
+    {
+        "text": "3.1.1 – Objectif de gestion",
+        "page": 22,
+        "id": 55,
+        "depth": 5
+    },
+    {
+        "text": "3.1.2 - Stratégie d'investissement",
+        "page": 22,
+        "id": 56,
+        "depth": 5
+    },
+    {
+        "text": "a) - Actif soumis aux quotas",
+        "page": 22,
+        "id": 57,
+        "depth": 6
+    },
+    {
+        "text": "b) Trésorerie disponible et actifs non soumis au quota de 60%",
+        "page": 24,
+        "id": 58,
+        "depth": 6
+    },
+    {
+        "text": "3.2 - Profil de risques",
+        "page": 25,
+        "id": 59,
+        "depth": 4
+    },
+    {
+        "text": "3.2.1 – Risques généraux liés aux FIP",
+        "page": 25,
+        "id": 60,
+        "depth": 5
+    },
+    {
+        "text": "3.2.2 - Risques liés à la stratégie de gestion du Fonds",
+        "page": 25,
+        "id": 61,
+        "depth": 5
+    },
+    {
+        "text": "Article 4 – Règles d’investissement",
+        "page": 26,
+        "id": 62,
+        "depth": 3
+    },
+    {
+        "text": "Article 5 - Règles de co-investissement, de co-désinvestissement, transferts de participations, et prestations de services effectuées par la Société de Gestion ou des sociétés qui lui sont liées",
+        "page": 26,
+        "id": 63,
+        "depth": 3
+    },
+    {
+        "text": "5.1 - Critères de répartition des investissements entre les portefeuilles gérés par la Société de Gestion",
+        "page": 26,
+        "id": 64,
+        "depth": 4
+    },
+    {
+        "text": "5.2 - Règles de co-investissements",
+        "page": 26,
+        "id": 65,
+        "depth": 4
+    },
+    {
+        "text": "5.2.1 - Co-investissements avec des Portefeuilles d’Investissement Liés ou des Sociétés Liées",
+        "page": 27,
+        "id": 66,
+        "depth": 5
+    },
+    {
+        "text": "5.2.2 - Co-investissements avec la Société de Gestion, ses dirigeants ou salariés",
+        "page": 27,
+        "id": 67,
+        "depth": 5
+    },
+    {
+        "text": "5.3 - Transfert de participations entre le Fonds et des Portefeuilles d’Instruments Liées ou des Sociétés Liées",
+        "page": 27,
+        "id": 68,
+        "depth": 4
+    },
+    {
+        "text": "5.4 - Prestations de services assurées par la Société de Gestion, et/ou des Sociétés Liées",
+        "page": 27,
+        "id": 69,
+        "depth": 4
+    },
+    {
+        "text": "5.5 - Information des porteurs de parts",
+        "page": 28,
+        "id": 70,
+        "depth": 4
+    },
+    {
+        "text": "Titre II. - Les modalités de fonctionnement",
+        "page": 28,
+        "id": 71,
+        "depth": 2
+    },
+    {
+        "text": "Article 6 - Parts du Fonds",
+        "page": 28,
+        "id": 72,
+        "depth": 3
+    },
+    {
+        "text": "6.1 - Forme des parts",
+        "page": 28,
+        "id": 73,
+        "depth": 4
+    },
+    {
+        "text": "6.2 - Catégories de parts",
+        "page": 28,
+        "id": 74,
+        "depth": 4
+    },
+    {
+        "text": "6.3 - Nombre et valeur des parts",
+        "page": 29,
+        "id": 75,
+        "depth": 4
+    },
+    {
+        "text": "6.4 - Droits attachés aux parts",
+        "page": 29,
+        "id": 76,
+        "depth": 4
+    },
+    {
+        "text": "6.4.1. Droits respectifs de chaque catégorie de parts",
+        "page": 29,
+        "id": 77,
+        "depth": 5
+    },
+    {
+        "text": "Article 7 - Montant minimal de l'actif",
+        "page": 30,
+        "id": 78,
+        "depth": 3
+    },
+    {
+        "text": "Article 8 - Durée de vie du Fonds",
+        "page": 30,
+        "id": 79,
+        "depth": 3
+    },
+    {
+        "text": "Article 9 - Souscription de parts",
+        "page": 30,
+        "id": 80,
+        "depth": 3
+    },
+    {
+        "text": "9.1 - Période de souscription",
+        "page": 30,
+        "id": 81,
+        "depth": 4
+    },
+    {
+        "text": "9.2 - Modalités de souscription",
+        "page": 31,
+        "id": 82,
+        "depth": 4
+    },
+    {
+        "text": "Article 10 - Rachat de parts",
+        "page": 31,
+        "id": 83,
+        "depth": 3
+    },
+    {
+        "text": "Article 11 - Cession de parts",
+        "page": 32,
+        "id": 84,
+        "depth": 3
+    },
+    {
+        "text": "Article 12 - Distribution de revenus",
+        "page": 33,
+        "id": 85,
+        "depth": 3
+    },
+    {
+        "text": "12.1 - Revenus distribuables",
+        "page": 33,
+        "id": 86,
+        "depth": 4
+    },
+    {
+        "text": "12.2 - Modalités de distribution de revenus",
+        "page": 33,
+        "id": 87,
+        "depth": 4
+    },
+    {
+        "text": "Article 13 - Distribution des produits de cession",
+        "page": 33,
+        "id": 88,
+        "depth": 3
+    },
+    {
+        "text": "13.1 – Avoirs distribuables",
+        "page": 33,
+        "id": 89,
+        "depth": 4
+    },
+    {
+        "text": "13.2 - Modalités de répartition des avoirs",
+        "page": 33,
+        "id": 90,
+        "depth": 4
+    },
+    {
+        "text": "Article 14 - Règles de valorisation et calcul de la valeur liquidative",
+        "page": 34,
+        "id": 91,
+        "depth": 3
+    },
+    {
+        "text": "14.1 – Règles d’évaluation des actifs du Fonds",
+        "page": 34,
+        "id": 92,
+        "depth": 4
+    },
+    {
+        "text": "14.1.1. Principes d’évaluation",
+        "page": 34,
+        "id": 93,
+        "depth": 5
+    },
+    {
+        "text": "14.1.2. Choix de la méthode d’évaluation",
+        "page": 35,
+        "id": 94,
+        "depth": 5
+    },
+    {
+        "text": "14.2 - Modalités de calcul de la valeur liquidative",
+        "page": 35,
+        "id": 95,
+        "depth": 4
+    },
+    {
+        "text": "Article 15 - Exercice comptable",
+        "page": 37,
+        "id": 96,
+        "depth": 3
+    },
+    {
+        "text": "Article 16 - Documents d'information",
+        "page": 37,
+        "id": 97,
+        "depth": 3
+    },
+    {
+        "text": "Article 17 - Gouvernance du Fonds",
+        "page": 37,
+        "id": 98,
+        "depth": 3
+    },
+    {
+        "text": "Titre III. - Les acteurs",
+        "page": 38,
+        "id": 99,
+        "depth": 2
+    },
+    {
+        "text": "Article 18 - La Société de Gestion de portefeuille",
+        "page": 38,
+        "id": 100,
+        "depth": 3
+    },
+    {
+        "text": "Article 19 - Le Dépositaire",
+        "page": 38,
+        "id": 101,
+        "depth": 3
+    },
+    {
+        "text": "Article 20 - Le délégataire financier",
+        "page": 39,
+        "id": 102,
+        "depth": 3
+    },
+    {
+        "text": "Article 21 - Le commissaire aux comptes",
+        "page": 39,
+        "id": 103,
+        "depth": 3
+    },
+    {
+        "text": "Titre IV – Frais de fonctionnement et de gestion du Fonds",
+        "page": 39,
+        "id": 104,
+        "depth": 2
+    },
+    {
+        "text": "Article 22 - Frais récurrents de fonctionnement et de gestion du Fonds",
+        "page": 39,
+        "id": 105,
+        "depth": 3
+    },
+    {
+        "text": "22.1 - Rémunération de la Société de Gestion",
+        "page": 39,
+        "id": 106,
+        "depth": 4
+    },
+    {
+        "text": "22.2 - Rémunération du Dépositaire",
+        "page": 40,
+        "id": 107,
+        "depth": 4
+    },
+    {
+        "text": "22.3 - Rémunération du Commissaire aux comptes",
+        "page": 40,
+        "id": 108,
+        "depth": 4
+    },
+    {
+        "text": "22.4 – Autres frais récurrents de fonctionnement",
+        "page": 40,
+        "id": 109,
+        "depth": 4
+    },
+    {
+        "text": "Article 23 - Frais de constitution",
+        "page": 40,
+        "id": 110,
+        "depth": 3
+    },
+    {
+        "text": "Article 24 - Frais non récurrents de fonctionnement liés à l'acquisition, au suivi et à la cession des participations",
+        "page": 40,
+        "id": 111,
+        "depth": 3
+    },
+    {
+        "text": "Article 25 - Autres : Frais indirects liés à l'investissement du Fonds dans d'autres parts ou actions d'OPCVM",
+        "page": 41,
+        "id": 112,
+        "depth": 3
+    },
+    {
+        "text": "Article 26 - Commissions de mouvement",
+        "page": 41,
+        "id": 113,
+        "depth": 3
+    },
+    {
+        "text": "Article 27 – Tableau synthétique des frais et commissions",
+        "page": 42,
+        "id": 114,
+        "depth": 3
+    },
+    {
+        "text": "Titre V - Opérations de restructuration et organisation de la fin de vie du Fonds",
+        "page": 43,
+        "id": 115,
+        "depth": 2
+    },
+    {
+        "text": "Article 27 - Fusion - Scission",
+        "page": 43,
+        "id": 116,
+        "depth": 3
+    },
+    {
+        "text": "Article 28 - Pré liquidation",
+        "page": 43,
+        "id": 117,
+        "depth": 3
+    },
+    {
+        "text": "28.1 - Conditions d'ouverture de la période de pré liquidation",
+        "page": 43,
+        "id": 118,
+        "depth": 4
+    },
+    {
+        "text": "28.2 - Conséquences liées à l'ouverture de la pré liquidation",
+        "page": 43,
+        "id": 119,
+        "depth": 4
+    },
+    {
+        "text": "Article 29 - Dissolution",
+        "page": 44,
+        "id": 120,
+        "depth": 3
+    },
+    {
+        "text": "Article 30 - Liquidation",
+        "page": 44,
+        "id": 121,
+        "depth": 3
+    },
+    {
+        "text": "Titre VI - Dispositions diverses",
+        "page": 45,
+        "id": 122,
+        "depth": 2
+    },
+    {
+        "text": "Article 31 - Modifications du règlement",
+        "page": 45,
+        "id": 123,
+        "depth": 3
+    },
+    {
+        "text": "Article 32 - Contestation - Élection de domicile",
+        "page": 45,
+        "id": 124,
+        "depth": 3
+    }
+]

@@ -1,0 +1,716 @@
+[
+    {
+        "text": "Informations clés pour l'investisseur",
+        "page": 1,
+        "id": 1,
+        "depth": 1
+    },
+    {
+        "text": "AMUNDI ETF S&P GLOBAL LUXURY UCITS ETF - USD Code ISIN : (C/D) FR0011708130",
+        "page": 1,
+        "id": 2,
+        "depth": 2
+    },
+    {
+        "text": "Objectifs et politique d'investissement",
+        "page": 1,
+        "id": 3,
+        "depth": 3
+    },
+    {
+        "text": "Profil de risque et de rendement",
+        "page": 1,
+        "id": 4,
+        "depth": 3
+    },
+    {
+        "text": "Frais",
+        "page": 2,
+        "id": 5,
+        "depth": 3
+    },
+    {
+        "text": "Performances passées",
+        "page": 2,
+        "id": 6,
+        "depth": 3
+    },
+    {
+        "text": "Informations pratiques",
+        "page": 2,
+        "id": 7,
+        "depth": 3
+    },
+    {
+        "text": "AMUNDI ETF S&P GLOBAL LUXURY UCITS ETF - EUR Code ISIN : (C/D) FR0010688226",
+        "page": 3,
+        "id": 8,
+        "depth": 2
+    },
+    {
+        "text": "Objectifs et politique d'investissement",
+        "page": 3,
+        "id": 9,
+        "depth": 3
+    },
+    {
+        "text": "Profil de risque et de rendement",
+        "page": 3,
+        "id": 10,
+        "depth": 3
+    },
+    {
+        "text": "Frais",
+        "page": 4,
+        "id": 11,
+        "depth": 3
+    },
+    {
+        "text": "Performances passées",
+        "page": 4,
+        "id": 12,
+        "depth": 3
+    },
+    {
+        "text": "Informations pratiques",
+        "page": 4,
+        "id": 13,
+        "depth": 3
+    },
+    {
+        "text": "AMUNDI ETF S&P GLOBAL LUXURY UCITS ETF Prospectus et Règlement",
+        "page": 5,
+        "id": 14,
+        "depth": 1
+    },
+    {
+        "text": "PROSPECTUS",
+        "page": 6,
+        "id": 15,
+        "depth": 2
+    },
+    {
+        "text": "I. CARACTERISTIQUES GENERALES",
+        "page": 6,
+        "id": 16,
+        "depth": 3
+    },
+    {
+        "text": "Dénomination",
+        "page": 6,
+        "id": 17,
+        "depth": 4
+    },
+    {
+        "text": "Forme juridique de l'OPCVM et Etat membre",
+        "page": 6,
+        "id": 18,
+        "depth": 4
+    },
+    {
+        "text": "Date de création et durée d’existence prévue",
+        "page": 6,
+        "id": 19,
+        "depth": 4
+    },
+    {
+        "text": "Synthèse de l’offre de gestion",
+        "page": 6,
+        "id": 20,
+        "depth": 4
+    },
+    {
+        "text": "Indication du lieu où l’on peut se procurer le dernier rapport annuel et le dernier état périodique",
+        "page": 6,
+        "id": 21,
+        "depth": 4
+    },
+    {
+        "text": "II. ACTEURS",
+        "page": 6,
+        "id": 22,
+        "depth": 3
+    },
+    {
+        "text": "Société de Gestion",
+        "page": 7,
+        "id": 23,
+        "depth": 4
+    },
+    {
+        "text": "Dépositaire et Gestionnaire de passif",
+        "page": 7,
+        "id": 24,
+        "depth": 4
+    },
+    {
+        "text": "Etablissement en charge de la centralisation des ordres de souscription et de rachat par délégation de la Société de Gestion",
+        "page": 7,
+        "id": 25,
+        "depth": 4
+    },
+    {
+        "text": "Commissaire aux comptes",
+        "page": 7,
+        "id": 26,
+        "depth": 4
+    },
+    {
+        "text": "Délégataire de gestion comptable",
+        "page": 7,
+        "id": 27,
+        "depth": 4
+    },
+    {
+        "text": "Teneurs de marché",
+        "page": 7,
+        "id": 28,
+        "depth": 4
+    },
+    {
+        "text": "III. MODALITES DE FONCTIONNEMENT ET DE GESTION",
+        "page": 8,
+        "id": 29,
+        "depth": 3
+    },
+    {
+        "text": "III.1 Caractéristiques générales",
+        "page": 8,
+        "id": 30,
+        "depth": 4
+    },
+    {
+        "text": "Caractéristiques des parts",
+        "page": 8,
+        "id": 31,
+        "depth": 5
+    },
+    {
+        "text": "Nature du droit attaché à la catégorie de parts",
+        "page": 8,
+        "id": 32,
+        "depth": 6
+    },
+    {
+        "text": "Inscription à un registre ou précision des modalités de tenue du passif",
+        "page": 8,
+        "id": 33,
+        "depth": 6
+    },
+    {
+        "text": "Droits de vote",
+        "page": 8,
+        "id": 34,
+        "depth": 6
+    },
+    {
+        "text": "Forme des parts",
+        "page": 8,
+        "id": 35,
+        "depth": 6
+    },
+    {
+        "text": "Décimalisation éventuellement prévue (fractionnement)",
+        "page": 8,
+        "id": 36,
+        "depth": 6
+    },
+    {
+        "text": "Parts EUR - Admission des parts sur le marché NextTrack de Euronext Paris",
+        "page": 8,
+        "id": 37,
+        "depth": 5
+    },
+    {
+        "text": "Date de clôture de l’exercice comptable",
+        "page": 9,
+        "id": 38,
+        "depth": 5
+    },
+    {
+        "text": "Date de clôture du premier exercice",
+        "page": 9,
+        "id": 39,
+        "depth": 5
+    },
+    {
+        "text": "Régime fiscal",
+        "page": 9,
+        "id": 40,
+        "depth": 5
+    },
+    {
+        "text": "III.2 Dispositions particulières",
+        "page": 10,
+        "id": 41,
+        "depth": 4
+    },
+    {
+        "text": "Code ISIN",
+        "page": 10,
+        "id": 42,
+        "depth": 5
+    },
+    {
+        "text": "Classification",
+        "page": 11,
+        "id": 43,
+        "depth": 5
+    },
+    {
+        "text": "Objectif de gestion",
+        "page": 11,
+        "id": 44,
+        "depth": 5
+    },
+    {
+        "text": "Indicateur de référence",
+        "page": 11,
+        "id": 45,
+        "depth": 5
+    },
+    {
+        "text": "Publication de l’Indice S&P Global Luxury",
+        "page": 11,
+        "id": 46,
+        "depth": 6
+    },
+    {
+        "text": "Révision de l’Indice S&P Global Luxury",
+        "page": 11,
+        "id": 47,
+        "depth": 6
+    },
+    {
+        "text": "Stratégie d’investissement",
+        "page": 12,
+        "id": 48,
+        "depth": 5
+    },
+    {
+        "text": "1. Stratégie utilisée",
+        "page": 12,
+        "id": 49,
+        "depth": 6
+    },
+    {
+        "text": "2. Actifs utilisés (hors dérivés intégrés)",
+        "page": 12,
+        "id": 50,
+        "depth": 6
+    },
+    {
+        "text": "3. Instruments dérivés",
+        "page": 13,
+        "id": 51,
+        "depth": 6
+    },
+    {
+        "text": "4. Titres intégrant des dérivés",
+        "page": 14,
+        "id": 52,
+        "depth": 6
+    },
+    {
+        "text": "5. Dépôts et liquidités",
+        "page": 14,
+        "id": 53,
+        "depth": 6
+    },
+    {
+        "text": "6. Emprunt d’espèces",
+        "page": 14,
+        "id": 54,
+        "depth": 6
+    },
+    {
+        "text": "7. Opérations d’acquisitions et de cessions temporaires de titres",
+        "page": 14,
+        "id": 55,
+        "depth": 6
+    },
+    {
+        "text": "Informations relatives aux garanties financières (acquisition et cession temporaires de titres) et aux contrats d'échange sur rendement global (TRS)",
+        "page": 15,
+        "id": 56,
+        "depth": 5
+    },
+    {
+        "text": "Description succincte de la procédure de choix des intermédiaires et commentaires éventuels",
+        "page": 15,
+        "id": 57,
+        "depth": 5
+    },
+    {
+        "text": "Profil de risque",
+        "page": 15,
+        "id": 58,
+        "depth": 5
+    },
+    {
+        "text": "- Risque actions",
+        "page": 15,
+        "id": 59,
+        "depth": 6
+    },
+    {
+        "text": "- Risque de perte en capital",
+        "page": 15,
+        "id": 60,
+        "depth": 6
+    },
+    {
+        "text": "- Facteurs susceptibles d’influencer la capacité du Fonds à répliquer la performance de l’Indice S&P Global Luxury",
+        "page": 15,
+        "id": 61,
+        "depth": 6
+    },
+    {
+        "text": "- Risque de change",
+        "page": 15,
+        "id": 62,
+        "depth": 6
+    },
+    {
+        "text": "- Risque sectorie",
+        "page": 16,
+        "id": 63,
+        "depth": 6
+    },
+    {
+        "text": "- Risque de crédit",
+        "page": 16,
+        "id": 64,
+        "depth": 6
+    },
+    {
+        "text": "- Risque de contrepartie lié au mode de réplication synthétique choisi",
+        "page": 16,
+        "id": 65,
+        "depth": 6
+    },
+    {
+        "text": "Risque de liquidité",
+        "page": 16,
+        "id": 66,
+        "depth": 6
+    },
+    {
+        "text": "Risque de liquidité sur une place de cotation",
+        "page": 16,
+        "id": 67,
+        "depth": 6
+    },
+    {
+        "text": "Garantie ou protection",
+        "page": 17,
+        "id": 68,
+        "depth": 5
+    },
+    {
+        "text": "Souscripteurs concernés et profil type de l’investisseur",
+        "page": 17,
+        "id": 69,
+        "depth": 5
+    },
+    {
+        "text": "Souscripteurs concernés",
+        "page": 17,
+        "id": 70,
+        "depth": 6
+    },
+    {
+        "text": "Profil type de l’investisseur",
+        "page": 17,
+        "id": 71,
+        "depth": 6
+    },
+    {
+        "text": "Durée de placement recommandée",
+        "page": 18,
+        "id": 72,
+        "depth": 5
+    },
+    {
+        "text": "Modalité de détermination et d’affectation des sommes distribuables",
+        "page": 18,
+        "id": 73,
+        "depth": 5
+    },
+    {
+        "text": "Fréquence de distribution",
+        "page": 18,
+        "id": 74,
+        "depth": 5
+    },
+    {
+        "text": "Libellé de la devise de comptabilité",
+        "page": 18,
+        "id": 75,
+        "depth": 5
+    },
+    {
+        "text": "Caractéristiques des parts",
+        "page": 18,
+        "id": 76,
+        "depth": 5
+    },
+    {
+        "text": "Devise de libellé des parts",
+        "page": 18,
+        "id": 77,
+        "depth": 6
+    },
+    {
+        "text": "Valeur liquidative d’origine",
+        "page": 18,
+        "id": 78,
+        "depth": 6
+    },
+    {
+        "text": "Modalités de souscription et de rachat",
+        "page": 18,
+        "id": 79,
+        "depth": 5
+    },
+    {
+        "text": "Conditions de souscription et de rachat des parts du Fonds sur le marché primaire",
+        "page": 18,
+        "id": 80,
+        "depth": 6
+    },
+    {
+        "text": "Établissements désignés pour recevoir les souscriptions et les rachats",
+        "page": 20,
+        "id": 81,
+        "depth": 6
+    },
+    {
+        "text": "Admission et négociation des parts du Fonds sur le marché secondaire",
+        "page": 20,
+        "id": 82,
+        "depth": 6
+    },
+    {
+        "text": "Etablissements financiers « Teneurs de marché »",
+        "page": 21,
+        "id": 83,
+        "depth": 6
+    },
+    {
+        "text": "CONDITIONS D’ACHAT ET DE VENTE SUR LE MARCHE SECONDAIRE",
+        "page": 22,
+        "id": 84,
+        "depth": 6
+    },
+    {
+        "text": "Date et périodicité de calcul de la valeur liquidative",
+        "page": 22,
+        "id": 85,
+        "depth": 5
+    },
+    {
+        "text": "Lieu et modalités de publication ou de communication de la valeur liquidative",
+        "page": 22,
+        "id": 86,
+        "depth": 5
+    },
+    {
+        "text": "Frais et commissions",
+        "page": 23,
+        "id": 87,
+        "depth": 5
+    },
+    {
+        "text": "Commissions de souscription et de rachat",
+        "page": 23,
+        "id": 88,
+        "depth": 6
+    },
+    {
+        "text": "Frais de fonctionnement et de gestion",
+        "page": 23,
+        "id": 89,
+        "depth": 6
+    },
+    {
+        "text": "Commission en nature",
+        "page": 24,
+        "id": 90,
+        "depth": 6
+    },
+    {
+        "text": "IV. INFORMATIONS D’ORDRE COMMERCIAL",
+        "page": 25,
+        "id": 91,
+        "depth": 3
+    },
+    {
+        "text": "V. RÈGLES D’INVESTISSEMENT",
+        "page": 27,
+        "id": 92,
+        "depth": 3
+    },
+    {
+        "text": "VI. RISQUE GLOBAL",
+        "page": 28,
+        "id": 93,
+        "depth": 3
+    },
+    {
+        "text": "VII. RÈGLES D’ÉVALUATION ET DE COMPTABILISATION DES ACTIFS",
+        "page": 28,
+        "id": 94,
+        "depth": 3
+    },
+    {
+        "text": "Principe",
+        "page": 28,
+        "id": 95,
+        "depth": 4
+    },
+    {
+        "text": "Règles d’évaluation des actifs",
+        "page": 28,
+        "id": 96,
+        "depth": 4
+    },
+    {
+        "text": "Méthode de comptabilisation",
+        "page": 29,
+        "id": 97,
+        "depth": 4
+    },
+    {
+        "text": "Compte de régularisation des revenus",
+        "page": 30,
+        "id": 98,
+        "depth": 4
+    },
+    {
+        "text": "REGLEMENT",
+        "page": 31,
+        "id": 99,
+        "depth": 2
+    },
+    {
+        "text": "TITRE 1 - ACTIF ET PARTS",
+        "page": 31,
+        "id": 100,
+        "depth": 3
+    },
+    {
+        "text": "Article 1 - Parts de copropriété",
+        "page": 31,
+        "id": 101,
+        "depth": 4
+    },
+    {
+        "text": "Article 2 - Montant minimal de l'actif",
+        "page": 31,
+        "id": 102,
+        "depth": 4
+    },
+    {
+        "text": "Article 3 - Emission et rachat des parts",
+        "page": 31,
+        "id": 103,
+        "depth": 4
+    },
+    {
+        "text": "Article 4 - Calcul de la valeur liquidative",
+        "page": 33,
+        "id": 104,
+        "depth": 4
+    },
+    {
+        "text": "TITRE 2 - FONCTIONNEMENT DU FONDS",
+        "page": 33,
+        "id": 105,
+        "depth": 3
+    },
+    {
+        "text": "Article 5 - La Société de Gestion",
+        "page": 33,
+        "id": 106,
+        "depth": 4
+    },
+    {
+        "text": "Article 5 bis - Règles de fonctionnement",
+        "page": 33,
+        "id": 107,
+        "depth": 4
+    },
+    {
+        "text": "Article 5 ter - Admission à la négociation sur un marché réglémenté et/ou un système multilatéral de négociation",
+        "page": 33,
+        "id": 108,
+        "depth": 4
+    },
+    {
+        "text": "Article 6 - Le dépositaire",
+        "page": 33,
+        "id": 109,
+        "depth": 4
+    },
+    {
+        "text": "Article 7 - Le commissaire aux comptes",
+        "page": 33,
+        "id": 110,
+        "depth": 4
+    },
+    {
+        "text": "Article 8 - Les comptes et le rapport de gestion",
+        "page": 34,
+        "id": 111,
+        "depth": 4
+    },
+    {
+        "text": "TITRE 3 - MODALITES D'AFFECTATION DES SOMMES DISTRIBUABLES",
+        "page": 34,
+        "id": 112,
+        "depth": 3
+    },
+    {
+        "text": "Article 9",
+        "page": 34,
+        "id": 113,
+        "depth": 4
+    },
+    {
+        "text": "TITRE 4 - FUSION - SCISSION - DISSOLUTION - LIQUIDATION",
+        "page": 35,
+        "id": 114,
+        "depth": 3
+    },
+    {
+        "text": "Article 10 - Fusion - Scission",
+        "page": 35,
+        "id": 115,
+        "depth": 4
+    },
+    {
+        "text": "Article 11 - Dissolution - Prorogation",
+        "page": 35,
+        "id": 116,
+        "depth": 4
+    },
+    {
+        "text": "Article 12 - Liquidation",
+        "page": 35,
+        "id": 117,
+        "depth": 4
+    },
+    {
+        "text": "TITRE 5 - CONTESTATION",
+        "page": 35,
+        "id": 118,
+        "depth": 3
+    },
+    {
+        "text": "Article 13 - Compétence - Election de domicile",
+        "page": 35,
+        "id": 119,
+        "depth": 4
+    }
+]
