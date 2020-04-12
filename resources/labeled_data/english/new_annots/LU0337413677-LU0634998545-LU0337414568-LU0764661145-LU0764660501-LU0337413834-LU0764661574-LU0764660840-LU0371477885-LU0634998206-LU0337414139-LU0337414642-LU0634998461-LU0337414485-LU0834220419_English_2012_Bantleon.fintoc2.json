@@ -1,0 +1,926 @@
+[
+    {
+        "text": "Bantleon Opportunities",
+        "page": 1,
+        "id": 1,
+        "depth": 1
+    },
+    {
+        "text": "Table of Contents",
+        "page": 3,
+        "id": 2,
+        "depth": 2
+    },
+    {
+        "text": "Sales Prospectus",
+        "page": 4,
+        "id": 3,
+        "depth": 1
+    },
+    {
+        "text": "1. Sales Prospectus",
+        "page": 4,
+        "id": 4,
+        "depth": 2
+    },
+    {
+        "text": "2. The Fund",
+        "page": 4,
+        "id": 5,
+        "depth": 2
+    },
+    {
+        "text": "3. Investment Policy",
+        "page": 4,
+        "id": 6,
+        "depth": 2
+    },
+    {
+        "text": "Bantleon Opportunities S",
+        "page": 4,
+        "id": 7,
+        "depth": 3
+    },
+    {
+        "text": "Bantleon Opportunities L",
+        "page": 4,
+        "id": 8,
+        "depth": 3
+    },
+    {
+        "text": "Bantleon Opportunities XL",
+        "page": 4,
+        "id": 9,
+        "depth": 3
+    },
+    {
+        "text": "Bantleon Opportunities Global",
+        "page": 4,
+        "id": 10,
+        "depth": 3
+    },
+    {
+        "text": "Bantleon Cash",
+        "page": 5,
+        "id": 11,
+        "depth": 3
+    },
+    {
+        "text": "4. Risk Warning",
+        "page": 5,
+        "id": 12,
+        "depth": 2
+    },
+    {
+        "text": "General",
+        "page": 5,
+        "id": 13,
+        "depth": 3
+    },
+    {
+        "text": "Risk Management",
+        "page": 5,
+        "id": 14,
+        "depth": 3
+    },
+    {
+        "text": "Leverage",
+        "page": 5,
+        "id": 15,
+        "depth": 3
+    },
+    {
+        "text": "Market Risk",
+        "page": 5,
+        "id": 16,
+        "depth": 3
+    },
+    {
+        "text": "Interest Rate Risk",
+        "page": 5,
+        "id": 17,
+        "depth": 3
+    },
+    {
+        "text": "Credit Risk",
+        "page": 6,
+        "id": 18,
+        "depth": 3
+    },
+    {
+        "text": "Counter Party Risk",
+        "page": 6,
+        "id": 19,
+        "depth": 3
+    },
+    {
+        "text": "Risks Associated with Investment Shares",
+        "page": 6,
+        "id": 20,
+        "depth": 3
+    },
+    {
+        "text": "Currency Risk",
+        "page": 6,
+        "id": 21,
+        "depth": 3
+    },
+    {
+        "text": "Risks Associated with Commodities",
+        "page": 6,
+        "id": 22,
+        "depth": 3
+    },
+    {
+        "text": "Concentration Risk",
+        "page": 6,
+        "id": 23,
+        "depth": 3
+    },
+    {
+        "text": "Country or Transfer Risk",
+        "page": 6,
+        "id": 24,
+        "depth": 3
+    },
+    {
+        "text": "Custody Risk",
+        "page": 6,
+        "id": 25,
+        "depth": 3
+    },
+    {
+        "text": "Political Risk / Regulatory Risk",
+        "page": 6,
+        "id": 26,
+        "depth": 3
+    },
+    {
+        "text": "Inflation Risk",
+        "page": 6,
+        "id": 27,
+        "depth": 3
+    },
+    {
+        "text": "Key Persons Risk",
+        "page": 6,
+        "id": 28,
+        "depth": 3
+    },
+    {
+        "text": "Change in Investment Policy",
+        "page": 6,
+        "id": 29,
+        "depth": 3
+    },
+    {
+        "text": "Change of Management Regulations; Dissolution or Merger",
+        "page": 6,
+        "id": 30,
+        "depth": 3
+    },
+    {
+        "text": "Liquidity Risk",
+        "page": 6,
+        "id": 31,
+        "depth": 3
+    },
+    {
+        "text": "Risks Associated with Derivative Transactions",
+        "page": 7,
+        "id": 32,
+        "depth": 3
+    },
+    {
+        "text": "Risk of Increased Sales",
+        "page": 7,
+        "id": 33,
+        "depth": 3
+    },
+    {
+        "text": "Risk of currency hedged share classes",
+        "page": 7,
+        "id": 34,
+        "depth": 3
+    },
+    {
+        "text": "5. Investor Profile",
+        "page": 7,
+        "id": 35,
+        "depth": 2
+    },
+    {
+        "text": "6. The Management Company",
+        "page": 8,
+        "id": 36,
+        "depth": 2
+    },
+    {
+        "text": "7. The Investment Manager",
+        "page": 8,
+        "id": 37,
+        "depth": 2
+    },
+    {
+        "text": "8. The Depositary Bank",
+        "page": 8,
+        "id": 38,
+        "depth": 2
+    },
+    {
+        "text": "9. Management and Transfer Agent",
+        "page": 8,
+        "id": 39,
+        "depth": 2
+    },
+    {
+        "text": "10. \u0007Prevention of Money Laundering",
+        "page": 9,
+        "id": 40,
+        "depth": 2
+    },
+    {
+        "text": "11. Shares",
+        "page": 9,
+        "id": 41,
+        "depth": 2
+    },
+    {
+        "text": "12. Share Prices",
+        "page": 9,
+        "id": 42,
+        "depth": 2
+    },
+    {
+        "text": "13. A \u0007 cquisition, Redemption and Exchange of Shares, Purchase Price Payment",
+        "page": 9,
+        "id": 43,
+        "depth": 2
+    },
+    {
+        "text": "14. Charges and Fees",
+        "page": 10,
+        "id": 44,
+        "depth": 2
+    },
+    {
+        "text": "Performance-based fee",
+        "page": 10,
+        "id": 45,
+        "depth": 3
+    },
+    {
+        "text": "15. Further Notes",
+        "page": 10,
+        "id": 46,
+        "depth": 2
+    },
+    {
+        "text": "16. Taxes",
+        "page": 11,
+        "id": 47,
+        "depth": 2
+    },
+    {
+        "text": "17. Publications and Information",
+        "page": 11,
+        "id": 48,
+        "depth": 2
+    },
+    {
+        "text": "18. The Management Regulations",
+        "page": 11,
+        "id": 49,
+        "depth": 2
+    },
+    {
+        "text": "19. Combating Market Timing and Late Trading Activities",
+        "page": 11,
+        "id": 50,
+        "depth": 2
+    },
+    {
+        "text": "Fund Overview",
+        "page": 12,
+        "id": 51,
+        "depth": 2
+    },
+    {
+        "text": "Management and Administration",
+        "page": 13,
+        "id": 52,
+        "depth": 2
+    },
+    {
+        "text": "Management Company",
+        "page": 13,
+        "id": 53,
+        "depth": 3
+    },
+    {
+        "text": "Investment Manager",
+        "page": 13,
+        "id": 54,
+        "depth": 3
+    },
+    {
+        "text": "Depositary Bank",
+        "page": 13,
+        "id": 55,
+        "depth": 3
+    },
+    {
+        "text": "Management and Transfer Agent",
+        "page": 13,
+        "id": 56,
+        "depth": 3
+    },
+    {
+        "text": "Auditor of the Management Company and the Fund",
+        "page": 13,
+        "id": 57,
+        "depth": 3
+    },
+    {
+        "text": "Paying Agents",
+        "page": 13,
+        "id": 58,
+        "depth": 3
+    },
+    {
+        "text": "Distributors",
+        "page": 13,
+        "id": 59,
+        "depth": 3
+    },
+    {
+        "text": "Management Regulations",
+        "page": 14,
+        "id": 60,
+        "depth": 1
+    },
+    {
+        "text": "1. The Management Regulations",
+        "page": 14,
+        "id": 61,
+        "depth": 2
+    },
+    {
+        "text": "2. The Fund",
+        "page": 14,
+        "id": 62,
+        "depth": 2
+    },
+    {
+        "text": "3. The Management Company",
+        "page": 14,
+        "id": 63,
+        "depth": 2
+    },
+    {
+        "text": "4. The Investment Manager",
+        "page": 14,
+        "id": 64,
+        "depth": 2
+    },
+    {
+        "text": "5. The Depositary Bank",
+        "page": 14,
+        "id": 65,
+        "depth": 2
+    },
+    {
+        "text": "6. Management and Transfer Agent",
+        "page": 15,
+        "id": 66,
+        "depth": 2
+    },
+    {
+        "text": "II. GENERAL INVESTMENT POLICY GUIDELINES",
+        "page": 15,
+        "id": 67,
+        "depth": 2
+    },
+    {
+        "text": "1. Investment Objective",
+        "page": 15,
+        "id": 68,
+        "depth": 3
+    },
+    {
+        "text": "2. Listed Securities",
+        "page": 15,
+        "id": 69,
+        "depth": 3
+    },
+    {
+        "text": "3. Unlisted Securities and Other Securitised Rights",
+        "page": 15,
+        "id": 70,
+        "depth": 3
+    },
+    {
+        "text": "4. Newly Issued Securities",
+        "page": 15,
+        "id": 71,
+        "depth": 3
+    },
+    {
+        "text": "5. Investments in UCITS and UCI",
+        "page": 15,
+        "id": 72,
+        "depth": 3
+    },
+    {
+        "text": "6. Investment Limits",
+        "page": 16,
+        "id": 73,
+        "depth": 3
+    },
+    {
+        "text": "7. Futures",
+        "page": 16,
+        "id": 74,
+        "depth": 3
+    },
+    {
+        "text": "8. \u0007Interest Rate Swap Agreements",
+        "page": 16,
+        "id": 75,
+        "depth": 3
+    },
+    {
+        "text": "9. Currency Futures",
+        "page": 17,
+        "id": 76,
+        "depth": 3
+    },
+    {
+        "text": "10. Liquid Assets",
+        "page": 17,
+        "id": 77,
+        "depth": 3
+    },
+    {
+        "text": "11. Further Investment Restrictions",
+        "page": 17,
+        "id": 78,
+        "depth": 3
+    },
+    {
+        "text": "12. Loans and Encumbrance Prohibitions",
+        "page": 17,
+        "id": 79,
+        "depth": 3
+    },
+    {
+        "text": "13. Introduction of Currencies to Replace or Succeed the Euro",
+        "page": 17,
+        "id": 80,
+        "depth": 3
+    },
+    {
+        "text": "III. ISSUES AND REDEMPTIONS, FURTHER CONDITIONS",
+        "page": 17,
+        "id": 81,
+        "depth": 2
+    },
+    {
+        "text": "1. Shares in the Sub-Funds",
+        "page": 17,
+        "id": 82,
+        "depth": 3
+    },
+    {
+        "text": "2. Issue of Shares",
+        "page": 17,
+        "id": 83,
+        "depth": 3
+    },
+    {
+        "text": "3. Calculation of the Net Asset Value per Share",
+        "page": 17,
+        "id": 84,
+        "depth": 3
+    },
+    {
+        "text": "4. Suspension of Calculation of the NAV per Share",
+        "page": 18,
+        "id": 85,
+        "depth": 3
+    },
+    {
+        "text": "5. Redemption of Shares",
+        "page": 18,
+        "id": 86,
+        "depth": 3
+    },
+    {
+        "text": "6. Exchange of Shares",
+        "page": 18,
+        "id": 87,
+        "depth": 3
+    },
+    {
+        "text": "7. Dividend Distributions",
+        "page": 18,
+        "id": 88,
+        "depth": 3
+    },
+    {
+        "text": "8. \u0007Duration and Closing of the Fund and the Sub-Funds and the Merger of Funds or Sub-Funds",
+        "page": 18,
+        "id": 89,
+        "depth": 3
+    },
+    {
+        "text": "9. Fees, Charges",
+        "page": 19,
+        "id": 90,
+        "depth": 3
+    },
+    {
+        "text": "10. Fiscal Year and Audit of Annual Accounts",
+        "page": 19,
+        "id": 91,
+        "depth": 3
+    },
+    {
+        "text": "11. Statute of Limitations",
+        "page": 19,
+        "id": 92,
+        "depth": 3
+    },
+    {
+        "text": "12. Amendments",
+        "page": 19,
+        "id": 93,
+        "depth": 3
+    },
+    {
+        "text": "13. Publications",
+        "page": 20,
+        "id": 94,
+        "depth": 3
+    },
+    {
+        "text": "14. Applicable Law, Jurisdiction and Language of Contract",
+        "page": 20,
+        "id": 95,
+        "depth": 3
+    },
+    {
+        "text": "15. Entry into Force",
+        "page": 20,
+        "id": 96,
+        "depth": 3
+    },
+    {
+        "text": "Special Regulations ",
+        "page": 21,
+        "id": 97,
+        "depth": 1
+    },
+    {
+        "text": "Special Regulations bantleon Opportunities S",
+        "page": 20,
+        "id": 98,
+        "depth": 2
+    },
+    {
+        "text": "1. Investment Policy",
+        "page": 21,
+        "id": 99,
+        "depth": 3
+    },
+    {
+        "text": "2. Liquid Assets",
+        "page": 21,
+        "id": 100,
+        "depth": 3
+    },
+    {
+        "text": "3. Futures",
+        "page": 21,
+        "id": 101,
+        "depth": 3
+    },
+    {
+        "text": "4. Currency Futures",
+        "page": 21,
+        "id": 102,
+        "depth": 3
+    },
+    {
+        "text": "5. \u0007Acquisition, Redemption and Exchange of Shares, Purchase Price Payment",
+        "page": 21,
+        "id": 103,
+        "depth": 3
+    },
+    {
+        "text": "6. Charges and Fees",
+        "page": 21,
+        "id": 104,
+        "depth": 3
+    },
+    {
+        "text": "7. Dividend Distributions",
+        "page": 22,
+        "id": 105,
+        "depth": 3
+    },
+    {
+        "text": "8. Term / Entry into Force",
+        "page": 22,
+        "id": 106,
+        "depth": 3
+    },
+    {
+        "text": "Special Regulations Bantleon Opportunities L",
+        "page": 23,
+        "id": 107,
+        "depth": 2
+    },
+    {
+        "text": "1. Investment Policy",
+        "page": 23,
+        "id": 108,
+        "depth": 3
+    },
+    {
+        "text": "2. Liquid Assets",
+        "page": 23,
+        "id": 109,
+        "depth": 3
+    },
+    {
+        "text": "3. Futures",
+        "page": 23,
+        "id": 110,
+        "depth": 3
+    },
+    {
+        "text": "4. Currency Futures",
+        "page": 23,
+        "id": 111,
+        "depth": 3
+    },
+    {
+        "text": "5. A \u0007 cquisition, Redemption and Exchange of Shares, Purchase Price Payment",
+        "page": 23,
+        "id": 112,
+        "depth": 3
+    },
+    {
+        "text": "6. Charges and Fees",
+        "page": 23,
+        "id": 113,
+        "depth": 3
+    },
+    {
+        "text": "7. Dividend Distributions",
+        "page": 24,
+        "id": 114,
+        "depth": 3
+    },
+    {
+        "text": "8. Term/Entry into Force",
+        "page": 24,
+        "id": 115,
+        "depth": 3
+    },
+    {
+        "text": "Special Regulations Bantleon Opportunities XL",
+        "page": 25,
+        "id": 116,
+        "depth": 2
+    },
+    {
+        "text": "1. Investment Policy",
+        "page": 25,
+        "id": 117,
+        "depth": 3
+    },
+    {
+        "text": "2. Liquid Assets",
+        "page": 25,
+        "id": 118,
+        "depth": 3
+    },
+    {
+        "text": "3. Futures",
+        "page": 25,
+        "id": 119,
+        "depth": 3
+    },
+    {
+        "text": "4. A \u0007 cquisition, Redemption and Exchange of Shares, Purchase Price Payment",
+        "page": 25,
+        "id": 120,
+        "depth": 3
+    },
+    {
+        "text": "5. Charges and Fees",
+        "page": 25,
+        "id": 121,
+        "depth": 3
+    },
+    {
+        "text": "6. Dividend Distributions",
+        "page": 26,
+        "id": 122,
+        "depth": 3
+    },
+    {
+        "text": "7. Term/Entry into Force",
+        "page": 26,
+        "id": 123,
+        "depth": 3
+    },
+    {
+        "text": "Special Regulations Bantleon OPPORTUNITIES GLOBAL",
+        "page": 27,
+        "id": 124,
+        "depth": 2
+    },
+    {
+        "text": "1. Investment Policy",
+        "page": 27,
+        "id": 125,
+        "depth": 3
+    },
+    {
+        "text": "Bonds",
+        "page": 27,
+        "id": 126,
+        "depth": 4
+    },
+    {
+        "text": "Equities",
+        "page": 27,
+        "id": 127,
+        "depth": 4
+    },
+    {
+        "text": "Commodities",
+        "page": 27,
+        "id": 128,
+        "depth": 4
+    },
+    {
+        "text": "Investment Funds",
+        "page": 27,
+        "id": 129,
+        "depth": 4
+    },
+    {
+        "text": "2. Liquid Assets",
+        "page": 27,
+        "id": 130,
+        "depth": 3
+    },
+    {
+        "text": "3. Currencies",
+        "page": 27,
+        "id": 131,
+        "depth": 3
+    },
+    {
+        "text": "4. Futures",
+        "page": 28,
+        "id": 132,
+        "depth": 3
+    },
+    {
+        "text": "5. Currencies Futures",
+        "page": 28,
+        "id": 133,
+        "depth": 3
+    },
+    {
+        "text": "6. Acquisition, Redemption and Exchange of Shares, \tPurchase Price Payment",
+        "page": 28,
+        "id": 134,
+        "depth": 3
+    },
+    {
+        "text": "7. Charges and Fees",
+        "page": 28,
+        "id": 135,
+        "depth": 3
+    },
+    {
+        "text": "8. Dividend Distributions",
+        "page": 28,
+        "id": 136,
+        "depth": 3
+    },
+    {
+        "text": "9. Term / Entry into Force",
+        "page": 28,
+        "id": 137,
+        "depth": 3
+    },
+    {
+        "text": "Special Regulations Bantleon CASH",
+        "page": 29,
+        "id": 138,
+        "depth": 2
+    },
+    {
+        "text": "1. Investment Policy",
+        "page": 29,
+        "id": 139,
+        "depth": 3
+    },
+    {
+        "text": "2. Liquid Assets",
+        "page": 29,
+        "id": 140,
+        "depth": 3
+    },
+    {
+        "text": "3. Futures",
+        "page": 29,
+        "id": 141,
+        "depth": 3
+    },
+    {
+        "text": "4. Interest Rate Swap Agreements",
+        "page": 29,
+        "id": 142,
+        "depth": 3
+    },
+    {
+        "text": "5. Acquisition, Redemption and Exchange of Shares, \t­Purchase Price Payment",
+        "page": 29,
+        "id": 143,
+        "depth": 3
+    },
+    {
+        "text": "6. Charges and Fees",
+        "page": 30,
+        "id": 144,
+        "depth": 3
+    },
+    {
+        "text": "7. Dividend Distributions",
+        "page": 30,
+        "id": 145,
+        "depth": 3
+    },
+    {
+        "text": "8. Term/Entry into Force",
+        "page": 30,
+        "id": 146,
+        "depth": 3
+    },
+    {
+        "text": "Annex",
+        "page": 31,
+        "id": 147,
+        "depth": 1
+    },
+    {
+        "text": "I. Issuers",
+        "page": 31,
+        "id": 148,
+        "depth": 2
+    },
+    {
+        "text": "II. EQUITY INDICES",
+        "page": 31,
+        "id": 149,
+        "depth": 2
+    },
+    {
+        "text": "Asset Management",
+        "page": 32,
+        "id": 150,
+        "depth": 1
+    },
+    {
+        "text": "Depositary Bank",
+        "page": 32,
+        "id": 151,
+        "depth": 1
+    },
+    {
+        "text": "Management Company",
+        "page": 32,
+        "id": 152,
+        "depth": 1
+    },
+    {
+        "text": "Fund Sales and Marketing",
+        "page": 32,
+        "id": 153,
+        "depth": 1
+    },
+    {
+        "text": "Internet",
+        "page": 32,
+        "id": 154,
+        "depth": 1
+    }
+]

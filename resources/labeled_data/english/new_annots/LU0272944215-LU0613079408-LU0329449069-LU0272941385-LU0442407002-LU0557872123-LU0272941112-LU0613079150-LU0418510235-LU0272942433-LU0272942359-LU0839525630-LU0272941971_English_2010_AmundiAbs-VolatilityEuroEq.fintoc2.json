@@ -1,0 +1,1808 @@
+[
+    {
+        "text": "AMUNDI FUNDS 1 PROSPECTUS",
+        "page": 1,
+        "id": 1,
+        "depth": 1
+    },
+    {
+        "text": "IMPORTANT INFORMATION",
+        "page": 2,
+        "id": 2,
+        "depth": 2
+    },
+    {
+        "text": "GLOSSARY",
+        "page": 4,
+        "id": 3,
+        "depth": 2
+    },
+    {
+        "text": "Table of Contents",
+        "page": 7,
+        "id": 4,
+        "depth": 2
+    },
+    {
+        "text": "I. MANAGEMENT AND ADMINISTRATION",
+        "page": 9,
+        "id": 5,
+        "depth": 1
+    },
+    {
+        "text": "Registered Office",
+        "page": 9,
+        "id": 6,
+        "depth": 2
+    },
+    {
+        "text": "Management Company",
+        "page": 9,
+        "id": 7,
+        "depth": 2
+    },
+    {
+        "text": "Board of Directors",
+        "page": 9,
+        "id": 8,
+        "depth": 2
+    },
+    {
+        "text": "General Managers",
+        "page": 9,
+        "id": 9,
+        "depth": 2
+    },
+    {
+        "text": "Custodian",
+        "page": 9,
+        "id": 10,
+        "depth": 2
+    },
+    {
+        "text": "Administrative Agent",
+        "page": 10,
+        "id": 11,
+        "depth": 2
+    },
+    {
+        "text": "Investment Managers",
+        "page": 10,
+        "id": 12,
+        "depth": 2
+    },
+    {
+        "text": "Investment Sub-Managers",
+        "page": 10,
+        "id": 13,
+        "depth": 2
+    },
+    {
+        "text": "Auditor of the Fund",
+        "page": 10,
+        "id": 14,
+        "depth": 2
+    },
+    {
+        "text": "Legal Adviser",
+        "page": 10,
+        "id": 15,
+        "depth": 2
+    },
+    {
+        "text": "II. LEGAL FORM",
+        "page": 11,
+        "id": 16,
+        "depth": 1
+    },
+    {
+        "text": "III. STRUCTURE",
+        "page": 11,
+        "id": 17,
+        "depth": 1
+    },
+    {
+        "text": "IV. LIST OF SUB-FUNDS",
+        "page": 12,
+        "id": 18,
+        "depth": 1
+    },
+    {
+        "text": "V. OBJECTIVE AND INVESTMENT POLICY",
+        "page": 15,
+        "id": 19,
+        "depth": 1
+    },
+    {
+        "text": "A. EQUITY SUB-FUNDS",
+        "page": 16,
+        "id": 20,
+        "depth": 2
+    },
+    {
+        "text": "1. Equity Sub-Funds: Global/Regional/Country Sub-Funds",
+        "page": 17,
+        "id": 21,
+        "depth": 3
+    },
+    {
+        "text": "Risk warnings",
+        "page": 17,
+        "id": 22,
+        "depth": 4
+    },
+    {
+        "text": "Risk profile",
+        "page": 17,
+        "id": 23,
+        "depth": 4
+    },
+    {
+        "text": "Profile of the typical Investor",
+        "page": 17,
+        "id": 24,
+        "depth": 4
+    },
+    {
+        "text": "Euro Quant",
+        "page": 18,
+        "id": 25,
+        "depth": 4
+    },
+    {
+        "text": "Gems Europe",
+        "page": 18,
+        "id": 26,
+        "depth": 4
+    },
+    {
+        "text": "Gems World",
+        "page": 18,
+        "id": 27,
+        "depth": 4
+    },
+    {
+        "text": "Global Equities",
+        "page": 19,
+        "id": 28,
+        "depth": 4
+    },
+    {
+        "text": "Japan Value",
+        "page": 19,
+        "id": 29,
+        "depth": 4
+    },
+    {
+        "text": "Minimum Variance Europe",
+        "page": 19,
+        "id": 30,
+        "depth": 4
+    },
+    {
+        "text": "Select Euro",
+        "page": 19,
+        "id": 31,
+        "depth": 4
+    },
+    {
+        "text": "Select Europe",
+        "page": 20,
+        "id": 32,
+        "depth": 4
+    },
+    {
+        "text": "Switzerland",
+        "page": 20,
+        "id": 33,
+        "depth": 4
+    },
+    {
+        "text": "US Innovative Companies",
+        "page": 20,
+        "id": 34,
+        "depth": 4
+    },
+    {
+        "text": "2. Equity Sub-Funds: Smaller Companies/Thematic Sub-Funds",
+        "page": 21,
+        "id": 35,
+        "depth": 3
+    },
+    {
+        "text": "Risk warnings",
+        "page": 21,
+        "id": 36,
+        "depth": 4
+    },
+    {
+        "text": "Risk profile",
+        "page": 21,
+        "id": 37,
+        "depth": 4
+    },
+    {
+        "text": "Profile of the typical Investor",
+        "page": 21,
+        "id": 38,
+        "depth": 4
+    },
+    {
+        "text": "Europe Smaller Companies",
+        "page": 21,
+        "id": 39,
+        "depth": 4
+    },
+    {
+        "text": "Global Agriculture",
+        "page": 21,
+        "id": 40,
+        "depth": 4
+    },
+    {
+        "text": "Global Finance",
+        "page": 22,
+        "id": 41,
+        "depth": 4
+    },
+    {
+        "text": "Global Resources",
+        "page": 22,
+        "id": 42,
+        "depth": 4
+    },
+    {
+        "text": "Japan Small Caps",
+        "page": 22,
+        "id": 43,
+        "depth": 4
+    },
+    {
+        "text": "Restructuring equities",
+        "page": 22,
+        "id": 44,
+        "depth": 4
+    },
+    {
+        "text": "US Opportunities",
+        "page": 22,
+        "id": 45,
+        "depth": 4
+    },
+    {
+        "text": "3. Equity Sub-Funds: Asia/Emerging Markets Sub-Funds",
+        "page": 24,
+        "id": 46,
+        "depth": 3
+    },
+    {
+        "text": "Risk warnings",
+        "page": 24,
+        "id": 47,
+        "depth": 4
+    },
+    {
+        "text": "Risk profile",
+        "page": 24,
+        "id": 48,
+        "depth": 4
+    },
+    {
+        "text": "Profile of the typical Investor",
+        "page": 24,
+        "id": 49,
+        "depth": 4
+    },
+    {
+        "text": "ASEAN New Markets",
+        "page": 24,
+        "id": 50,
+        "depth": 4
+    },
+    {
+        "text": "Asia Pacific Renaissance",
+        "page": 24,
+        "id": 51,
+        "depth": 4
+    },
+    {
+        "text": "Asian Growth",
+        "page": 25,
+        "id": 52,
+        "depth": 4
+    },
+    {
+        "text": "Brazil",
+        "page": 25,
+        "id": 53,
+        "depth": 4
+    },
+    {
+        "text": "Emerging Europe",
+        "page": 25,
+        "id": 54,
+        "depth": 4
+    },
+    {
+        "text": "Emerging Internal Demand",
+        "page": 25,
+        "id": 55,
+        "depth": 4
+    },
+    {
+        "text": "Emerging Markets",
+        "page": 25,
+        "id": 56,
+        "depth": 4
+    },
+    {
+        "text": "Emerging World",
+        "page": 26,
+        "id": 57,
+        "depth": 4
+    },
+    {
+        "text": "Greater China",
+        "page": 26,
+        "id": 58,
+        "depth": 4
+    },
+    {
+        "text": "India",
+        "page": 26,
+        "id": 59,
+        "depth": 4
+    },
+    {
+        "text": "India Infrastructure",
+        "page": 27,
+        "id": 60,
+        "depth": 4
+    },
+    {
+        "text": "Korea",
+        "page": 27,
+        "id": 61,
+        "depth": 4
+    },
+    {
+        "text": "Latin America Equities",
+        "page": 27,
+        "id": 62,
+        "depth": 4
+    },
+    {
+        "text": "Thailand",
+        "page": 27,
+        "id": 63,
+        "depth": 4
+    },
+    {
+        "text": "Equity Sub-Funds: Socially Responsible Investments",
+        "page": 29,
+        "id": 64,
+        "depth": 3
+    },
+    {
+        "text": "Risk warnings",
+        "page": 29,
+        "id": 65,
+        "depth": 4
+    },
+    {
+        "text": "Risk profile",
+        "page": 29,
+        "id": 66,
+        "depth": 4
+    },
+    {
+        "text": "Profile of the typical Investor",
+        "page": 29,
+        "id": 67,
+        "depth": 4
+    },
+    {
+        "text": "Aqua Global",
+        "page": 29,
+        "id": 68,
+        "depth": 4
+    },
+    {
+        "text": "Clean Planet",
+        "page": 29,
+        "id": 69,
+        "depth": 4
+    },
+    {
+        "text": "Europe SRI",
+        "page": 29,
+        "id": 70,
+        "depth": 4
+    },
+    {
+        "text": "B. BOND SUB-FUNDS",
+        "page": 31,
+        "id": 71,
+        "depth": 2
+    },
+    {
+        "text": "1. Bond Sub-Funds: Convertible Bonds Sub-Fund",
+        "page": 32,
+        "id": 72,
+        "depth": 3
+    },
+    {
+        "text": "Global Convertible Bond",
+        "page": 32,
+        "id": 73,
+        "depth": 4
+    },
+    {
+        "text": "2. Bond Sub-Funds: Global Bonds Sub-Funds",
+        "page": 33,
+        "id": 74,
+        "depth": 3
+    },
+    {
+        "text": "Global Corporate Bond",
+        "page": 33,
+        "id": 75,
+        "depth": 4
+    },
+    {
+        "text": "3. Bond Sub-Funds: Euro Bonds Sub-Funds",
+        "page": 34,
+        "id": 76,
+        "depth": 3
+    },
+    {
+        "text": "Euro Bond",
+        "page": 34,
+        "id": 77,
+        "depth": 4
+    },
+    {
+        "text": "Euro Corporate Bond",
+        "page": 34,
+        "id": 78,
+        "depth": 4
+    },
+    {
+        "text": "Euro Inflation Bond",
+        "page": 34,
+        "id": 79,
+        "depth": 4
+    },
+    {
+        "text": "4. Bond Sub-Funds: Specific Bonds Sub-Funds",
+        "page": 35,
+        "id": 80,
+        "depth": 3
+    },
+    {
+        "text": "Euro Select Bond",
+        "page": 35,
+        "id": 81,
+        "depth": 4
+    },
+    {
+        "text": "5. Bond Sub-Funds: High Yield Bonds Sub-Funds",
+        "page": 36,
+        "id": 82,
+        "depth": 3
+    },
+    {
+        "text": "Euro High Yield Bond",
+        "page": 36,
+        "id": 83,
+        "depth": 4
+    },
+    {
+        "text": "6. Bond Sub-Funds: Global Bonds Sub-Funds",
+        "page": 37,
+        "id": 84,
+        "depth": 3
+    },
+    {
+        "text": "Asian Income",
+        "page": 37,
+        "id": 85,
+        "depth": 4
+    },
+    {
+        "text": "European Bond",
+        "page": 37,
+        "id": 86,
+        "depth": 4
+    },
+    {
+        "text": "Global Aggregate",
+        "page": 37,
+        "id": 87,
+        "depth": 4
+    },
+    {
+        "text": "Global Bond",
+        "page": 38,
+        "id": 88,
+        "depth": 4
+    },
+    {
+        "text": "Global Inflation Bond",
+        "page": 38,
+        "id": 89,
+        "depth": 4
+    },
+    {
+        "text": "7. Bond Sub-Funds: Emerging Markets Debts Sub-Funds",
+        "page": 39,
+        "id": 90,
+        "depth": 3
+    },
+    {
+        "text": "Emerging Markets Debt",
+        "page": 39,
+        "id": 91,
+        "depth": 4
+    },
+    {
+        "text": "8. Bond Sub-Funds: LDI Bonds Sub-Funds",
+        "page": 40,
+        "id": 92,
+        "depth": 3
+    },
+    {
+        "text": "Mainly identified risks",
+        "page": 40,
+        "id": 93,
+        "depth": 4
+    },
+    {
+        "text": "Risk profile",
+        "page": 40,
+        "id": 94,
+        "depth": 4
+    },
+    {
+        "text": "Profile of typical Investor",
+        "page": 40,
+        "id": 95,
+        "depth": 4
+    },
+    {
+        "text": "LDI Gilt Plus (GBP)",
+        "page": 40,
+        "id": 96,
+        "depth": 4
+    },
+    {
+        "text": "Investment objective:",
+        "page": 40,
+        "id": 97,
+        "depth": 5
+    },
+    {
+        "text": "Investment strategies:",
+        "page": 40,
+        "id": 98,
+        "depth": 5
+    },
+    {
+        "text": "Description of the asset categories:",
+        "page": 40,
+        "id": 99,
+        "depth": 5
+    },
+    {
+        "text": "Risk Control:",
+        "page": 41,
+        "id": 100,
+        "depth": 5
+    },
+    {
+        "text": "LDI Index linked Plus (GBP)",
+        "page": 41,
+        "id": 101,
+        "depth": 4
+    },
+    {
+        "text": "Investment objective:",
+        "page": 41,
+        "id": 102,
+        "depth": 5
+    },
+    {
+        "text": "Investment strategies:",
+        "page": 41,
+        "id": 103,
+        "depth": 5
+    },
+    {
+        "text": "Description of the asset categories:",
+        "page": 41,
+        "id": 104,
+        "depth": 5
+    },
+    {
+        "text": "Risk Control:",
+        "page": 42,
+        "id": 105,
+        "depth": 5
+    },
+    {
+        "text": "C. INDEXED SUB-FUNDS",
+        "page": 43,
+        "id": 106,
+        "depth": 2
+    },
+    {
+        "text": "1. Indexed Sub-Funds: Indexed Equities Sub-Funds",
+        "page": 44,
+        "id": 107,
+        "depth": 3
+    },
+    {
+        "text": "Index Euro",
+        "page": 44,
+        "id": 108,
+        "depth": 4
+    },
+    {
+        "text": "Index Europe",
+        "page": 44,
+        "id": 109,
+        "depth": 4
+    },
+    {
+        "text": "Index North America",
+        "page": 45,
+        "id": 110,
+        "depth": 4
+    },
+    {
+        "text": "Index Pacific",
+        "page": 45,
+        "id": 111,
+        "depth": 4
+    },
+    {
+        "text": "2. Indexed Sub-Funds: Indexed Bonds Sub-fund",
+        "page": 45,
+        "id": 112,
+        "depth": 3
+    },
+    {
+        "text": "Index Global Bond (EUR) Hedged",
+        "page": 45,
+        "id": 113,
+        "depth": 4
+    },
+    {
+        "text": "GUARANTEED/PROTECTED SUB-FUNDS",
+        "page": 47,
+        "id": 114,
+        "depth": 2
+    },
+    {
+        "text": "Multi Asset Protected",
+        "page": 48,
+        "id": 115,
+        "depth": 3
+    },
+    {
+        "text": "1. Objective and Investment policy",
+        "page": 48,
+        "id": 116,
+        "depth": 4
+    },
+    {
+        "text": "2. Protection",
+        "page": 48,
+        "id": 117,
+        "depth": 4
+    },
+    {
+        "text": "- Guarantor",
+        "page": 48,
+        "id": 118,
+        "depth": 5
+    },
+    {
+        "text": "- Protection mechanism",
+        "page": 48,
+        "id": 119,
+        "depth": 5
+    },
+    {
+        "text": "- Protection Period",
+        "page": 49,
+        "id": 120,
+        "depth": 5
+    },
+    {
+        "text": "E. ABSOLUTE RETURN SUB-FUNDS",
+        "page": 50,
+        "id": 121,
+        "depth": 2
+    },
+    {
+        "text": "1. Absolute Return Sub-Funds: Arbitrage VaR Short Term Sub-Funds",
+        "page": 52,
+        "id": 122,
+        "depth": 3
+    },
+    {
+        "text": "Arbitrage VaR Short Term",
+        "page": 52,
+        "id": 123,
+        "depth": 4
+    },
+    {
+        "text": "Absolute Return Sub-Funds: Arbitrage VaR Sub-Funds",
+        "page": 54,
+        "id": 124,
+        "depth": 3
+    },
+    {
+        "text": "Arbitrage VaR 2 (EUR)",
+        "page": 54,
+        "id": 125,
+        "depth": 4
+    },
+    {
+        "text": "Arbitrage VaR 2 (GBP)",
+        "page": 55,
+        "id": 126,
+        "depth": 4
+    },
+    {
+        "text": "Arbitrage VaR 2 (USD)",
+        "page": 55,
+        "id": 127,
+        "depth": 4
+    },
+    {
+        "text": "Absolute Return Sub-Funds: Dynarbitrage VaR Sub-Funds",
+        "page": 56,
+        "id": 128,
+        "depth": 3
+    },
+    {
+        "text": "Dynarbitrage VaR 4 (EUR)",
+        "page": 56,
+        "id": 129,
+        "depth": 4
+    },
+    {
+        "text": "Dynarbitrage VaR 4 (USD)",
+        "page": 57,
+        "id": 130,
+        "depth": 4
+    },
+    {
+        "text": "Absolute Return Sub-Funds: Equity Arbitrage Sub-Funds",
+        "page": 58,
+        "id": 131,
+        "depth": 3
+    },
+    {
+        "text": "Equity Statistical Arbitrage (EUR)",
+        "page": 58,
+        "id": 132,
+        "depth": 4
+    },
+    {
+        "text": "Equity Statistical Arbitrage (USD)",
+        "page": 58,
+        "id": 133,
+        "depth": 4
+    },
+    {
+        "text": "Absolute Return Sub-Funds: Arbitrage Inflation Sub-Fund",
+        "page": 60,
+        "id": 134,
+        "depth": 3
+    },
+    {
+        "text": "Arbitrage Inflation",
+        "page": 60,
+        "id": 135,
+        "depth": 4
+    },
+    {
+        "text": "Absolute Return Sub-Funds: Dynarbitrage Forex Sub-Funds",
+        "page": 61,
+        "id": 136,
+        "depth": 3
+    },
+    {
+        "text": "General Description of strategies used by these Sub-Funds:",
+        "page": 61,
+        "id": 137,
+        "depth": 4
+    },
+    {
+        "text": "Dynarbitrage Forex",
+        "page": 62,
+        "id": 138,
+        "depth": 4
+    },
+    {
+        "text": "Dynarbitrage Forex Asia Pacific",
+        "page": 62,
+        "id": 139,
+        "depth": 4
+    },
+    {
+        "text": "6. Absolute Return Sub-Funds: Dynarbitrage High Yield Sub-Fund",
+        "page": 64,
+        "id": 140,
+        "depth": 3
+    },
+    {
+        "text": "Dynarbitrage High Yield",
+        "page": 64,
+        "id": 141,
+        "depth": 4
+    },
+    {
+        "text": "Investment strategies:",
+        "page": 64,
+        "id": 142,
+        "depth": 5
+    },
+    {
+        "text": "7. Absolute Return Sub-Funds: Dynarbitrage Volatility Sub-Fund",
+        "page": 65,
+        "id": 143,
+        "depth": 3
+    },
+    {
+        "text": "Dynarbitrage Volatility",
+        "page": 65,
+        "id": 144,
+        "depth": 4
+    },
+    {
+        "text": "Description of the strategies used:",
+        "page": 65,
+        "id": 145,
+        "depth": 5
+    },
+    {
+        "text": "Volatility arbitrage strategies on convertible bonds",
+        "page": 65,
+        "id": 146,
+        "depth": 6
+    },
+    {
+        "text": "Volatility arbitrage strategies on equities, interest rates, currencies and credit",
+        "page": 65,
+        "id": 147,
+        "depth": 6
+    },
+    {
+        "text": "Monetary strategy",
+        "page": 65,
+        "id": 148,
+        "depth": 5
+    },
+    {
+        "text": "Directional strategies with an asymmetrical risk profile:",
+        "page": 65,
+        "id": 149,
+        "depth": 5
+    },
+    {
+        "text": "Description of the assets categories:",
+        "page": 66,
+        "id": 150,
+        "depth": 5
+    },
+    {
+        "text": "Derivative instruments:",
+        "page": 66,
+        "id": 151,
+        "depth": 5
+    },
+    {
+        "text": "Absolute Return Sub-Funds: Volatility Equities Sub-Funds",
+        "page": 67,
+        "id": 152,
+        "depth": 3
+    },
+    {
+        "text": "Volatility Euro Equities",
+        "page": 67,
+        "id": 153,
+        "depth": 4
+    },
+    {
+        "text": "Volatility World Equities",
+        "page": 67,
+        "id": 154,
+        "depth": 4
+    },
+    {
+        "text": "Absolute Return Sub-Funds: Multimanagers Long/Short Equity Sub-Funds",
+        "page": 68,
+        "id": 155,
+        "depth": 3
+    },
+    {
+        "text": "F. RESERVE SUB-FUNDS",
+        "page": 69,
+        "id": 156,
+        "depth": 2
+    },
+    {
+        "text": "Risk profile",
+        "page": 69,
+        "id": 157,
+        "depth": 3
+    },
+    {
+        "text": "Profile of the typical Investor",
+        "page": 69,
+        "id": 158,
+        "depth": 3
+    },
+    {
+        "text": "Additional precisions and definitions",
+        "page": 69,
+        "id": 159,
+        "depth": 3
+    },
+    {
+        "text": "Euro Reserve",
+        "page": 69,
+        "id": 160,
+        "depth": 3
+    },
+    {
+        "text": "USD Reserve",
+        "page": 69,
+        "id": 161,
+        "depth": 3
+    },
+    {
+        "text": "VI. THE ORGANISATION OF SHARES",
+        "page": 71,
+        "id": 162,
+        "depth": 1
+    },
+    {
+        "text": "A. CLASSES OF SHARES",
+        "page": 71,
+        "id": 163,
+        "depth": 2
+    },
+    {
+        "text": "B. CATEGORIES OF SHARES",
+        "page": 71,
+        "id": 164,
+        "depth": 2
+    },
+    {
+        "text": "Distribution Shares",
+        "page": 71,
+        "id": 165,
+        "depth": 3
+    },
+    {
+        "text": "Accumulation Shares",
+        "page": 71,
+        "id": 166,
+        "depth": 3
+    },
+    {
+        "text": "C. TYPE OF SHARES",
+        "page": 71,
+        "id": 167,
+        "depth": 2
+    },
+    {
+        "text": "(i) Non-Certificated Shares",
+        "page": 71,
+        "id": 168,
+        "depth": 3
+    },
+    {
+        "text": "(ii) Certificated Shares",
+        "page": 71,
+        "id": 169,
+        "depth": 3
+    },
+    {
+        "text": "Share Certificates",
+        "page": 71,
+        "id": 170,
+        "depth": 4
+    },
+    {
+        "text": "D. DEALING TIMES",
+        "page": 72,
+        "id": 171,
+        "depth": 2
+    },
+    {
+        "text": "E. PROHIBITION OF MARKET TIMING",
+        "page": 73,
+        "id": 172,
+        "depth": 2
+    },
+    {
+        "text": "F. ANTI-MONEY LAUNDERING PROCEDURES",
+        "page": 73,
+        "id": 173,
+        "depth": 2
+    },
+    {
+        "text": "VII. SUBSCRIPTION FOR SHARES",
+        "page": 73,
+        "id": 174,
+        "depth": 1
+    },
+    {
+        "text": "A. PROCEDURE",
+        "page": 73,
+        "id": 175,
+        "depth": 2
+    },
+    {
+        "text": "Application Forms",
+        "page": 73,
+        "id": 176,
+        "depth": 3
+    },
+    {
+        "text": "Dealing Prices",
+        "page": 74,
+        "id": 177,
+        "depth": 3
+    },
+    {
+        "text": "Settlement",
+        "page": 74,
+        "id": 178,
+        "depth": 3
+    },
+    {
+        "text": "B. METHODS OF PAYMENT",
+        "page": 74,
+        "id": 179,
+        "depth": 2
+    },
+    {
+        "text": "Pluriannual Investment Plan",
+        "page": 74,
+        "id": 180,
+        "depth": 3
+    },
+    {
+        "text": "C. SUBSCRIPTION RESTRICTIONS",
+        "page": 75,
+        "id": 181,
+        "depth": 2
+    },
+    {
+        "text": "Suspension",
+        "page": 75,
+        "id": 182,
+        "depth": 3
+    },
+    {
+        "text": "Right to reject",
+        "page": 75,
+        "id": 183,
+        "depth": 3
+    },
+    {
+        "text": "United States Person",
+        "page": 75,
+        "id": 184,
+        "depth": 3
+    },
+    {
+        "text": "VIII. CONVERSION OF SHARES",
+        "page": 76,
+        "id": 185,
+        "depth": 1
+    },
+    {
+        "text": "A. PROCEDURE",
+        "page": 76,
+        "id": 186,
+        "depth": 2
+    },
+    {
+        "text": "B. GENERAL",
+        "page": 76,
+        "id": 187,
+        "depth": 2
+    },
+    {
+        "text": "IX. REDEMPTION OF SHARES",
+        "page": 76,
+        "id": 188,
+        "depth": 1
+    },
+    {
+        "text": "A. PROCEDURE",
+        "page": 76,
+        "id": 189,
+        "depth": 2
+    },
+    {
+        "text": "Non-Certificated Shares",
+        "page": 76,
+        "id": 190,
+        "depth": 3
+    },
+    {
+        "text": "Certificated Shares and Bearer Shares",
+        "page": 77,
+        "id": 191,
+        "depth": 3
+    },
+    {
+        "text": "B. GENERAL",
+        "page": 77,
+        "id": 192,
+        "depth": 2
+    },
+    {
+        "text": "X. PRICES OF SHARES",
+        "page": 77,
+        "id": 193,
+        "depth": 1
+    },
+    {
+        "text": "A. PRICES",
+        "page": 77,
+        "id": 194,
+        "depth": 2
+    },
+    {
+        "text": "B. PRICING INFORMATION",
+        "page": 77,
+        "id": 195,
+        "depth": 2
+    },
+    {
+        "text": "XI. DIVIDEND POLICY",
+        "page": 78,
+        "id": 196,
+        "depth": 1
+    },
+    {
+        "text": "Declaration of Dividends",
+        "page": 78,
+        "id": 197,
+        "depth": 2
+    },
+    {
+        "text": "Dividend payment and reinvestment",
+        "page": 78,
+        "id": 198,
+        "depth": 2
+    },
+    {
+        "text": "Equalisation",
+        "page": 78,
+        "id": 199,
+        "depth": 2
+    },
+    {
+        "text": "XII. CHARGES AND EXPENSES",
+        "page": 78,
+        "id": 200,
+        "depth": 1
+    },
+    {
+        "text": "A. DEALING CHARGES",
+        "page": 78,
+        "id": 201,
+        "depth": 2
+    },
+    {
+        "text": "Subscriptions and conversions",
+        "page": 78,
+        "id": 202,
+        "depth": 3
+    },
+    {
+        "text": "Redemptions",
+        "page": 78,
+        "id": 203,
+        "depth": 3
+    },
+    {
+        "text": "General",
+        "page": 78,
+        "id": 204,
+        "depth": 3
+    },
+    {
+        "text": "B. ANNUAL CHARGES",
+        "page": 78,
+        "id": 205,
+        "depth": 2
+    },
+    {
+        "text": "Administration Fee",
+        "page": 79,
+        "id": 206,
+        "depth": 3
+    },
+    {
+        "text": "Soft Commissions",
+        "page": 79,
+        "id": 207,
+        "depth": 3
+    },
+    {
+        "text": "XIII. DUTIES AND RESPONSIBILITIES OF MANAGEMENT AND ADMINISTRATION",
+        "page": 79,
+        "id": 208,
+        "depth": 1
+    },
+    {
+        "text": "A. THE MANAGEMENT COMPANY",
+        "page": 80,
+        "id": 209,
+        "depth": 2
+    },
+    {
+        "text": "The board of directors of the Management Company:",
+        "page": 80,
+        "id": 210,
+        "depth": 3
+    },
+    {
+        "text": "The Managers of the Management Company:",
+        "page": 80,
+        "id": 211,
+        "depth": 3
+    },
+    {
+        "text": "B. THE CUSTODIAN",
+        "page": 81,
+        "id": 212,
+        "depth": 2
+    },
+    {
+        "text": "Liability of the Custodian and competent Jurisdiction",
+        "page": 81,
+        "id": 213,
+        "depth": 3
+    },
+    {
+        "text": "C. THE ADMINISTRATIVE AGENT",
+        "page": 82,
+        "id": 214,
+        "depth": 2
+    },
+    {
+        "text": "D. THE INVESTMENT MANAGERS",
+        "page": 82,
+        "id": 215,
+        "depth": 2
+    },
+    {
+        "text": "Investment Managers",
+        "page": 82,
+        "id": 216,
+        "depth": 3
+    },
+    {
+        "text": "E. THE INVESTMENT SUB-MANAGERS",
+        "page": 83,
+        "id": 217,
+        "depth": 2
+    },
+    {
+        "text": "Investment Sub-Managers",
+        "page": 83,
+        "id": 218,
+        "depth": 3
+    },
+    {
+        "text": "F. NOMINEE",
+        "page": 83,
+        "id": 219,
+        "depth": 2
+    },
+    {
+        "text": "G. REPRESENTATIVE OF THE FUND",
+        "page": 83,
+        "id": 220,
+        "depth": 2
+    },
+    {
+        "text": "XIV. ACCOUNTING YEAR AND AUDIT",
+        "page": 83,
+        "id": 221,
+        "depth": 1
+    },
+    {
+        "text": "XV. GENERAL MEETING OF SHAREHOLDERS",
+        "page": 83,
+        "id": 222,
+        "depth": 1
+    },
+    {
+        "text": "XVI. REPORTS",
+        "page": 84,
+        "id": 223,
+        "depth": 1
+    },
+    {
+        "text": "XVII. DURATION AND LIQUIDATION OF THE FUND",
+        "page": 84,
+        "id": 224,
+        "depth": 1
+    },
+    {
+        "text": "XVIII. TAXATION",
+        "page": 84,
+        "id": 225,
+        "depth": 1
+    },
+    {
+        "text": "A. TAXATION OF FUND IN LUXEMBOURG",
+        "page": 84,
+        "id": 226,
+        "depth": 2
+    },
+    {
+        "text": "European Union Savings Tax Considerations",
+        "page": 84,
+        "id": 227,
+        "depth": 3
+    },
+    {
+        "text": "Taxe d’Abonnement",
+        "page": 85,
+        "id": 228,
+        "depth": 3
+    },
+    {
+        "text": "Other taxes",
+        "page": 85,
+        "id": 229,
+        "depth": 3
+    },
+    {
+        "text": "B. TAXATION OF SHAREHOLDERS IN LUXEMBOURG",
+        "page": 85,
+        "id": 230,
+        "depth": 2
+    },
+    {
+        "text": "Luxembourg",
+        "page": 85,
+        "id": 231,
+        "depth": 3
+    },
+    {
+        "text": "General",
+        "page": 85,
+        "id": 232,
+        "depth": 3
+    },
+    {
+        "text": "XIX. ADDITIONAL INFORMATION CONCERNING THE DISTRIBUTION OF THE FUND IN ITALY",
+        "page": 85,
+        "id": 233,
+        "depth": 1
+    },
+    {
+        "text": "XX. FURTHER INFORMATION",
+        "page": 85,
+        "id": 234,
+        "depth": 1
+    },
+    {
+        "text": "A. INVESTMENT POWERS AND LIMITATIONS",
+        "page": 86,
+        "id": 235,
+        "depth": 2
+    },
+    {
+        "text": "B. ADDITIONAL INVESTMENT RESTRICTIONS",
+        "page": 89,
+        "id": 236,
+        "depth": 2
+    },
+    {
+        "text": "1.1 General restriction",
+        "page": 90,
+        "id": 237,
+        "depth": 3
+    },
+    {
+        "text": "1.2 Restrictions applicable to the Sub-Fund Korea",
+        "page": 90,
+        "id": 238,
+        "depth": 3
+    },
+    {
+        "text": "1.3 Restrictions applicable to the Sub-Funds investing in P-Notes",
+        "page": 90,
+        "id": 239,
+        "depth": 3
+    },
+    {
+        "text": "1.4 Techniques and Instruments in relation to Transferable Securities and Money Market Instruments",
+        "page": 90,
+        "id": 240,
+        "depth": 3
+    },
+    {
+        "text": "1.5 When-Issued Securities and Delayed Delivery Transactions",
+        "page": 91,
+        "id": 241,
+        "depth": 3
+    },
+    {
+        "text": "1.6 N/A",
+        "page": 91,
+        "id": 242,
+        "depth": 3
+    },
+    {
+        "text": "C. SUB-FUNDS AND SHARES",
+        "page": 91,
+        "id": 243,
+        "depth": 2
+    },
+    {
+        "text": "1. Sub-Funds",
+        "page": 91,
+        "id": 244,
+        "depth": 3
+    },
+    {
+        "text": "2. Co-management",
+        "page": 92,
+        "id": 245,
+        "depth": 3
+    },
+    {
+        "text": "3. Shares",
+        "page": 93,
+        "id": 246,
+        "depth": 3
+    },
+    {
+        "text": "4. Conversions",
+        "page": 94,
+        "id": 247,
+        "depth": 3
+    },
+    {
+        "text": "5. Deferral of Redemptions",
+        "page": 94,
+        "id": 248,
+        "depth": 3
+    },
+    {
+        "text": "6. Transfers",
+        "page": 94,
+        "id": 249,
+        "depth": 3
+    },
+    {
+        "text": "7. Compulsory Redemptions Amalgamation of Sub-Funds",
+        "page": 95,
+        "id": 250,
+        "depth": 3
+    },
+    {
+        "text": "D. VALUATIONS",
+        "page": 95,
+        "id": 251,
+        "depth": 2
+    },
+    {
+        "text": "1. Net Asset Value Determination and Dealing Prices",
+        "page": 95,
+        "id": 252,
+        "depth": 3
+    },
+    {
+        "text": "2. Suspension of the Calculation of the Net Asset Value and Issue, Conversion and Redemption of Shares",
+        "page": 97,
+        "id": 253,
+        "depth": 3
+    },
+    {
+        "text": "E. GENERAL",
+        "page": 97,
+        "id": 254,
+        "depth": 2
+    },
+    {
+        "text": "XXI. DOCUMENTS AVAILABLE FOR INSPECTION",
+        "page": 97,
+        "id": 255,
+        "depth": 1
+    },
+    {
+        "text": "APPENDIX I : CLASSES OF SHARES",
+        "page": 99,
+        "id": 256,
+        "depth": 1
+    },
+    {
+        "text": "1. Classes of Shares",
+        "page": 99,
+        "id": 257,
+        "depth": 2
+    },
+    {
+        "text": "2. Class of Shares issued by Sub-Fund",
+        "page": 106,
+        "id": 258,
+        "depth": 2
+    },
+    {
+        "text": "APPENDIX II: PERFORMANCE FEE",
+        "page": 119,
+        "id": 259,
+        "depth": 1
+    },
+    {
+        "text": "1. Equities, Bonds and Volatility Equities Sub-Funds",
+        "page": 119,
+        "id": 260,
+        "depth": 2
+    },
+    {
+        "text": "Performance base :",
+        "page": 119,
+        "id": 261,
+        "depth": 3
+    },
+    {
+        "text": "Observation period",
+        "page": 120,
+        "id": 262,
+        "depth": 3
+    },
+    {
+        "text": "General",
+        "page": 120,
+        "id": 263,
+        "depth": 3
+    },
+    {
+        "text": "2. Emerging Markets Sub-Fund",
+        "page": 121,
+        "id": 264,
+        "depth": 2
+    },
+    {
+        "text": "3. Europe SRI Sub-Fund",
+        "page": 121,
+        "id": 265,
+        "depth": 2
+    },
+    {
+        "text": "Observation Period",
+        "page": 121,
+        "id": 266,
+        "depth": 3
+    },
+    {
+        "text": "Performance Objective",
+        "page": 121,
+        "id": 267,
+        "depth": 3
+    },
+    {
+        "text": "Performance Fee",
+        "page": 121,
+        "id": 268,
+        "depth": 3
+    },
+    {
+        "text": "4. Absolute Return Sub-Funds",
+        "page": 122,
+        "id": 269,
+        "depth": 2
+    },
+    {
+        "text": "Performance Base 1:",
+        "page": 122,
+        "id": 270,
+        "depth": 3
+    },
+    {
+        "text": "Performance Base 2:",
+        "page": 123,
+        "id": 271,
+        "depth": 3
+    },
+    {
+        "text": "General",
+        "page": 123,
+        "id": 272,
+        "depth": 3
+    },
+    {
+        "text": "5. LDI Sub-Funds",
+        "page": 123,
+        "id": 273,
+        "depth": 2
+    },
+    {
+        "text": "Observation period",
+        "page": 124,
+        "id": 274,
+        "depth": 3
+    },
+    {
+        "text": "Reference Performance",
+        "page": 124,
+        "id": 275,
+        "depth": 3
+    },
+    {
+        "text": "Outperformance:",
+        "page": 124,
+        "id": 276,
+        "depth": 3
+    },
+    {
+        "text": "High Water Mark",
+        "page": 124,
+        "id": 277,
+        "depth": 3
+    },
+    {
+        "text": "General",
+        "page": 125,
+        "id": 278,
+        "depth": 3
+    },
+    {
+        "text": "6. HK Class of the “Volatility World Equities” Sub-Fund",
+        "page": 125,
+        "id": 279,
+        "depth": 2
+    },
+    {
+        "text": "Observation period",
+        "page": 126,
+        "id": 280,
+        "depth": 3
+    },
+    {
+        "text": "Reference Performance",
+        "page": 126,
+        "id": 281,
+        "depth": 3
+    },
+    {
+        "text": "Outperformance:",
+        "page": 126,
+        "id": 282,
+        "depth": 3
+    },
+    {
+        "text": "High Water Mark",
+        "page": 126,
+        "id": 283,
+        "depth": 3
+    },
+    {
+        "text": "General",
+        "page": 126,
+        "id": 284,
+        "depth": 3
+    },
+    {
+        "text": "7. Multimanagers Long/Short Equity and Arbitrage VaR Short Term Sub-Funds",
+        "page": 126,
+        "id": 285,
+        "depth": 2
+    },
+    {
+        "text": "Observation Period",
+        "page": 126,
+        "id": 286,
+        "depth": 3
+    },
+    {
+        "text": "Performance Objective",
+        "page": 127,
+        "id": 287,
+        "depth": 3
+    },
+    {
+        "text": "Performance Fee",
+        "page": 127,
+        "id": 288,
+        "depth": 3
+    },
+    {
+        "text": "First Observation Period",
+        "page": 127,
+        "id": 289,
+        "depth": 3
+    },
+    {
+        "text": "APPENDIX III: INVESTMENT MANAGERS AND SUB-MANAGERS",
+        "page": 128,
+        "id": 290,
+        "depth": 1
+    },
+    {
+        "text": "1. Investment Managers and Sub-funds:",
+        "page": 128,
+        "id": 291,
+        "depth": 2
+    },
+    {
+        "text": "Amundi (new name of Crédit Agricole Asset Management as from 01.01.2010) (through its main establishment or its London branch, Amundi London Branch)",
+        "page": 128,
+        "id": 292,
+        "depth": 3
+    },
+    {
+        "text": "Crédit Agricole Asset Management Hong-Kong Ltd",
+        "page": 128,
+        "id": 293,
+        "depth": 3
+    },
+    {
+        "text": "Crédit Agricole Asset Management Japan Ltd",
+        "page": 128,
+        "id": 294,
+        "depth": 3
+    },
+    {
+        "text": "CPR Asset Management",
+        "page": 128,
+        "id": 295,
+        "depth": 3
+    },
+    {
+        "text": "Emerging Markets Management",
+        "page": 128,
+        "id": 296,
+        "depth": 3
+    },
+    {
+        "text": "Resona Bank Ltd",
+        "page": 128,
+        "id": 297,
+        "depth": 3
+    },
+    {
+        "text": "Amundi Investment Solutions (new name of Crédit Agricole Structured Asset Management as from 01.01.2010)",
+        "page": 129,
+        "id": 298,
+        "depth": 3
+    },
+    {
+        "text": "2. Investment Sub-Managers and Sub-Funds",
+        "page": 129,
+        "id": 299,
+        "depth": 2
+    },
+    {
+        "text": "Crédit Agricole Asset Management Hong-Kong Ltd has delegated the management of the following Sub- Funds to Crédit Agricole Asset Management Singapore Ltd",
+        "page": 129,
+        "id": 300,
+        "depth": 3
+    },
+    {
+        "text": "Crédit Agricole Asset Management has delegated the management of the following Sub-Fund to Victory Capital Management Inc.",
+        "page": 129,
+        "id": 301,
+        "depth": 3
+    }
+]
